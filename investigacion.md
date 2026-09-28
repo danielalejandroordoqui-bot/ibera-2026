@@ -16,6 +16,66 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 
 ---
 
+## 0. Packs simulados (28/9/2026)
+
+Seis combinaciones armadas con todo lo relevado: transporte (avión, micro, auto automático, transfer) + hospedaje + entrada al Parque. **Totales para los dos.** Se muestran con las dos posadas de referencia: **Ecoposada** (la más barata con pensión completa; tarifa de feriado a confirmar) e **Iberá Lodge** (la que ya confirmó lugar). Dólar blue de referencia ~$1.535.
+
+### Supuestos (leer antes de mirar los números)
+- **Transfer Mercedes ↔ Pellegrini:** $170.000 por tramo (precio real de Ñandé Retá). Los choferes que recomiendan otras posadas pueden cobrar distinto.
+- **Transfers largos (Corrientes, Resistencia, Posadas):** **ESTIMADOS** con la misma tarifa por km que Ñandé Retá (~$1.417/km): Posadas ~250 km → ~$354.000 por tramo; aeropuerto de Corrientes ~370 km → ~$524.000; Resistencia ~390 km → ~$552.000. **Nadie los cotizó todavía.**
+- **Micro:** Flechabus Retiro ↔ Mercedes desde $51.500 por persona por tramo (precio de referencia de julio 2026; sale ~21-21:30, llega ~6 h; horario de vuelta a confirmar).
+- **Auto automático:** Resistencia Avis Yaris AT US$299 (4 días); Corrientes Budget Yaris AT US$368 (5 días, porque se devuelve más tarde que la hora de retiro). Nafta estimada con el cálculo de Ruta0 (~$77.000 para 356 km). El auto queda estacionado en Mercedes y el último tramo se hace en 4x4 (el ripio con lluvia es solo para 4x4).
+- **Tiempos:** Corrientes → Mercedes 238-246 km, ~3-3,5 h por asfalto · Mercedes → Pellegrini 120 km, ~2 h · Posadas → Pellegrini 200-250 km, ~3 h 15 min a 4 h 40 min, con la **RP 41 recomendada solo de día**.
+- **Parque Provincial:** $46.000 los dos. **No incluye** bebidas, comidas en ruta, peajes ni estacionamiento en Mercedes.
+
+### Resumen
+
+| Pack | Noches | Licencia | Llegada a Pellegrini | Días aprovechables | Transporte (pareja) | Total con Ecoposada | Total con Iberá Lodge |
+|---|---|---|---|---|---|---|---|
+| **P1 · Micro nocturno + 4x4** | 3 (sáb 7 → mar 10) | no | sáb ~11:30 | sáb + dom + lun + mar mañana | **$546.000 ≈ US$356** | **$1.772.000 ≈ US$1.154** | $2.092.000 ≈ US$1.363 |
+| P1 · variante 4 noches | 4 (sáb 7 → mié 11) | mié 11 | sáb ~11:30 | + miércoles | $546.000 ≈ US$356 | $2.152.000 ≈ US$1.402 | $2.652.000 ≈ US$1.728 |
+| **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.468.000 ≈ US$956 | $2.694.000 ≈ US$1.755 | $3.014.000 ≈ US$1.963 |
+| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | ~$1.661.000 ≈ US$1.082 (transfer estimado) | ~$2.887.000 ≈ US$1.881 | ~$3.207.000 ≈ US$2.089 |
+| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | ~$1.201.000 ≈ US$782 (transfer estimado) | ~$2.427.000 ≈ US$1.581 | ~$2.747.000 ≈ US$1.789 |
+| **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
+
+### Detalle de cada pack
+
+**P1 · Micro nocturno + 4x4 desde Mercedes (el más barato y el que más tiempo da)**
+- **Vie 6, ~21:30:** Flechabus desde Retiro, después del trabajo.
+- **Sáb 7, ~6 h:** llegada a Mercedes, desayuno ahí (lo sugiere Rancho de los Esteros) → 9:30 transfer 4x4 (2 h) → **~11:30 en Pellegrini**, a tiempo para el almuerzo incluido.
+- **Sáb tarde, dom y lun:** excursiones. **Mar 10:** actividad a la mañana, check-out 10 h, transfer a Mercedes y micro de noche → **mié 11 ~6-7 h en Retiro** y a trabajar.
+- ✅ Casi 3 días completos con solo 3 noches pagas, sin licencia, sin manejar. ✅ No depende de aviones.
+- ⚠️ Dos noches en micro y se vuelve directo al trabajo. Horario de vuelta del micro a confirmar. En finde largo, comprar pasajes pronto.
+
+**P2 · Avión temprano a Resistencia + auto automático hasta Mercedes + 4x4**
+- **Sáb 7:** Aerolíneas 7:30 → Resistencia 9:05 → retiro del auto → ~3,5 h de asfalto hasta Mercedes → se deja el auto estacionado → transfer 4x4 (2 h) → **~15:30 en Pellegrini**.
+- **Mar 10:** transfer 11 h → Mercedes 13 h → auto → Resistencia ~16:30 → devolución → vuelo JetSMART 18:48 o Aerolíneas 20:20.
+- ✅ Sábado a la tarde aprovechable, sin licencia. ⚠️ ~7 h de manejo en total; el auto queda 3 días parado en Mercedes (coordinar estacionamiento con el transfer); nafta y peajes aparte.
+
+**P3 · Avión temprano a Resistencia + transfer directo**
+- Igual que P2 pero sin manejar: transfer de ~5-6 h desde el aeropuerto. **El precio del transfer es estimado:** si alguien lo cotiza más barato, este pack pasa a ser muy competitivo.
+
+**P4 · JetSMART a Posadas + transfer**
+- **Sáb 7:** 16:07 → Posadas 17:43 → transfer ~4 h → **llegada ~22-23 h**, haciendo la RP 41 de noche, que no se recomienda. **Mar 10:** salir ~12 h → Posadas → JetSMART 18:16.
+- ⚠️ Pierde el sábado entero y el camino de noche es el principal riesgo. Solo tiene sentido si el transfer resulta barato y el chofer está acostumbrado a ese camino.
+
+**P5 · Avión 8:45 a Corrientes + auto automático hasta Mercedes + 4x4 (4 noches)**
+- **Sáb 7:** Aerolíneas 8:45 → Corrientes 10:20 → auto → Mercedes ~13:45 → transfer → **~16 h en Pellegrini**.
+- **Dom, lun, mar:** completos. **Mié 11:** transfer 10:30 → Mercedes 12:30 → Corrientes ~16 h → vuelo 18:05.
+- ✅ El más completo en días (3 enteros + dos medias jornadas). ⚠️ El más caro y requiere licencia el miércoles. Solo funciona con 4 noches: el martes 10 no hay vuelta de Aerolíneas desde Corrientes.
+
+### Lectura
+- **Mejor relación costo/tiempo: P1 (micro nocturno), 3 noches.** Por ~US$1.150 con Ecoposada tienen casi 3 días en Iberá sin licencia. El costo es cansancio: dos noches en micro.
+- **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$600-700 más que P1 con la misma posada.
+- **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
+- **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
+- **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4) y la tarifa de feriado de Ecoposada.
+
+Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
+
+---
+
 ## 1. Fechas, feriados y licencias
 
 La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraordinarios, oficializados por el **Decreto 1103/2026** (Boletín Oficial del 28/9/2026). Los tres días son "feriado" pleno, no "día no laborable": alcanzan también a los empleados privados.
