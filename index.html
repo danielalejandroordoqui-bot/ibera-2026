@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iberá Noviembre 2026</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐊</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f4f1e8; --panel:#fffdf7; --panel-2:#ece7d8; --line:#d9d2bf;
+    --ink:#1f2a22; --ink-dim:#56645a; --ink-faint:#8a948c;
+    --green:#2f6b4a; --green-soft:#dcebe0; --amber:#b86e12; --amber-soft:#f6e6cc;
+    --red:#b23a2e; --red-soft:#f5dcd8; --blue:#2d6179; --blue-soft:#d9e8ef;
+    --radius:10px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#141a16; --panel:#1b231e; --panel-2:#232d27; --line:#34413a;
+      --ink:#e9efe9; --ink-dim:#a6b3aa; --ink-faint:#6f7c73;
+      --green:#7cc79a; --green-soft:#223a2c; --amber:#e8a854; --amber-soft:#3b2d18;
+      --red:#ef8a7e; --red-soft:#3d2320; --blue:#7fb6cf; --blue-soft:#1d3440;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#141a16; --panel:#1b231e; --panel-2:#232d27; --line:#34413a;
+    --ink:#e9efe9; --ink-dim:#a6b3aa; --ink-faint:#6f7c73;
+    --green:#7cc79a; --green-soft:#223a2c; --amber:#e8a854; --amber-soft:#3b2d18;
+    --red:#ef8a7e; --red-soft:#3d2320; --blue:#7fb6cf; --blue-soft:#1d3440;
+  }
+  *,*::before,*::after{box-sizing:border-box}
+  html{background:var(--bg)}
+  @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+  :where([id]){scroll-margin-top:70px}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  a{color:var(--green)}
+  h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.2;margin:0}
+  .wrap{max-width:1000px;margin:0 auto;padding:0 16px}
+
+  header.hero{padding:40px 0 28px;border-bottom:1px solid var(--line)}
+  .kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;color:var(--amber);font-weight:600}
+  .hero h1{font-size:clamp(30px,6vw,46px);margin:6px 0 10px}
+  .hero p{color:var(--ink-dim);max-width:680px;margin:0}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+  .chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:13px}
+  .chip b{color:var(--green)}
+
+  nav.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+  nav.top .wrap{display:flex;flex-wrap:wrap;gap:4px 14px;padding-top:10px;padding-bottom:10px}
+  nav.top a{color:var(--ink-dim);text-decoration:none;font-size:14px;font-weight:500}
+  nav.top a:hover{color:var(--green)}
+
+  section{padding:36px 0 8px}
+  section > h2{font-size:26px;margin-bottom:6px}
+  .lead{color:var(--ink-dim);margin:0 0 18px}
+  h3{font-size:18px;margin:22px 0 10px}
+
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
+  .grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr))}
+
+  .note{border-left:4px solid var(--amber);background:var(--amber-soft);padding:10px 14px;border-radius:6px;margin:12px 0;font-size:14px}
+  .note.red{border-color:var(--red);background:var(--red-soft)}
+  .note.green{border-color:var(--green);background:var(--green-soft)}
+  .note.blue{border-color:var(--blue);background:var(--blue-soft)}
+
+  .tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel)}
+  table{border-collapse:collapse;width:100%;min-width:640px;font-size:14px}
+  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:var(--panel-2);font-weight:600;font-size:13px;color:var(--ink-dim);white-space:nowrap}
+  tr:last-child td{border-bottom:0}
+  td.num{white-space:nowrap}
+  .best{color:var(--green);font-weight:600}
+  .muted{color:var(--ink-faint)}
+  .dates{display:block;font-size:12px;color:var(--ink-dim)}
+  .usd{font-weight:600}
+
+  .tag{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;white-space:nowrap}
+  .ok{background:var(--green-soft);color:var(--green)}
+  .warn{background:var(--amber-soft);color:var(--amber)}
+  .no{background:var(--red-soft);color:var(--red)}
+  .info{background:var(--blue-soft);color:var(--blue)}
+
+  /* calendario */
+  .cal{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}
+  .day{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 8px;text-align:center;font-size:13px}
+  .day .d{font-family:Fraunces,serif;font-size:22px;display:block}
+  .day.free{background:var(--green-soft);border-color:transparent}
+  .day.lic{background:var(--amber-soft);border-color:transparent}
+  .day.work{background:var(--panel-2)}
+  .day small{display:block;color:var(--ink-dim);font-size:11px;line-height:1.3;margin-top:4px}
+  @media (max-width:560px){.cal{grid-template-columns:repeat(3,1fr)}}
+
+  /* tabs 4 vs 3 noches */
+  .tabs{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;margin-bottom:12px}
+  .tabs button{font:inherit;font-size:14px;border:0;background:var(--panel);color:var(--ink-dim);padding:7px 16px;cursor:pointer}
+  .tabs button[aria-pressed="true"]{background:var(--green);color:var(--bg);font-weight:600}
+  [data-panel][hidden]{display:none}
+
+  /* posadas */
+  .lodge h3{margin:0 0 4px}
+  .lodge .sub{font-size:13px;color:var(--ink-dim);margin-bottom:10px}
+  .lodge ul{margin:8px 0 0;padding-left:18px}
+  .lodge li{margin:3px 0}
+  .prices{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+  .price{background:var(--panel-2);border-radius:8px;padding:6px 10px;font-size:13px}
+  .price b{display:block;font-size:16px}
+  details{margin-top:10px}
+  summary{cursor:pointer;color:var(--green);font-weight:600;font-size:14px}
+
+  .todo li{margin:6px 0}
+  footer{padding:40px 0;color:var(--ink-faint);font-size:13px;border-top:1px solid var(--line);margin-top:40px}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">Esteros del Iberá · Colonia Carlos Pellegrini</div>
+    <h1>Iberá, finde largo de noviembre</h1>
+    <p>Todo lo cotizado para el fin de semana largo de la visita del Papa: fechas, vuelos, traslados y la comparación de posadas con pensión completa y excursiones. Actualizado al 28/9/2026.</p>
+    <div class="chips">
+      <span class="chip">📅 <b>4 noches</b> sáb 7 → mié 11 · o <b>3 noches</b> sáb 7 → mar 10</span>
+      <span class="chip">✈️ Avión + transfer, sin manejar</span>
+      <span class="chip">🏡 8 posadas consultadas · 6 con precio</span>
+      <span class="chip">⏳ Nada reservado todavía</span>
+    </div>
+  </div>
+</header>
+
+<nav class="top" aria-label="Secciones">
+  <div class="wrap">
+    <a href="#fechas">Fechas</a>
+    <a href="#hospedajes">Hospedajes</a>
+    <a href="#pago">Pago</a>
+    <a href="#vuelos">Vuelos</a>
+    <a href="#traslados">Traslados</a>
+    <a href="#fichas">Fichas</a>
+    <a href="#temporada">Temporada</a>
+    <a href="#extras">Extras y valija</a>
+    <a href="#pendientes">Pendientes</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- FECHAS -->
+<section id="fechas">
+  <h2>Fechas y feriados</h2>
+  <p class="lead">Feriados por la visita del papa León XIV, oficializados por el Decreto 1103/2026. Los dos trabajan en CABA.</p>
+  <div class="cal">
+    <div class="day free"><span class="d">7</span>sáb<small>fin de semana</small></div>
+    <div class="day free"><span class="d">8</span>dom<small>misa del Papa en Palermo</small></div>
+    <div class="day free"><span class="d">9</span>lun<small>feriado nacional</small></div>
+    <div class="day free"><span class="d">10</span>mar<small>feriado en CABA</small></div>
+    <div class="day lic"><span class="d">11</span>mié<small>hábil en CABA → licencia</small></div>
+    <div class="day work"><span class="d">12</span>jue<small>vuelta al trabajo</small></div>
+  </div>
+  <div class="grid" style="margin-top:14px">
+    <div class="card"><span class="tag ok">Sin licencia</span><h3 style="margin:8px 0 4px">3 noches · sáb 7 → mar 10</h3><p class="muted" style="margin:0">El miércoles 11 queda libre de colchón.</p></div>
+    <div class="card"><span class="tag warn">Licencia el mié 11</span><h3 style="margin:8px 0 4px">4 noches · sáb 7 → mié 11</h3><p class="muted" style="margin:0">Los dos piden el miércoles 11.</p></div>
+    <div class="card"><span class="tag no">La peor</span><h3 style="margin:8px 0 4px">3 noches · dom 8 → mié 11</h3><p class="muted" style="margin:0">Viajar el día de la misa del Papa, perder el sábado y pedir licencia igual.</p></div>
+  </div>
+</section>
+
+<!-- HOSPEDAJES -->
+<section id="hospedajes">
+  <h2>Hospedajes: comparación</h2>
+  <p class="lead">Total para 2 personas, sin transfer. Pensión completa salvo aclaración; ninguna incluye bebidas ni la entrada al Parque Provincial. US$ al blue de referencia (~$1.535).</p>
+
+  <div class="tabs" role="group" aria-label="Cantidad de noches">
+    <button type="button" data-show="n4" aria-pressed="true">4 noches</button>
+    <button type="button" data-show="n3" aria-pressed="false">3 noches</button>
+  </div>
+
+  <div data-panel="n4">
+    <div class="tbl"><table>
+      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd best">≈ US$1.016</span><span class="dates">$1.560.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa, cabalgata, safari nocturno</td><td>tarifa de feriado distinta + impuestos aparte</td></tr>
+        <tr><td><b>Rancho de los Esteros</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.199</span><span class="dates">$1.840.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>solo si se cae el grupo; sin tarjeta</td></tr>
+        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.342</span><span class="dates">~$2.060.000 (estimado)</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>4ª noche a confirmar</td></tr>
+        <tr><td><b>Posada de la Laguna</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.511</span><span class="dates">$2.320.000</span></td><td><span class="tag ok">sí</span></td><td>3 lanchas, canoa, caminatas en ambos parques</td><td>3 cuotas sin interés</td></tr>
+        <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.851</span><span class="dates">~$2.841.000 con IVA</span></td><td><span class="tag ok">sí, última habitación</span></td><td>5 a elección</td><td>transfer Mercedes $170.000/tramo</td></tr>
+        <tr><td><b>Rincón del Socorro</b></td><td class="muted">—</td><td class="muted">—</td><td><span class="tag no">no</span></td><td class="muted">—</td><td>solo tiene del 8 al 11</td></tr>
+        <tr><td>Posada Rancho Iberá</td><td class="muted">—</td><td class="muted">pendiente</td><td><span class="tag info">?</span></td><td>desayuno + excursiones, <b>sin pensión completa</b></td><td></td></tr>
+        <tr><td>El Paso Iberá</td><td class="muted">—</td><td class="muted">sin respuesta</td><td><span class="tag info">?</span></td><td class="muted">—</td><td></td></tr>
+      </tbody>
+    </table></div>
+  </div>
+
+  <div data-panel="n3" hidden>
+    <div class="tbl"><table>
+      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd best">≈ US$769</span><span class="dates">$1.180.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa</td><td>tarifa de feriado distinta + impuestos aparte</td></tr>
+        <tr><td><b>Rancho de los Esteros</b></td><td class="num">dom 8 → mié 11<span class="dates">o sáb 7 → mar 10 si se cae el grupo</span></td><td class="num"><span class="usd">≈ US$899</span><span class="dates">$1.380.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>del 8 en adelante, seguro</td></tr>
+        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$977</span><span class="dates">$1.500.000</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>paquete promocional</td></tr>
+        <tr><td><b>Rincón del Socorro</b></td><td class="num">dom 8 → mié 11</td><td class="num"><span class="usd">≈ US$2.228</span><span class="dates">$3.420.000</span></td><td><span class="tag no">no</span></td><td>2 por día</td><td>el más caro</td></tr>
+        <tr><td>Posada de la Laguna</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag ok">sí</span></td><td class="muted">—</td><td></td></tr>
+        <tr><td>Ñandé Retá Lodge</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag ok">sí</span></td><td class="muted">—</td><td></td></tr>
+        <tr><td>Posada Rancho Iberá</td><td class="muted">—</td><td class="muted">pendiente</td><td><span class="tag info">?</span></td><td>sin pensión completa</td><td></td></tr>
+        <tr><td>El Paso Iberá</td><td class="muted">—</td><td class="muted">sin respuesta</td><td><span class="tag info">?</span></td><td class="muted">—</td><td></td></tr>
+      </tbody>
+    </table></div>
+    <div class="note">Las opciones que arrancan el domingo 8 obligan a viajar el día de la misa del Papa y a pedir licencia el miércoles 11.</div>
+  </div>
+</section>
+
+<!-- PAGO -->
+<section id="pago">
+  <h2>Formas de pago</h2>
+  <p class="lead">Consultado a todas el 28/9 a las 18:05, para 3 y para 4 noches.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Posada</th><th>Qué se sabe</th></tr></thead>
+    <tbody>
+      <tr><td><b>Ecoposada del Estero</b></td><td>Efectivo, transferencia o tarjeta de crédito. Seña no reembolsable, pero se mantiene para otra fecha.</td></tr>
+      <tr><td><b>Rancho de los Esteros</b></td><td>Seña 20% por depósito; saldo al llegar en efectivo o transferencia. <b>No acepta tarjetas.</b> Sin gastos de cancelación hasta 30 días antes. La seña no congela el precio.</td></tr>
+      <tr><td><b>Posada de la Laguna</b></td><td>40% de seña y saldo 10 días antes, <b>o 3 cuotas sin interés con Visa o Mastercard</b>.</td></tr>
+      <tr><td>Iberá Lodge</td><td><span class="tag info">consultado 28/9</span></td></tr>
+      <tr><td>Ñandé Retá Lodge</td><td><span class="tag info">consultado 28/9</span></td></tr>
+      <tr><td>Rincón del Socorro</td><td><span class="tag info">consultado 28/9</span></td></tr>
+      <tr><td>Posada Rancho Iberá</td><td><span class="tag info">consultado 28/9</span></td></tr>
+      <tr><td>El Paso Iberá</td><td><span class="tag info">consultado 28/9</span></td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- VUELOS -->
+<section id="vuelos">
+  <h2>Vuelos directos con carry-on</h2>
+  <p class="lead">Google Flights, 28/9. Precio por persona, ida y vuelta, con 1 carry-on; entre paréntesis, la pareja. Posadas es el aeropuerto más cercano a Pellegrini; Resistencia está a ~20 km de Corrientes. Nada comprado.</p>
+
+  <div class="tabs" role="group" aria-label="Cantidad de noches para vuelos">
+    <button type="button" data-show="v4" aria-pressed="true">4 noches · vuelta mié 11</button>
+    <button type="button" data-show="v3" aria-pressed="false">3 noches · vuelta mar 10</button>
+  </div>
+
+  <div data-panel="v4">
+    <div class="tbl"><table>
+      <thead><tr><th>Destino</th><th>Aerolínea</th><th>Ida sáb 7</th><th>Vuelta mié 11</th><th>Por persona</th></tr></thead>
+      <tbody>
+        <tr><td>Resistencia</td><td>JetSMART</td><td>16:35 → 18:08</td><td>17:51 → 19:20</td><td class="num best">$210.354 <span class="dates">(≈ $420.700 · US$274)</span></td></tr>
+        <tr><td>Resistencia</td><td>Aerolíneas</td><td>14:45 → 16:20</td><td>la más barata</td><td class="num">$247.932</td></tr>
+        <tr><td>Resistencia</td><td>Aerolíneas</td><td>7:30 → 9:05</td><td>la más barata</td><td class="num">$286.257</td></tr>
+        <tr><td>Posadas</td><td>JetSMART</td><td>16:07 → 17:43</td><td>18:16 → 19:51</td><td class="num best">$260.005 <span class="dates">(≈ $520.000 · US$339)</span></td></tr>
+        <tr><td>Posadas</td><td>Aerolíneas</td><td>16:00 → 17:40</td><td>la más barata</td><td class="num">$437.188</td></tr>
+        <tr><td>Posadas</td><td>Aerolíneas</td><td>9:35 → 11:15</td><td>la más barata</td><td class="num">$641.974</td></tr>
+        <tr><td>Corrientes</td><td>Aerolíneas</td><td>8:45 → 10:20 <span class="dates">o 16:00 → 17:35</span></td><td>18:05 → 19:35</td><td class="num best">$285.063 <span class="dates">(≈ $570.100 · US$371)</span></td></tr>
+        <tr><td>Corrientes</td><td>Aerolíneas</td><td>8:45 → 10:20</td><td>10:50 → 12:20</td><td class="num">$402.275</td></tr>
+      </tbody>
+    </table></div>
+    <div class="note">Vuelta del miércoles desde Resistencia a las 20:20: <b>aterriza en Ezeiza</b>, no en Aeroparque.</div>
+  </div>
+
+  <div data-panel="v3" hidden>
+    <div class="tbl"><table>
+      <thead><tr><th>Destino</th><th>Aerolínea</th><th>Ida sáb 7</th><th>Vueltas del mar 10</th><th>Por persona</th></tr></thead>
+      <tbody>
+        <tr><td>Resistencia</td><td>JetSMART</td><td>16:35 → 18:08</td><td>18:48 → 20:17</td><td class="num best">$216.070 <span class="dates">(≈ $432.100 · US$282)</span></td></tr>
+        <tr><td>Resistencia</td><td>Aerolíneas</td><td>14:45 → 16:20</td><td>20:20 → 21:50 · 15:35 → 17:05 · 7:35 → 9:05</td><td class="num">$239.844</td></tr>
+        <tr><td>Resistencia</td><td>Aerolíneas</td><td>7:30 → 9:05</td><td>ídem</td><td class="num">$278.168</td></tr>
+        <tr><td>Posadas</td><td>JetSMART</td><td>16:07 → 17:43</td><td>18:16 → 19:51</td><td class="num best">$246.268 <span class="dates">(≈ $492.500 · US$321)</span></td></tr>
+        <tr><td>Posadas</td><td>Aerolíneas</td><td>16:00 → 17:40</td><td>10:35 · 14:25 · 21:45 (llega a Ezeiza)</td><td class="num">$471.802</td></tr>
+        <tr><td>Corrientes</td><td colspan="4"><span class="tag no">sin combinación</span> El martes 10 no vuelve Aerolíneas ni JetSMART desde Corrientes; solo Flybondi (16:15 y 18:05, sin precio).</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+
+  <div class="grid" style="margin-top:14px">
+    <div class="card"><span class="tag ok">Más barato</span><p style="margin:8px 0 0">JetSMART a <b>Resistencia</b>. Llega 18:08: con el transfer se llega a Pellegrini de noche.</p></div>
+    <div class="card"><span class="tag info">Más cerca</span><p style="margin:8px 0 0"><b>Posadas</b>, con JetSMART. Es el aeropuerto que recomiendan las posadas.</p></div>
+    <div class="card"><span class="tag warn">Mejor horario</span><p style="margin:8px 0 0">Aerolíneas a <b>Corrientes</b> 8:45: transfer con luz de día. Solo sirve para 4 noches.</p></div>
+  </div>
+  <p class="muted" style="font-size:13px">Flybondi también vuela directo a Corrientes y Posadas, pero sin precio visible y con tarifa base sin carry-on.</p>
+</section>
+
+<!-- TRASLADOS -->
+<section id="traslados">
+  <h2>Traslados</h2>
+  <p class="lead">Ninguna posada incluye el transfer en el precio.</p>
+  <div class="grid">
+    <div class="card">
+      <span class="tag ok">Único precio concreto</span>
+      <h3 style="margin:8px 0 4px">Desde Mercedes · 2 h</h3>
+      <p style="margin:0">4x4 privada de Ñandé Retá: <b>$170.000 por tramo</b> por camioneta (hasta 4). Ida y vuelta $340.000 (≈ US$221).</p>
+      <details><summary>Choferes recomendados</summary>
+        <ul>
+          <li>Norma Pelozo · 3773-43 7847 (recomendada)</li>
+          <li>Víctor Flores · +54 9 3773 46-3857</li>
+          <li>Daniel Aguirre · +54 9 3773 62-7687</li>
+          <li>Martín Sandoval · +54 9 3773 52-8283</li>
+          <li>Rafael Muzio · 3773 413081</li>
+          <li>Combi de Daniel Ortiz · 03773 15431469</li>
+        </ul>
+      </details>
+    </div>
+    <div class="card">
+      <span class="tag warn">Sin precio</span>
+      <h3 style="margin:8px 0 4px">Desde el aeropuerto de Posadas · 210-250 km</h3>
+      <p style="margin:0">Camioneta para 4. Recomiendan averiguar el costo antes de sacar los pasajes.</p>
+      <details><summary>Choferes recomendados</summary>
+        <ul>
+          <li>Oscar Díaz · 3764 549 520 / 3754-405533</li>
+          <li>Roberto Zimmerly · 3764-690457</li>
+          <li>Gustavo Prion · 3764-530631</li>
+        </ul>
+      </details>
+    </div>
+    <div class="card">
+      <span class="tag info">Alternativas</span>
+      <h3 style="margin:8px 0 4px">Colectivos</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>Flechabus</b> Retiro ~21 h → Mercedes ~6 h.</li>
+        <li><b>Iberá Bus</b> Mercedes → Pellegrini: lun, mié y vie a las 12 h. No sirve para llegar un sábado.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note red"><b>Camino:</b> desde Mercedes, ~50 km de asfalto y ~70 de ripio; desde Posadas, tierra y arena en mal estado. <b>Con lluvia, solo 4x4.</b> Por eso conviene el transfer.</div>
+
+  <details class="card" style="margin-top:12px">
+    <summary>Plan B: auto de alquiler automático (total 4 días, USD)</summary>
+    <div class="tbl" style="margin-top:10px"><table>
+      <thead><tr><th>Aeropuerto</th><th>Opciones automáticas</th></tr></thead>
+      <tbody>
+        <tr><td>Posadas</td><td><b>Budget compacto US$263</b> · Avis compacto US$280 · Budget Yaris US$291 · Avis Yaris US$311-323 · Avis Etios US$366</td></tr>
+        <tr><td>Resistencia</td><td><b>Avis Yaris US$299</b> · Budget compacto US$308 · Budget Yaris US$311 · Avis compacto US$327 · Avis Etios US$391</td></tr>
+        <tr><td>Corrientes</td><td><b>Avis Yaris US$344</b> devolviendo antes de las 11:00 (si no, cobran 5 días, desde US$368) · Avis Etios US$391</td></tr>
+        <tr><td>Locales</td><td>Lorient (Corrientes y Resistencia, +54 9 362 469-1354): sedán automático desde $96.300/día (≈ US$251) y pickup automática desde $166.500/día (≈ US$434, a confirmar si es 4x4) · TODO Rent a Car +54 9 362 529-2128 · Wonder (Posadas) +54 9 3757 43-1299</td></tr>
+      </tbody>
+    </table></div>
+    <p class="muted" style="font-size:13px">Ningún comparador ofrece SUV ni 4x4. Fuentes: Kayak y EconomyBookings, 28/9.</p>
+  </details>
+</section>
+
+<!-- FICHAS -->
+<section id="fichas">
+  <h2>Qué ofrece cada posada</h2>
+  <p class="lead">Detalle de cada respuesta. Todas en Colonia Carlos Pellegrini.</p>
+  <div class="grid">
+
+    <article class="card lodge">
+      <h3>Ecoposada del Estero</h3>
+      <div class="sub">Estrella · <a href="https://wa.me/5493773443602">+54 9 3773 44-3602</a> · <a href="https://ecoposada.com/">ecoposada.com</a></div>
+      <div class="prices"><div class="price">3 noches<b>≈ US$769</b>$590.000 c/u</div><div class="price">4 noches<b>≈ US$1.016</b>$780.000 c/u</div></div>
+      <span class="tag warn">disponibilidad a confirmar</span>
+      <ul>
+        <li><b>3 noches:</b> lancha por la laguna, trekking por la selva en galería, visita guiada al Parque Nacional y kayak o canoa a botador en su reserva privada Camba Trapo.</li>
+        <li><b>4 noches:</b> suma cabalgata por palmares y safari nocturno.</li>
+        <li>8 habitaciones de barro con aire acondicionado, deck y hamaca; pileta; observatorio sobre el estero; wifi Starlink.</li>
+        <li>Tarifas <b>no vigentes en feriados</b> y <b>sin impuestos</b>: pedir el precio de este finde.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Rancho de los Esteros</h3>
+      <div class="sub">Maita · <a href="https://wa.me/5493773561944">+54 9 3773 56-1944</a> · <a href="https://ranchodelosesteros.com.ar/">ranchodelosesteros.com.ar</a></div>
+      <div class="prices"><div class="price">3 noches<b>≈ US$899</b>$1.380.000</div><div class="price">4 noches<b>≈ US$1.199</b>$1.840.000</div></div>
+      <span class="tag warn">grupo prebloqueado 5-8/11</span>
+      <ul>
+        <li>$460.000 por día para 2: desayuno, almuerzo, cena y <b>1 excursión por persona por día</b> (lancha, canoa, caminata por la selva, caminata por el pueblo, cabalgata o bici).</li>
+        <li>Programa armado con ellos, sin cronograma fijo.</li>
+        <li><b>No señar hasta que el grupo confirme</b> (esta semana). Del 8 en adelante, libre.</li>
+        <li>4 habitaciones en dos módulos separados. Check-in 12, 15 o 18 h; check-out 10 h.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Iberá Lodge</h3>
+      <div class="sub">Geraldine · +54 379 401-8738 · reservas@iberalodge.com</div>
+      <div class="prices"><div class="price">3 noches<b>≈ US$977</b>$750.000 c/u</div><div class="price">4 noches<b>≈ US$1.342</b>estimado</div></div>
+      <span class="tag ok">con disponibilidad</span>
+      <ul>
+        <li>Pensión completa, charla con guías, trekking interpretativo, navegación con safari fotográfico, navegación al atardecer y cabalgata por los bañados.</li>
+        <li>Noche extra $280.000 por adulto (4ª noche a confirmar).</li>
+        <li>Pileta, solárium y sala de juegos.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Posada de la Laguna</h3>
+      <div class="sub">Milagros · WhatsApp</div>
+      <div class="prices"><div class="price">4 noches<b>≈ US$1.511</b>$2.320.000</div></div>
+      <span class="tag ok">con disponibilidad</span>
+      <ul>
+        <li>Pensión completa con merienda y comida casera.</li>
+        <li><b>3 lanchas</b> (canal Corriente, río Miriñay, Paso Claro), <b>1 canoa</b> por la laguna y caminatas por los dos parques.</li>
+        <li>Jardín con muelle propio sobre la laguna.</li>
+        <li>3 cuotas sin interés con Visa o Mastercard.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Ñandé Retá Lodge</h3>
+      <div class="sub">Lucía · <a href="https://wa.me/5491168527885">+54 9 11 6852-7885</a> · <a href="https://www.nandereta.com/">nandereta.com</a></div>
+      <div class="prices"><div class="price">4 noches<b>≈ US$1.851</b>$1.174.000 + IVA c/u</div></div>
+      <span class="tag ok">última habitación</span>
+      <ul>
+        <li>Pensión completa con merienda (entrada, principal y postre).</li>
+        <li><b>5 excursiones a elección:</b> lancha por el Miriñay, lancha por el Corriente, caminata nocturna, cabalgata, Sendero de los Monos + Centro de Interpretación, medicina natural.</li>
+        <li>Transfer 4x4 desde Mercedes: $170.000 por tramo.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Rincón del Socorro</h3>
+      <div class="sub">Guillermo, Rewilding Argentina · +54 9 3794 99-6868</div>
+      <div class="prices"><div class="price">3 noches (8 → 11)<b>≈ US$2.228</b>$570.000 c/u por noche</div></div>
+      <span class="tag no">sin lugar el 7</span>
+      <ul>
+        <li>Único hotel dentro del Parque Nacional Iberá.</li>
+        <li>Todas las comidas y 2 actividades guiadas por día: caminatas, cabalgatas, lancha, safari 4x4, safari nocturno, aves, bici.</li>
+        <li>Casa Luxury: $600.000 por persona por noche.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>Posada Rancho Iberá</h3>
+      <div class="sub">Taty · <a href="https://wa.me/5493794318594">+54 9 379 431-8594</a></div>
+      <span class="tag info">precio pendiente</span>
+      <ul>
+        <li>Solo paquetes con desayuno y excursiones, <b>sin pensión completa</b>.</li>
+        <li>Posada sencilla con pileta; lancha de día y de noche, kayak.</li>
+      </ul>
+    </article>
+
+    <article class="card lodge">
+      <h3>El Paso Iberá</h3>
+      <div class="sub">+54 9 3794 55-3379</div>
+      <span class="tag info">sin respuesta</span>
+      <ul>
+        <li>En septiembre cotizó 7 noches para marzo por $2.100.000 con excursiones (≈ US$98 por persona por noche).</li>
+      </ul>
+    </article>
+
+  </div>
+</section>
+
+<!-- TEMPORADA -->
+<section id="temporada">
+  <h2>Iberá en noviembre</h2>
+  <div class="grid">
+    <div class="card"><h3 style="margin-top:0">🌡️ Clima</h3><p style="margin:0">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</p></div>
+    <div class="card"><h3 style="margin-top:0">🐊 Fauna</h3><p style="margin:0">Primavera: reproducción y aves migratorias. Yacarés, carpinchos, ciervos, monos carayá y ~350 especies de aves. Mejor al amanecer y al atardecer.</p></div>
+    <div class="card"><h3 style="margin-top:0">🦟 Calor y mosquitos</h3><p style="margin:0">Lo fuerte llega de diciembre a febrero. Noviembre queda en el borde: repelente y manga larga liviana.</p></div>
+  </div>
+  <div class="note red"><b>Reservar ya:</b> en findes largos se recomienda reservar con 1 a 2 meses de anticipación, y el lunes 9 es feriado nacional.</div>
+</section>
+
+<!-- EXTRAS -->
+<section id="extras">
+  <h2>Costos extra y valija</h2>
+  <div class="grid">
+    <div class="card">
+      <h3 style="margin-top:0">💵 En destino</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li>Parque Provincial: $23.000 por persona, válida 5 días (pulsera en el portal).</li>
+        <li>Parque Nacional: gratis.</li>
+        <li>Bebidas: aparte en todas.</li>
+        <li><b>Sin cajeros, bancos ni nafta</b> en Pellegrini: llevar efectivo.</li>
+        <li>Sin señal Movistar en el pueblo.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">🎒 Qué llevar</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li>Protector solar, gorro y repelente.</li>
+        <li>Linterna, prismáticos y cámara.</li>
+        <li>Ropa liviana y algo de abrigo.</li>
+        <li>Capa y calzado para terreno húmedo; medias y zapatillas de repuesto.</li>
+        <li>Traje de baño y toalla de pileta.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">🗺️ Un finde tipo</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>Día 1:</b> lancha por la laguna y atardecer desde el puente.</li>
+        <li><b>Día 2:</b> Parque Nacional con guía; kayak o canoa a botador.</li>
+        <li><b>Día 3:</b> cabalgata por palmares; pasarelas del Parque Provincial.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- PENDIENTES -->
+<section id="pendientes">
+  <h2>Pendientes</h2>
+  <ol class="todo card" style="padding-left:34px">
+    <li><b>Formas de pago:</b> esperar respuesta de las 8 posadas.</li>
+    <li><b>Ecoposada:</b> confirmar disponibilidad y tarifa de feriado con impuestos.</li>
+    <li><b>Rancho de los Esteros:</b> esperar que el grupo del 5-8/11 defina; no señar antes.</li>
+    <li><b>Iberá Lodge:</b> precio de la 4ª noche y transfer.</li>
+    <li><b>Posada de la Laguna y Ñandé Retá:</b> cotización de 3 noches, si interesa.</li>
+    <li><b>Posada Rancho Iberá y El Paso:</b> esperar respuesta.</li>
+    <li><b>Transfer desde Posadas:</b> pedir precio y comparar con Mercedes ($170.000 por tramo).</li>
+    <li><b>Vuelos:</b> elegir aeropuerto y comprar cuando estén definidos posada y transfer.</li>
+    <li><b>Licencia del miércoles 11:</b> solo si se eligen 4 noches.</li>
+  </ol>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">Precios cotizados el 28/9/2026 por WhatsApp, PDFs de las posadas y Google Flights. US$ al dólar blue de referencia (~$1.535). Detalle completo y fuentes en <code>investigacion.md</code>.</div>
+</footer>
+
+<script>
+  document.querySelectorAll('.tabs').forEach(group => {
+    const buttons = group.querySelectorAll('button');
+    buttons.forEach(btn => btn.addEventListener('click', () => {
+      buttons.forEach(b => {
+        const on = b === btn;
+        b.setAttribute('aria-pressed', on);
+        const panel = document.querySelector(`[data-panel="${b.dataset.show}"]`);
+        if (panel) panel.hidden = !on;
+      });
+    }));
+  });
+</script>
+</body>
+</html>
