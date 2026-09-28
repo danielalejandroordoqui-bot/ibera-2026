@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 10 posadas consultadas por WhatsApp; 7 con cotización (Irupé Lodge y Posada Iberá Porá sumadas por Daniel; Iberá Porá esperando respuesta). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
+- **Hospedaje:** 10 posadas consultadas por WhatsApp; 8 con cotización (Irupé Lodge y Posada Iberá Porá sumadas por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -95,6 +95,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$600-700 más que P1 con la misma posada.
 - **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
 - **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
+- **Con Posada Iberá Porá** (la más barata con pensión completa, si la tarifa de finde largo no cambia) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
 - **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4) y la tarifa de feriado de Ecoposada.
 
 Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
@@ -222,7 +223,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | Posada Rancho Iberá | — | — | ? | con desayuno, **sin pensión completa**; precio pendiente |
 | El Paso Iberá | — | — | ? | sin respuesta |
-| Posada Iberá Porá | — | — | ? | esperando respuesta |
+| **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
 | Irupé Lodge | Standard 4n $540.000 · Superior 4n $745.200 (solo alojamiento con desayuno) | Standard 3n $405.000 · Superior 3n $558.900 | ✅ | se pagan aparte por persona: lancha $58.000, kayak o cabalgata $40.000 |
 
 **Irupé no es comparable directo:** es solo alojamiento con desayuno; comidas (restaurante "El Camalotal" en el predio, precio sin relevar) y excursiones van aparte. Ejemplo de cálculo: 4 noches Standard + 1 lancha, 1 kayak y 1 cabalgata cada uno (con el 10% de promo) = $540.000 + $248.400 = **$788.400 (≈ US$514) sin almuerzos ni cenas**.
@@ -242,6 +243,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
 | El Paso Iberá | pendiente (consultado 28/9) |
 | Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
+| Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online) |
 
 ### Ficha de cada posada
 
@@ -308,8 +310,14 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - Antecedente: en septiembre se le había consultado para marzo 2027 sin respuesta.
 
 #### Posada Iberá Porá
-- Consultada por Daniel el 28/9. **Esperando respuesta.**
-- Según su web y fichas online: en el portal principal de los esteros, en Colonia Carlos Pellegrini; arma experiencias a medida con todas las comidas incluidas; kayak y cabalgata por el pueblo. **Figura que solo acepta efectivo** (a confirmar). Web: [posadaiberapora.com](https://www.posadaiberapora.com/).
+- Consultada por Daniel el 28/9. **Tiene disponibilidad** en esas fechas. Web: [posadaiberapora.com](https://www.posadaiberapora.com/).
+- **Pensión completa** (desayuno, almuerzo, merienda y cena), con opciones sin TACC, vegetarianas, veganas y aptas para diabéticos. No incluye bebidas.
+- **Programa 3 noches: $475.000 por persona en base doble** → **$950.000 la pareja (≈ US$619)**. Incluye 2 excursiones en lancha y 2 caminatas guiadas.
+- **Programa 4 noches: $630.000 por persona en base doble** → **$1.260.000 la pareja (≈ US$821)**. Suma 1 safari nocturno en vehículo.
+- **Excursiones opcionales:** kayak, cabalgata y astroturismo (según la fecha), $40.000 por persona cada una.
+- ⚠️ **"Tarifa válida alojándose hasta febrero 2027, exceptuando fines de semana largos"**: este es un finde largo, así que hay que confirmar si el precio cambia (igual que en Ecoposada).
+- **Pago:** seña 50% + DNI; saldo hasta 1 día antes o en efectivo en la posada; efectivo, transferencia o tarjeta.
+- **Transfer:** ofrecen pasar los números de quienes hacen traslados desde Mercedes y desde Corrientes.
 
 #### El Paso Iberá cabañas y excursiones
 - WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Sin respuesta.**
@@ -387,11 +395,12 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 ## 9. Pendientes
 
 1. **Formas de pago:** faltan Iberá Lodge, Rancho Iberá y El Paso.
+1b. **Posada Iberá Porá:** confirmar si el precio cambia por ser finde largo y pedir los números de transfer desde Mercedes y Corrientes.
 2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11) y la **tarifa de feriado con impuestos**.
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
 5. **Posada de la Laguna y Ñandé Retá:** pedir cotización de 3 noches si interesa.
-6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá** y **Posada Iberá Porá:** esperar respuesta.
+6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá:** esperar respuesta.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. **Transfer:** pedir precio a un chofer de Posadas (Oscar Díaz, Roberto Zimmerly o Gustavo Prion) y comparar con Mercedes ($170.000 por tramo de Ñandé Retá).
@@ -405,7 +414,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
