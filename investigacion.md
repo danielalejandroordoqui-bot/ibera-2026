@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 8 posadas consultadas por WhatsApp; 6 con cotización. El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches → esperando respuestas.
+- **Hospedaje:** 9 posadas consultadas por WhatsApp; 7 con cotización (Irupé Lodge sumada por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -137,21 +137,25 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | Posada Rancho Iberá | — | — | ? | con desayuno, **sin pensión completa**; precio pendiente |
 | El Paso Iberá | — | — | ? | sin respuesta |
+| Irupé Lodge | Standard 4n $540.000 · Superior 4n $745.200 (solo alojamiento con desayuno) | Standard 3n $405.000 · Superior 3n $558.900 | ✅ | se pagan aparte por persona: lancha $58.000, kayak o cabalgata $40.000 |
+
+**Irupé no es comparable directo:** es solo alojamiento con desayuno; comidas (restaurante "El Camalotal" en el predio, precio sin relevar) y excursiones van aparte. Ejemplo de cálculo: 4 noches Standard + 1 lancha, 1 kayak y 1 cabalgata cada uno (con el 10% de promo) = $540.000 + $248.400 = **$788.400 (≈ US$514) sin almuerzos ni cenas**.
 
 ### Formas de pago
 
-Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noches, ¿me podría indicar las formas de pago?"). Lo que ya se sabía:
+Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noches, ¿me podría indicar las formas de pago?").
 
 | Posada | Pago |
 |---|---|
-| Ecoposada del Estero | efectivo, transferencia o tarjeta de crédito; seña no reembolsable pero se mantiene para otra fecha; % de seña sin especificar |
+| Ecoposada del Estero | ✅ **seña 20%** al reservar; **si el saldo se paga en efectivo se mantienen los precios del cuadro** (con otro medio, a confirmar si cambia). El PDF dice que aceptan efectivo, transferencia o tarjeta de crédito; seña no reembolsable pero se mantiene para otra fecha |
 | Rancho de los Esteros | seña 20% por depósito bancario; saldo al llegar en efectivo o transferencia; **no acepta tarjetas**; sin gastos de cancelación hasta 30 días antes; la seña no congela el precio |
-| Posada de la Laguna | 40% de seña y saldo 10 días antes, **o 3 cuotas sin interés con Visa o Mastercard** |
+| Posada de la Laguna | ✅ 40% de seña por transferencia y saldo 10 días antes de ingresar, **o el total en 3 cuotas sin interés con Visa o Mastercard** (lo reconfirmó) |
 | Iberá Lodge | pendiente (consultado 28/9) |
-| Ñandé Retá Lodge | pendiente (consultado 28/9) |
+| Ñandé Retá Lodge | ✅ **seña 30%** para reservar y saldo en el hotel; aceptan todas las formas de pago y se pueden combinar: **tarjeta hasta 3 cuotas sin interés**, transferencia o efectivo |
 | Rincón del Socorro | pendiente (consultado 28/9) |
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
 | El Paso Iberá | pendiente (consultado 28/9) |
+| Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
 
 ### Ficha de cada posada
 
@@ -205,6 +209,17 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - Solo ofrece paquetes **con desayuno y excursiones, sin pensión completa**. Precio y detalles pendientes.
 - Posada sencilla con pileta y comida casera; lancha de día y de noche, kayak.
 
+#### Irupé Lodge
+- **Contacto:** Leticia · WhatsApp (chat abierto desde sept.). Para reservar piden nombre completo, DNI y mail del titular; mandan la confirmación por mail con los datos para la seña.
+- **Disponibilidad del 7 al 11/11 ✅.**
+- **Solo noche con desayuno** (ya no trabajan con pensión completa). Tarifas julio-diciembre 2026, por habitación por noche: **Doble Standard $150.000 · Doble Superior $207.000**. **Promo primavera: 10% de descuento** → Standard $135.000 y Superior $186.300 por noche.
+  - 4 noches: Standard $540.000 · Superior $745.200. 3 noches: Standard $405.000 · Superior $558.900.
+- **Excursiones aparte, por persona:** safari fotográfico en lancha $58.000 (salidas a la mañana y a la tarde) · safari en kayak $40.000 · cabalgata hasta los palmares de caranday $40.000. **10% de descuento** si se agregan a la reserva.
+- **Comidas:** en el predio funciona el restaurante **"El Camalotal"** para almuerzos y cenas (reserva aparte; ofrecieron pasar el contacto).
+- **Transfer:** pasaron el contacto de **Miguel, transfer desde Mercedes** (número en el chat de WhatsApp; sin precio).
+- **Pago:** seña 50%; saldo en efectivo, transferencia o tarjeta de crédito o débito.
+- Antecedente: en septiembre se le había consultado para marzo 2027 sin respuesta.
+
 #### El Paso Iberá cabañas y excursiones
 - WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Sin respuesta.**
 - Antecedente: en septiembre cotizó 7 noches para marzo 2027 (20 al 27/3, 2 adultos) por **$2.100.000 con excursiones incluidas** (≈ US$98 por persona por noche).
@@ -232,12 +247,14 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 
 ## 9. Pendientes
 
-1. **Formas de pago:** esperar respuesta de las 8 posadas (consultado 28/9 18:05).
+1. **Formas de pago:** faltan Iberá Lodge, Rancho de los Esteros (ya se sabe por el PDF), Rincón del Socorro, Rancho Iberá y El Paso.
 2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11) y la **tarifa de feriado con impuestos**.
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
 5. **Posada de la Laguna y Ñandé Retá:** pedir cotización de 3 noches si interesa.
 6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá:** esperar respuesta.
+6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
+6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. **Transfer:** pedir precio a un chofer de Posadas (Oscar Díaz, Roberto Zimmerly o Gustavo Prion) y comparar con Mercedes ($170.000 por tramo de Ñandé Retá).
 8. **Elegir aeropuerto y comprar vuelos** una vez definidos posada y transfer (en finde largo los precios pueden subir).
 9. **Licencia del miércoles 11:** solo si se eligen 4 noches.
@@ -249,7 +266,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06).
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
