@@ -30,7 +30,7 @@ La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraor
 | Jue 12/11 | Día hábil | vuelta al trabajo |
 
 - **4 noches (sáb 7 → mié 11):** hace falta que los dos pidan licencia el **miércoles 11**.
-- **3 noches (sáb 7 → mar 10):** **no hace falta pedir licencia**; el miércoles 11 queda libre de colchón.
+- **3 noches (sáb 7 → mar 10):** **no hace falta pedir licencia**, pero el miércoles 11 es día hábil en CABA: se trabaja al día siguiente de volver, sin día de margen. (Corregido 28/9: antes decía que el miércoles quedaba libre, y no es así.)
 - **3 noches (dom 8 → mié 11):** hay que viajar el domingo de la misa del Papa, se pierde el sábado y además hace falta licencia el miércoles. Es la peor combinación; solo aparece porque algunas posadas no tienen lugar el sábado 7.
 - El feriado del 10 y el del 11 dependen de dónde se trabaja, no de dónde se vive.
 
@@ -152,7 +152,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | Posada de la Laguna | ✅ 40% de seña por transferencia y saldo 10 días antes de ingresar, **o el total en 3 cuotas sin interés con Visa o Mastercard** (lo reconfirmó) |
 | Iberá Lodge | pendiente (consultado 28/9) |
 | Ñandé Retá Lodge | ✅ **seña 30%** para reservar y saldo en el hotel; aceptan todas las formas de pago y se pueden combinar: **tarjeta hasta 3 cuotas sin interés**, transferencia o efectivo |
-| Rincón del Socorro | pendiente (consultado 28/9) |
+| Rincón del Socorro | ✅ **seña 30%** para confirmar fechas; saldo 10 días antes del ingreso, por transferencia o **link de pago con débito o crédito en un solo pago** (sin cuotas) |
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
 | El Paso Iberá | pendiente (consultado 28/9) |
 | Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
@@ -225,6 +225,54 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Sin respuesta.**
 - Antecedente: en septiembre cotizó 7 noches para marzo 2027 (20 al 27/3, 2 adultos) por **$2.100.000 con excursiones incluidas** (≈ US$98 por persona por noche).
 
+## 5b. ¿3 o 4 noches? Qué dicen los viajeros (28/9/2026)
+
+Relevamiento de 25 fuentes: reseñas de TripAdvisor, foros (TripAdvisor, Lonely Planet), blogs de viajeros y guías de operadores. Se armó con los resúmenes de más de 20 búsquedas web; no se pudo abrir cada página por separado.
+
+**Alcanzan 1-2 noches (5):**
+1. Foro TripAdvisor de Pellegrini: "dos días, tres a lo sumo".
+2. FAQ de TripAdvisor: "al menos dos días".
+3. Lonely Planet: con 1 noche hizo senderos y lancha; se habría quedado otra para la cabalgata.
+4. Lonely Planet: otro viajero, 2 noches, le encantó.
+5. Andean Trails (operador): mínimo 3 días / 2 noches.
+
+**3 noches es el mínimo o lo ideal (13):**
+6. Boleto a la Felicidad: mínimo 3 días enteros, "por si el clima no acompaña".
+7. Viajar Viviendo: 2 noches para una idea; mínimo 3 para conocer y descansar.
+8. Iberá Experience: "con 2 noches pasás la mayor parte en la ruta; con 3 o más el lugar se abre".
+9. Ev Explores (2026): mínimo 3 noches; menos queda apurado.
+10. La Nación, escapada (2024): 3 días suficientes; reservar con anticipación en findes largos.
+11. Reseña TripAdvisor: 3 noches en estancia, descanso + excursiones.
+12. Reseña TripAdvisor: 3 noches con pensión completa y 2 excursiones por día.
+13. Reseña TripAdvisor (Estero Salvaje): 3 días con lanchas, paseo y cabalgata.
+14. Reseña TripAdvisor: "tres días maravillosos", ganas de volver con más tiempo.
+15. Magia en el Camino / RecomiendoViajar: ideal 2-3 noches; varias posadas piden mínimo 3.
+16. Andean Trails: programa estándar 4 días / 3 noches.
+17. Operadores (Tierra Colorada, Yacaré Tours): programas de 2 y 3 noches.
+18. Foro TripAdvisor: "algunos se quedaron 3 noches".
+
+**4 días o más (7):**
+19. La Nación, "Organizá tu viaje": estadía recomendada de 4 días.
+20. Los Viajes de Nena (familia): Iberá "abarcable en 4 días" contando el viaje.
+21. Viajero en Minube: "mínimo 4 jornadas para entender esa tierra".
+22. Intriper y otras guías: "3 o 4 días alcanzan para desconectar".
+23. Across South America: 3 o 4 días.
+24. Reseña TripAdvisor: 4 noches "sin preocuparse de nada".
+25. Reseña TripAdvisor: "una maravillosa estadía de 4 noches".
+
+**Lluvia e imprevistos:** Lonely Planet (con lluvia el camino es barro y el colectivo no sale) · Don't Waste Life (una tormenta de viento dejó al pueblo sin luz) · Chetoba (si hay chance de lluvia, ir en camioneta o transfer).
+
+**Consenso:** el piso está en **3 noches**; casi nadie dice que 4 sobren. El argumento principal para quedarse más es el clima, y noviembre es de los meses más lluviosos.
+
+**Aplicado a este viaje:**
+- Con vuelos de la tarde (JetSMART 17:43 a Posadas o 18:08 a Resistencia) se llega de noche: Posadas está a ~4 h de camino (Andean Trails). Con 3 noches quedan domingo y lunes completos + martes a la mañana, justo el mínimo.
+- Los paquetes de 3 noches están armados para eso (Ecoposada: lancha, trekking, Parque Nacional y kayak en esos dos días).
+- Ninguna de las dos opciones tiene día de margen: con 3 noches se trabaja el miércoles; con 4, el jueves.
+- **Recomendación: 3 noches (sáb 7 → mar 10) llegando temprano el sábado**: Aerolíneas 7:30 → Resistencia 9:05 a $278.168 por persona (≈ $124.000 más la pareja que JetSMART, ≈ US$81). Así el sábado a la tarde ya cuenta: 2 días y medio + martes a la mañana, sin licencia y ~US$250-365 menos de hospedaje.
+- **Conviene 4 noches** si se prioriza un día de reserva por lluvia o sumar cabalgata y safari nocturno (en Ecoposada solo vienen en el de 4). Costo: un día de licencia cada uno y ~US$250 más en Ecoposada (~US$365 en Iberá Lodge).
+
+Fuentes: [Boleto a la Felicidad](https://boletoalafelicidad.com/esteros-del-ibera-guia-completa/) · [Viajar Viviendo](https://viajarviviendo.com/guia-para-viajar-esteros-del-ibera/) · [Iberá Experience](https://iberaexperience.com/blog/en/is-ibera-wetlands-worth-visiting/) · [Ev Explores](https://evexplores.blog/2026/04/11/ibera-wetlands-everything-you-need-to-know-to-visit-argentinas-hidden-gem/) · [La Nación — escapada](https://www.lanacion.com.ar/revista-lugares/esteros-del-ibera-paseos-posadas-y-estancias-para-recorrer-el-gran-humedal-argentino-nid31052024/) · [La Nación — organizá tu viaje](https://www.lanacion.com.ar/turismo/esteros-nid1963711/) · [Foro TripAdvisor Pellegrini](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k4580152-Esteros_del_Ibera-Colonia_Carlos_Pellegrini_Province_of_Corrientes_Litoral.html) · [FAQ TripAdvisor](https://www.tripadvisor.es/FAQ_Answers-g312794-d4328344-t5924596-Hola_quisiera_saber_cuantos_dias_recomiendan_para.html) · [Reseñas TripAdvisor Esteros del Iberá](https://www.tripadvisor.com.ar/ShowUserReviews-g312794-d4328344-r749452574-Esteros_del_Ibera-Corrientes_Province_of_Corrientes_Litoral.html) · [Lonely Planet](https://www.lonelyplanet.com/thorntree/forums/americas-south-america/topics/ibera-wetlands-f7ad9458-dec2-439d-8d87-3d11d6c71fab) · [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/) · [Los Viajes de Nena](https://losviajesdenena.com/viajar-a-los-esteros-del-ibera-en-familia/) · [Magia en el Camino](https://magiaenelcamino.com.ar/consejos-para-visitar-los-esteros-del-ibera.html) · [Across South America](https://across-southamerica.com/post/travel-to-ibera-wetlands-in-argentina/) · [Don't Waste Life](https://www.dontwastelife.com/2024/travel/southamerica/argentina/4runner-roadtrip-argentina-and-ibera-wetlands/) · [Chetoba](https://www.chetoba.com.ar/alojamiento-con-excursiones-en-los-esteros-del-ibera).
+
 ---
 
 ## 6. Costos extra en destino
@@ -248,7 +296,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 
 ## 9. Pendientes
 
-1. **Formas de pago:** faltan Iberá Lodge, Rincón del Socorro, Rancho Iberá y El Paso.
+1. **Formas de pago:** faltan Iberá Lodge, Rancho Iberá y El Paso.
 2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11) y la **tarifa de feriado con impuestos**.
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
