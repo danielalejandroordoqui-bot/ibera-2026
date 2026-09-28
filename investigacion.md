@@ -18,7 +18,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 
 ## 0. Packs simulados (28/9/2026)
 
-Ocho combinaciones armadas con todo lo relevado: transporte (avión, micro, auto de alquiler automático, auto propio, transfer) + hospedaje + entrada al Parque. **Totales para los dos.** Se muestran con las dos posadas de referencia: **Ecoposada** (la más barata con pensión completa; tarifa de feriado a confirmar) e **Iberá Lodge** (la que ya confirmó lugar). Dólar blue de referencia ~$1.535.
+Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, auto de alquiler automático, auto propio, transfer) + hospedaje + entrada al Parque. **Totales para los dos.** Se muestran con las dos posadas de referencia: **Ecoposada** (la más barata con pensión completa; tarifa de feriado a confirmar) e **Iberá Lodge** (la que ya confirmó lugar). Dólar blue de referencia ~$1.535.
 
 ### Supuestos (leer antes de mirar los números)
 - **Transfer Mercedes ↔ Pellegrini:** $170.000 por tramo (precio real de Ñandé Retá). Los choferes que recomiendan otras posadas pueden cobrar distinto.
@@ -26,8 +26,8 @@ Ocho combinaciones armadas con todo lo relevado: transporte (avión, micro, auto
 - **Micro:** Flechabus Retiro ↔ Mercedes desde $51.500 por persona por tramo (precio de referencia de julio 2026; sale ~21-21:30, llega ~6 h; horario de vuelta a confirmar).
 - **Auto automático:** Resistencia Avis Yaris AT US$299 (4 días); Corrientes Budget Yaris AT US$368 (5 días, porque se devuelve más tarde que la hora de retiro). Nafta estimada con el cálculo de Ruta0 (~$77.000 para 356 km). El auto queda estacionado en Mercedes y el último tramo se hace en 4x4 (el ripio con lluvia es solo para 4x4).
 - **Tiempos:** Corrientes → Mercedes 238-246 km, ~3-3,5 h por asfalto · Mercedes → Pellegrini 120 km, ~2 h · Posadas → Pellegrini 200-250 km, ~3 h 15 min a 4 h 40 min, con la **RP 41 recomendada solo de día**.
-- **Auto propio (Corolla):** nafta según Daniel, $90.000 por tanque ≈ 500 km (~$180/km). La Plata → Mercedes 738 km. Peajes: Ruta 14 con TelePase, 4 cabinas × $1.887 por tramo (enero 2026; sin TelePase, el doble; son 100% electrónicos), más ~$12.000 por tramo estimados para Autopista La Plata y Panamericana.
-- **Parque Provincial:** $46.000 los dos. **No incluye** bebidas, comidas en ruta ni estacionamiento en Mercedes (salvo aclaración).
+- **Auto propio (Corolla), directo La Plata → Pellegrini, sin cambio de vehículo:** 858 km por tramo (738 hasta Mercedes + 120 hasta Pellegrini). Nafta según Daniel, $90.000 por tanque ≈ 500 km (~$180/km). Peajes: Ruta 14 con TelePase, 4 cabinas × $1.887 por tramo (enero 2026; sin TelePase, el doble; son 100% electrónicos), más ~$12.000 por tramo estimados para Autopista La Plata y Panamericana.
+- **Parque Provincial:** $46.000 los dos. **No incluye** bebidas ni comidas en ruta.
 
 ### Tiempos y distancias de cada tramo
 
@@ -37,7 +37,8 @@ Ocho combinaciones armadas con todo lo relevado: transporte (avión, micro, auto
 | Retiro → Mercedes (micro Flechabus) | — | ~8-9 h, nocturno | sale ~21-21:30, llega ~6 h |
 | Aeropuerto de Corrientes → Mercedes | 238-246 km | ~3-3,5 h | asfalto (RN 12 + RN 123), algunos baches |
 | Aeropuerto de Resistencia → Mercedes | ~260 km | ~3,5 h | asfalto, cruzando el puente a Corrientes |
-| Mercedes → Pellegrini | 120 km | ~2 h | 40-50 km asfalto + 70-80 km ripio; **sin nafta ni señal; con lluvia, solo 4x4** |
+| Mercedes → Pellegrini | 120 km | ~2 h | 40-50 km asfalto + 70-80 km ripio (últimos ~35 de piedra filosa); **sin nafta ni señal; con lluvia, solo 4x4** |
+| **La Plata → Pellegrini (auto propio, total)** | **858 km** | **~9 h 40 min sin paradas; 10-11 h reales** | última nafta en Mercedes |
 | Aeropuerto de Corrientes → Pellegrini (directo) | ~356-370 km | ~5-6 h | vía Mercedes |
 | Aeropuerto de Posadas → Pellegrini | 200-250 km | 3 h 15 min a 4 h 40 min | RN 12 + RP 41 + RP 40, tierra y arena; **RP 41 solo de día** |
 
@@ -51,9 +52,8 @@ Ocho combinaciones armadas con todo lo relevado: transporte (avión, micro, auto
 | P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | ~$1.661.000 ≈ US$1.082 (transfer estimado) | ~$2.887.000 ≈ US$1.881 | ~$3.207.000 ≈ US$2.089 |
 | P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | ~$1.201.000 ≈ US$782 (transfer estimado) | ~$2.427.000 ≈ US$1.581 | ~$2.747.000 ≈ US$1.789 |
 | **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
-| **P6 · Auto propio hasta Mercedes + 4x4** | 3 | no | sáb ~14:30 | sáb tarde + dom + lun + mar mañana | $645.000 ≈ US$420 (+ estacionamiento) | $1.871.000 ≈ US$1.219 | $2.191.000 ≈ US$1.427 |
-| P6 · versión 4 noches | 4 | mié 11 | sáb ~14:30 | + miércoles mañana | $645.000 ≈ US$420 | $2.251.000 ≈ US$1.466 | $2.751.000 ≈ US$1.792 |
-| P7 · Auto propio hasta Pellegrini (solo si no llueve) | 3 | no | sáb ~14:30 | sáb tarde + dom + lun + mar mañana | $348.000 ≈ US$227 | $1.574.000 ≈ US$1.025 | $1.894.000 ≈ US$1.234 |
+| **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
+| P6 · versión 4 noches | 4 | mié 11 | sáb ~14 h | + miércoles mañana | $348.000 ≈ US$227 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
 
 ### Detalle de cada pack
 
@@ -81,19 +81,16 @@ Ocho combinaciones armadas con todo lo relevado: transporte (avión, micro, auto
 - **Dom, lun, mar:** completos. **Mié 11:** transfer 10:30 → Mercedes 12:30 → Corrientes ~16 h → vuelo 18:05.
 - ✅ El más completo en días (3 enteros + dos medias jornadas). ⚠️ El más caro y requiere licencia el miércoles. Solo funciona con 4 noches: el martes 10 no hay vuelta de Aerolíneas desde Corrientes.
 
-**P6 · Auto propio hasta Mercedes + 4x4 (sin micro y sin avión)**
-- **Sáb 7, ~3-4 h:** salida de La Plata → ~8-9 h de ruta (738 km, unas 3 cargas de tanque en todo el viaje) → **Mercedes ~12 h**: cargar nafta (en Pellegrini no hay) y dejar el auto en un estacionamiento (Estacionamiento Mohalem, 03773-420096, Sarmiento 489; o el del Hotel La Recova; precio a consultar) → transfer 4x4 (2 h) → **~14:30 en Pellegrini**.
-- **Mar 10:** check-out 10 h → transfer → Mercedes ~12 h → **La Plata ~21-22 h**, a dormir en casa antes de trabajar el miércoles.
-- ✅ Casi tan barato como P1, sin micro, y la vuelta es mucho más descansada (duermen en casa). ✅ Llevan lo que quieran en el baúl.
-- ⚠️ ~16-18 h de manejo en 4 días; conviene turnarse si los dos manejan. Madrugón el sábado. Peajes solo con TelePase.
-
-**P7 · Auto propio hasta Pellegrini (solo con pronóstico seco)**
-- Igual que P6, pero entrando con el auto los 120 km hasta Pellegrini (~2 h, los últimos ~35 km de piedra filosa).
-- ✅ El más barato de todos: ~US$1.025 con Ecoposada, 3 noches. Una vez en Pellegrini el auto no hace falta: las posadas mueven a sus huéspedes.
-- ⚠️ **Riesgo alto para un Corolla:** las posadas avisan que con lluvia "no es apto para autos pequeños" y solo pasan 4x4; la piedra filosa rompe cubiertas y no hay señal para pedir ayuda. Si llueve durante la estadía, el auto puede quedar adentro y comprometer la vuelta del martes (y el trabajo del miércoles). Alternativa: decidir en Mercedes según el pronóstico, y si hay lluvia, dejar el auto ahí (= P6).
+**P6 · Auto propio La Plata → Pellegrini directo (Corolla)**
+- **Sáb 7, ~3-4 h:** salida de La Plata → 738 km hasta Mercedes (~8-9 h con paradas) → **cargar nafta en Mercedes** (en Pellegrini no hay) → 120 km, ~2 h → **~14 h en Pellegrini**.
+- **Sáb tarde, dom y lun:** excursiones; el auto queda en la posada (ellas mueven a los huéspedes).
+- **Mar 10:** check-out 10 h → Mercedes ~12 h (nafta) → **La Plata ~20-21 h**, a dormir a casa antes de trabajar el miércoles.
+- **Nafta:** ~1.716 km ida y vuelta ≈ $309.000 (unas 3,5 cargas). El tramo Mercedes → Pellegrini → Mercedes (240 km) entra holgado en un tanque. Peajes ≈ $39.000 ida y vuelta.
+- ✅ **El más barato de todos:** ~US$1.025 con Ecoposada, 3 noches, sin licencia. Vuelta descansada, baúl libre, sin depender de horarios de vuelos ni micros.
+- ⚠️ Ojo con el ripio: los últimos ~35 km son de piedra filosa y con lluvia las posadas lo marcan como "no apto para autos pequeños". Mirar el pronóstico, ir despacio y llevar el auxilio en condiciones. ~20 h de manejo en 4 días: conviene turnarse. Peajes solo con TelePase.
 
 ### Lectura
-- **Con auto propio:** P6 cuesta casi lo mismo que P1 (~US$65 más con Ecoposada) y cambia las dos noches de micro por manejar, con una vuelta mucho más descansada. P7 es el más barato de todos, pero el riesgo con lluvia en noviembre es real.
+- **P6 (auto propio directo) es el más barato de todos** (~US$130 menos que P1 con la misma posada), sin licencia y con la vuelta más descansada. El punto a cuidar es el ripio si llueve.
 - **Mejor relación costo/tiempo: P1 (micro nocturno), 3 noches.** Por ~US$1.150 con Ecoposada tienen casi 3 días en Iberá sin licencia. El costo es cansancio: dos noches en micro.
 - **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$600-700 más que P1 con la misma posada.
 - **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
