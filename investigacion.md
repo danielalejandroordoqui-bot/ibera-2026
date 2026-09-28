@@ -18,7 +18,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 
 ## 0. Packs simulados (28/9/2026)
 
-Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, auto de alquiler automático, auto propio, transfer) + hospedaje + entrada al Parque. **Totales para los dos.** Se muestran con las dos posadas de referencia: **Ecoposada** (la más barata con pensión completa; tarifa de feriado a confirmar) e **Iberá Lodge** (la que ya confirmó lugar). Dólar blue de referencia ~$1.535.
+Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, auto de alquiler automático, auto propio, transfer) + hospedaje + entrada al Parque. **Totales para los dos.** Se muestran con tres posadas de referencia: **Posada Iberá Porá** (la más barata con pensión completa), **Ecoposada** (tarifa de feriado a confirmar) e **Iberá Lodge** (ya confirmó lugar). Dólar blue de referencia ~$1.535.
 
 ### Supuestos (leer antes de mirar los números)
 - **Transfer Mercedes ↔ Pellegrini:** $170.000 por tramo (precio real de Ñandé Retá). Los choferes que recomiendan otras posadas pueden cobrar distinto.
@@ -44,16 +44,16 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 
 ### Resumen
 
-| Pack | Noches | Licencia | Llegada a Pellegrini | Días aprovechables | Transporte (pareja) | Total con Ecoposada | Total con Iberá Lodge |
-|---|---|---|---|---|---|---|---|
-| **P1 · Micro nocturno + 4x4** | 3 (sáb 7 → mar 10) | no | sáb ~11:30 | sáb + dom + lun + mar mañana | **$546.000 ≈ US$356** | **$1.772.000 ≈ US$1.154** | $2.092.000 ≈ US$1.363 |
-| P1 · variante 4 noches | 4 (sáb 7 → mié 11) | mié 11 | sáb ~11:30 | + miércoles | $546.000 ≈ US$356 | $2.152.000 ≈ US$1.402 | $2.652.000 ≈ US$1.728 |
-| **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.468.000 ≈ US$956 | $2.694.000 ≈ US$1.755 | $3.014.000 ≈ US$1.963 |
-| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | ~$1.661.000 ≈ US$1.082 (transfer estimado) | ~$2.887.000 ≈ US$1.881 | ~$3.207.000 ≈ US$2.089 |
-| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | ~$1.201.000 ≈ US$782 (transfer estimado) | ~$2.427.000 ≈ US$1.581 | ~$2.747.000 ≈ US$1.789 |
-| **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
-| **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
-| P6 · versión 4 noches | 4 | mié 11 | sáb ~14 h | + miércoles mañana | $348.000 ≈ US$227 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
+| Pack | Noches | Licencia | Llegada a Pellegrini | Días aprovechables | Transporte (pareja) | Total con Iberá Porá | Total con Ecoposada | Total con Iberá Lodge |
+|---|---|---|---|---|---|---|---|---|
+| **P1 · Micro nocturno + 4x4** | 3 (sáb 7 → mar 10) | no | sáb ~11:30 | sáb + dom + lun + mar mañana | **$546.000 ≈ US$356** | $1.542.000 ≈ US$1.005 | **$1.772.000 ≈ US$1.154** | $2.092.000 ≈ US$1.363 |
+| P1 · variante 4 noches | 4 (sáb 7 → mié 11) | mié 11 | sáb ~11:30 | + miércoles | $546.000 ≈ US$356 | $1.852.000 ≈ US$1.207 | $2.152.000 ≈ US$1.402 | $2.652.000 ≈ US$1.728 |
+| **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.468.000 ≈ US$956 | $2.464.000 ≈ US$1.605 | $2.694.000 ≈ US$1.755 | $3.014.000 ≈ US$1.963 |
+| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | ~$1.661.000 ≈ US$1.082 (transfer estimado) | ~$2.657.000 ≈ US$1.731 | ~$2.887.000 ≈ US$1.881 | ~$3.207.000 ≈ US$2.089 |
+| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | ~$1.201.000 ≈ US$782 (transfer estimado) | ~$2.197.000 ≈ US$1.431 | ~$2.427.000 ≈ US$1.581 | ~$2.747.000 ≈ US$1.789 |
+| **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $2.885.000 ≈ US$1.879 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
+| **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.344.000 ≈ US$876** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
+| P6 · versión 4 noches | 4 | mié 11 | sáb ~14 h | + miércoles mañana | $348.000 ≈ US$227 | $1.654.000 ≈ US$1.078 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
 
 ### Detalle de cada pack
 
