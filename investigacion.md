@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 13 alojamientos consultados por WhatsApp; 13 con cotización (Irupé Lodge, Posada Iberá Porá, Casona Iberá, El Tránsito y Cabaña Capivara sumados). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
+- **Hospedaje:** 13 alojamientos consultados por WhatsApp; 13 con cotización (Irupé Lodge, Posada Iberá Porá, Casona Iberá, El Tránsito y Cabaña Capivara sumados). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna, Irupé e Iberá Lodge (29/9).
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -244,7 +244,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | Ecoposada del Estero | ✅ **seña 20%** al reservar; **si el saldo se paga en efectivo se mantienen los precios del cuadro** (con otro medio, a confirmar si cambia). El PDF dice que aceptan efectivo, transferencia o tarjeta de crédito; seña no reembolsable pero se mantiene para otra fecha |
 | Rancho de los Esteros | ✅ **seña 20% por transferencia**; saldo al llegar en efectivo o transferencia (confirmado por chat 28/9 18:26); **no acepta tarjetas**; sin gastos de cancelación hasta 30 días antes; la seña no congela el precio |
 | Posada de la Laguna | ✅ 40% de seña por transferencia y saldo 10 días antes de ingresar, **o el total en 3 cuotas sin interés con Visa o Mastercard** (lo reconfirmó) |
-| Iberá Lodge | pendiente (consultado 28/9) |
+| Iberá Lodge | ✅ **seña 50%** para confirmar la reserva (3n $750.000 · 4n ~$1.030.000), por transferencia o tarjeta (**con tarjeta tiene recargo**, monto no informado); saldo al llegar (respondió Geraldine el 29/9) |
 | Ñandé Retá Lodge | ✅ **seña 30%** para reservar y saldo en el hotel; aceptan todas las formas de pago y se pueden combinar: **tarjeta hasta 3 cuotas sin interés**, transferencia o efectivo |
 | Rincón del Socorro | ✅ **seña 30%** para confirmar fechas; saldo 10 días antes del ingreso, por transferencia o **link de pago con débito o crédito en un solo pago** (sin cuotas) |
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
@@ -280,6 +280,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Contacto:** Geraldine · WhatsApp (chat abierto desde sept.) · web oficial +54 379 401-8738 · reservas@iberalodge.com.
 - **Tiene disponibilidad.** Paquete promocional **3 noches / 4 días: $750.000 por adulto** → $1.500.000 la pareja. Noche suelta $280.000 por adulto; "se puede agregar una noche más" → 4 noches estimado $2.060.000 (a confirmar).
 - **Incluye:** pensión completa, charla con guías sobre los esteros y la reserva, trekking interpretativo por la selva, navegación con safari fotográfico, navegación al atardecer, cabalgata por los bañados. Pileta, solárium, sala de juegos.
+- **Pago:** seña 50% por transferencia o tarjeta (con recargo); saldo al llegar.
 - No respondió sobre transfer.
 
 #### Posada de la Laguna
@@ -566,11 +567,11 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 
 ## 9. Pendientes
 
-1. **Formas de pago:** faltan Iberá Lodge, Rancho Iberá y El Paso.
+1. **Formas de pago:** faltan Rancho Iberá y El Paso.
 1b. **Posada Iberá Porá:** pedir los números de transfer desde Mercedes y Corrientes, si hace falta.
 2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11).
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
-4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
+4. **Iberá Lodge:** confirmar precio de la 4ª noche, si ofrece transfer y cuánto es el recargo con tarjeta.
 5. **Posada de la Laguna:** pedir cotización de 3 noches si interesa. **Ñandé Retá:** confirmar el precio de 3 noches para el finde largo (las tarifas que mandó "no son válidas para fines de semana largos") y el monto ilegible del Plan Full de 4 noches ("$1.28.000").
 6. ~~Posada Rancho Iberá: 3 noches~~ ✅ $570.000 en la habitación. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
@@ -588,6 +589,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
 - **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
+- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
