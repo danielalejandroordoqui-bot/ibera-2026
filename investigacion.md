@@ -26,6 +26,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - **Micro:** Flechabus Retiro ↔ Mercedes desde $51.500 por persona por tramo (precio de referencia de julio 2026; sale ~21-21:30, llega ~6 h; horario de vuelta a confirmar).
 - **Auto automático:** Resistencia Avis Yaris AT US$299 (4 días); Corrientes Budget Yaris AT US$368 (5 días, porque se devuelve más tarde que la hora de retiro). Nafta estimada con el cálculo de Ruta0 (~$77.000 para 356 km). El auto queda estacionado en Mercedes y el último tramo se hace en 4x4 (el ripio con lluvia es solo para 4x4).
 - **Tiempos:** Corrientes → Mercedes 238-246 km, ~3-3,5 h por asfalto · Mercedes → Pellegrini 120 km, ~2 h · Posadas → Pellegrini 200-250 km, ~3 h 15 min a 4 h 40 min, con la **RP 41 recomendada solo de día**.
+- **Uber La Plata ↔ aeropuerto:** ~$180.000 ida y vuelta (dato de Daniel, 29/9), sumado a P2, P3, P4 y P5. Salir de La Plata ~3 h antes del vuelo (1 h de viaje + 2 h de anticipación).
 - **Auto propio (Corolla), directo La Plata → Pellegrini, sin cambio de vehículo:** 858 km por tramo (738 hasta Mercedes + 120 hasta Pellegrini). Nafta según Daniel, $90.000 por tanque ≈ 500 km (~$180/km). Peajes: Ruta 14 con TelePase, 4 cabinas × $1.887 por tramo (enero 2026; sin TelePase, el doble; son 100% electrónicos), más ~$12.000 por tramo estimados para Autopista La Plata y Panamericana.
 - **Parque Provincial:** $46.000 los dos. **No incluye** bebidas ni comidas en ruta.
 
@@ -49,10 +50,10 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 |---|---|---|---|---|---|---|---|---|
 | **P1 · Micro nocturno + 4x4** | 3 (sáb 7 → mar 10) | no | sáb ~11:30 | sáb + dom + lun + mar mañana | **$546.000 ≈ US$356** | $1.542.000 ≈ US$1.005 | **$1.772.000 ≈ US$1.154** | $2.092.000 ≈ US$1.363 |
 | P1 · variante 4 noches | 4 (sáb 7 → mié 11) | mié 11 | sáb ~11:30 | + miércoles | $546.000 ≈ US$356 | $1.852.000 ≈ US$1.207 | $2.152.000 ≈ US$1.402 | $2.652.000 ≈ US$1.728 |
-| **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.468.000 ≈ US$956 | $2.464.000 ≈ US$1.605 | $2.694.000 ≈ US$1.755 | $3.014.000 ≈ US$1.963 |
-| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | $1.456.000 ≈ US$949 | $2.452.000 ≈ US$1.598 | $2.682.000 ≈ US$1.747 | $3.002.000 ≈ US$1.956 |
-| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | $1.193.000 ≈ US$777 | $2.189.000 ≈ US$1.426 | $2.419.000 ≈ US$1.576 | $2.739.000 ≈ US$1.784 |
-| **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $2.885.000 ≈ US$1.879 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
+| **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.648.000 ≈ US$1.074 | $2.644.000 ≈ US$1.722 | $2.874.000 ≈ US$1.872 | $3.194.000 ≈ US$2.081 |
+| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | $1.636.000 ≈ US$1.066 | $2.632.000 ≈ US$1.715 | $2.862.000 ≈ US$1.864 | $3.182.000 ≈ US$2.073 |
+| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | $1.373.000 ≈ US$894 | $2.369.000 ≈ US$1.543 | $2.599.000 ≈ US$1.693 | $2.919.000 ≈ US$1.902 |
+| **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.759.000 ≈ US$1.146 | $3.065.000 ≈ US$1.997 | $3.365.000 ≈ US$2.192 | $3.865.000 ≈ US$2.518 |
 | **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14-15 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.344.000 ≈ US$876** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
 | P6 · versión 4 noches | 4 | mié 11 | sáb ~14-15 h | + miércoles mañana | $348.000 ≈ US$227 | $1.654.000 ≈ US$1.078 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
 
@@ -94,8 +95,8 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 ### Lectura
 - **P6 (auto propio directo) es el más barato de todos** (~US$130 menos que P1 con la misma posada), sin licencia y con la vuelta más descansada. El punto a cuidar es el ripio si llueve.
 - **Mejor relación costo/tiempo: P1 (micro nocturno), 3 noches.** Por ~US$1.150 con Ecoposada tienen casi 3 días en Iberá sin licencia. El costo es cansancio: dos noches en micro.
-- **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$600-700 más que P1 con la misma posada.
-- **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
+- **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$710-720 más que P1 con la misma posada.
+- **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$790 menos que P5.
 - **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
 - **Con Posada Iberá Porá** (la más barata con pensión completa) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
 - **Si se acepta comer aparte:** con Casona Iberá (solo desayuno) el P6 de 3 noches queda en ~$984.000 (≈ US$641) **más almuerzos y cenas**, que no están relevados.
@@ -112,7 +113,7 @@ Dos versiones del mismo viaje en el Corolla, **sáb 7 → mié 11/11** (licencia
 
 ### El camino (servicios en ruta)
 
-Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo Largo) → **RN 14, autovía** por Entre Ríos → en **Cuatro Bocas** se sale a la **RN 119** (Curuzú Cuatiá) → Mercedes → **RP 40** hasta Pellegrini. **~860-900 km por tramo, ~11-11,5 h de manejo sin paradas** (Cámara de Turismo del Iberá: 860 km; Ruta0: 897 km y 11 h 27 min).
+Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo Largo) → **RN 14, autovía** por Entre Ríos → en **Cuatro Bocas** se sale a la **RN 119** (Curuzú Cuatiá) → Mercedes → **RP 40** hasta Pellegrini. **~860-900 km por tramo, ~11-11,5 h de manejo sin paradas** (Cámara de Turismo del Iberá: 860 km; Ruta0: 897 km y 11 h 27 min). **La RN 14 es autovía completa desde Ceibas hasta Paso de los Libres** (496 km); se deja en Cuatro Bocas, antes de Paso de los Libres, así que es autovía casi todo el camino. Doble mano: el tramo corto de la RN 12 hasta Ceibas, la RN 119 (109 km) y la RP 40. Referencia de una vecina que va en auto de La Plata a Misiones (~1.000 km): 12 h parando en estaciones de servicio. A Pellegrini son ~100 km menos, pero los últimos 120 km son lentos: **~12-12,5 h puerta a puerta** con paradas es un cálculo realista.
 
 | Punto | km desde La Plata (aprox.) | Hora de ida | Qué hacer |
 |---|---|---|---|
@@ -189,10 +190,10 @@ Pago: Rancho Iberá todavía no respondió las formas de pago.
 
 - **B sale ~$250.000 (≈ US$163) menos que A**, con casi las mismas excursiones (A tiene 2 lanchas y 2 caminatas; B tiene 1 lancha, 1 caminata y suma kayak, safari y cabalgata). A cambio, en B hay que elegir dónde comer cada día y reservar las excursiones sueltas.
 - **Más barato todavía:** Cabaña Capivara (cabaña con cocina, sin desayuno, $320.000 las 4 noches) en lugar de Rancho Iberá: ~$1.334.000 (≈ US$869) con lancha, safari y cabalgata y comiendo afuera.
-- **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5) da ~$2.885.000; la versión A en auto propio sale ~$1.110.000 menos (≈ US$720).
+- **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5), con el Uber al aeropuerto, da ~$3.065.000; la versión A en auto propio sale ~$1.291.000 menos (≈ US$841). Y en tiempo casi empatan: para el vuelo de las 8:45 hay que salir de La Plata ~5:30 (1 h de Uber + 2 h de anticipación) y se llega a Pellegrini ~16 h, la misma hora que en auto saliendo 3:30. Con el de las 7:30 a Resistencia (P2) hay que salir ~4:30 y se llega ~15:30.
 - **Imprevisto a tener en cuenta:** si llueve y hay que dejar el auto en Mercedes, el 4x4 suma $170.000 por tramo.
 
-Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https://www.camaraturismoibera.com.ar/Como-Llegar), [Ruta0 — La Plata → Colonia Carlos Pellegrini](https://www.ruta0.com/ruta/argentina/la-plata-a-colonia-carlos-pellegrini/mas-corta/), [Ruta0 — Mercedes (BA) → Corrientes](https://www.ruta0.com/ruta/argentina/mercedes-buenos-aires-a-corrientes/), [Wikipedia — Ruta Nacional 119](https://es.wikipedia.org/wiki/Ruta_Nacional_119_(Argentina)).
+Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https://www.camaraturismoibera.com.ar/Como-Llegar), [Ruta0 — La Plata → Colonia Carlos Pellegrini](https://www.ruta0.com/ruta/argentina/la-plata-a-colonia-carlos-pellegrini/mas-corta/), [Ruta0 — Mercedes (BA) → Corrientes](https://www.ruta0.com/ruta/argentina/mercedes-buenos-aires-a-corrientes/), [Wikipedia — Ruta Nacional 119](https://es.wikipedia.org/wiki/Ruta_Nacional_119_(Argentina)), [Wikipedia — Ruta Nacional 14](https://es.wikipedia.org/wiki/Ruta_Nacional_14_(Argentina)).
 
 ---
 
