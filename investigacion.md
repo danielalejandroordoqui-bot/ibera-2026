@@ -37,8 +37,9 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 | Retiro → Mercedes (micro Flechabus) | — | ~8-9 h, nocturno | sale ~21-21:30, llega ~6 h |
 | Aeropuerto de Corrientes → Mercedes | 238-246 km | ~3-3,5 h | asfalto (RN 12 + RN 123), algunos baches |
 | Aeropuerto de Resistencia → Mercedes | ~260 km | ~3,5 h | asfalto, cruzando el puente a Corrientes |
-| Mercedes → Pellegrini | 120 km | ~2 h | 40-50 km asfalto + 70-80 km ripio (últimos ~35 de piedra filosa); **sin nafta ni señal; con lluvia, solo 4x4** |
-| **La Plata → Pellegrini (auto propio, total)** | **858 km** | **~9 h 40 min sin paradas; 10-11 h reales** | última nafta en Mercedes |
+| Mercedes → Pellegrini | 118-120 km | ~2 h en 4x4; **hasta ~3 h 20 min en auto** | 50 km asfalto en excelente estado + 35 km de ripio bueno hasta Uguay + **35 km de laja puntiaguda que rompe cubiertas y protecciones (ir a ~30 km/h)**; **sin nafta ni señal; con lluvia, solo 4x4** |
+| **La Plata → Pellegrini (auto propio, total)** | **858 km** | **~11-12 h reales** | última nafta en Mercedes |
+| Goya → Mercedes | 149 km | ~1 h 50 min | Goya aparece como aeropuerto de entrada en la info de Casona Iberá, pero **no tiene vuelos comerciales** para esas fechas (Google Flights deriva a Resistencia o Corrientes) |
 | Aeropuerto de Corrientes → Pellegrini (directo) | ~356-370 km | ~5-6 h | vía Mercedes |
 | Aeropuerto de Posadas → Pellegrini | 200-250 km | 3 h 15 min a 4 h 40 min | RN 12 + RP 41 + RP 40, tierra y arena; **RP 41 solo de día** |
 
@@ -52,8 +53,8 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 | P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | $1.456.000 ≈ US$949 | $2.452.000 ≈ US$1.598 | $2.682.000 ≈ US$1.747 | $3.002.000 ≈ US$1.956 |
 | P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | $1.193.000 ≈ US$777 | $2.189.000 ≈ US$1.426 | $2.419.000 ≈ US$1.576 | $2.739.000 ≈ US$1.784 |
 | **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $2.885.000 ≈ US$1.879 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
-| **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.344.000 ≈ US$876** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
-| P6 · versión 4 noches | 4 | mié 11 | sáb ~14 h | + miércoles mañana | $348.000 ≈ US$227 | $1.654.000 ≈ US$1.078 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
+| **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14-15 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.344.000 ≈ US$876** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
+| P6 · versión 4 noches | 4 | mié 11 | sáb ~14-15 h | + miércoles mañana | $348.000 ≈ US$227 | $1.654.000 ≈ US$1.078 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
 
 ### Detalle de cada pack
 
@@ -83,9 +84,9 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - ✅ El más completo en días (3 enteros + dos medias jornadas). ⚠️ El más caro y requiere licencia el miércoles. Solo funciona con 4 noches: el martes 10 no hay vuelta de Aerolíneas desde Corrientes.
 
 **P6 · Auto propio La Plata → Pellegrini directo (Corolla)**
-- **Sáb 7, ~3-4 h:** salida de La Plata → 738 km hasta Mercedes (~8-9 h con paradas) → **cargar nafta en Mercedes** (en Pellegrini no hay) → 120 km, ~2 h → **~14 h en Pellegrini**.
+- **Sáb 7, ~3-4 h:** salida de La Plata → 738 km hasta Mercedes (~8-9 h con paradas) → **cargar nafta en Mercedes** (en Pellegrini no hay) → 120 km, **~2-3 h** (los últimos 35 km de laja, a ~30 km/h) → **~14-15 h en Pellegrini**.
 - **Sáb tarde, dom y lun:** excursiones; el auto queda en la posada (ellas mueven a los huéspedes).
-- **Mar 10:** check-out 10 h → Mercedes ~12 h (nafta) → **La Plata ~20-21 h**, a dormir a casa antes de trabajar el miércoles.
+- **Mar 10:** check-out 10 h → Mercedes ~12:30-13 h (nafta) → **La Plata ~21-22 h**, a dormir a casa antes de trabajar el miércoles.
 - **Nafta:** ~1.716 km ida y vuelta ≈ $309.000 (unas 3,5 cargas). El tramo Mercedes → Pellegrini → Mercedes (240 km) entra holgado en un tanque. Peajes ≈ $39.000 ida y vuelta.
 - ✅ **El más barato de todos:** ~US$1.025 con Ecoposada, 3 noches, sin licencia. Vuelta descansada, baúl libre, sin depender de horarios de vuelos ni micros.
 - ⚠️ Ojo con el ripio: los últimos ~35 km son de piedra filosa y con lluvia las posadas lo marcan como "no apto para autos pequeños". Mirar el pronóstico, ir despacio y llevar el auxilio en condiciones. ~20 h de manejo en 4 días: conviene turnarse. Peajes solo con TelePase.
@@ -430,7 +431,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
