@@ -349,6 +349,38 @@ Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https:/
 
 ---
 
+## 0c. Escenario: 3 noches en auto, sin licencia (29/9/2026, solo análisis, no está en el sitio)
+
+Propuesto por Daniel: salir el viernes 6 a la tarde, dormir en Concordia (o donde surja), estar en Pellegrini el sábado al mediodía, y volver el **martes 10 al amanecer**. El martes es feriado en CABA, así que **no hace falta pedir el miércoles**.
+
+**Itinerario**
+- **Vie 6:** 16:00 La Plata → Colón ~19:40 (carga) → Concordia ~21:00, hotel y cena.
+- **Sáb 7:** 7:30 → Mercedes ~10:10 (carga, efectivo) → **Pellegrini ~13:30**. Tarde: senderos del Parque Provincial o lancha al atardecer; atardecer desde el puente.
+- **Dom 8:** día entero (lancha a la mañana, caminata o cabalgata a la tarde, safari nocturno).
+- **Lun 9:** día entero (Parque Nacional Lobo Cuá a la mañana, kayak o lancha a la tarde). A la noche, dejar el auto cargado.
+- **Mar 10:** salida **~5:30** con la primera luz (amanece ~5:50) → Mercedes ~8:00 (carga y desayuno) → Colón ~12:30 (carga y almuerzo) → **La Plata ~16:40-17:00**. El miércoles se trabaja.
+
+**Costos (para los dos).** Gastos comunes iguales al de 4 noches: nafta $309.000 + peajes $39.000 + hotel en Concordia $43.000 + comidas en ruta $160.000 + Parque $46.000 = **$597.000**. En las posadas sin pensión completa: 6 almuerzos y cenas + meriendas en el pueblo ≈ $210.000 (en vez de $280.000). Donde no hay excursiones incluidas, se suman 3 sueltas (lancha, cabalgata, safari, precios de junio) = $210.000.
+
+| Posada | 3 noches | Extras | **Total 3 noches** | Total 4 noches | Ahorro |
+|---|---|---|---|---|---|
+| Cabaña Capivara (cocinando algo) | $240.000 | 3 excursiones + ~$180.000 comidas | **$1.227.000 ≈ US$799** | ≈ US$890 | ~US$90 |
+| Cabaña Capivara (todo afuera) | $240.000 | 3 excursiones + ~$255.000 comidas | $1.302.000 ≈ US$848 | ≈ US$955 | ~US$105 |
+| Posada Rancho Iberá (lancha, caminata, kayak) | $570.000 | comidas | $1.377.000 ≈ US$897 | ≈ US$988 | ~US$90 |
+| Casona Iberá (lancha, caminata, cabalgata) | $590.000 | comidas | $1.397.000 ≈ US$910 | ≈ US$1.093 | ~US$183 |
+| Irupé Standard | $405.000 | 3 excursiones + comidas | $1.422.000 ≈ US$926 | ≈ US$1.060 | ~US$134 |
+| Posada Iberá Porá (pensión completa, 2 lanchas, 2 caminatas) | $950.000 | — | $1.547.000 ≈ US$1.008 | ≈ US$1.210 | ~US$202 |
+| Ecoposada (+ impuestos) | $1.180.000 | — | $1.777.000 ≈ US$1.158 | ≈ US$1.405 | ~US$247 |
+| Iberá Lodge | $1.500.000 | — | $2.097.000 ≈ US$1.366 | ≈ US$1.731 | ~US$365 |
+
+No entran: Rancho de los Esteros (el sábado 7 depende de un grupo), Posada de la Laguna y El Paso (no cotizaron 3 noches), Ñandé Retá (su tarifa de 3 noches "no vale para findes largos").
+
+**Lectura**
+- **A favor:** no se pide licencia; ahorra ~US$90-200 según la posada; se vuelve un feriado (martes) y se llega a casa a las ~17 h con la noche para descansar.
+- **En contra:** quedan **2 días enteros + la tarde del sábado** (con 4 noches, 3 enteros); **no hay día de reserva si llueve**, y noviembre es de los meses más lluviosos; la proporción manejo/estadía empeora (~19 h de ruta para 2 días y medio). La última noche se paga entera y el martes no se desayuna en la posada.
+- **Costo por día en Iberá:** Casona 4 noches ≈ US$364 por día entero (3 días) contra ≈ US$455 con 3 noches (2 días); Iberá Porá ≈ US$403 contra ≈ US$504. Con 4 noches se paga menos por cada día allá.
+- Si llueve el martes, el plan B sigue siendo el 4x4 desde Mercedes (Aguirre $160.000 por tramo).
+
 ## 1. Fechas, feriados y licencias
 
 La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraordinarios, oficializados por el **Decreto 1103/2026** (Boletín Oficial del 28/9/2026). Los tres días son "feriado" pleno, no "día no laborable": alcanzan también a los empleados privados.
