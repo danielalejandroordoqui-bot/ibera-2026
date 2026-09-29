@@ -120,7 +120,20 @@ Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo
 
 Dos formas de hacer la ida:
 
-**Opción 1 · De un tirón, sáb 7 a las 3:30**
+**Opción 1 · Partir el viaje en dos: salir el viernes 6 a las 16 y dormir en Concordia**
+
+| Punto | Hora | Qué hacer |
+|---|---|---|
+| La Plata (vie 6) | **16:00** | tanque lleno y TelePase con saldo. Es el viernes antes del finde largo: puede haber más tránsito de salida en la Panamericana |
+| Gualeguaychú | ~18:45 | — |
+| San José / Colón | ~19:40 | **1ª carga de nafta** y café (~15 min) |
+| **Concordia** | **~21:00** | hotel y cena. Referencia: **Hathor Concordia, sobre la RN 14 km 264,5**, 3 estrellas con restaurante y estacionamiento, desde ~US$57 la noche (Kayak); no hace falta entrar a la ciudad. Hay muchas opciones más, desde ~$43.000. Reservar pronto y confirmar que tomen **una sola noche** en finde largo |
+| Concordia (sáb 7) | **7:30** | salida después del desayuno |
+| Cuatro Bocas | ~8:55 | dejar la RN 14 |
+| **Mercedes** | ~10:10 | **2ª carga, tanque lleno**, efectivo y algo para comer (~45 min). Salir ~10:55 |
+| **Colonia Carlos Pellegrini** | **~13:25-13:40** | entrada al Parque; almuerzo y la tarde entera en Iberá |
+
+**Opción 2 · De un tirón, sáb 7 a las 3:30**
 
 | Punto | km desde La Plata (aprox.) | Hora | Qué hacer |
 |---|---|---|---|
@@ -138,20 +151,7 @@ Dos formas de hacer la ida:
 | RP 40: laja puntiaguda | +35 | ~14:30-14:45 | a ~30 km/h, cuidar cubiertas y el bajo del auto; ya se ven carpinchos, ciervos y aves |
 | **Colonia Carlos Pellegrini** | ~860-900 | **~14:35-14:50** | pagar la entrada al Parque Provincial antes del puente (pulsera) |
 
-**Opción 2 · Salir el viernes 6 a las 16 y dormir en Concordia**
-
-| Punto | Hora | Qué hacer |
-|---|---|---|
-| La Plata (vie 6) | **16:00** | tanque lleno y TelePase con saldo. Es el viernes antes del finde largo: puede haber más tránsito de salida en la Panamericana |
-| Gualeguaychú | ~18:45 | — |
-| San José / Colón | ~19:40 | **1ª carga de nafta** y café (~15 min) |
-| **Concordia** | **~21:00** | hotel y cena. Referencia: **Hathor Concordia, sobre la RN 14 km 264,5**, 3 estrellas con restaurante y estacionamiento, desde ~US$57 la noche (Kayak); no hace falta entrar a la ciudad. Hay muchas opciones más, desde ~$43.000. Reservar pronto y confirmar que tomen **una sola noche** en finde largo |
-| Concordia (sáb 7) | **7:30** | salida después del desayuno |
-| Cuatro Bocas | ~8:55 | dejar la RN 14 |
-| **Mercedes** | ~10:10 | **2ª carga, tanque lleno**, efectivo y algo para comer (~45 min). Salir ~10:55 |
-| **Colonia Carlos Pellegrini** | **~13:25-13:40** | entrada al Parque; almuerzo y la tarde entera en Iberá |
-
-- **Qué se gana con la opción 2:** llegar ~1 h antes, no levantarse a las 3 y partir el manejo en ~5 h el viernes y ~6 h el sábado, llegando más frescos a la laja. **Cuesta** la noche de hotel y una comida más en ruta: **desde ~$83.000 (≈ US$54)** (en Concordia hay hoteles de todo tipo desde ~$43.000, según Daniel; cena ~$40.000, estimado).
+- **Qué se gana con la opción 1 (partir el viaje):** llegar ~1 h antes, no levantarse a las 3 y partir el manejo en ~5 h el viernes y ~6 h el sábado, llegando más frescos a la laja. **Cuesta** la noche de hotel y una comida más en ruta: **desde ~$83.000 (≈ US$54)** (en Concordia hay hoteles de todo tipo desde ~$43.000, según Daniel; cena ~$40.000, estimado).
 - **RN 119:** Ruta0 avisa que se está deteriorando, con zanjas por los camiones. Ir atentos.
 - **Con lluvia**, la RP 40 queda solo para 4x4: el plan B es dejar el auto en Mercedes y hacer el tramo con un 4x4 (Ñandé Retá cotizó $170.000 por tramo). Es también la opción si no quieren que el Corolla pise la laja. Mirar el pronóstico el viernes y el martes a la noche.
 - **Antes de salir:** auxilio inflado y en condiciones, presión de cubiertas, criquet, TelePase con saldo y efectivo. ~19 h de manejo en total: conviene turnarse.
