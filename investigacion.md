@@ -381,6 +381,8 @@ No entran: Rancho de los Esteros (el sábado 7 depende de un grupo), Posada de l
 - **Costo por día en Iberá:** Casona 4 noches ≈ US$364 por día entero (3 días) contra ≈ US$455 con 3 noches (2 días); Iberá Porá ≈ US$403 contra ≈ US$504. Con 4 noches se paga menos por cada día allá.
 - Si llueve el martes, el plan B sigue siendo el 4x4 desde Mercedes (Aguirre $160.000 por tramo).
 
+**Actualización (29/9):** a pedido de Daniel, este escenario (3 noches en auto, volviendo el martes) pasa también al sitio: fila nueva en "Cómo llegar", tarjetas de 3/4 noches reescritas y columna "Total 3 noches" en la tabla de posadas (con el mismo criterio que la de 4 noches: Capivara con 1 lancha ≈ US$770; Irupé con 1 lancha ≈ US$858). Daniel considera **inviables los precios de los transfers**.
+
 ## 1. Fechas, feriados y licencias
 
 La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraordinarios, oficializados por el **Decreto 1103/2026** (Boletín Oficial del 28/9/2026). Los tres días son "feriado" pleno, no "día no laborable": alcanzan también a los empleados privados.
@@ -475,7 +477,8 @@ Ninguna posada incluye el transfer en el precio. Opciones relevadas:
   - **Víctor Flores:** Mercedes ↔ Pellegrini **$170.000 por tramo ($340.000 ida y vuelta)**; **Corrientes ↔ Pellegrini $500.000 por tramo ($1.000.000 ida y vuelta)**.
   - **Martín Sandoval:** Mercedes ↔ Pellegrini **$340.000 ida y vuelta**; **Resistencia ↔ Pellegrini $950.000 ida y vuelta**.
   - **Daniel Aguirre:** por tramo: **Mercedes ↔ Pellegrini $160.000** (el más barato), **aeropuerto de Corrientes ↔ Pellegrini $500.000**, **aeropuerto de Resistencia ↔ Pellegrini $570.000**; punto de encuentro y hora a elección (16:16).
-  - Norma Pelozo y Rafael Muzio: enviados, sin respuesta. Combi de Daniel Ortiz (03773 15431469): no tiene WhatsApp.
+  - **Rafael Muzio** (16:30-16:32): por camioneta, ida y vuelta: **Mercedes ↔ Pellegrini $360.000**, **aeropuerto de Corrientes ↔ Pellegrini $800.000 (el más barato desde Corrientes)**, **aeropuerto de Resistencia ↔ Pellegrini $900.000**; él pone fecha, lugar y hora. Con su precio, avión a Corrientes + transfer (4 noches) baja a $1.550.100 (≈ US$1.010).
+  - Norma Pelozo: enviada, sin respuesta. Combi de Daniel Ortiz (03773 15431469): no tiene WhatsApp.
   - Posadas: **Oscar Díaz** (3754-405533; el 3764 549 520 no tiene WhatsApp): **$700.000 total ida y vuelta, pagando en destino**. **Gustavo Prion: $800.000 total**. Roberto Zimmerly: sin respuesta.
   - Lectura: Mercedes ↔ Pellegrini es tarifa de plaza, **$160.000-170.000 por tramo**; desde aeropuertos no aparece nada más barato que El Paso (Corrientes $900.000, Posadas $700.000, igualado por Oscar Díaz).
 - **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta**; **Ñandé Retá, $490.000 por tramo (≈ $980.000 ida y vuelta)**. Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
@@ -644,7 +647,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Solo con desayuno** (almuerzo y cena aparte). Habitación con baño privado.
 - **3 noches: $295.000 por persona** → **$590.000 la pareja (≈ US$384)**. Incluye: lancha a la naciente de los esteros por el canal Corriente (~2 h), caminata guiada por el Centro de Interpretación y senderos, y cabalgata por palmares y esteros (~2 h). Fede confirmó: "incluye las tres noches de alojamiento con desayuno y las tres excursiones".
 - **4 noches: $400.000 por persona** → **$800.000 la pareja (≈ US$521)**. Suma una segunda lancha por el río Miriñay (~2:30 h).
-- **Pago:** seña 50% por transferencia o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher. **Saldo al ingresar a la hostería, con tarjeta de crédito en 3 a 6 cuotas sin interés según la tarjeta** (29/9).
+- **Pago:** seña 50% por transferencia o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher. **Saldo al ingresar a la hostería, con tarjeta de crédito en 3 a 6 cuotas sin interés según la tarjeta** (29/9). **Pagando de contado, 10% de bonificación** (29/9): 4 noches $720.000, 3 noches $531.000.
 - **Transfer y acceso (28/9, 20:39-20:41):** ofrecen transfer **Mercedes → Pellegrini $190.000 por tramo** (hasta 4 personas); en vehículo particular "se puede acceder tranquilamente"; con lluvia recomiendan entrar por Mercedes y no por Posadas (RP 41, 120 km de ripio).
 - **Fotos que mandó:** casona antigua con galería y techos altos de madera; pileta y jardín con palmeras; muelle con mirador techado sobre la laguna, al atardecer.
 - No aclaró disponibilidad explícita; el precio se toma como válido para las fechas consultadas.
