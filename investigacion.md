@@ -193,6 +193,38 @@ Pago: Rancho Iberá todavía no respondió las formas de pago.
 - **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5), con el Uber al aeropuerto, da ~$3.065.000; la versión A en auto propio sale ~$1.291.000 menos (≈ US$841). Y en tiempo casi empatan: para el vuelo de las 8:45 hay que salir de La Plata ~5:30 (1 h de Uber + 2 h de anticipación) y se llega a Pellegrini ~16 h, la misma hora que en auto saliendo 3:30. Con el de las 7:30 a Resistencia (P2) hay que salir ~4:30 y se llega ~15:30.
 - **Imprevisto a tener en cuenta:** si llueve y hay que dejar el auto en Mercedes, el 4x4 suma $170.000 por tramo.
 
+### Auto propio vs. avión: a qué hora se llega (29/9/2026)
+
+Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta (aeropuertos chicos, solo carry-on). Transfers: Resistencia/Corrientes ↔ Pellegrini 5-6 h, Posadas ↔ Pellegrini 3 h 15 min a 4 h 40 min (estimados; confirmar con el chofer). Auto propio: ~11-12,5 h puerta a puerta según el ritmo (ver abajo).
+
+**Ida, sáb 7** (no hay vuelos antes de las 7:30):
+
+| Opción | Salida de La Plata | Aterriza | Llegada a Pellegrini |
+|---|---|---|---|
+| Aerolíneas 7:30 a Resistencia + transfer directo | ~4:30 | 9:05 | **~15:00-15:30** |
+| Aerolíneas 7:30 a Resistencia + auto de alquiler + 4x4 (P2) | ~4:30 | 9:05 | ~15:30 |
+| Aerolíneas 9:35 a Posadas + transfer ($642.000 por persona) | ~6:30 | 11:15 | ~15:00-16:30 |
+| Aerolíneas 8:45 a Corrientes + transfer o auto + 4x4 | ~5:30 | 10:20 | ~16:00-16:30 |
+| **Auto propio** | **3:30** | — | **~15:00-16:00** |
+
+**Vuelta, mié 11:**
+
+| Opción | Salida de Pellegrini | Aterriza en BA | En La Plata |
+|---|---|---|---|
+| Aerolíneas 10:50 desde Corrientes | ~3:30, con el ripio de noche ⚠️ | 12:20 | ~13:40 |
+| Aerolíneas 10:35 desde Posadas | ~4:30, con la RP 41 de noche ⚠️ | ~12:15 | ~13:30 |
+| **Aerolíneas 14:25 desde Posadas** ($182.175 por persona) | **~8:30, de día** | ~16:05 | **~17:30** |
+| Aerolíneas 16:40 desde Resistencia | ~9:00 | ~18:10 | ~19:30 |
+| **Auto propio** | **7:30** | — | **~19:00-20:00** |
+| JetSMART 17:51 desde Resistencia | ~10:30 | 19:20 | ~20:40 |
+| Aerolíneas 18:05 desde Corrientes | ~11:00 | 19:35 | ~21:00 |
+| JetSMART 18:16 desde Posadas | ~12:30 | 19:51 | ~21:10 |
+
+- **Ida:** el avión gana como mucho ~1 h (Resistencia 7:30 + transfer) y cuesta ~US$840 más de transporte. La diferencia real es llegar sin haber manejado.
+- **Vuelta:** el único que gana claro es el **14:25 desde Posadas**: se sale de Pellegrini con luz de día y se llega a casa ~2 h 30 min antes que en auto. Los vuelos de la mañana obligan a hacer el ripio o la RP 41 de noche; los de la tarde llegan más tarde que el auto, a cambio de la mañana libre.
+- **Mejor combinación en avión:** ida 7:30 a Resistencia + vuelta 14:25 desde Posadas → ~3 h 30 min menos de viaje en total que el auto y ~24 h menos de manejo, por ~US$800-850 más. Con auto propio no se mezclan ida y vuelta.
+- **Ritmo del auto:** una vecina tarda 12 h de La Plata a Misiones (Posadas, ~1.100 km, todo asfalto) parando en estaciones → ~90 km/h de promedio con paradas. A ese ritmo, los ~740 km hasta Mercedes son ~8 h, más ~45 min de parada en Mercedes y ~2 h 45 min a 3 h 20 min de RP 40: **~11-12 h**. El itinerario (3:30 → 16 h) deja ~1 h de margen por la RN 119 (doble mano, con camiones y zanjas).
+
 Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https://www.camaraturismoibera.com.ar/Como-Llegar), [Ruta0 — La Plata → Colonia Carlos Pellegrini](https://www.ruta0.com/ruta/argentina/la-plata-a-colonia-carlos-pellegrini/mas-corta/), [Ruta0 — Mercedes (BA) → Corrientes](https://www.ruta0.com/ruta/argentina/mercedes-buenos-aires-a-corrientes/), [Wikipedia — Ruta Nacional 119](https://es.wikipedia.org/wiki/Ruta_Nacional_119_(Argentina)), [Wikipedia — Ruta Nacional 14](https://es.wikipedia.org/wiki/Ruta_Nacional_14_(Argentina)).
 
 ---
@@ -680,7 +712,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
 - **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
-- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b).
+- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b). Se suman las tablas de horarios de llegada auto propio vs. avión, ida y vuelta, y el ritmo de manejo según una vecina que va a Misiones.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
