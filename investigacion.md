@@ -385,6 +385,15 @@ No entran: Rancho de los Esteros (el sábado 7 depende de un grupo), Posada de l
 
 **Actualización (29/9):** a pedido de Daniel, este escenario (3 noches en auto, volviendo el martes) pasa también al sitio: fila nueva en "Cómo llegar", tarjetas de 3/4 noches reescritas y columna "Total 3 noches" en la tabla de posadas (con el mismo criterio que la de 4 noches: Capivara con 1 lancha ≈ US$770; Irupé con 1 lancha ≈ US$858). Daniel considera **inviables los precios de los transfers**.
 
+- **Ronda del 29/9, 17:08-17:14 (disponibilidad 3/4 noches en auto y pagos) — respuestas:**
+  - **Casona Iberá (Fede):** **hay disponibilidad para 3 y 4 noches**. Programas nuevos (13:14): 2 noches $190.000 por persona (lancha + caminata); **3 noches $290.000 por persona** ($580.000 los dos; lancha + caminata + cabalgata); **4 noches $400.000 por persona** (4 excursiones). Para reservar: nombre, DNI y **seña 50% por transferencia**; con el comprobante mandan el voucher. De contado 10% de descuento. Mandó ~20 fotos.
+  - **Posada de la Laguna (Milagros):** **tiene lugar para 3 o 4 noches**. **3 noches: $1.740.000 los dos** (dormitorio matrimonial, pensión completa, 2 lanchas + 1 canoa desde su jardín y caminatas en ambos parques).
+  - **Ecoposada (Estrella):** **queda 1 habitación**. "Tarifa $590.000 por persona; este importe sería el total" (3 noches, **impuestos incluidos**), seña 20% y saldo al llegar en efectivo. Falta el total final de 4 noches.
+  - **Iberá Lodge (Geraldine):** **3 noches $1.500.000 · 4 noches $2.000.000** los dos. **No está en el pueblo: "estamos en frente a lo que sería Pellegrini"**, a 55 km de Mercedes ([ubicación](https://maps.app.goo.gl/PxULwx4SRSFb85zP7)). Se llega con auto propio aunque no sea 4x4, con aviso de estado del camino 2 días antes; con lluvia recomiendan transfer desde Mercedes (~$300.000 ida y vuelta, hasta 4). Check-in al predio desde las 8, habitación 12 h; check-out habitación 10 h, predio 17 h. Recargo con tarjeta: sin respuesta.
+  - **Ñandé Retá (Lucía):** **tiene la habitación**; la puede bloquear unas horas. **4 noches $2.348.000 + IVA** (≈ $2.841.000) y **3 noches $1.980.000 + IVA** (≈ $2.395.800) los dos, con todas las comidas y 4 excursiones. Se llega con auto: desde Mercedes 40 km de asfalto y 80 de ripio; "se puede poner difícil para autos bajos solo si llueve mucho varios días seguidos".
+  - Sin respuesta todavía: Rancho Iberá, Rancho de los Esteros, El Paso. Inambú avisó que manda la info.
+  - Totales del viaje en auto (3 noches · 4 noches): Casona de contado ≈ US$866 · US$1.040; Ecoposada ≈ US$1.158 · US$1.405; Iberá Lodge ≈ US$1.366 · US$1.692; Laguna ≈ US$1.522 · US$1.900; Ñandé Retá ≈ US$1.950 · US$2.240.
+
 ## 1. Fechas, feriados y licencias
 
 La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraordinarios, oficializados por el **Decreto 1103/2026** (Boletín Oficial del 28/9/2026). Los tres días son "feriado" pleno, no "día no laborable": alcanzan también a los empleados privados.
