@@ -830,6 +830,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. ~~Transfer desde Posadas y Corrientes~~ ✅ El Paso: Posadas $700.000 y Corrientes $900.000 ida y vuelta; Ñandé Retá: Corrientes $490.000 y Mercedes $170.000 por tramo.
 7b. **Casa Santa Ana del Iberá:** Daniel le escribió por Instagram; esperando respuesta.
+7c. **Inambú casa de huéspedes** (nueva, llegó por un anuncio de Instagram; WhatsApp "Inambu casa de huéspedes"): el 29/9 a las 16:21 se le consultó disponibilidad y tarifa para 2 adultos 7→11 (4 noches) y 7→10 (3 noches), qué incluye, formas de pago, cuotas sin interés y estacionamiento; esperando respuesta.
 8. **Elegir aeropuerto y comprar vuelos** una vez definidos posada y transfer (en finde largo los precios pueden subir).
 9. **Licencia del miércoles 11:** solo si se eligen 4 noches.
 
