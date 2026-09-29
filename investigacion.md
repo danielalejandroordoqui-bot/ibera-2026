@@ -113,37 +113,57 @@ Dos versiones del mismo viaje en el Corolla, **sáb 7 → mié 11/11** (licencia
 
 ### El camino (servicios en ruta)
 
-Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo Largo) → **RN 14, autovía** por Entre Ríos → en **Cuatro Bocas** se sale a la **RN 119** (Curuzú Cuatiá) → Mercedes → **RP 40** hasta Pellegrini. **~860-900 km por tramo, ~11-11,5 h de manejo sin paradas** (Cámara de Turismo del Iberá: 860 km; Ruta0: 897 km y 11 h 27 min). **La RN 14 es autovía completa desde Ceibas hasta Paso de los Libres** (496 km); se deja en Cuatro Bocas, antes de Paso de los Libres, así que es autovía casi todo el camino. Doble mano: el tramo corto de la RN 12 hasta Ceibas, la RN 119 (109 km) y la RP 40. Referencia de una vecina que va en auto de La Plata a Misiones (~1.000 km): 12 h parando en estaciones de servicio. A Pellegrini son ~100 km menos, pero los últimos 120 km son lentos: **~12-12,5 h puerta a puerta** con paradas es un cálculo realista.
+Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo Largo) → **RN 14, autovía** por Entre Ríos → en **Cuatro Bocas** se sale a la **RN 119** (Curuzú Cuatiá) → Mercedes → **RP 40** hasta Pellegrini. **~860-900 km por tramo** (Cámara de Turismo del Iberá: 860 km; Ruta0: 897 km). **La RN 14 es autovía completa desde Ceibas hasta Paso de los Libres** (496 km); se deja en Cuatro Bocas, antes de Paso de los Libres, así que es autovía casi todo el camino. Doble mano: el tramo corto de la RN 12 hasta Ceibas, la RN 119 (109 km) y la RP 40.
 
-| Punto | km desde La Plata (aprox.) | Hora de ida | Qué hacer |
+**Ritmo usado (el de Daniel):** crucero de 110-140 km/h en ruta. Promedio real en movimiento: **~110 km/h en la RN 14** (descontando peajes, el puente, accesos a ciudades y camiones) y **~90 km/h en la RN 119** (doble mano, con camiones y zanjas). La **RP 40** se hace cuidando el Corolla: 50 km de asfalto (~35 min) + 35 km de ripio bueno (~40 min) + 35 km de laja a ~30 km/h (~1 h 10 min a 1 h 25 min) = **~2 h 30 min a 2 h 45 min**. Resultado: **~11 h puerta a puerta** con paradas. En la RN 14 hay controles de velocidad; el máximo en autovía es 130 km/h.
+
+Dos formas de hacer la ida:
+
+**Opción 1 · De un tirón, sáb 7 a las 3:30**
+
+| Punto | km desde La Plata (aprox.) | Hora | Qué hacer |
 |---|---|---|---|
 | La Plata | 0 | **3:30** | salir con el tanque lleno y saldo en TelePase (la RN 14 cobra solo electrónico) |
 | Puente Zárate-Brazo Largo | ~170 | ~5:15 | amanece ~5:45 |
-| Gualeguaychú | ~280 | ~6:30 | **desayuno** y baño en una estación sobre la RN 14 |
-| San José / Colón | ~370 | ~7:45 | **1ª carga de nafta** (con ~500 km de autonomía no conviene estirar hasta Concordia) |
-| Concordia | ~480 | ~9:00 | café y baño |
-| Chajarí | ~560 | ~10:00 | parada corta si hace falta |
-| Cuatro Bocas (RN 14 → RN 119) | ~630 | ~10:45 | dejar la RN 14 |
-| Curuzú Cuatiá | ~665 | ~11:15 | nafta de respaldo |
-| **Mercedes** | ~740 | **~12:15** | **2ª carga, tanque lleno** (en Pellegrini no hay nafta), **sacar efectivo** (en Pellegrini no hay cajeros) y almuerzo. Salir ~13:15 |
-| RP 40: asfalto | +50 | ~13:55 | asfalto en muy buen estado |
-| RP 40: ripio bueno | +35 | ~14:40 | hasta Uguay; sin señal ni nafta |
-| RP 40: laja puntiaguda | +35 | ~15:50 | a ~30 km/h, cuidar cubiertas y el bajo del auto; ya se ven carpinchos, ciervos y aves |
-| **Colonia Carlos Pellegrini** | ~860-900 | **~16:00** | pagar la entrada al Parque Provincial antes del puente (pulsera) |
+| Gualeguaychú | ~280 | ~6:15 | **desayuno** y baño en una estación sobre la RN 14 (~20 min) |
+| San José / Colón | ~370 | ~7:25 | **1ª carga de nafta** (con ~500 km de autonomía no conviene estirar hasta Concordia) |
+| Concordia | ~480 | ~8:40 | baño si hace falta |
+| Chajarí | ~560 | ~9:25 | — |
+| Cuatro Bocas (RN 14 → RN 119) | ~630 | ~10:05 | dejar la RN 14 |
+| Curuzú Cuatiá | ~665 | ~10:25 | nafta de respaldo |
+| **Mercedes** | ~740 | **~11:20** | **2ª carga, tanque lleno** (en Pellegrini no hay nafta), **sacar efectivo** (en Pellegrini no hay cajeros) y almuerzo temprano. Salir ~12:05 |
+| RP 40: asfalto | +50 | ~12:40 | asfalto en muy buen estado |
+| RP 40: ripio bueno | +35 | ~13:20 | hasta Uguay; sin señal ni nafta |
+| RP 40: laja puntiaguda | +35 | ~14:30-14:45 | a ~30 km/h, cuidar cubiertas y el bajo del auto; ya se ven carpinchos, ciervos y aves |
+| **Colonia Carlos Pellegrini** | ~860-900 | **~14:35-14:50** | pagar la entrada al Parque Provincial antes del puente (pulsera) |
 
+**Opción 2 · Salir el viernes 6 a las 16 y dormir en Concordia**
+
+| Punto | Hora | Qué hacer |
+|---|---|---|
+| La Plata (vie 6) | **16:00** | tanque lleno y TelePase con saldo. Es el viernes antes del finde largo: puede haber más tránsito de salida en la Panamericana |
+| Gualeguaychú | ~18:45 | — |
+| San José / Colón | ~19:40 | **1ª carga de nafta** y café (~15 min) |
+| **Concordia** | **~21:00** | hotel y cena. Referencia: **Hathor Concordia, sobre la RN 14 km 264,5**, 3 estrellas con restaurante y estacionamiento, desde ~US$57 la noche (Kayak); no hace falta entrar a la ciudad. Reservar pronto y confirmar que tomen **una sola noche** en finde largo |
+| Concordia (sáb 7) | **7:30** | salida después del desayuno |
+| Cuatro Bocas | ~8:55 | dejar la RN 14 |
+| **Mercedes** | ~10:10 | **2ª carga, tanque lleno**, efectivo y algo para comer (~45 min). Salir ~10:55 |
+| **Colonia Carlos Pellegrini** | **~13:25-13:40** | entrada al Parque; almuerzo y la tarde entera en Iberá |
+
+- **Qué se gana con la opción 2:** llegar ~1 h antes, no levantarse a las 3 y partir el manejo en ~5 h el viernes y ~6 h el sábado, llegando más frescos a la laja. **Cuesta** la noche de hotel y una cena: **~$130.000 (≈ US$85)** (hotel ~$90.000 + cena ~$40.000, estimado).
 - **RN 119:** Ruta0 avisa que se está deteriorando, con zanjas por los camiones. Ir atentos.
-- **Con lluvia**, la RP 40 queda solo para 4x4: el plan B es dejar el auto en Mercedes y hacer el tramo con un 4x4 (Ñandé Retá cotizó $170.000 por tramo). Mirar el pronóstico el viernes y el martes a la noche.
-- **Antes de salir:** auxilio inflado y en condiciones, presión de cubiertas, criquet, TelePase con saldo y efectivo. ~22 h de manejo en total: conviene turnarse.
+- **Con lluvia**, la RP 40 queda solo para 4x4: el plan B es dejar el auto en Mercedes y hacer el tramo con un 4x4 (Ñandé Retá cotizó $170.000 por tramo). Es también la opción si no quieren que el Corolla pise la laja. Mirar el pronóstico el viernes y el martes a la noche.
+- **Antes de salir:** auxilio inflado y en condiciones, presión de cubiertas, criquet, TelePase con saldo y efectivo. ~19 h de manejo en total: conviene turnarse.
 
-**Vuelta, mié 11:** desayuno 7 → **salida 7:30** (el ripio con luz de día) → Mercedes ~10:15 (**carga**) → Curuzú Cuatiá ~11:30 → Concordia ~13:30 (**almuerzo**) → Colón ~15:30 (**carga**) → Gualeguaychú ~16:30 (merienda) → **La Plata ~20 h**.
+**Vuelta, mié 11:** desayuno 7 → **salida 7:30** (el ripio con luz de día) → Mercedes ~10:00-10:15 (**carga**) → Curuzú Cuatiá ~10:55 → Chajarí ~12:00 → Concordia ~12:45 (**almuerzo**) → Colón ~14:30 (**carga**) → Gualeguaychú ~15:35 (merienda) → **La Plata ~18:40-19:00**.
 
-**Nafta:** ~1.750 km en total (ida, vuelta y algo de movimiento en el pueblo) → **~$309.000**, con 4 cargas: Colón y Mercedes a la ida, Mercedes y Colón a la vuelta. **Peajes:** ~$39.000 ida y vuelta con TelePase.
+**Nafta:** ~1.750 km en total (ida, vuelta y algo de movimiento en el pueblo) → **~$309.000**, con 4 cargas: Colón y Mercedes a la ida, Mercedes y Colón a la vuelta (a más de 120 km/h el consumo sube; puede ser algo más). **Peajes:** ~$39.000 ida y vuelta con TelePase.
 
 ### Versión A · Todo incluido: Posada Iberá Porá
 
 Pensión completa (desayuno, almuerzo, merienda y cena) + 2 lanchas + 2 caminatas guiadas + 1 safari nocturno. La posada arma los horarios de las salidas; esto es un orden posible.
 
-- **Sáb 7:** llegada ~16 h, merienda en la posada, **atardecer desde el puente** (~19:20), cena.
+- **Sáb 7:** llegada ~14:30-15 h (~13:30 si duermen en Concordia), merienda en la posada, **atardecer desde el puente** (~19:20), cena.
 - **Dom 8:** **lancha** a la mañana (más fauna, menos calor) · almuerzo · siesta o pileta · **caminata guiada** a la tarde · cena.
 - **Lun 9:** **Parque Nacional, área Lobo Cuá** (gratis, 9 a 16 h, torre mirador) por cuenta propia en el auto, o la **2ª caminata guiada** · almuerzo · **2ª lancha** al atardecer · **safari nocturno**.
 - **Mar 10:** **cabalgata** opcional ($40.000 por persona) o **senderos del Parque Provincial** por cuenta propia (Carayá, Cerrito, Montes; 8 a 18 h). Si llovió algún día, queda como día de reserva.
@@ -158,6 +178,7 @@ Pensión completa (desayuno, almuerzo, merienda y cena) + 2 lanchas + 2 caminata
 | Comidas en ruta (desayuno y almuerzo a la ida, almuerzo y merienda a la vuelta) | ~$120.000 |
 | **Total** | **~$1.774.000 ≈ US$1.156** |
 | Con cabalgata para los dos (+$80.000) | ~$1.854.000 ≈ US$1.208 |
+| Si duermen en Concordia el viernes (+~$130.000) | ~$1.904.000 ≈ US$1.240 |
 
 Bebidas aparte. Pago: seña 50% + DNI.
 
@@ -165,7 +186,7 @@ Bebidas aparte. Pago: seña 50% + DNI.
 
 Habitación de la posada (la del video, con aire y baño completo) con desayuno + lancha de 2 h + caminata guiada + kayak. Almuerzos, cenas y el resto de las excursiones se contratan en el pueblo.
 
-- **Sáb 7:** llegada ~16 h, **atardecer desde el puente** · cena en **Yacarú Porá** (pastas caseras).
+- **Sáb 7:** llegada ~14:30-15 h (~13:30 si duermen en Concordia), **senderos del Parque Provincial** o descanso · **atardecer desde el puente** · cena en **Yacarú Porá** (pastas caseras).
 - **Dom 8:** **lancha** de la posada a la mañana · almuerzo en **Café de los Pájaros** (cocina guaraní) · siesta o pileta · **senderos del Parque Provincial** a la tarde · **safari nocturno** con El Iberacero ($30.000 por persona, precio de junio).
 - **Lun 9:** **Parque Nacional Lobo Cuá** a la mañana (en el auto) o la **caminata guiada** de la posada · almuerzo en **Dalmacio Bar** · **kayak** de la posada a la tarde · cena en **Bar Destino Iberá**.
 - **Mar 10:** **cabalgata** con Paiubre ($30.000 por persona, precio de junio) · almuerzo en **Don Marcos** · tarde libre o día de reserva por lluvia · atardecer en el camping municipal · cena en **Reiyel**.
@@ -183,6 +204,7 @@ Habitación de la posada (la del video, con aire y baño completo) con desayuno 
 | Comidas en ruta | ~$120.000 |
 | **Total** | **~$1.524.000 ≈ US$993** |
 | Con una 2ª lancha al atardecer (La Voz del Iberá, $45.000 por persona) | ~$1.614.000 ≈ US$1.051 |
+| Si duermen en Concordia el viernes (+~$130.000) | ~$1.654.000 ≈ US$1.078 |
 
 Pago: Rancho Iberá todavía no respondió las formas de pago.
 
@@ -190,12 +212,12 @@ Pago: Rancho Iberá todavía no respondió las formas de pago.
 
 - **B sale ~$250.000 (≈ US$163) menos que A**, con casi las mismas excursiones (A tiene 2 lanchas y 2 caminatas; B tiene 1 lancha, 1 caminata y suma kayak, safari y cabalgata). A cambio, en B hay que elegir dónde comer cada día y reservar las excursiones sueltas.
 - **Más barato todavía:** Cabaña Capivara (cabaña con cocina, sin desayuno, $320.000 las 4 noches) en lugar de Rancho Iberá: ~$1.334.000 (≈ US$869) con lancha, safari y cabalgata y comiendo afuera.
-- **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5), con el Uber al aeropuerto, da ~$3.065.000; la versión A en auto propio sale ~$1.291.000 menos (≈ US$841). Y en tiempo casi empatan: para el vuelo de las 8:45 hay que salir de La Plata ~5:30 (1 h de Uber + 2 h de anticipación) y se llega a Pellegrini ~16 h, la misma hora que en auto saliendo 3:30. Con el de las 7:30 a Resistencia (P2) hay que salir ~4:30 y se llega ~15:30.
+- **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5), con el Uber al aeropuerto, da ~$3.065.000; la versión A en auto propio sale ~$1.291.000 menos (≈ US$841). Y en tiempo el auto gana: para el vuelo de las 8:45 hay que salir de La Plata ~5:30 (1 h de Uber + 2 h de anticipación) y se llega a Pellegrini ~16 h; con el de las 7:30 a Resistencia (P2), salir ~4:30 y llegar ~15:30. En auto, saliendo 3:30, se llega ~14:35-14:50.
 - **Imprevisto a tener en cuenta:** si llueve y hay que dejar el auto en Mercedes, el 4x4 suma $170.000 por tramo.
 
 ### Auto propio vs. avión: a qué hora se llega (29/9/2026)
 
-Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta (aeropuertos chicos, solo carry-on). Transfers: Resistencia/Corrientes ↔ Pellegrini 5-6 h, Posadas ↔ Pellegrini 3 h 15 min a 4 h 40 min (estimados; confirmar con el chofer). Auto propio: ~11-12,5 h puerta a puerta según el ritmo (ver abajo).
+Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta (aeropuertos chicos, solo carry-on). Transfers: Resistencia/Corrientes ↔ Pellegrini 5-6 h, Posadas ↔ Pellegrini 3 h 15 min a 4 h 40 min (estimados; confirmar con el chofer). Auto propio: ~11 h puerta a puerta al ritmo de Daniel (110-140 km/h).
 
 **Ida, sáb 7** (no hay vuelos antes de las 7:30):
 
@@ -205,7 +227,8 @@ Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1
 | Aerolíneas 7:30 a Resistencia + auto de alquiler + 4x4 (P2) | ~4:30 | 9:05 | ~15:30 |
 | Aerolíneas 9:35 a Posadas + transfer ($642.000 por persona) | ~6:30 | 11:15 | ~15:00-16:30 |
 | Aerolíneas 8:45 a Corrientes + transfer o auto + 4x4 | ~5:30 | 10:20 | ~16:00-16:30 |
-| **Auto propio** | **3:30** | — | **~15:00-16:00** |
+| **Auto propio de un tirón** | **3:30** | — | **~14:35-14:50** |
+| **Auto propio, durmiendo en Concordia** | **vie 16:00** | — | **~13:25-13:40** |
 
 **Vuelta, mié 11:**
 
@@ -215,15 +238,15 @@ Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1
 | Aerolíneas 10:35 desde Posadas | ~4:30, con la RP 41 de noche ⚠️ | ~12:15 | ~13:30 |
 | **Aerolíneas 14:25 desde Posadas** ($182.175 por persona) | **~8:30, de día** | ~16:05 | **~17:30** |
 | Aerolíneas 16:40 desde Resistencia | ~9:00 | ~18:10 | ~19:30 |
-| **Auto propio** | **7:30** | — | **~19:00-20:00** |
+| **Auto propio** | **7:30** | — | **~18:40-19:00** |
 | JetSMART 17:51 desde Resistencia | ~10:30 | 19:20 | ~20:40 |
 | Aerolíneas 18:05 desde Corrientes | ~11:00 | 19:35 | ~21:00 |
 | JetSMART 18:16 desde Posadas | ~12:30 | 19:51 | ~21:10 |
 
-- **Ida:** el avión gana como mucho ~1 h (Resistencia 7:30 + transfer) y cuesta ~US$840 más de transporte. La diferencia real es llegar sin haber manejado.
-- **Vuelta:** el único que gana claro es el **14:25 desde Posadas**: se sale de Pellegrini con luz de día y se llega a casa ~2 h 30 min antes que en auto. Los vuelos de la mañana obligan a hacer el ripio o la RP 41 de noche; los de la tarde llegan más tarde que el auto, a cambio de la mañana libre.
-- **Mejor combinación en avión:** ida 7:30 a Resistencia + vuelta 14:25 desde Posadas → ~3 h 30 min menos de viaje en total que el auto y ~24 h menos de manejo, por ~US$800-850 más. Con auto propio no se mezclan ida y vuelta.
-- **Ritmo del auto:** una vecina tarda 12 h de La Plata a Misiones (Posadas, ~1.100 km, todo asfalto) parando en estaciones → ~90 km/h de promedio con paradas. A ese ritmo, los ~740 km hasta Mercedes son ~8 h, más ~45 min de parada en Mercedes y ~2 h 45 min a 3 h 20 min de RP 40: **~11-12 h**. El itinerario (3:30 → 16 h) deja ~1 h de margen por la RN 119 (doble mano, con camiones y zanjas).
+- **Ida:** **el auto gana.** De un tirón llega antes que el mejor vuelo (Resistencia 7:30 + transfer, ~15-15:30), y durmiendo en Concordia llega ~13:30. El avión cuesta ~US$840 más de transporte; su única ventaja es llegar sin haber manejado.
+- **Vuelta:** el único que gana claro es el **14:25 desde Posadas**: se sale de Pellegrini con luz de día y se llega a casa ~1 h 10 min a 1 h 30 min antes que en auto. Los vuelos de la mañana obligan a hacer el ripio o la RP 41 de noche; los de la tarde llegan más tarde que el auto, a cambio de la mañana libre.
+- **Mejor combinación en avión:** ida 7:30 a Resistencia + vuelta 14:25 desde Posadas → en total, casi el mismo tiempo puerta a puerta que el auto (solo gana ~1 h 30 min a la vuelta) y ~19 h menos de manejo, por ~US$800-850 más. Con auto propio no se mezclan ida y vuelta.
+- **Ritmo del auto:** calculado con el crucero de Daniel (110-140 km/h): ~110 km/h de promedio en movimiento en la RN 14, ~90 en la RN 119 y 2 h 30 min a 2 h 45 min de RP 40 → **~11 h puerta a puerta**. Como referencia, una vecina tarda 12 h de La Plata a Misiones (~1.100 km, todo asfalto) parando en estaciones.
 
 Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https://www.camaraturismoibera.com.ar/Como-Llegar), [Ruta0 — La Plata → Colonia Carlos Pellegrini](https://www.ruta0.com/ruta/argentina/la-plata-a-colonia-carlos-pellegrini/mas-corta/), [Ruta0 — Mercedes (BA) → Corrientes](https://www.ruta0.com/ruta/argentina/mercedes-buenos-aires-a-corrientes/), [Wikipedia — Ruta Nacional 119](https://es.wikipedia.org/wiki/Ruta_Nacional_119_(Argentina)), [Wikipedia — Ruta Nacional 14](https://es.wikipedia.org/wiki/Ruta_Nacional_14_(Argentina)).
 
@@ -712,7 +735,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
 - **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
-- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b). Se suman las tablas de horarios de llegada auto propio vs. avión, ida y vuelta, y el ritmo de manejo según una vecina que va a Misiones.
+- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b). Se suman las tablas de horarios de llegada auto propio vs. avión, ida y vuelta. Tiempos recalculados con el ritmo de Daniel (110-140 km/h): ~11 h puerta a puerta. Se suma la opción de salir el viernes 6 a las 16 y dormir en Concordia (Hathor, sobre la RN 14) → Pellegrini sáb ~13:30.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
