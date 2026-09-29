@@ -906,6 +906,10 @@ Fuentes: [parqueibera.gob.ar](https://parqueibera.gob.ar/) (Gobierno de Corrient
 | Aguapé Lodge | lodge | +54 3773 41-3081 (el de Muzio) | reservas@esterosdeliberasa.com.ar, iberaesteros.com.ar | Yacaré y Ñangapirí |
 | Camping Municipal | camping | +54 3773 45-8926 | — | Mbigua y Laguna Iberá |
 
+**Consultas enviadas (29/9, 18:24-18:30, pedido de Daniel: lugares con buena pinta, habitación matrimonial con baño privado, aire acondicionado y calefacción):** Hostería Tupasy (+54 9 3773 44-9579), Posada de los Pájaros (el 3773 43-0539 no tiene WhatsApp; se escribió al +54 9 11 5768-3786), Huella Iberá, Posada Che Teindy, Corazón del Iberá, Posada Ypa Sapukai (+54 9 11 3704-2288), cabañas Don Rubito, cabañas Aires del Iberá, Posada Rancho Jabirú y Aguapé Lodge (en el chat de Rafael Muzio, mismo número). Posada El Yacaré (3773 41-5329) no tiene WhatsApp: queda por mail, iberatours@hotmail.com.
+- Primeras respuestas: **Tupasy** tiene disponibilidad, ofrece alojamiento con desayuno, **calefacción eléctrica, aire acondicionado y ventilador de techo**; manda su Instagram (tarifa pendiente). **Ypa Sapukai** mandó su "Tarifario septiembre a diciembre 2026" en PDF (5 páginas; sin abrir). **Aires del Iberá**: respuesta automática ("las tarifas varían según cantidad de personas y fechas"). Huella Iberá: respuesta automática.
+- **Norma Pelozo (Transporte 2 de Abril):** Mercedes ↔ Pellegrini **$350.000 ida y vuelta**; Corrientes ↔ Pellegrini **$1.300.000 ida y vuelta**.
+
 ## 9. Pendientes
 
 1. **Formas de pago:** faltan Rancho Iberá y El Paso.
