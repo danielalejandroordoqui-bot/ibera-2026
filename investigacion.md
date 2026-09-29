@@ -586,7 +586,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
   - 4 noches: Standard $540.000 · Superior $745.200. 3 noches: Standard $405.000 · Superior $558.900.
 - **Excursiones aparte, por persona:** safari fotográfico en lancha $58.000 (salidas a la mañana y a la tarde) · safari en kayak $40.000 · cabalgata hasta los palmares de caranday $40.000. **10% de descuento** si se agregan a la reserva.
 - **Comidas:** en el predio funciona el restaurante **"El Camalotal"** para almuerzos y cenas (reserva aparte; ofrecieron pasar el contacto).
-- **Transfer:** pasaron el contacto de **Miguel, transfer desde Mercedes** (número en el chat de WhatsApp). Daniel le escribió el 29/9 para consultar el precio por tramo Mercedes ↔ Pellegrini; esperando respuesta.
+- **Transfer:** pasaron el contacto de **Miguel, transfer desde Mercedes** (número en el chat de WhatsApp). WhatsApp +54 9 3773 40-2274. Daniel le escribió el 29/9 (15:23) para consultar el precio Mercedes ↔ Pellegrini ida y vuelta, y a las 15:41 se le preguntó si también hace aeropuerto de Corrientes o Resistencia ↔ Pellegrini ida y vuelta, para 2 personas, 7 al 11/11; esperando respuesta.
 - **Pago:** seña 50%; saldo en efectivo, transferencia o tarjeta de crédito o débito.
 - Antecedente: en septiembre se le había consultado para marzo 2027 sin respuesta.
 
