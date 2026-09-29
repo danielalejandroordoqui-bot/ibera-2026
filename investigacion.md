@@ -630,7 +630,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
   - 4 noches: Standard $540.000 · Superior $745.200. 3 noches: Standard $405.000 · Superior $558.900.
 - **Excursiones aparte, por persona:** safari fotográfico en lancha $58.000 (salidas a la mañana y a la tarde) · safari en kayak $40.000 · cabalgata hasta los palmares de caranday $40.000. **10% de descuento** si se agregan a la reserva.
 - **Comidas:** en el predio funciona el restaurante **"El Camalotal"** para almuerzos y cenas (reserva aparte; ofrecieron pasar el contacto).
-- **Transfer:** pasaron el contacto de **Miguel, transfer desde Mercedes** (número en el chat de WhatsApp). WhatsApp +54 9 3773 40-2274. Daniel le escribió el 29/9 (15:23) para consultar el precio Mercedes ↔ Pellegrini ida y vuelta, y a las 15:41 se le preguntó si también hace aeropuerto de Corrientes o Resistencia ↔ Pellegrini ida y vuelta, para 2 personas, 7 al 11/11; esperando respuesta.
+- **Transfer:** pasaron el contacto de **Miguel, transfer desde Mercedes** (número en el chat de WhatsApp). WhatsApp +54 9 3773 40-2274. Daniel le escribió el 29/9 (15:23) para consultar el precio Mercedes ↔ Pellegrini ida y vuelta, y a las 15:41 se le preguntó si también hace aeropuerto de Corrientes o Resistencia ↔ Pellegrini ida y vuelta, para 2 personas, 7 al 11/11. **Respondió por audio (16:57):** Mercedes ↔ Pellegrini **$360.000 ida y vuelta**; Corrientes o Resistencia ↔ Pellegrini (Irupé) **$950.000 ida y vuelta**.
 - **Pago:** seña 50%; saldo en efectivo, transferencia o tarjeta de crédito o débito.
 - Antecedente: en septiembre se le había consultado para marzo 2027 sin respuesta.
 
@@ -863,7 +863,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 4. **Iberá Lodge:** confirmar precio de la 4ª noche, si ofrece transfer y cuánto es el recargo con tarjeta.
 5. **Posada de la Laguna:** pedir cotización de 3 noches si interesa. **Ñandé Retá:** confirmar el precio de 3 noches para el finde largo (las tarifas que mandó "no son válidas para fines de semana largos") y el monto ilegible del Plan Full de 4 noches ("$1.28.000").
 6. ~~Posada Rancho Iberá: 3 noches~~ ✅ $570.000 en la habitación. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
-6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal. **Miguel (transfer Mercedes):** consultado el precio por tramo el 29/9; esperando respuesta.
+6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal. **Miguel (transfer Mercedes):** ✅ $360.000 ida y vuelta; Corrientes/Resistencia $950.000.
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. ~~Transfer desde Posadas y Corrientes~~ ✅ El Paso: Posadas $700.000 y Corrientes $900.000 ida y vuelta; Ñandé Retá: Corrientes $490.000 y Mercedes $170.000 por tramo.
 7b. **Casa Santa Ana del Iberá:** Daniel le escribió por Instagram; esperando respuesta.
