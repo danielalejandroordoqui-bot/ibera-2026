@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 10 posadas consultadas por WhatsApp; 8 con cotización (Irupé Lodge y Posada Iberá Porá sumadas por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
+- **Hospedaje:** 11 posadas consultadas por WhatsApp; 10 con cotización (Irupé Lodge, Posada Iberá Porá y Casona Iberá sumadas por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -22,7 +22,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 
 ### Supuestos (leer antes de mirar los números)
 - **Transfer Mercedes ↔ Pellegrini:** $170.000 por tramo (precio real de Ñandé Retá). Los choferes que recomiendan otras posadas pueden cobrar distinto.
-- **Transfers largos (Corrientes, Resistencia, Posadas):** **ESTIMADOS** con la misma tarifa por km que Ñandé Retá (~$1.417/km): Posadas ~250 km → ~$354.000 por tramo; aeropuerto de Corrientes ~370 km → ~$524.000; Resistencia ~390 km → ~$552.000. **Nadie los cotizó todavía.**
+- **Transfers largos:** **precios reales de El Paso Iberá** (28/9): **Posadas ↔ Pellegrini $700.000 ida y vuelta** y **Corrientes ↔ Pellegrini $900.000 ida y vuelta**. Para Resistencia (~20 km más que Corrientes) se usa el precio de Corrientes. (Antes estaban estimados por km: Posadas ~$708.000 y Corrientes ~$1.048.000.)
 - **Micro:** Flechabus Retiro ↔ Mercedes desde $51.500 por persona por tramo (precio de referencia de julio 2026; sale ~21-21:30, llega ~6 h; horario de vuelta a confirmar).
 - **Auto automático:** Resistencia Avis Yaris AT US$299 (4 días); Corrientes Budget Yaris AT US$368 (5 días, porque se devuelve más tarde que la hora de retiro). Nafta estimada con el cálculo de Ruta0 (~$77.000 para 356 km). El auto queda estacionado en Mercedes y el último tramo se hace en 4x4 (el ripio con lluvia es solo para 4x4).
 - **Tiempos:** Corrientes → Mercedes 238-246 km, ~3-3,5 h por asfalto · Mercedes → Pellegrini 120 km, ~2 h · Posadas → Pellegrini 200-250 km, ~3 h 15 min a 4 h 40 min, con la **RP 41 recomendada solo de día**.
@@ -49,8 +49,8 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 | **P1 · Micro nocturno + 4x4** | 3 (sáb 7 → mar 10) | no | sáb ~11:30 | sáb + dom + lun + mar mañana | **$546.000 ≈ US$356** | $1.542.000 ≈ US$1.005 | **$1.772.000 ≈ US$1.154** | $2.092.000 ≈ US$1.363 |
 | P1 · variante 4 noches | 4 (sáb 7 → mié 11) | mié 11 | sáb ~11:30 | + miércoles | $546.000 ≈ US$356 | $1.852.000 ≈ US$1.207 | $2.152.000 ≈ US$1.402 | $2.652.000 ≈ US$1.728 |
 | **P2 · Avión temprano a Resistencia + auto + 4x4** | 3 | no | sáb ~15:30 | sáb tarde + dom + lun + mar mañana | $1.468.000 ≈ US$956 | $2.464.000 ≈ US$1.605 | $2.694.000 ≈ US$1.755 | $3.014.000 ≈ US$1.963 |
-| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | ~$1.661.000 ≈ US$1.082 (transfer estimado) | ~$2.657.000 ≈ US$1.731 | ~$2.887.000 ≈ US$1.881 | ~$3.207.000 ≈ US$2.089 |
-| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | ~$1.201.000 ≈ US$782 (transfer estimado) | ~$2.197.000 ≈ US$1.431 | ~$2.427.000 ≈ US$1.581 | ~$2.747.000 ≈ US$1.789 |
+| P3 · Avión temprano a Resistencia + transfer directo | 3 | no | sáb ~15 h | sáb tarde + dom + lun + mar mañana | $1.456.000 ≈ US$949 | $2.452.000 ≈ US$1.598 | $2.682.000 ≈ US$1.747 | $3.002.000 ≈ US$1.956 |
+| P4 · JetSMART a Posadas + transfer | 3 | no | sáb ~22-23 h (ripio de noche) | dom + lun + mar mañana | $1.193.000 ≈ US$777 | $2.189.000 ≈ US$1.426 | $2.419.000 ≈ US$1.576 | $2.739.000 ≈ US$1.784 |
 | **P5 · Avión 8:45 a Corrientes + auto + 4x4** | 4 | mié 11 | sáb ~16 h | sáb tarde + dom + lun + mar + mié mañana | $1.579.000 ≈ US$1.029 | $2.885.000 ≈ US$1.879 | $3.185.000 ≈ US$2.075 | $3.685.000 ≈ US$2.401 |
 | **P6 · Auto propio La Plata → Pellegrini directo** | 3 | no | sáb ~14 h | sáb tarde + dom + lun + mar mañana | **$348.000 ≈ US$227** | **$1.344.000 ≈ US$876** | **$1.574.000 ≈ US$1.025** | $1.894.000 ≈ US$1.234 |
 | P6 · versión 4 noches | 4 | mié 11 | sáb ~14 h | + miércoles mañana | $348.000 ≈ US$227 | $1.654.000 ≈ US$1.078 | $1.954.000 ≈ US$1.273 | $2.454.000 ≈ US$1.599 |
@@ -70,11 +70,12 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - ✅ Sábado a la tarde aprovechable, sin licencia. ⚠️ ~7 h de manejo en total; el auto queda 3 días parado en Mercedes (coordinar estacionamiento con el transfer); nafta y peajes aparte.
 
 **P3 · Avión temprano a Resistencia + transfer directo**
-- Igual que P2 pero sin manejar: transfer de ~5-6 h desde el aeropuerto. **El precio del transfer es estimado:** si alguien lo cotiza más barato, este pack pasa a ser muy competitivo.
+- Igual que P2 pero sin manejar: transfer de ~5-6 h desde el aeropuerto, **$900.000 ida y vuelta** (precio real de El Paso para Corrientes; Resistencia queda ~20 km más lejos).
 
 **P4 · JetSMART a Posadas + transfer**
 - **Sáb 7:** 16:07 → Posadas 17:43 → transfer ~4 h → **llegada ~22-23 h**, haciendo la RP 41 de noche, que no se recomienda. **Mar 10:** salir ~12 h → Posadas → JetSMART 18:16.
-- ⚠️ Pierde el sábado entero y el camino de noche es el principal riesgo. Solo tiene sentido si el transfer resulta barato y el chofer está acostumbrado a ese camino.
+- Transfer **$700.000 ida y vuelta** (precio real de El Paso).
+- ⚠️ Pierde el sábado entero y el camino de noche es el principal riesgo.
 
 **P5 · Avión 8:45 a Corrientes + auto automático hasta Mercedes + 4x4 (4 noches)**
 - **Sáb 7:** Aerolíneas 8:45 → Corrientes 10:20 → auto → Mercedes ~13:45 → transfer → **~16 h en Pellegrini**.
@@ -96,6 +97,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
 - **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
 - **Con Posada Iberá Porá** (la más barata con pensión completa, si la tarifa de finde largo no cambia) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
+- **Si se acepta comer aparte:** con Casona Iberá (solo desayuno) el P6 de 3 noches queda en ~$984.000 (≈ US$641) **más almuerzos y cenas**, que no están relevados.
 - **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4) y la tarifa de feriado de Ecoposada.
 
 Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
@@ -189,10 +191,10 @@ Vuela directo a Corrientes y Posadas, pero Google no muestra su precio y su siti
 Ninguna posada incluye el transfer en el precio. Opciones relevadas:
 
 ### Transfer privado (recomendado)
-- **Desde Mercedes** (2 h hasta Pellegrini): **Ñandé Retá cotizó 4x4 privada a $170.000 por tramo por camioneta (hasta 4 personas)** → ida y vuelta $340.000 (≈ US$221). Es el único precio concreto por ahora.
+- **Desde Mercedes** (2 h hasta Pellegrini): **Ñandé Retá cotizó 4x4 privada a $170.000 por tramo por camioneta (hasta 4 personas)** → ida y vuelta $340.000 (≈ US$221).
 - Choferes desde Mercedes (recomendados por las posadas): Norma Pelozo 3773-43 7847 (recomendada por Rancho de los Esteros; es el mismo número que "Bus privado 2 de Abril" del PDF de Ecoposada), Víctor Flores +54 9 3773 46-3857, Daniel Aguirre +54 9 3773 62-7687, Martín Sandoval +54 9 3773 52-8283, Rafael Muzio 3773 413081, combi de Daniel Ortiz 03773 15431469.
-- **Desde el aeropuerto de Posadas** (210-250 km, camioneta para 4): Oscar Díaz 3764 549 520 (Rancho de los Esteros) / 3754-405533 (Ecoposada), Roberto Zimmerly 3764-690457, Gustavo Prion 3764-530631. Ecoposada recomienda "averiguar el costo antes de sacar los pasajes". **Sin precio todavía.**
-- Desde Corrientes o Resistencia: sin contactos ni precios relevados todavía (hay que llegar primero a Mercedes).
+- **Desde el aeropuerto de Posadas** (210-250 km, camioneta para 4): **El Paso Iberá cotizó $700.000 ida y vuelta.** Otros choferes: Oscar Díaz 3764 549 520 (Rancho de los Esteros) / 3754-405533 (Ecoposada), Roberto Zimmerly 3764-690457, Gustavo Prion 3764-530631.
+- **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta.** Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
 
 ### Colectivo
 - **Iberá Bus** (Mercedes → Pellegrini): sale de Mercedes 12 h lunes, miércoles y viernes (llega 16 h); vuelve de Pellegrini a las 4 h esos mismos días. Marcos/Mario Azcona 03773 15462836 / 3773-507189. Reconfirmar un día antes. No coincide con salir un sábado.
@@ -222,11 +224,12 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** | no cotizó | ✅ (última habitación) | 5 a elección |
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | Posada Rancho Iberá | — | — | ? | con desayuno, **sin pensión completa**; precio pendiente |
-| El Paso Iberá | — | — | ? | sin respuesta |
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
+| El Paso Iberá (cabaña) | sáb 7 → mié 11 · $1.000.000 ≈ **US$651** (monto a confirmar: escribieron "$1.00.000") · solo desayuno | — (no cotizó) | ? | 2 lanchas, caminata diurna, safari nocturno |
+| Casona Iberá | sáb 7 → mié 11 · $800.000 ≈ **US$521** · solo desayuno | sáb 7 → mar 10 · $590.000 ≈ **US$384** · solo desayuno | ? | 3n: lancha, caminata guiada, cabalgata · 4n suma 2ª lancha |
 | Irupé Lodge | Standard 4n $540.000 · Superior 4n $745.200 (solo alojamiento con desayuno) | Standard 3n $405.000 · Superior 3n $558.900 | ✅ | se pagan aparte por persona: lancha $58.000, kayak o cabalgata $40.000 |
 
-**Irupé no es comparable directo:** es solo alojamiento con desayuno; comidas (restaurante "El Camalotal" en el predio, precio sin relevar) y excursiones van aparte. Ejemplo de cálculo: 4 noches Standard + 1 lancha, 1 kayak y 1 cabalgata cada uno (con el 10% de promo) = $540.000 + $248.400 = **$788.400 (≈ US$514) sin almuerzos ni cenas**.
+**Irupé, El Paso y Casona Iberá no son comparables directo:** son solo con desayuno (almuerzo y cena aparte, sin precio relevado). En Irupé, además, las excursiones van aparte (comidas en el restaurante "El Camalotal" del predio). Ejemplo de cálculo: 4 noches Standard + 1 lancha, 1 kayak y 1 cabalgata cada uno (con el 10% de promo) = $540.000 + $248.400 = **$788.400 (≈ US$514) sin almuerzos ni cenas**.
 
 ### Formas de pago
 
@@ -243,6 +246,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
 | El Paso Iberá | pendiente (consultado 28/9) |
 | Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
+| Casona Iberá | ✅ **seña 50%** por transferencia bancaria o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher |
 | Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online) |
 
 ### Ficha de cada posada
@@ -319,8 +323,20 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Pago:** seña 50% + DNI; saldo hasta 1 día antes o en efectivo en la posada; efectivo, transferencia o tarjeta.
 - **Transfer:** ofrecen pasar los números de quienes hacen traslados desde Mercedes y desde Corrientes.
 
+#### Casona Iberá
+- **Contacto:** Fede · WhatsApp (chat de Daniel). Nueva en la lista (28/9, 20:06-20:37).
+- **Solo con desayuno** (almuerzo y cena aparte). Habitación con baño privado.
+- **3 noches: $295.000 por persona** → **$590.000 la pareja (≈ US$384)**. Incluye: lancha a la naciente de los esteros por el canal Corriente (~2 h), caminata guiada por el Centro de Interpretación y senderos, y cabalgata por palmares y esteros (~2 h). Fede confirmó: "incluye las tres noches de alojamiento con desayuno y las tres excursiones".
+- **4 noches: $400.000 por persona** → **$800.000 la pareja (≈ US$521)**. Suma una segunda lancha por el río Miriñay (~2:30 h).
+- **Pago:** seña 50% por transferencia o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher.
+- **Fotos que mandó:** casona antigua con galería y techos altos de madera; pileta y jardín con palmeras; muelle con mirador techado sobre la laguna, al atardecer.
+- No aclaró disponibilidad explícita ni si la tarifa cambia por finde largo.
+
 #### El Paso Iberá cabañas y excursiones
-- WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Sin respuesta.**
+- WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Respondió a la noche.**
+- **Solo con desayuno.** Programa **4 noches** con desayuno + **4 actividades** (2 paseos en lancha, caminata diurna y safari nocturno): **"$1.00.000 total para 2 personas"** → casi seguro **$1.000.000 (≈ US$651)**; confirmar el monto.
+- **Alojamiento:** cabaña con dos habitaciones, minikitchen (se puede cocinar), aire acondicionado y calefacción, ropa blanca, limpieza diaria y **estacionamiento descubierto** (útil para el pack con auto propio).
+- **Transfer:** **Corrientes ↔ Pellegrini $900.000** y **Posadas ↔ Pellegrini $700.000**, ambos ida y vuelta.
 - Antecedente: en septiembre cotizó 7 noches para marzo 2027 (20 al 27/3, 2 adultos) por **$2.100.000 con excursiones incluidas** (≈ US$98 por persona por noche).
 
 ## 5b. ¿3 o 4 noches? Qué dicen los viajeros (28/9/2026)
@@ -400,7 +416,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
 5. **Posada de la Laguna y Ñandé Retá:** pedir cotización de 3 noches si interesa.
-6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá:** esperar respuesta.
+6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. **Transfer:** pedir precio a un chofer de Posadas (Oscar Díaz, Roberto Zimmerly o Gustavo Prion) y comparar con Mercedes ($170.000 por tramo de Ñandé Retá).
@@ -414,7 +430,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
