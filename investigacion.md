@@ -478,7 +478,10 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **Opciones para comer** en las posadas que solo incluyen desayuno (Casona Iberá, El Paso, Irupé): Café de los Pájaros y Yacarú Porá, sin precios en el video.
 - **Precios de excursiones sueltas** para comparar con los paquetes: lancha $45.000, cabalgata $30.000, safari nocturno $30.000 por persona (junio 2026).
 - **Senderos gratis o con la entrada** para los ratos libres: Carayá, Cerrito y de los Montes (Parque Provincial, 8 a 18 h) y Lobo Cuá y Los Lapachos (Parque Nacional, 9 a 16 h, gratis, en bici).
-- **Dos alojamientos nuevos** para consultar si hace falta: Cabaña Capivara y Casa Santa Ana del Iberá.
+- **Dos alojamientos nuevos** para consultar: Cabaña Capivara y Casa Santa Ana del Iberá.
+  - **Cabaña Capivara:** teléfono oficial de su Instagram **3773 40-7587** (coincide con el cartel del video); también hace **paseos en bici**. ✅ **Consultada por WhatsApp el 28/9 a las 23:04** con el mensaje nuevo (3 y 4 noches, qué incluye, precio, formas de pago, transfer).
+  - **Casa Santa Ana del Iberá:** ecolodge boutique de 5 habitaciones a orillas de la laguna, en el extremo sur del pueblo (calle Capivara entre Pehuajó y Caraguatá). Instagram oficial: mail **santaanadelybera@gmail.com**. ⚠️ El teléfono que dan las fichas turísticas, (03773) 15-475114, **hoy corresponde a "Casa de Esteros by Iberá Explorer"**, no a Casa Santa Ana: no se le escribió. Su web (casasdelibera.com) no responde. Falta un contacto válido (o escribirle al mail).
+- **Yacarú Porá:** "bodegón libre de pastas caseras" (ravioles, malfattis, sorrentinos de cordero, osobuco, calabaza), n.° 1 del pueblo en Restaurant Guru; tel. +54 3773 41-9653. Ni Yacarú Porá ni Café de los Pájaros publican precios.
 
 ## 8c. Video: "Esteros del Iberá, la joya de Argentina" (Intriper, 28/9/2026)
 
