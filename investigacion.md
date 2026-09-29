@@ -97,10 +97,10 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - **Si no quieren micro:** P2 o P3 (avión temprano a Resistencia). Salen ~US$600-700 más que P1 con la misma posada.
 - **Si quieren 4 noches por avión:** P5. Si aceptan el micro, P1 en versión 4 noches sale ~US$670 menos que P5.
 - **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
-- **Con Posada Iberá Porá** (la más barata con pensión completa, si la tarifa de finde largo no cambia) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
+- **Con Posada Iberá Porá** (la más barata con pensión completa) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
 - **Si se acepta comer aparte:** con Casona Iberá (solo desayuno) el P6 de 3 noches queda en ~$984.000 (≈ US$641) **más almuerzos y cenas**, que no están relevados.
 - **Armado por cuenta propia (P6 auto propio + Cabaña Capivara, 3 noches):** transporte $348.000 + cabaña $240.000 + Parque $46.000 = **$634.000 (≈ US$413)**, **más comidas**. Sumando lancha, cabalgata y safari nocturno para cada uno a precios del video de junio ($45.000 + $30.000 + $30.000 = $210.000 los dos) → **≈ $844.000 (≈ US$550) + comidas**. Queda por debajo de P6 + Iberá Porá (≈ US$876 con todo incluido) mientras las comidas de 3 días para dos no superen ~$500.000.
-- **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4) y la tarifa de feriado de Ecoposada.
+- **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4).
 
 Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
 
@@ -260,7 +260,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 #### Ecoposada del Estero
 - **Contacto:** Estrella · WhatsApp +54 9 3773 44-3602 · ecoposadadelestero@gmail.com · [ecoposada.com](https://ecoposada.com/). Reservas por mail con: nombre, DNI, cantidad de personas, tipo de habitación, fechas, hora aproximada de llegada y celular.
 - **Tarifas oct 2026 - feb 2027, por persona en base doble** (PDF "Ecoposada Octubre a febrero 2027", en `~/Downloads/`): 2 noches $430.000 · **3 noches $590.000** · **4 noches $780.000** · 5 noches $970.000.
-- ⚠️ **"Estas tarifas no están vigentes en feriados y vacaciones"**: hay que pedir la tarifa de este finde. **Las tarifas no incluyen impuestos.**
+- El PDF dice que sus tarifas no rigen en feriados, pero **se consultó con las fechas exactas y se toma el precio dado como válido** (criterio de Daniel, 28/9). **Las tarifas no incluyen impuestos.**
 - **Programa 3 noches:** día 1 check-in por la tarde, recorrida por el pueblo y miradores · día 2 lancha por la laguna + trekking por la selva en galería (monos carayá, corzuelas, carpinchos) · día 3 visita guiada al Parque Nacional + kayak o canoa a botador en la Reserva Estero Camba Trapo · día 4 check-out 10 h.
 - **Programa 4 noches:** lo mismo + día 4 cabalgata por palmares y esteros de Camba Trapo y safari nocturno (canoa, camioneta o caminata).
 - **La posada:** 8 habitaciones de barro bioclimático con aire acondicionado, deck y hamaca paraguaya, vista a los esteros; pileta; pasarela y observatorio sobre el estero; wifi Starlink en áreas comunes; lancha, kayaks, canoas y caballos propios; camioneta y 2 minivans para mover a los huéspedes ("se puede venir sin vehículo propio"). Reserva privada Estero Camba Trapo a ~10-12 km, sitio Ramsar.
@@ -352,7 +352,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Programa 3 noches: $475.000 por persona en base doble** → **$950.000 la pareja (≈ US$619)**. Incluye 2 excursiones en lancha y 2 caminatas guiadas.
 - **Programa 4 noches: $630.000 por persona en base doble** → **$1.260.000 la pareja (≈ US$821)**. Suma 1 safari nocturno en vehículo.
 - **Excursiones opcionales:** kayak, cabalgata y astroturismo (según la fecha), $40.000 por persona cada una.
-- ⚠️ **"Tarifa válida alojándose hasta febrero 2027, exceptuando fines de semana largos"**: este es un finde largo, así que hay que confirmar si el precio cambia (igual que en Ecoposada).
+- La tarifa dice "exceptuando fines de semana largos", pero **se consultó con las fechas exactas y se toma el precio dado como válido** (criterio de Daniel, 28/9).
 - **Pago:** seña 50% + DNI; saldo hasta 1 día antes o en efectivo en la posada; efectivo, transferencia o tarjeta.
 - **Transfer:** ofrecen pasar los números de quienes hacen traslados desde Mercedes y desde Corrientes.
 
@@ -363,7 +363,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **4 noches: $400.000 por persona** → **$800.000 la pareja (≈ US$521)**. Suma una segunda lancha por el río Miriñay (~2:30 h).
 - **Pago:** seña 50% por transferencia o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher.
 - **Fotos que mandó:** casona antigua con galería y techos altos de madera; pileta y jardín con palmeras; muelle con mirador techado sobre la laguna, al atardecer.
-- No aclaró disponibilidad explícita ni si la tarifa cambia por finde largo.
+- No aclaró disponibilidad explícita; el precio se toma como válido para las fechas consultadas.
 
 #### El Paso Iberá cabañas y excursiones
 - WhatsApp +54 9 3794 55-3379. Consultado el 28/9 a las 15:10 (por Daniel). **Respondió a la noche.**
@@ -525,15 +525,54 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - Confirma que **El Tránsito es otra logística**: acceso por Concepción (asfalto) desde Corrientes o Resistencia (~220 km), no por Mercedes ni Posadas. Si se eligiera, habría que rearmar vuelos y transfer, y los packs actuales no aplican.
 - Su programa es **más exclusivo y armado a medida** (canoa tirada a caballo con baqueanos, safari náutico, cocina de autor), pero es la opción más cara de la lista.
 
+## 8d. Dónde comer y tomar café en Colonia Carlos Pellegrini (Google Maps, 28/9/2026)
+
+Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Puntaje y cantidad de reseñas de Google Maps; el rango de precio es el que muestra Google **por persona**.
+
+**Restaurantes**
+| Lugar | Google | Precio por persona | Tipo | Qué comentan | Dónde |
+|---|---|---|---|---|---|
+| **Café de los Pájaros** | **4,7 (909)** | $10.000-20.000 | cafetería-restaurante de cocina guaraní | "Si vas a Pellegrini tenés que ir"; comida típica correntina; desayunos y meriendas | Curupí y Aguará, peatonal |
+| **Yacarú Porá** | 4,4 (799) | $10.000-20.000 | bodegón libre de pastas caseras | pastas abundantes (sorrentinos, carbonara) | Caraguatá y Yaguareté · tel. +54 3773 41-9653 |
+| **Don Marcos** | 4,4 (577) | — | restaurante | "riquísima comida"; a fin de mes, ñoquis | Guasú Virá |
+| **Bar Destino Iberá** | 4,5 (356) | $20.000-30.000 | restaurante | pastas, ñoquis y ravioles con estofado; comida casera; parque y salón con aire | Guasú Virá esq. Isipó · abre hasta la 1 |
+| **Dalmacio Bar** | **4,8 (184)** | $10.000-20.000 | bar-restaurante | pizzas y sándwiches muy buenos | Curupí · abre a las 12 |
+| **Reiyel Resto-Bar** | **4,9 (43)** | $10.000-20.000 | pub-restaurante | tostado de vegetales abundante; muy amables; para llevar | Mburucuyá entre Yaguareté y Aguará · abre a las 12 |
+| Hospedaje Los Amigos | 4,7 (67) | — | restaurante | opciones con carne y vegetarianas | — |
+| Jajetopa | 4,8 (17) | — | comida típica | tortillas y sopa de arroz; lugar cálido | — |
+| Comedor Santa Rita | 4,8 (16) | — | comedor | empanadas de carne para llevar | Curupí |
+| Camalotal Cocina | 4,5 (11) | $10.000-40.000 | restaurante | lindo ambiente, cálido (es el restaurante del predio de Irupé Lodge) | Yacaré s/n |
+| Che Cambá (hostel) | 4,8 (200) | — | hostel que cocina | pizzas y desayunos | — |
+| Sazón del Iberá | 5,0 (6) | — | restaurante | **cerrado temporalmente** | Tuyuyú y Caranday |
+
+**Café, almacenes y compras**
+| Lugar | Google | Tipo | Dato |
+|---|---|---|---|
+| **Cafetería Costa Iberá** (Servicios Turísticos) | 4,5 (177) · $1-10.000 | cafetería | "atención muy amable, video documental, mercadería de calidad"; junto al camping municipal |
+| **Despensa La Familia** | 4,5 (24) | almacén y **helados** | variedad; se puede pagar con Mercado Pago; tel. 03773 43-1316 |
+| **Despensas Iberá** | 4,9 (10) | almacén | fiambres, **pan**, bebidas, empanadas y sándwich de milanesa; tel. 03773 15-62-7261 |
+| Proveeduría "La Colonia" | 5,0 (1) | cafetería/proveeduría | — |
+
+**Cuánto sumar por comer (para comparar con las posadas de pensión completa)**
+- La mayoría de los lugares figura en **$10.000-20.000 por persona**. Estimando **~$15.000 por persona por comida**, almuerzo y cena: **~$60.000 por día para los dos**.
+- **3 días (sáb cena → mar almuerzo, ~6 comidas): ~$180.000 (≈ US$117) para los dos.** 4 días: ~$240.000 (≈ US$156).
+- Ejemplos, 3 noches, alojamiento + comidas estimadas:
+  - **Cabaña Capivara** $240.000 + $180.000 = **~$420.000 (≈ US$274)**, sin excursiones (con desayuno propio en la cabaña).
+  - **Rancho Iberá** (habitación) $570.000 + $180.000 = **~$750.000 (≈ US$489)**, con desayuno y 3 excursiones.
+  - **Casona Iberá** $590.000 + $180.000 = **~$770.000 (≈ US$502)**, con desayuno y 3 excursiones.
+  - Comparar con **Iberá Porá** con pensión completa y 4 excursiones: **$950.000 (≈ US$619)**.
+- Conclusión: con precios de restaurante del pueblo, **las opciones con solo desayuno salen ~US$120-130 menos** que Iberá Porá, a cambio de organizar cada comida.
+- Recordar: **en Pellegrini no hay cajeros**; algunos lugares aceptan Mercado Pago, pero conviene llevar efectivo.
+
 ## 9. Pendientes
 
 1. **Formas de pago:** faltan Iberá Lodge, Rancho Iberá y El Paso.
-1b. **Posada Iberá Porá:** confirmar si el precio cambia por ser finde largo y pedir los números de transfer desde Mercedes y Corrientes.
-2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11) y la **tarifa de feriado con impuestos**.
+1b. **Posada Iberá Porá:** pedir los números de transfer desde Mercedes y Corrientes, si hace falta.
+2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11).
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
 5. **Posada de la Laguna:** pedir cotización de 3 noches si interesa. **Ñandé Retá:** confirmar el precio de 3 noches para el finde largo (las tarifas que mandó "no son válidas para fines de semana largos") y el monto ilegible del Plan Full de 4 noches ("$1.28.000").
-6. ~~Posada Rancho Iberá: 3 noches~~ ✅ $570.000 en la habitación. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
+6. ~~Posada Rancho Iberá: 3 noches~~ ✅ $570.000 en la habitación. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. ~~Transfer desde Posadas y Corrientes~~ ✅ El Paso: Posadas $700.000 y Corrientes $900.000 ida y vuelta; Ñandé Retá: Corrientes $490.000 y Mercedes $170.000 por tramo.
