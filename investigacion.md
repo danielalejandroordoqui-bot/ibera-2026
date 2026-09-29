@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 11 posadas consultadas por WhatsApp; 10 con cotización (Irupé Lodge, Posada Iberá Porá y Casona Iberá sumadas por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
+- **Hospedaje:** 12 alojamientos consultados por WhatsApp; 11 con cotización (Irupé Lodge, Posada Iberá Porá, Casona Iberá y El Tránsito sumados por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -224,6 +224,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Posada de la Laguna** | sáb 7 → mié 11 · $2.320.000 ≈ **US$1.511** | no cotizó | ✅ | 3 lanchas + canoa + caminatas en ambos parques |
 | **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** (cotización de Lucía para este finde) | sáb 7 → mar 10 · Plan Full ~$1.866.000 con IVA ≈ **US$1.216** (tarifa "no válida para fines de semana largos": confirmar) | ✅ (última habitación) | 4n: 5 a elección · 3n Full: 4 excursiones |
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
+| **El Tránsito** (Portal Carambola, no Pellegrini) | sáb 7 → mié 11 · Deluxe **US$2.203** no reembolsable / US$2.592 flexible · Suite US$2.981 / US$3.507 | — | ✅ | todo incluido **con bebidas**: lancha, canoa tirada a caballo, cabalgata, kayak, senderismo |
 | Posada Rancho Iberá | — | — | ? | con desayuno, **sin pensión completa**; precio pendiente |
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
 | El Paso Iberá (cabaña) | sáb 7 → mié 11 · $1.000.000 ≈ **US$651** (monto a confirmar: escribieron "$1.00.000") · solo desayuno | — (no cotizó) | ? | 2 lanchas, caminata diurna, safari nocturno |
@@ -247,6 +248,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | Posada Rancho Iberá | pendiente (consultado 28/9) |
 | El Paso Iberá | pendiente (consultado 28/9) |
 | Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
+| El Tránsito | se paga en pesos al tipo de cambio oficial del Banco Nación; reserva por link ([wspk.link/qtslz84w](https://wspk.link/qtslz84w)); tarifa no reembolsable ~15% más barata que la flexible |
 | Casona Iberá | ✅ **seña 50%** por transferencia bancaria o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher |
 | Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online) |
 
@@ -297,6 +299,19 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
   - ⚠️ Aclaran **"tarifas no válidas para fines de semana largos"** y que bebidas y entrada al Parque van aparte. La única cotización específica para este finde sigue siendo la de Lucía (4 noches, $1.174.000 + IVA por adulto).
   - Excursiones a elección: lancha Miriñay, lancha Corriente, caminata nocturna por el Sendero El Cerrito, cabalgata por esteros, Centro de Interpretación + Sendero de los Monos, medicina natural.
 - **Transfer:** Mercedes → hotel **$170.000 por tramo**; **Corrientes → hotel $490.000 por tramo** (≈ $980.000 ida y vuelta).
+
+#### El Tránsito (Hotel Boutique, Portal Carambola)
+- **Contacto:** asistente de WhatsApp de El Tránsito Hotel Boutique (+54 9 3794 76-9415), consultado por Daniel el 28/9 a las 22:35. Link de reserva: [wspk.link/qtslz84w](https://wspk.link/qtslz84w).
+- ⚠️ **No está en Colonia Carlos Pellegrini:** queda en el **Portal Carambola, cerca de Concepción del Yaguareté Corá**. Es otro acceso a los Esteros, con otra logística (ver el video de Intriper).
+- **Disponibilidad ✅** del sáb 7 al mié 11 (4 noches), 2 adultos.
+- **Tarifas "Full Board - All Inclusive", total 4 noches para 2, con IVA 21% incluido:**
+  - **Deluxe** (27 m², matrimonial o twin): **US$2.591,82 flexible · US$2.203,05 no reembolsable**.
+  - **Suite** (39 m², matrimonial o twin, admite cama adicional): **US$3.506,58 flexible · US$2.980,59 no reembolsable**.
+  - Habitaciones con aire acondicionado, wifi, TV con Chromecast, **minibar completo con bebidas**, Nespresso, caja de seguridad y ducha tipo lluvia.
+- **Incluye:** las 4 comidas, **bebidas** (la única de la lista que las incluye) y experiencias: lancha, canoa tirada a caballo, cabalgatas, kayak y senderismo.
+- **Pago:** en pesos al tipo de cambio oficial del Banco Nación. Los extranjeros con tarjeta internacional no pagan IVA.
+- **Transfer:** desde Corrientes o Resistencia, con costo extra (ofrecen pasar con un asesor para cotizarlo).
+- Es la opción más cara de la lista, pero también la de mayor categoría (antigua estancia donde vivió Douglas Tompkins, según el video de Intriper).
 
 #### Rincón del Socorro (Rewilding Argentina)
 - **Contacto:** Guillermo, "Oficina de Reservas" · WhatsApp +54 9 3794 99-6868. Es el número que figura en el sitio de **Estancia Iberá**, pero quien contestó ofreció Rincón del Socorro; de Estancia Iberá propiamente dicha no hay info.
@@ -398,7 +413,7 @@ Fuentes: [Boleto a la Felicidad](https://boletoalafelicidad.com/esteros-del-iber
 
 ## 6. Costos extra en destino
 
-- **Entrada al Parque Provincial Iberá:** $23.000 por persona, válida 5 días (dato de sept. 2026); se paga en el portal del pueblo y te ponen una pulsera que piden en las actividades. **Parque Nacional:** gratis.
+- **Entrada al Parque Provincial Iberá:** $23.000 por persona, válida 5 días (dato de sept. 2026; en junio 2026 el video de PRENDELAMECHAOK la pagó $15.000 por persona, argentinos, por toda la estadía); se paga en el portal del pueblo y te ponen una pulsera que piden en las actividades. **Parque Nacional:** gratis.
 - **Bebidas:** no incluidas en ninguna posada.
 - **Efectivo:** no hay cajeros en Pellegrini (los más cercanos, en Mercedes o Santo Tomé).
 
@@ -414,6 +429,55 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **Día 3:** cabalgata entre esteros y palmares; a la tarde pasarelas del Parque Provincial (corzuelas y monos carayá); atardecer desde el camping municipal.
 
 ---
+
+## 8b. Video: "Esteros del Iberá, la guía más completa de Colonia Carlos Pellegrini" (PRENDELAMECHAOK, 28/9/2026)
+
+[Ver video](https://youtu.be/ePa6NduDq28) · canal PRENDELAMECHAOK (Rosa, Maxi y su perro Moro, viajan en motorhome) · subido el 24/7/2026, **filmado en junio 2026** · 26 min. Analizado completo: audio transcripto con Whisper y 320 fotogramas (uno cada 5 s) revisados para leer carteles, cuentas y precios en pantalla.
+
+**Llegada y camino**
+- Llegaron en su vehículo por la **RP 40 desde Mercedes**: primer tramo de asfalto "genial" y **los últimos 70 km de "piedritas"**. Consejo: ir muy despacio, porque ya en el camino se ven carpinchos, zorros, ciervos y aves.
+- Al entrar al pueblo se cruza un **puente antiquísimo sobre la laguna**, con miradores a los costados.
+- **Motorhome:** justo antes del puente se puede pasar la noche sin servicios; "el mejor lugar para ver caer el sol".
+
+**El pueblo**
+- Colonia Carlos Pellegrini: primer portal de ecoturismo de los Esteros; **nominado por ONU Turismo como uno de los mejores pueblos turísticos del mundo (Best Tourism Villages 2025)** (se ve la placa).
+- **Plaza San Martín** en el centro; a la vuelta, la **peatonal** con alojamientos, gastronomía, artesanías y productos locales, arbolada y con bancos.
+- Pequeñas peatonales con senderos y miradores a la laguna, "súper románticos".
+
+**Parques y senderos (entrada, horarios y distancias)**
+- **Entrada al Parque Provincial:** se paga **justo antes del puente de ingreso**; en junio 2026, **$15.000 por persona (argentinos)**, válida **toda la estadía**, con **pulsera**. Muchas excursiones piden la pulsera como requisito.
+- **Senderos del Parque Provincial** (autoguiados, con cartelería, **8 a 18 h**):
+  - **Sendero Carayá:** ~600 m; monos carayá, carpinchos, muchos pájaros.
+  - **Sendero Cerrito:** ~850 m, **pasarela que costea la laguna**; el favorito de ellos (ciervos, yacaré, carpincha con cría).
+  - **Sendero de los Montes:** ~1.500 m, dificultad media (pasa de pasarela a monte); **termina en un mirador** con vista a toda la laguna.
+- **Parque Nacional Iberá** (área Lobo Cuá): **entrada libre y gratuita, abierto de 9 a 16 h**; hay que registrarse con los guardaparques, que explican el recorrido. Tiene baños y una **torre mirador** ("subí sí o sí"). Dos senderos: **Los Lapachos** y **Lobo Cuá**, que se pueden hacer **en bicicleta**. Fueron en bici desde su cabaña.
+- **Yaguareté:** hablan de "Ombú", un yaguareté joven que anda suelto por la zona; en junio fue la 2ª edición del **Festival del Yaguareté Correntino**.
+
+**Excursiones (con precios de junio 2026)**
+| Excursión | Operador | Precio | Detalle |
+|---|---|---|---|
+| **Lancha por la laguna** | **La Voz del Iberá** (@lavozdelyvera), guía Cristian ("un 10") | **$45.000** por persona (en pantalla) | ~2 h, sale del **muelle del camping municipal**; registro con guardaparques; recorre la costa y se mete "más adentro". Vieron curiyú, chajás, garzas, jacanas, yacaré negro con crías, ciervo de los pantanos. Llegar con anticipación; llevar gorro, agua y cámara. La hicieron a la tarde ("gran horario"). |
+| Lancha | **Camba Cuá** (@camba_cua) | — | Otra lancha que hicieron desde Casa Santa Ana. |
+| **Cabalgata** | **Antonio, Cabalgatas Paiubre** (@cabalgatas_paiubre) | **$30.000** por persona (en pantalla) | ~2 h, por el pueblo y un campo privado. |
+| **Safari nocturno** | **El Iberacero**, servicios turísticos (3773-412242 · 3773-458915), guía Víctor | **$30.000** por persona | En minibus, buscando fauna de noche; bajan a ver el cielo estrellado. Sale del camping municipal. |
+| Bicicletas | Guillo, de Cabaña Capivara | — | Para ir al Parque Nacional (Lobo Cuá y Los Lapachos se hacen en bici). |
+| Kayak, lancha, cabalgata, safari | En el muelle del camping municipal | — | Se puede ir como particular a preguntar precios y horarios. |
+
+**Hospedajes que muestran**
+- **Cabaña Capivara** (@cabanas_capivara; el teléfono del cartel se lee cortado, termina en 7587): **2 cabañas** de Guillo, una para 5 personas y otra para pareja con un hijo; **pet friendly**; deja infusiones; alquila bicicletas; "atención espectacular". Cabaña con cocina, calefactor y mesa; carpinchos en el jardín.
+- **Casa Santa Ana del Iberá** (@casasantaanadelibera): lugar "mágico", **salida directa a la laguna**, muellecitos, **pileta con vista a la laguna**, habitaciones amplias (también para familias), **desayuno y cena incluidos**, menú tradicional y regional; facilitan contactos para excursiones.
+- **Camping Municipal Iberá:** tras cruzar el puente, a la izquierda; muelle con de las mejores vistas; quinchos con electricidad y agua potable, baños con agua caliente. **Precios junio 2026:** $20.000 por persona por noche · vehículo $10.000 · motorhome $35.000. Se puede ir de día a tomar mate.
+
+**Gastronomía**
+- **Café de los Pájaros** (@cafe.delospajaros), en la peatonal: cocina de **raíz guaraní**; elegido entre los **118 restaurantes de la guía "Lugares a la mesa"**. Probaron **beyú con salsa de morrones asados**, **Aperol**, **mate cocido quemado (quemadillo) con naranja**, **chipá guasú**. En la pizarra: chipá so'o, chipá guasú, sopa paraguaya, ñoquis de mandioca, empanadas de mandioca. **Desayuno** abundante (afuera, con vista) y **merienda** de té con tortas, hojaldrada y alfajores, junto al fuego. Tiene un sendero con estanque detrás.
+- **Yacarú Porá** ("comer bien" en guaraní): estilo **bodegón**, platos abundantes, muchas **pastas** y minutas. Pidieron canelones de verdura con crema y morrones, y sorrentinos de calabaza con crema y roquefort. (Es el restaurante que integraba el "programa colaborativo" de Arandu Ecolodge.)
+- **Casa Santa Ana:** desayuno y cena incluidos para huéspedes.
+
+**Qué suma a nuestra planificación**
+- **Opciones para comer** en las posadas que solo incluyen desayuno (Casona Iberá, El Paso, Irupé): Café de los Pájaros y Yacarú Porá, sin precios en el video.
+- **Precios de excursiones sueltas** para comparar con los paquetes: lancha $45.000, cabalgata $30.000, safari nocturno $30.000 por persona (junio 2026).
+- **Senderos gratis o con la entrada** para los ratos libres: Carayá, Cerrito y de los Montes (Parque Provincial, 8 a 18 h) y Lobo Cuá y Los Lapachos (Parque Nacional, 9 a 16 h, gratis, en bici).
+- **Dos alojamientos nuevos** para consultar si hace falta: Cabaña Capivara y Casa Santa Ana del Iberá.
 
 ## 9. Pendientes
 
@@ -437,7 +501,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analiza completo el video de PRENDELAMECHAOK (guía de Pellegrini). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
