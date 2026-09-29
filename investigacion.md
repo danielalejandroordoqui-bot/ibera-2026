@@ -274,6 +274,43 @@ Comidas en el pueblo (posadas sin pensión completa): ~$15.000 por persona por c
 - **Estacionamiento:** con auto propio conviene confirmarlo en todas; solo El Paso lo dijo explícitamente.
 - Los totales no incluyen bebidas. Ecoposada, además, suma impuestos que no informó.
 
+### Cuánto se ahorra con el auto vs. el avión (29/9/2026)
+
+Solo transporte, 4 noches, misma posada, para los dos. **Auto propio durmiendo en Concordia: $391.000 (≈ US$255)** (nafta $309.000 + peajes $39.000 + hotel $43.000).
+
+| Opción con avión (incluye Uber La Plata ↔ Aeroparque) | Transporte | Ahorro con el auto |
+|---|---|---|
+| Avión 8:45 a Corrientes + Yaris automático hasta Mercedes + 4x4 | $1.759.000 | **$1.368.000 ≈ US$891** |
+| Avión 8:45 a Corrientes + transfer directo (Ñandé Retá) | $1.730.100 | **$1.339.100 ≈ US$872** |
+| Avión 8:45 a Corrientes + transfer directo (El Paso) | $1.650.100 | **$1.259.100 ≈ US$820** |
+| JetSMART a Posadas + transfer (El Paso) · llega de noche | $1.400.000 | **$1.009.000 ≈ US$657** |
+
+- Contra las opciones que llegan de día, **~US$820-890 de ahorro** (~US$410-445 por persona). No es por cada cosa: el avión lleva pasajes + Uber + (Yaris con 4x4 **o** transfer).
+- Además el auto llega antes: ~13:30 a Pellegrini durmiendo en Concordia, contra ~16 h con el avión de las 8:45.
+
+### Formas de pago y cuotas de cada posada (29/9/2026)
+
+Montos sobre el precio de la posada para 4 noches (sin los gastos comunes del viaje, que se pagan aparte: nafta y peajes con tarjeta o TelePase, hotel de Concordia).
+
+| Posada | Total del viaje | Seña al reservar | Saldo | Tarjeta y cuotas | Preguntar |
+|---|---|---|---|---|---|
+| **Cabaña Capivara** | ≈ US$878 | 30% por Mercado Pago → $96.000 | $224.000 en efectivo o transferencia | no informó | si acepta tarjeta |
+| **Posada Rancho Iberá** | ≈ US$988 | no respondió | — | — | seña, saldo y si toma tarjeta en cuotas |
+| **Irupé Lodge** | ≈ US$991 | 50% por transferencia → $270.000 | $270.000 en efectivo, transferencia o tarjeta de crédito o débito | acepta crédito; cuotas no informadas | si el saldo con crédito puede ir en cuotas |
+| **Casona Iberá** | ≈ US$1.093 | 50% por transferencia o link de Mercado Pago → $400.000 | $400.000; cuándo y cómo, no informó | el link de Mercado Pago podría permitir cuotas (no confirmado) | si el link de Mercado Pago acepta cuotas y cómo se paga el saldo |
+| **Posada Iberá Porá** | ≈ US$1.210 | 50% + DNI → $630.000 | $630.000 hasta 1 día antes, o en efectivo en la posada; efectivo, transferencia o tarjeta | acepta tarjeta; cuotas no informadas | si con tarjeta se puede en cuotas sin interés |
+| **El Paso Iberá** | ≈ US$1.223 | no respondió | — | — | seña, saldo y cuotas |
+| **Ecoposada del Estero** | ≈ US$1.405 | 20% → $312.000 | $1.248.000; **en efectivo se mantiene el precio** (con otro medio puede cambiar) | acepta tarjeta, pero el precio del cuadro es pagando en efectivo | cuánto cambia con tarjeta y si hay cuotas |
+| **Rancho de los Esteros** | ≈ US$1.588 | 20% por transferencia → $368.000 | $1.472.000 al llegar, en efectivo o transferencia | **no acepta tarjeta** | — |
+| **Iberá Lodge** | ≈ US$1.731 | 50% por transferencia o tarjeta (con recargo) → $1.030.000 | $1.030.000 al llegar | tarjeta con recargo (monto no informado) | cuánto es el recargo y si permite cuotas |
+| **Posada de la Laguna** | ≈ US$1.900 | 40% por transferencia, saldo 10 días antes · <b>o todo en 3 cuotas sin interés</b> → $928.000 | $1.392.000 diez días antes del ingreso | **✅ 3 cuotas sin interés** con Visa o Mastercard: ~$773.000 por mes | — |
+| **Ñandé Retá Lodge** | ≈ US$2.240 | 30% → $852.300 | $1.988.700 en el hotel; medios combinables | **✅ tarjeta hasta 3 cuotas sin interés**: ~$947.000 por mes si va todo en cuotas | si la seña también puede ir en cuotas |
+
+- **Solo dos posadas confirmaron cuotas sin interés, y son las dos más caras:** Posada de la Laguna (todo en 3 cuotas con Visa o Mastercard, ~$773.000 por mes) y Ñandé Retá (hasta 3 cuotas; ~$947.000 por mes si va todo en cuotas).
+- **Cuando dos se acercan en precio:** la Posada de la Laguna (≈ US$1.900) sale ~US$169 más que Iberá Lodge (≈ US$1.731), pero se puede pagar entera en 3 cuotas sin interés sin poner plata al reservar. Iberá Lodge pide el 50% al reservar y cobra recargo con tarjeta. Con cuotas fijas en pesos, además, cada cuota pesa menos a medida que pasan los meses.
+- **Iberá Porá, Irupé e Iberá Lodge aceptan tarjeta** pero no dijeron si en cuotas: vale preguntarlo, porque puede cambiar la comparación.
+- **Efectivo:** en Pellegrini no hay cajeros. Donde el saldo va en efectivo (Ecoposada, para mantener el precio: $1.248.000; Rancho de los Esteros, salvo que se transfiera), hay que llevarlo desde La Plata o sacarlo en Mercedes.
+
 ### Auto propio vs. avión: a qué hora se llega (29/9/2026)
 
 Supuestos: Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta (aeropuertos chicos, solo carry-on). Transfers: Resistencia/Corrientes ↔ Pellegrini 5-6 h, Posadas ↔ Pellegrini 3 h 15 min a 4 h 40 min (estimados; confirmar con el chofer). Auto propio: ~11 h puerta a puerta al ritmo de Daniel (110-140 km/h).
@@ -794,7 +831,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
 - **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
-- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b). Se suman las tablas de horarios de llegada auto propio vs. avión, ida y vuelta. Tiempos recalculados con el ritmo de Daniel (110-140 km/h): ~11 h puerta a puerta. Se suma la opción de salir el viernes 6 a las 16 y dormir en Concordia (Hathor, sobre la RN 14) → Pellegrini sáb ~13:30. Comparativa del viaje completo (viernes + Concordia + 4 noches) con cada una de las 11 posadas de Pellegrini: qué incluye, comodidades, estacionamiento, pago y total (hotel de Concordia desde $43.000, dato de Daniel).
+- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b). Se suman las tablas de horarios de llegada auto propio vs. avión, ida y vuelta. Tiempos recalculados con el ritmo de Daniel (110-140 km/h): ~11 h puerta a puerta. Se suma la opción de salir el viernes 6 a las 16 y dormir en Concordia (Hathor, sobre la RN 14) → Pellegrini sáb ~13:30. Comparativa del viaje completo (viernes + Concordia + 4 noches) con cada una de las 11 posadas de Pellegrini: qué incluye, comodidades, estacionamiento, pago y total (hotel de Concordia desde $43.000, dato de Daniel). Se suman el ahorro del auto contra el avión (~US$820-890 contra las opciones que llegan de día) y las formas de pago y cuotas de cada posada.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
