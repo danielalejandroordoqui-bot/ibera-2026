@@ -311,7 +311,8 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Incluye:** las 4 comidas, **bebidas** (la única de la lista que las incluye) y experiencias: lancha, canoa tirada a caballo, cabalgatas, kayak y senderismo.
 - **Pago:** en pesos al tipo de cambio oficial del Banco Nación. Los extranjeros con tarjeta internacional no pagan IVA.
 - **Transfer:** desde Corrientes o Resistencia, con costo extra (ofrecen pasar con un asesor para cotizarlo).
-- Es la opción más cara de la lista, pero también la de mayor categoría (antigua estancia donde vivió Douglas Tompkins, según el video de Intriper).
+- Es la opción más cara de la lista, pero también la de mayor categoría (antigua estancia donde vivió Douglas Tompkins, según el video de Intriper; ver sección 8c).
+- **Acceso:** ruta asfaltada hasta Concepción del Yaguareté Corá; aeropuertos de Corrientes o Resistencia a ~220 km (según el hotel en el video).
 
 #### Rincón del Socorro (Rewilding Argentina)
 - **Contacto:** Guillermo, "Oficina de Reservas" · WhatsApp +54 9 3794 99-6868. Es el número que figura en el sitio de **Estancia Iberá**, pero quien contestó ofreció Rincón del Socorro; de Estancia Iberá propiamente dicha no hay info.
@@ -479,6 +480,33 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **Senderos gratis o con la entrada** para los ratos libres: Carayá, Cerrito y de los Montes (Parque Provincial, 8 a 18 h) y Lobo Cuá y Los Lapachos (Parque Nacional, 9 a 16 h, gratis, en bici).
 - **Dos alojamientos nuevos** para consultar si hace falta: Cabaña Capivara y Casa Santa Ana del Iberá.
 
+## 8c. Video: "Esteros del Iberá, la joya de Argentina" (Intriper, 28/9/2026)
+
+[Ver video](https://youtu.be/9OeHazFXf9A) · medio de viajes Intriper · subido el 5/5/2026 · 15 min · [nota escrita](https://intriper.com/lectura/ibera-la-joya-natural-de-argentina-que-paso-de-la-caza-indiscriminada-a-ser-un-santuario-de-vida-salvaje/). Analizado completo: audio transcripto con Whisper y 180 fotogramas revisados. **Se hospedaron 3 días en El Tránsito, Portal Carambola.**
+
+**Dónde queda y cómo se llega**
+- **El Tránsito** está en el **Portal Carambola (Paraje Carambola), cerca de Concepción del Yaguareté Corá**, uno de los accesos nuevos del Iberá. **No es Colonia Carlos Pellegrini.**
+- Según el hotel: "llegar al Iberá ya no es sinónimo de 4x4": hay **ruta asfaltada hasta Concepción**; se puede ir en auto desde Buenos Aires o volar a **Corrientes o Resistencia, a ~220 km**. (No detallan el tramo final de Concepción al hotel; en el video se ven caminos de tierra con camionetas.)
+
+**El hotel**
+- Antigua **estancia ganadera donde vivieron Douglas Tompkins y su mujer**, base de su fundación de conservación (hoy **Rewilding Argentina**); tras su muerte pasó a ser hotel. Gran parte del personal trabajó en esos proyectos.
+- **Todo incluido: las 4 comidas y las excursiones.** Al llegar, en una recepción, arman el programa según los días, lo que uno quiera hacer y el clima.
+- En imágenes: casco colonial amarillo con galerías, **pileta tipo infinita** sobre el campo, living con hogar, habitaciones amplias con madera, baños completos, desayuno tipo buffet, ñandúes y carpinchos en el parque.
+- Gastronomía: cocina de autor con **sabores autóctonos, materias primas regionales y de estación** (platos de pescado de río, verduras).
+- Aparecen Dahiana Mansilla (gerente de operaciones), Matías Gauto (del hotel) y Agustina Vera (Fundación Rewilding Argentina).
+
+**Experiencias que muestran**
+- **Canoa tirada a caballo** (~2 h), desde un antiguo **puesto de mariscadores**: los ex cazadores hoy son **baqueanos y guías**; el guía (Nicolás) encuentra el paso entre la vegetación que cambia. En Carambola viven 6 familias que usan esos canales como "avenida principal". Todavía se habla **jopará** (guaraní mezclado con castellano).
+- **Safari náutico / navegación** por los esteros: ciervos de los pantanos, carpinchos, yacarés, muchas aves; más de 4.500 especies entre flora y fauna.
+- Personal del hotel filmó una **boa curiyú comiéndose un zorro gris** (3 horas); aclaran que es muy difícil de ver.
+- **Yaguareté:** de 7 a 9 liberados desde el centro de reintroducción, hoy **más de 50 registrados** que se reproducen en libertad; **huellas a ~15 km** de ese punto. Cuentan cómo cambió la percepción de los vecinos: de miedo a orgullo.
+
+**Datos generales:** Reserva Natural Iberá creada en 1983 (~1.300.000 ha); **Parque Nacional Iberá creado en 2018** (~200.000 ha); junto al Parque Provincial forman el Gran Parque Iberá.
+
+**Qué suma a nuestra planificación**
+- Confirma que **El Tránsito es otra logística**: acceso por Concepción (asfalto) desde Corrientes o Resistencia (~220 km), no por Mercedes ni Posadas. Si se eligiera, habría que rearmar vuelos y transfer, y los packs actuales no aplican.
+- Su programa es **más exclusivo y armado a medida** (canoa tirada a caballo con baqueanos, safari náutico, cocina de autor), pero es la opción más cara de la lista.
+
 ## 9. Pendientes
 
 1. **Formas de pago:** faltan Iberá Lodge, Rancho Iberá y El Paso.
@@ -501,7 +529,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analiza completo el video de PRENDELAMECHAOK (guía de Pellegrini). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
