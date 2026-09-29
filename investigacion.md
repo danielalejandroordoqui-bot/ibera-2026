@@ -536,7 +536,8 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 6. ~~Posada Rancho Iberá: 3 noches~~ ✅ $570.000 en la habitación. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
-7. **Transfer:** pedir precio a un chofer de Posadas (Oscar Díaz, Roberto Zimmerly o Gustavo Prion) y comparar con Mercedes ($170.000 por tramo de Ñandé Retá).
+7. ~~Transfer desde Posadas y Corrientes~~ ✅ El Paso: Posadas $700.000 y Corrientes $900.000 ida y vuelta; Ñandé Retá: Corrientes $490.000 y Mercedes $170.000 por tramo.
+7b. **Casa Santa Ana del Iberá:** Daniel le escribió por Instagram; esperando respuesta.
 8. **Elegir aeropuerto y comprar vuelos** una vez definidos posada y transfer (en finde largo los precios pueden subir).
 9. **Licencia del miércoles 11:** solo si se eligen 4 noches.
 
