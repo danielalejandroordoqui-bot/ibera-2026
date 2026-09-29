@@ -195,7 +195,7 @@ Ninguna posada incluye el transfer en el precio. Opciones relevadas:
 - **Desde Mercedes** (2 h hasta Pellegrini): **Ñandé Retá cotizó 4x4 privada a $170.000 por tramo por camioneta (hasta 4 personas)** → ida y vuelta $340.000 (≈ US$221).
 - Choferes desde Mercedes (recomendados por las posadas): Norma Pelozo 3773-43 7847 (recomendada por Rancho de los Esteros; es el mismo número que "Bus privado 2 de Abril" del PDF de Ecoposada), Víctor Flores +54 9 3773 46-3857, Daniel Aguirre +54 9 3773 62-7687, Martín Sandoval +54 9 3773 52-8283, Rafael Muzio 3773 413081, combi de Daniel Ortiz 03773 15431469.
 - **Desde el aeropuerto de Posadas** (210-250 km, camioneta para 4): **El Paso Iberá cotizó $700.000 ida y vuelta.** Otros choferes: Oscar Díaz 3764 549 520 (Rancho de los Esteros) / 3754-405533 (Ecoposada), Roberto Zimmerly 3764-690457, Gustavo Prion 3764-530631.
-- **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta.** Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
+- **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta**; **Ñandé Retá, $490.000 por tramo (≈ $980.000 ida y vuelta)**. Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
 
 ### Colectivo
 - **Iberá Bus** (Mercedes → Pellegrini): sale de Mercedes 12 h lunes, miércoles y viernes (llega 16 h); vuelve de Pellegrini a las 4 h esos mismos días. Marcos/Mario Azcona 03773 15462836 / 3773-507189. Reconfirmar un día antes. No coincide con salir un sábado.
@@ -222,7 +222,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Rancho de los Esteros** | sáb 7 → mié 11 · $1.840.000 ≈ **US$1.199** (solo si se cae el grupo) | dom 8 → mié 11 · $1.380.000 ≈ **US$899** (seguro) · o sáb 7 → mar 10 al mismo precio si se cae el grupo | depende de un grupo | 1 por persona por día, a elección |
 | **Iberá Lodge** | sáb 7 → mié 11 · ~$2.060.000 ≈ **US$1.342** (estimado) | sáb 7 → mar 10 · $1.500.000 ≈ **US$977** | ✅ | trekking, 2 navegaciones, cabalgata |
 | **Posada de la Laguna** | sáb 7 → mié 11 · $2.320.000 ≈ **US$1.511** | no cotizó | ✅ | 3 lanchas + canoa + caminatas en ambos parques |
-| **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** | no cotizó | ✅ (última habitación) | 5 a elección |
+| **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** (cotización de Lucía para este finde) | sáb 7 → mar 10 · Plan Full ~$1.866.000 con IVA ≈ **US$1.216** (tarifa "no válida para fines de semana largos": confirmar) | ✅ (última habitación) | 4n: 5 a elección · 3n Full: 4 excursiones |
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | Posada Rancho Iberá | — | — | ? | con desayuno, **sin pensión completa**; precio pendiente |
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
@@ -290,7 +290,13 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **4 noches: $1.174.000 + IVA por adulto** → para 2 con IVA 21% ≈ $2.841.000.
 - **Incluye:** habitación doble, pensión completa con merienda (entrada, plato principal y postre) y **5 excursiones a elección** entre: lancha por el Miriñay, lancha por el Corriente, caminata nocturna por el Sendero El Cerrito, cabalgata por esteros, Centro de Interpretación + Sendero de los Monos, "sabiduría de la tierra: medicina natural". Todas las excursiones: [nandereta.com/excursiones](https://www.nandereta.com/excursiones).
 - **Transfer:** 4x4 privada desde Mercedes (2 h), $170.000 por tramo por camioneta (hasta 4 personas). Preguntó cómo pensamos viajar.
-- Check-in 12 h, check-out 10 h. No cotizó 3 noches.
+- Check-in 12 h, check-out 10 h.
+- **Planes generales (segunda respuesta, 28/9 noche, desde +54 9 11 2340-2550)**:
+  - **4 noches / 5 días, por adulto:** Plan Base (alojamiento + desayuno) $520.000 · Plan Medio (desayuno + cena + 1 excursión por día) $873.800 · Plan Full (pensión completa con merienda, menú de entrada, principal y postre, + 1 excursión por día) **"$1.28.000" → monto ilegible, confirmar** ($1.280.000 o $1.128.000). El Plan Full de 2 noches o más suma 1 excursión de regalo.
+  - **3 noches / 4 días, por adulto, más IVA 21%:** Plan Base (alojamiento + desayuno) $390.000 → pareja con IVA ≈ $943.800 (≈ US$615) · Plan Medio (desayuno + almuerzo o cena + 4 excursiones) $655.350 → pareja con IVA ≈ $1.585.900 (≈ US$1.033) · **Plan Full (pensión completa + 4 excursiones) $771.000 → pareja con IVA ≈ $1.865.800 (≈ US$1.216)**.
+  - ⚠️ Aclaran **"tarifas no válidas para fines de semana largos"** y que bebidas y entrada al Parque van aparte. La única cotización específica para este finde sigue siendo la de Lucía (4 noches, $1.174.000 + IVA por adulto).
+  - Excursiones a elección: lancha Miriñay, lancha Corriente, caminata nocturna por el Sendero El Cerrito, cabalgata por esteros, Centro de Interpretación + Sendero de los Monos, medicina natural.
+- **Transfer:** Mercedes → hotel **$170.000 por tramo**; **Corrientes → hotel $490.000 por tramo** (≈ $980.000 ida y vuelta).
 
 #### Rincón del Socorro (Rewilding Argentina)
 - **Contacto:** Guillermo, "Oficina de Reservas" · WhatsApp +54 9 3794 99-6868. Es el número que figura en el sitio de **Estancia Iberá**, pero quien contestó ofreció Rincón del Socorro; de Estancia Iberá propiamente dicha no hay info.
@@ -416,7 +422,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 2. **Ecoposada:** confirmar disponibilidad del 7 al 10 (y del 7 al 11) y la **tarifa de feriado con impuestos**.
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
-5. **Posada de la Laguna y Ñandé Retá:** pedir cotización de 3 noches si interesa.
+5. **Posada de la Laguna:** pedir cotización de 3 noches si interesa. **Ñandé Retá:** confirmar el precio de 3 noches para el finde largo (las tarifas que mandó "no son válidas para fines de semana largos") y el monto ilegible del Plan Full de 4 noches ("$1.28.000").
 6. **Posada Rancho Iberá:** esperar precio. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
@@ -431,7 +437,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **6-7/9/2026:** primeras cotizaciones de Iberá para marzo 2027 (El Paso, Arandu, Posada de la Laguna, Iberá Lodge, Irupé). Vuelos de referencia: AEP-Corrientes US$130 y AEP-Posadas US$167 ida y vuelta.
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
-- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
+- **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
