@@ -226,7 +226,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** (cotización de Lucía para este finde) | sáb 7 → mar 10 · Plan Full ~$1.866.000 con IVA ≈ **US$1.216** (tarifa "no válida para fines de semana largos": confirmar) | ✅ (última habitación) | 4n: 5 a elección · 3n Full: 4 excursiones |
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | **El Tránsito** (Portal Carambola, no Pellegrini) | sáb 7 → mié 11 · Deluxe **US$2.203** no reembolsable / US$2.592 flexible · Suite US$2.981 / US$3.507 | — | ✅ | todo incluido **con bebidas**: lancha, canoa tirada a caballo, cabalgata, kayak, senderismo |
-| Posada Rancho Iberá | sáb 7 → mié 11 · **$640.000 ≈ US$417** (total; confirmar si es para los dos) · solo desayuno | — (no cotizó) | ? | lancha 2 h, caminata guiada diurna, kayak guiado |
+| Posada Rancho Iberá | sáb 7 → mié 11 · habitación de la posada **$640.000 ≈ US$417** · cabaña $660.000 ≈ US$430 (total; confirmar si es para los dos) · solo desayuno | — (no cotizó) | ? | lancha 2 h, caminata guiada diurna, kayak guiado |
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
 | El Paso Iberá (cabaña) | sáb 7 → mié 11 · $1.000.000 ≈ **US$651** (monto a confirmar: escribieron "$1.00.000") · solo desayuno | — (no cotizó) | ? | 2 lanchas, caminata diurna, safari nocturno |
 | Casona Iberá | sáb 7 → mié 11 · $800.000 ≈ **US$521** · solo desayuno | sáb 7 → mar 10 · $590.000 ≈ **US$384** · solo desayuno | ? | 3n: lancha, caminata guiada, cabalgata · 4n suma 2ª lancha |
@@ -327,6 +327,11 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Contacto:** Taty · WhatsApp +54 9 379 431-8594 · posadaranchoibera@hotmail.com · [ranchoiberaposada.com.ar](https://ranchoiberaposada.com.ar/).
 - Solo ofrece paquetes **con desayuno y excursiones, sin pensión completa**.
 - **Cotización (28/9, noche):** **4 noches con desayuno** + **1 excursión en lancha de 2 h** + **1 caminata guiada diurna** + **1 excursión guiada en kayak**: **total $640.000 (≈ US$417)**. No incluye la entrada al Parque Provincial. ⚠️ Confirmar si el total es para los dos (así parece) o por persona. Almuerzo y cena, aparte.
+- **Dos opciones de alojamiento con el mismo paquete** (23:20-23:22, con fotos y video):
+  - **Habitación de la posada: $640.000** (video): galería con piso rojo y sillones, jardín con pérgola y flores; habitación con techo de madera, ventilador de techo y **aire acondicionado**, cama matrimonial con respaldo de madera, lámparas, perchero y sillas; **baño completo con ducha con cortina, inodoro y bidet**, revestido en cerámica. A Daniel le gustó esta ("se ve buena, con un baño más completo").
+  - **Cabaña: $660.000** (4 fotos): cabaña de madera y ladrillo con estacionamiento techado, dormitorio con ventilador y rack, living con escalera; baño más chico con cortina estampada.
+- Instagram: **@rancho_ibera**.
+- También mandó la **tabla oficial de tarifas del Parque Provincial (Portal Laguna Iberá), vigente desde el 1/7/2026, entrada válida por 5 días:** argentinos mayores **$23.000**, menores de 17 $14.000, jubilados $8.000; extranjeros $45.000; residentes de Corrientes $5.000. Gratis: menores de 6, personas con discapacidad y un acompañante, ex combatientes de Malvinas, choferes de micros y visitantes locales.
 - Posada sencilla con pileta y comida casera; lancha de día y de noche, kayak.
 
 #### Irupé Lodge
@@ -418,7 +423,7 @@ Fuentes: [Boleto a la Felicidad](https://boletoalafelicidad.com/esteros-del-iber
 
 ## 6. Costos extra en destino
 
-- **Entrada al Parque Provincial Iberá:** $23.000 por persona, válida 5 días (dato de sept. 2026; en junio 2026 el video de PRENDELAMECHAOK la pagó $15.000 por persona, argentinos, por toda la estadía); se paga en el portal del pueblo y te ponen una pulsera que piden en las actividades. **Parque Nacional:** gratis.
+- **Entrada al Parque Provincial Iberá:** **$23.000 por persona (argentinos mayores), válida 5 días, tarifa oficial vigente desde el 1/7/2026** (tabla enviada por Rancho Iberá) (dato de sept. 2026; en junio 2026 el video de PRENDELAMECHAOK la pagó $15.000 por persona, argentinos, por toda la estadía); se paga en el portal del pueblo y te ponen una pulsera que piden en las actividades. **Parque Nacional:** gratis.
 - **Bebidas:** no incluidas en ninguna posada.
 - **Efectivo:** no hay cajeros en Pellegrini (los más cercanos, en Mercedes o Santo Tomé).
 
