@@ -226,7 +226,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Ñandé Retá Lodge** | sáb 7 → mié 11 · ~$2.841.000 con IVA ≈ **US$1.851** (cotización de Lucía para este finde) | sáb 7 → mar 10 · Plan Full ~$1.866.000 con IVA ≈ **US$1.216** (tarifa "no válida para fines de semana largos": confirmar) | ✅ (última habitación) | 4n: 5 a elección · 3n Full: 4 excursiones |
 | **Rincón del Socorro** | — | dom 8 → mié 11 · $3.420.000 ≈ **US$2.228** | ❌ | 2 por día |
 | **El Tránsito** (Portal Carambola, no Pellegrini) | sáb 7 → mié 11 · Deluxe **US$2.203** no reembolsable / US$2.592 flexible · Suite US$2.981 / US$3.507 | — | ✅ | todo incluido **con bebidas**: lancha, canoa tirada a caballo, cabalgata, kayak, senderismo |
-| Posada Rancho Iberá | sáb 7 → mié 11 · habitación de la posada **$640.000 ≈ US$417** · cabaña $660.000 ≈ US$430 (total; confirmar si es para los dos) · solo desayuno | — (no cotizó) | ? | lancha 2 h, caminata guiada diurna, kayak guiado |
+| Posada Rancho Iberá | sáb 7 → mié 11 · habitación de la posada **$640.000 ≈ US$417** · cabaña $660.000 ≈ US$430 (total para los dos) · solo desayuno | — (no cotizó) | ? | lancha 2 h, caminata guiada diurna, kayak guiado |
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
 | El Paso Iberá (cabaña) | sáb 7 → mié 11 · $1.000.000 ≈ **US$651** (monto a confirmar: escribieron "$1.00.000") · solo desayuno | — (no cotizó) | ? | 2 lanchas, caminata diurna, safari nocturno |
 | Casona Iberá | sáb 7 → mié 11 · $800.000 ≈ **US$521** · solo desayuno | sáb 7 → mar 10 · $590.000 ≈ **US$384** · solo desayuno | ? | 3n: lancha, caminata guiada, cabalgata · 4n suma 2ª lancha |
@@ -326,7 +326,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 #### Posada Rancho Iberá
 - **Contacto:** Taty · WhatsApp +54 9 379 431-8594 · posadaranchoibera@hotmail.com · [ranchoiberaposada.com.ar](https://ranchoiberaposada.com.ar/).
 - Solo ofrece paquetes **con desayuno y excursiones, sin pensión completa**.
-- **Cotización (28/9, noche):** **4 noches con desayuno** + **1 excursión en lancha de 2 h** + **1 caminata guiada diurna** + **1 excursión guiada en kayak**: **total $640.000 (≈ US$417)**. No incluye la entrada al Parque Provincial. ⚠️ Confirmar si el total es para los dos (así parece) o por persona. Almuerzo y cena, aparte.
+- **Cotización (28/9, noche):** **4 noches con desayuno** + **1 excursión en lancha de 2 h** + **1 caminata guiada diurna** + **1 excursión guiada en kayak**: **total $640.000 (≈ US$417)**. No incluye la entrada al Parque Provincial. Total para los dos (criterio: si no dice "por persona", es el total). Almuerzo y cena, aparte.
 - **Dos opciones de alojamiento con el mismo paquete** (23:20-23:22, con fotos y video):
   - **Habitación de la posada: $640.000** (video): galería con piso rojo y sillones, jardín con pérgola y flores; habitación con techo de madera, ventilador de techo y **aire acondicionado**, cama matrimonial con respaldo de madera, lámparas, perchero y sillas; **baño completo con ducha con cortina, inodoro y bidet**, revestido en cerámica. A Daniel le gustó esta ("se ve buena, con un baño más completo").
   - **Cabaña: $660.000** (4 fotos): cabaña de madera y ladrillo con estacionamiento techado, dormitorio con ventilador y rack, living con escalera; baño más chico con cortina estampada.
@@ -532,7 +532,7 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 3. **Rancho de los Esteros:** esperar que el grupo del 5-8/11 confirme o se caiga; **no señar antes**.
 4. **Iberá Lodge:** confirmar precio de la 4ª noche y si ofrece transfer.
 5. **Posada de la Laguna:** pedir cotización de 3 noches si interesa. **Ñandé Retá:** confirmar el precio de 3 noches para el finde largo (las tarifas que mandó "no son válidas para fines de semana largos") y el monto ilegible del Plan Full de 4 noches ("$1.28.000").
-6. **Posada Rancho Iberá:** confirmar si los $640.000 son para los dos, y si cotiza 3 noches. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
+6. **Posada Rancho Iberá:** preguntar si cotiza 3 noches. **El Paso Iberá:** confirmar el monto ("$1.00.000") y si cotiza 3 noches. **Casona Iberá:** confirmar disponibilidad y tarifa de finde largo. En las posadas con solo desayuno, averiguar dónde y cuánto cuestan almuerzo y cena.
 6b. **Irupé Lodge:** si interesa, pedir precios del restaurante El Camalotal y el número/precio de Miguel (transfer Mercedes).
 6c. **Ecoposada:** preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.
 7. **Transfer:** pedir precio a un chofer de Posadas (Oscar Díaz, Roberto Zimmerly o Gustavo Prion) y comparar con Mercedes ($170.000 por tramo de Ñandé Retá).
