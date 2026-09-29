@@ -38,7 +38,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 | Aeropuerto de Corrientes → Mercedes | 238-246 km | ~3-3,5 h | asfalto (RN 12 + RN 123), algunos baches |
 | Aeropuerto de Resistencia → Mercedes | ~260 km | ~3,5 h | asfalto, cruzando el puente a Corrientes |
 | Mercedes → Pellegrini | 118-120 km | ~2 h en 4x4; **hasta ~3 h 20 min en auto** | 50 km asfalto en excelente estado + 35 km de ripio bueno hasta Uguay + **35 km de laja puntiaguda que rompe cubiertas y protecciones (ir a ~30 km/h)**; **sin nafta ni señal; con lluvia, solo 4x4** |
-| **La Plata → Pellegrini (auto propio, total)** | **858 km** | **~11-12 h reales** | última nafta en Mercedes |
+| **La Plata → Pellegrini (auto propio, total)** | **862 km** (Ruta0) | **~11 h sin paradas** (Ruta0, 10 h 59 min) · ida y vuelta 1.724 km, ~22 h | RN 14 + RP 40; última nafta en Mercedes |
 | Goya → Mercedes | 149 km | ~1 h 50 min | Goya aparece como aeropuerto de entrada en la info de Casona Iberá, pero **no tiene vuelos comerciales** para esas fechas (Google Flights deriva a Resistencia o Corrientes) |
 | Aeropuerto de Corrientes → Pellegrini (directo) | ~356-370 km | ~5-6 h | vía Mercedes |
 | Aeropuerto de Posadas → Pellegrini | 200-250 km | 3 h 15 min a 4 h 40 min | RN 12 + RP 41 + RP 40, tierra y arena; **RP 41 solo de día** |
