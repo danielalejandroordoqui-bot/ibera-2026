@@ -111,6 +111,11 @@
 
   .todo li{margin:6px 0}
   footer{padding:40px 0;color:var(--ink-faint);font-size:13px;border-top:1px solid var(--line);margin-top:40px}
+  .step{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:var(--green);color:var(--bg);font-weight:700;font-size:14px;margin-right:8px;vertical-align:2px}
+  .big{font-family:Fraunces,Georgia,serif;font-size:22px;display:block;margin:4px 0}
+  details.card > summary{font-size:15px}
+  .card table{min-width:0}
+  .sub-h{font-size:20px;margin:30px 0 10px;padding-top:6px;border-top:1px dashed var(--line)}
 </style>
 </head>
 <body>
@@ -119,11 +124,11 @@
   <div class="wrap">
     <div class="kicker">Esteros del Iberá · Colonia Carlos Pellegrini</div>
     <h1>Iberá, finde largo de noviembre</h1>
-    <p>Todo lo cotizado para el fin de semana largo de la visita del Papa: fechas, vuelos, traslados y la comparación de posadas con pensión completa y excursiones. Actualizado al 28/9/2026.</p>
+    <p>Todo lo averiguado para ir a los Esteros del Iberá en el fin de semana largo de la visita del Papa. Arriba, el resumen con lo que hay que decidir; más abajo, el detalle de cada cosa. Actualizado al 29/9/2026.</p>
     <div class="chips">
-      <span class="chip">📅 <b>4 noches</b> sáb 7 → mié 11 · o <b>3 noches</b> sáb 7 → mar 10</span>
-      <span class="chip">✈️ Avión + transfer, sin manejar</span>
-      <span class="chip">🏡 13 alojamientos consultados · 13 con precio</span>
+      <span class="chip">📅 <b>sáb 7 → mar 10</b> o <b>→ mié 11</b></span>
+      <span class="chip">🚗 Auto propio o ✈️ avión</span>
+      <span class="chip">🏡 11 posadas con precio</span>
       <span class="chip">⏳ Nada reservado todavía</span>
     </div>
   </div>
@@ -131,30 +136,56 @@
 
 <nav class="top" aria-label="Secciones">
   <div class="wrap">
+    <a href="#resumen">Resumen</a>
     <a href="#fechas">Fechas</a>
-    <a href="#packs">Packs</a>
-    <a href="#auto">Auto propio</a>
-    <a href="#comparativa">Auto + posadas</a>
-    <a href="#hospedajes">Hospedajes</a>
-    <a href="#noches">¿3 o 4 noches?</a>
-    <a href="#pago">Pago</a>
-    <a href="#vuelos">Vuelos</a>
-    <a href="#traslados">Traslados</a>
-    <a href="#fichas">Fichas</a>
-    <a href="#temporada">Temporada</a>
-    <a href="#comer">Comer</a>
-    <a href="#videos">Videos</a>
-    <a href="#extras">Extras y valija</a>
+    <a href="#llegar">Cómo llegar</a>
+    <a href="#dormir">Dónde dormir</a>
+    <a href="#hacer">Qué hacer</a>
+    <a href="#antes">Antes de ir</a>
     <a href="#pendientes">Pendientes</a>
+    <a href="#mas">Más detalle</a>
   </div>
 </nav>
 
 <main class="wrap">
 
+<!-- RESUMEN -->
+<section id="resumen">
+  <h2>En resumen</h2>
+  <p class="lead">Hay que decidir tres cosas. Esto es lo que sabemos de cada una.</p>
+  <div class="grid">
+    <div class="card">
+      <h3 style="margin:0 0 6px"><span class="step">1</span>¿Cuántas noches?</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>3 noches</b>, sáb 7 → mar 10: sin pedir licencia, pero el miércoles se trabaja.</li>
+        <li><b>4 noches</b>, sáb 7 → mié 11: los dos piden el miércoles; tres días enteros allá.</li>
+      </ul>
+      <p class="muted" style="margin:8px 0 0">Casi todos los que fueron dicen que 3 noches es el mínimo. <a href="#fechas">Ver fechas</a></p>
+    </div>
+    <div class="card">
+      <h3 style="margin:0 0 6px"><span class="step">2</span>¿Cómo llegamos?</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>En nuestro auto</b> (con 4 noches): saliendo el viernes a las 16 y durmiendo en Concordia, llegamos el sábado ~13:30. Nafta, peajes y hotel: <b>~US$255</b>.</li>
+        <li><b>En avión</b> + auto alquilado o transfer hasta Pellegrini: <b>~US$1.070-1.150</b> y se llega ~15:30-16 h.</li>
+      </ul>
+      <p class="muted" style="margin:8px 0 0">El auto ahorra ~US$820-890 y llega antes. El avión evita ~19 h de manejo. <a href="#llegar">Ver cómo llegar</a></p>
+    </div>
+    <div class="card">
+      <h3 style="margin:0 0 6px"><span class="step">3</span>¿Dónde dormimos?</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>Todo incluido</b> (comidas + excursiones): Iberá Porá, viaje completo en auto <b>≈ US$1.210</b>.</li>
+        <li><b>Con desayuno y comiendo afuera:</b> Rancho Iberá ≈ US$988 o Casona Iberá ≈ US$1.093 (esta, con cuotas sin interés).</li>
+      </ul>
+      <p class="muted" style="margin:8px 0 0">Totales del viaje completo en auto, 4 noches, para los dos. <a href="#dormir">Ver las 11 posadas</a></p>
+    </div>
+  </div>
+  <div class="note green"><b>Ejemplo del viaje completo:</b> auto + noche en Concordia + 4 noches en Iberá Porá (todas las comidas, 2 lanchas, 2 caminatas y safari nocturno) ≈ <b>US$1.210 para los dos</b>, ~US$605 por persona.</div>
+</section>
+
 <!-- FECHAS -->
 <section id="fechas">
-  <h2>Fechas y feriados</h2>
-  <p class="lead">Feriados por la visita del papa León XIV, oficializados por el Decreto 1103/2026. Los dos trabajan en CABA.</p>
+  <h2>Fechas</h2>
+  <p class="lead">Feriados por la visita del papa León XIV (Decreto 1103/2026). Los dos trabajamos en CABA.</p>
   <div class="cal">
     <div class="day free"><span class="d">7</span>sáb<small>fin de semana</small></div>
     <div class="day free"><span class="d">8</span>dom<small>misa del Papa en Palermo</small></div>
@@ -168,124 +199,55 @@
     <div class="card"><span class="tag warn">Licencia el mié 11</span><h3 style="margin:8px 0 4px">4 noches · sáb 7 → mié 11</h3><p class="muted" style="margin:0">Los dos piden el miércoles 11.</p></div>
     <div class="card"><span class="tag no">La peor</span><h3 style="margin:8px 0 4px">3 noches · dom 8 → mié 11</h3><p class="muted" style="margin:0">Viajar el día de la misa del Papa, perder el sábado y pedir licencia igual.</p></div>
   </div>
-</section>
 
-<!-- PACKS -->
-<section id="packs">
-  <h2>Packs simulados</h2>
-  <p class="lead">Siete combinaciones de transporte + hospedaje + entrada al Parque, totales para los dos. Los packs con avión incluyen el Uber La Plata ↔ aeropuerto (~$180.000 ida y vuelta). Con Iberá Porá (la más barata con pensión completa), Ecoposada e Iberá Lodge.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Pack</th><th>Noches · licencia</th><th>Llegada</th><th>Transporte</th><th>Con Iberá Porá</th><th>Con Ecoposada</th><th>Con Iberá Lodge</th></tr></thead>
-    <tbody>
-      <tr><td><b>P1 · Micro nocturno + 4x4</b></td><td>3 · sin licencia</td><td>sáb ~11:30</td><td class="num best">≈ US$356</td><td class="num">≈ US$1.005<span class="dates">$1.542.000</span></td><td class="num">≈ US$1.154<span class="dates">$1.772.000</span></td><td class="num">≈ US$1.363<span class="dates">$2.092.000</span></td></tr>
-      <tr><td>P1 · versión 4 noches</td><td>4 · licencia mié</td><td>sáb ~11:30</td><td class="num">≈ US$356</td><td class="num">≈ US$1.207<span class="dates">$1.852.000</span></td><td class="num">≈ US$1.402<span class="dates">$2.152.000</span></td><td class="num">≈ US$1.728<span class="dates">$2.652.000</span></td></tr>
-      <tr><td><b>P2 · Avión 7:30 a Resistencia + auto + 4x4</b></td><td>3 · sin licencia</td><td>sáb ~15:30</td><td class="num">≈ US$1.074</td><td class="num">≈ US$1.722<span class="dates">$2.644.000</span></td><td class="num">≈ US$1.872<span class="dates">$2.874.000</span></td><td class="num">≈ US$2.081<span class="dates">$3.194.000</span></td></tr>
-      <tr><td>P3 · Avión 7:30 a Resistencia + transfer</td><td>3 · sin licencia</td><td>sáb ~15 h</td><td class="num">≈ US$1.066</td><td class="num">≈ US$1.715<span class="dates">$2.632.000</span></td><td class="num">≈ US$1.864</td><td class="num">≈ US$2.073</td></tr>
-      <tr><td>P4 · JetSMART a Posadas + transfer</td><td>3 · sin licencia</td><td>sáb ~22-23 h</td><td class="num">≈ US$894</td><td class="num">≈ US$1.543<span class="dates">$2.369.000</span></td><td class="num">≈ US$1.693</td><td class="num">≈ US$1.902</td></tr>
-      <tr><td><b>P5 · Avión 8:45 a Corrientes + auto + 4x4</b></td><td>4 · licencia mié</td><td>sáb ~16 h</td><td class="num">≈ US$1.146</td><td class="num">≈ US$1.997<span class="dates">$3.065.000</span></td><td class="num">≈ US$2.192<span class="dates">$3.365.000</span></td><td class="num">≈ US$2.518<span class="dates">$3.865.000</span></td></tr>
-      <tr><td><b>P6 · Auto propio La Plata → Pellegrini</b></td><td>3 · sin licencia</td><td>sáb ~14-15 h</td><td class="num best">≈ US$227</td><td class="num best">≈ US$876<span class="dates">$1.344.000</span></td><td class="num">≈ US$1.025<span class="dates">$1.574.000</span></td><td class="num">≈ US$1.234<span class="dates">$1.894.000</span></td></tr>
-      <tr><td>P6 · versión 4 noches</td><td>4 · licencia mié</td><td>sáb ~14-15 h</td><td class="num">≈ US$227</td><td class="num">≈ US$1.078<span class="dates">$1.654.000</span></td><td class="num">≈ US$1.273<span class="dates">$1.954.000</span></td><td class="num">≈ US$1.599<span class="dates">$2.454.000</span></td></tr>
-    </tbody>
-  </table></div>
-
-  <div class="grid" style="margin-top:14px">
-    <article class="card lodge">
-      <span class="tag ok">Mejor costo/tiempo</span>
-      <h3 style="margin:8px 0 4px">P1 · Micro nocturno + 4x4</h3>
-      <ul>
-        <li><b>Vie 6, ~21:30:</b> Flechabus desde Retiro.</li>
-        <li><b>Sáb 7:</b> Mercedes ~6 h, desayuno → 9:30 transfer 4x4 → <b>~11:30 en Pellegrini</b>.</li>
-        <li><b>Sáb tarde, dom y lun:</b> excursiones.</li>
-        <li><b>Mar 10:</b> mañana libre, transfer y micro de noche → mié ~6-7 h en Retiro.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0">Casi 3 días con 3 noches pagas y sin licencia. Contra: dos noches en micro y directo al trabajo.</p>
-    </article>
-    <article class="card lodge">
-      <span class="tag info">Sin micro, 3 noches</span>
-      <h3 style="margin:8px 0 4px">P2 · Resistencia temprano + auto + 4x4</h3>
-      <ul>
-        <li><b>Sáb 7:</b> Aerolíneas 7:30 → 9:05, auto automático → Mercedes ~13 h → 4x4 → <b>~15:30 en Pellegrini</b>.</li>
-        <li><b>Mar 10:</b> transfer 11 h → auto → Resistencia ~16:30 → vuelo 18:48 o 20:20.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0">~7 h de manejo en total por asfalto; el auto queda estacionado en Mercedes. P3 es igual pero con transfer directo: $900.000 ida y vuelta.</p>
-    </article>
-    <article class="card lodge">
-      <span class="tag warn">4 noches por avión</span>
-      <h3 style="margin:8px 0 4px">P5 · Corrientes 8:45 + auto + 4x4</h3>
-      <ul>
-        <li><b>Sáb 7:</b> 8:45 → 10:20, auto → Mercedes ~13:45 → 4x4 → <b>~16 h en Pellegrini</b>.</li>
-        <li><b>Dom, lun y mar:</b> completos.</li>
-        <li><b>Mié 11:</b> transfer 10:30 → Corrientes ~16 h → vuelo 18:05.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0">El más completo y el más caro. Solo sirve con 4 noches: el martes no vuelve Aerolíneas desde Corrientes.</p>
-    </article>
-    <article class="card lodge">
-      <span class="tag ok">El más barato</span>
-      <h3 style="margin:8px 0 4px">P6 · Auto propio La Plata → Pellegrini</h3>
-      <ul>
-        <li><b>Sáb 7, ~3-4 h:</b> salida de La Plata, 738 km hasta Mercedes → <b>nafta en Mercedes</b> (en Pellegrini no hay) → 120 km, 2-3 h (últimos 35 de laja a ~30 km/h) → <b>~14-15 h en Pellegrini</b>.</li>
-        <li><b>Sáb tarde, dom y lun:</b> excursiones; el auto queda en la posada.</li>
-        <li><b>Mar 10:</b> check-out 10 h → <b>La Plata ~21-22 h</b>, a dormir a casa.</li>
-        <li><b>Nafta:</b> ~1.716 km ida y vuelta ≈ $309.000 (3,5 tanques) · peajes ≈ $39.000.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0">Sin licencia, vuelta descansada y sin depender de vuelos. Ojo: últimos ~35 km de piedra filosa y, con lluvia, "no apto para autos pequeños". ~20 h de manejo en total: conviene turnarse. Peajes solo con TelePase.</p>
-    </article>
-    <article class="card lodge">
-      <span class="tag no">Último</span>
-      <h3 style="margin:8px 0 4px">P4 · JetSMART a Posadas</h3>
-      <ul>
-        <li><b>Sáb 7:</b> 16:07 → 17:43, transfer ~4 h → <b>~22-23 h</b>, por la RP 41 de noche (no recomendado).</li>
-        <li><b>Mar 10:</b> salir ~12 h → vuelo 18:16.</li>
-        <li>Transfer $700.000 ida y vuelta (precio real de El Paso).</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0">Barato en papel, pero pierde el sábado y hace ripio de noche.</p>
-    </article>
-  </div>
-
-  <h3>Tiempos y distancias de cada tramo</h3>
-  <div class="tbl"><table>
-    <thead><tr><th>Tramo</th><th>Distancia</th><th>Tiempo</th><th>Camino</th></tr></thead>
-    <tbody>
-      <tr><td>La Plata → Mercedes (auto)</td><td class="num">738 km</td><td>~7 h 40 min sin paradas; 8-9 h reales</td><td>asfalto; peajes solo con TelePase</td></tr>
-      <tr><td>Retiro → Mercedes (micro)</td><td class="muted">—</td><td>~8-9 h nocturno</td><td>sale ~21-21:30, llega ~6 h</td></tr>
-      <tr><td>Aeropuerto Corrientes → Mercedes</td><td class="num">238-246 km</td><td>~3-3,5 h</td><td>asfalto, algunos baches</td></tr>
-      <tr><td>Aeropuerto Resistencia → Mercedes</td><td class="num">~260 km</td><td>~3,5 h</td><td>asfalto</td></tr>
-      <tr><td>Mercedes → Pellegrini</td><td class="num">118-120 km</td><td>~2 h en 4x4; <b>hasta ~3 h 20 min en auto</b></td><td>50 asfalto + 35 ripio bueno + <b>35 de laja puntiaguda (a ~30 km/h)</b>; <b>sin nafta ni señal; con lluvia, solo 4x4</b></td></tr>
-      <tr><td><b>La Plata → Pellegrini (auto propio, total)</b></td><td class="num"><b>862 km</b></td><td><b>~11 h sin paradas</b> (ida y vuelta 1.724 km, ~22 h)</td><td>última nafta en Mercedes</td></tr>
-      <tr><td>Goya → Mercedes</td><td class="num">149 km</td><td>~1 h 50 min</td><td>Goya <b>no tiene vuelos comerciales</b> para esas fechas</td></tr>
-      <tr><td>Aeropuerto Corrientes → Pellegrini</td><td class="num">~356-370 km</td><td>~5-6 h</td><td>vía Mercedes</td></tr>
-      <tr><td>Aeropuerto Posadas → Pellegrini</td><td class="num">200-250 km</td><td>3 h 15 min a 4 h 40 min</td><td>tierra y arena; <b>RP 41 solo de día</b></td></tr>
-    </tbody>
-  </table></div>
-
-  <div class="note blue"><b>Armado por cuenta propia:</b> P6 (tu auto) + Cabaña Capivara 3 noches + Parque ≈ <b>US$413</b>, más comidas. Sumando lancha, cabalgata y safari nocturno para cada uno (precios de junio) ≈ <b>US$550 + comidas</b>. Conviene frente a Iberá Porá (≈ US$876 todo incluido) si comer 3 días no supera ~$500.000 los dos.</div>
-  <div class="note green"><b>Con Posada Iberá Porá</b> (la más barata con pensión completa) cada pack baja ≈ US$150 respecto de Ecoposada con 3 noches y ≈ US$195 con 4. Ejemplo: <b>P6 auto propio + Iberá Porá, 3 noches ≈ US$876</b>.</div>
-
-  <details class="card" style="margin-top:12px">
-    <summary>Supuestos de la simulación</summary>
-    <ul>
-      <li><b>Transfer Mercedes ↔ Pellegrini:</b> $170.000 por tramo (precio real de Ñandé Retá).</li>
-      <li><b>Transfers largos, precios reales de El Paso:</b> Posadas ↔ Pellegrini $700.000 y Corrientes ↔ Pellegrini $900.000, ida y vuelta (para Resistencia se usa el de Corrientes).</li>
-      <li><b>Micro:</b> Flechabus desde $51.500 por persona por tramo (referencia julio 2026); vuelta a confirmar.</li>
-      <li><b>Auto automático:</b> Resistencia Avis Yaris US$299 (4 días), Corrientes Budget Yaris US$368 (5 días). Nafta según Ruta0. Queda estacionado en Mercedes: el último tramo, en 4x4.</li>
-      <li><b>Tiempos:</b> Corrientes → Mercedes ~3-3,5 h · Mercedes → Pellegrini ~2 h · Posadas → Pellegrini 3 h 15 min a 4 h 40 min (RP 41 solo de día).</li>
-      <li><b>Auto propio (Corolla), directo La Plata → Pellegrini:</b> 858 km por tramo; $90.000 por tanque ≈ 500 km (~$180/km). Peajes Ruta 14 con TelePase: 4 × $1.887 por tramo (enero 2026), más ~$12.000 estimados por tramo para Autopista La Plata y Panamericana.</li>
-      <li>Incluye Parque Provincial ($46.000 los dos). No incluye bebidas ni comidas en ruta.</li>
-    </ul>
-  </details>
-</section>
-
-<!-- AUTO PROPIO -->
-<section id="auto">
-  <h2>Itinerario con auto propio · 4 noches</h2>
-  <p class="lead">Sáb 7 → mié 11/11 en el Corolla, con licencia el miércoles. Dos versiones: todo incluido o armada por ustedes. Domingo, lunes y martes enteros en Iberá. Totales para los dos.</p>
-  <div class="card" style="margin-bottom:14px">
-    <b>Por qué en auto:</b> los vuelos rondan $200.000 por persona, pero solo el transfer Corrientes ↔ Pellegrini cuesta $900.000-980.000 ida y vuelta, casi lo mismo que 4 noches con pensión completa. La nafta de todo el viaje sale ~$309.000.
-  </div>
-
-  <h3>El camino · ida</h3>
-  <p class="muted">RN 14, autovía completa desde Ceibas hasta Paso de los Libres → en Cuatro Bocas, RN 119 (doble mano, 109 km) → Mercedes → RP 40. ~860-900 km. Calculado con crucero de 110-140 km/h: ~110 km/h de promedio en la RN 14, ~90 en la RN 119 y 2 h 30 min a 2 h 45 min de RP 40 cuidando el Corolla → <b>~11 h puerta a puerta</b>. En la RN 14 hay controles; el máximo en autovía es 130 km/h.</p>
+  <h3 class="sub-h">¿3 o 4 noches? Lo que dicen 25 fuentes</h3>
   <div class="grid">
+    <div class="card"><span class="tag info">5 fuentes</span><h3 style="margin:8px 0 4px">Alcanzan 1-2 noches</h3><p class="muted" style="margin:0">Foros de TripAdvisor y Lonely Planet: "dos días, tres a lo sumo". Uno se habría quedado una noche más para la cabalgata.</p></div>
+    <div class="card"><span class="tag ok">13 fuentes</span><h3 style="margin:8px 0 4px">3 noches, el mínimo o lo ideal</h3><p class="muted" style="margin:0">"Con 2 noches pasás la mayor parte en la ruta; con 3 o más el lugar se abre" (Iberá Experience). Reseñas de 3 noches con 2 excursiones por día.</p></div>
+    <div class="card"><span class="tag warn">7 fuentes</span><h3 style="margin:8px 0 4px">4 días o más</h3><p class="muted" style="margin:0">La Nación recomienda 4 días. "Mínimo 4 jornadas para entender esa tierra." Reseñas de 4 noches muy positivas.</p></div>
+  </div>
+  <div class="note blue"><b>Consenso:</b> el piso está en 3 noches y casi nadie dice que 4 sobren. El motivo principal para quedarse más es el clima, y noviembre es de los meses más lluviosos.</div>
+  <div class="grid" style="margin-top:12px">
+    <div class="card"><span class="tag ok">Recomendado</span><h3 style="margin:8px 0 4px">3 noches, llegando temprano el sábado</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li>Aerolíneas 7:30 → Resistencia 9:05: $278.168 por persona (≈ US$81 más la pareja que JetSMART).</li>
+        <li>El sábado a la tarde ya cuenta: 2 días y medio + martes a la mañana.</li>
+        <li>Sin licencia y ~US$250-365 menos de hospedaje.</li>
+      </ul></div>
+    <div class="card"><span class="tag warn">Si prefieren margen</span><h3 style="margin:8px 0 4px">4 noches</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li>Un día de reserva si llueve.</li>
+        <li>En Ecoposada suma cabalgata y safari nocturno.</li>
+        <li>Cuesta un día de licencia cada uno y ~US$250 más (≈ US$365 en Iberá Lodge).</li>
+      </ul></div>
+  </div>
+  <div class="note">Con vuelos de la tarde se llega de noche (Posadas está a ~4 h de camino) y con 3 noches quedan solo domingo y lunes completos. <b>En ninguna de las dos opciones hay día de margen:</b> con 3 noches se trabaja el miércoles; con 4, el jueves.</div>
+  <p class="muted" style="font-size:13px">Detalle de las 25 fuentes con links en <code>investigacion.md</code>.</p>
+</section>
+
+<!-- CÓMO LLEGAR -->
+<section id="llegar">
+  <h2>Cómo llegar</h2>
+  <p class="lead">Colonia Carlos Pellegrini queda a ~860-900 km de La Plata. Los últimos 120 km, desde Mercedes, son la parte difícil: 50 de asfalto y 70 de ripio y piedra. El micro quedó descartado.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Opción</th><th>Noches</th><th>Salimos</th><th>Llegamos a Pellegrini</th><th>Volvemos a casa</th><th>Transporte (los dos)</th></tr></thead>
+    <tbody>
+      <tr><td><b>🚗 Auto + noche en Concordia</b></td><td>4</td><td class="num">vie 6, 16:00</td><td class="num best">sáb ~13:30</td><td class="num">mié ~18:40-19:00</td><td class="num best">≈ US$255<span class="dates">$391.000</span></td></tr>
+      <tr><td>🚗 Auto de un tirón</td><td>4</td><td class="num">sáb 7, 3:30</td><td class="num">sáb ~14:35-14:50</td><td class="num">mié ~18:40-19:00</td><td class="num">≈ US$227<span class="dates">$348.000</span></td></tr>
+      <tr><td>✈️ Avión 8:45 a Corrientes + auto alquilado + 4x4</td><td>4</td><td class="num">sáb ~5:30</td><td class="num">sáb ~16:00</td><td class="num">mié ~21:00</td><td class="num">≈ US$1.146<span class="dates">$1.759.000</span></td></tr>
+      <tr><td>✈️ Avión 8:45 a Corrientes + transfer</td><td>4</td><td class="num">sáb ~5:30</td><td class="num">sáb ~16:00-16:30</td><td class="num">mié ~21:00</td><td class="num">≈ US$1.075<span class="dates">$1.650.100</span></td></tr>
+      <tr><td>✈️ Avión 7:30 a Resistencia + auto alquilado + 4x4</td><td>3</td><td class="num">sáb ~4:30</td><td class="num">sáb ~15:30</td><td class="num">mar ~21:30-23:00</td><td class="num">≈ US$1.074<span class="dates">$1.648.000</span></td></tr>
+      <tr><td>✈️ Avión 7:30 a Resistencia + transfer</td><td>3</td><td class="num">sáb ~4:30</td><td class="num">sáb ~15:00-15:30</td><td class="num">mar ~21:30-23:00</td><td class="num">≈ US$1.066<span class="dates">$1.636.000</span></td></tr>
+      <tr><td>✈️ JetSMART a Posadas + transfer</td><td>3</td><td class="num">sáb ~13:00</td><td class="num">sáb ~22-23 h <span class="tag warn">ripio de noche</span></td><td class="num">mar ~21:10</td><td class="num">≈ US$894<span class="dates">$1.373.000</span></td></tr>
+    </tbody>
+  </table></div>
+  <div class="note"><b>Cómo leerla:</b> los precios con avión incluyen pasajes, Uber La Plata ↔ Aeroparque (~$180.000) y el auto alquilado con 4x4 o el transfer. En auto propio, nafta, peajes y (si dormimos en el camino) el hotel. El auto propio se pensó solo para 4 noches: con 3, es demasiado manejo para tan poco tiempo.</div>
+
+  <h3 class="sub-h">🚗 En nuestro auto</h3>
+  <p class="muted">RN 14, autovía completa desde Ceibas hasta Paso de los Libres → en Cuatro Bocas, RN 119 (doble mano, 109 km) → Mercedes → RP 40. Calculado a 110-140 km/h de crucero: ~11 h puerta a puerta. En la RN 14 hay controles; el máximo en autovía es 130 km/h.</p>
+
+  
+  <div class="grid" style="grid-template-columns:1fr">
     <article class="card">
       <span class="tag info">Opción 1</span>
       <h3 style="margin:8px 0 6px">De un tirón · sáb 7 a las 3:30</h3>
@@ -351,179 +313,7 @@
     </article>
   </div>
 
-  <div class="grid" style="margin-top:18px">
-    <article class="card lodge">
-      <span class="tag ok">Todo incluido</span>
-      <h3 style="margin:8px 0 4px">A · Posada Iberá Porá</h3>
-      <div class="sub">Pensión completa + 2 lanchas + 2 caminatas guiadas + safari nocturno</div>
-      <ul>
-        <li><b>Sáb 7:</b> llegada ~14:30-15 h (~13:30 durmiendo en Concordia), merienda, atardecer desde el puente (~19:20), cena.</li>
-        <li><b>Dom 8:</b> lancha a la mañana · siesta o pileta · caminata guiada a la tarde.</li>
-        <li><b>Lun 9:</b> Parque Nacional Lobo Cuá en el auto (gratis, 9 a 16 h, torre mirador) o 2ª caminata · 2ª lancha al atardecer · safari nocturno.</li>
-        <li><b>Mar 10:</b> cabalgata opcional ($40.000 c/u) o senderos del Parque Provincial (Carayá, Cerrito, Montes). Día de reserva si llovió.</li>
-        <li><b>Mié 11:</b> desayuno y vuelta.</li>
-      </ul>
-      <div class="tbl"><table>
-        <tbody>
-          <tr><td>Posada, 4 noches</td><td class="num">$1.260.000</td></tr>
-          <tr><td>Nafta + peajes</td><td class="num">$348.000</td></tr>
-          <tr><td>Entrada al Parque Provincial</td><td class="num">$46.000</td></tr>
-          <tr><td>Comidas en ruta</td><td class="num">~$120.000</td></tr>
-          <tr><td><b>Total</b></td><td class="num"><b>≈ US$1.156</b><span class="dates">~$1.774.000</span></td></tr>
-          <tr><td>Con cabalgata</td><td class="num">≈ US$1.208<span class="dates">~$1.854.000</span></td></tr>
-          <tr><td>Durmiendo en Concordia</td><td class="num">≈ US$1.210<span class="dates">~$1.857.000</span></td></tr>
-        </tbody>
-      </table></div>
-      <p class="muted" style="margin:8px 0 0">Bebidas aparte. Seña 50% + DNI.</p>
-    </article>
-    <article class="card lodge">
-      <span class="tag info">Armado por ustedes</span>
-      <h3 style="margin:8px 0 4px">B · Posada Rancho Iberá</h3>
-      <div class="sub">Habitación con desayuno + lancha 2 h + caminata guiada + kayak; comidas en el pueblo</div>
-      <ul>
-        <li><b>Sáb 7:</b> llegada ~14:30-15 h (~13:30 durmiendo en Concordia), senderos del Parque Provincial o descanso · atardecer desde el puente · cena en Yacarú Porá.</li>
-        <li><b>Dom 8:</b> lancha a la mañana · almuerzo en Café de los Pájaros · senderos del Parque Provincial · safari nocturno (El Iberacero, $30.000 c/u).</li>
-        <li><b>Lun 9:</b> Parque Nacional Lobo Cuá o caminata guiada · almuerzo en Dalmacio Bar · kayak a la tarde · cena en Bar Destino Iberá.</li>
-        <li><b>Mar 10:</b> cabalgata (Paiubre, $30.000 c/u) · almuerzo en Don Marcos · atardecer en el camping municipal · cena en Reiyel.</li>
-        <li><b>Mié 11:</b> desayuno y vuelta.</li>
-      </ul>
-      <div class="tbl"><table>
-        <tbody>
-          <tr><td>Posada, 4 noches</td><td class="num">$640.000</td></tr>
-          <tr><td>Safari nocturno y cabalgata</td><td class="num">~$120.000</td></tr>
-          <tr><td>7 comidas en el pueblo + meriendas</td><td class="num">~$250.000</td></tr>
-          <tr><td>Nafta + peajes</td><td class="num">$348.000</td></tr>
-          <tr><td>Entrada al Parque Provincial</td><td class="num">$46.000</td></tr>
-          <tr><td>Comidas en ruta</td><td class="num">~$120.000</td></tr>
-          <tr><td><b>Total</b></td><td class="num best"><b>≈ US$993</b><span class="dates">~$1.524.000</span></td></tr>
-          <tr><td>Con 2ª lancha al atardecer</td><td class="num">≈ US$1.051<span class="dates">~$1.614.000</span></td></tr>
-          <tr><td>Durmiendo en Concordia</td><td class="num">≈ US$1.066<span class="dates">~$1.637.000</span></td></tr>
-        </tbody>
-      </table></div>
-      <p class="muted" style="margin:8px 0 0">Precios de safari, cabalgata y lancha de junio 2026; pueden haber subido.</p>
-    </article>
-  </div>
 
-  <div class="card" style="margin-top:14px">
-    <ul style="margin:0">
-      <li><b>B sale ~US$163 menos que A</b>, con casi las mismas excursiones, a cambio de elegir dónde comer y reservar las salidas sueltas.</li>
-      <li><b>Más barato:</b> Cabaña Capivara en lugar de Rancho Iberá → ≈ US$869 con lancha, safari y cabalgata, comiendo afuera.</li>
-      <li><b>Contra el avión:</b> 4 noches vía Corrientes + auto + 4x4 con Iberá Porá (P5), con el Uber al aeropuerto, da ~$3.065.000; la versión A sale ~US$841 menos. El vuelo de las 8:45 obliga a salir de La Plata ~5:30 y llega a Pellegrini ~16 h; en auto se llega antes.</li>
-    </ul>
-  </div>
-
-  <h3 style="margin-top:22px">Auto propio vs. avión: a qué hora se llega</h3>
-  <p class="muted">Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta. Transfers: Resistencia/Corrientes 5-6 h, Posadas 3 h 15 min a 4 h 40 min (estimados). Auto: ~11 h puerta a puerta a 110-140 km/h.</p>
-  <div class="grid">
-    <article class="card">
-      <h3 style="margin:0 0 6px">Ida · sáb 7</h3>
-      <div class="tbl"><table>
-        <thead><tr><th>Opción</th><th>Sale de La Plata</th><th>Llega a Pellegrini</th></tr></thead>
-        <tbody>
-          <tr><td>7:30 a Resistencia + transfer</td><td class="num">~4:30</td><td class="num">~15:00-15:30</td></tr>
-          <tr><td>7:30 a Resistencia + auto + 4x4</td><td class="num">~4:30</td><td class="num">~15:30</td></tr>
-          <tr><td>9:35 a Posadas + transfer</td><td class="num">~6:30</td><td class="num">~15:00-16:30</td></tr>
-          <tr><td>8:45 a Corrientes + transfer o auto</td><td class="num">~5:30</td><td class="num">~16:00-16:30</td></tr>
-          <tr><td><b>Auto propio de un tirón</b></td><td class="num"><b>3:30</b></td><td class="num best"><b>~14:35-14:50</b></td></tr>
-          <tr><td><b>Auto, durmiendo en Concordia</b></td><td class="num"><b>vie 16:00</b></td><td class="num best"><b>~13:25-13:40</b></td></tr>
-        </tbody>
-      </table></div>
-      <p class="muted" style="margin:8px 0 0">El auto gana: llega antes que cualquier vuelo. El avión cuesta ~US$840 más; su ventaja es llegar sin haber manejado.</p>
-    </article>
-    <article class="card">
-      <h3 style="margin:0 0 6px">Vuelta · mié 11</h3>
-      <div class="tbl"><table>
-        <thead><tr><th>Opción</th><th>Sale de Pellegrini</th><th>En La Plata</th></tr></thead>
-        <tbody>
-          <tr><td>10:50 desde Corrientes</td><td class="num">~3:30 <span class="tag warn">ripio de noche</span></td><td class="num">~13:40</td></tr>
-          <tr><td>10:35 desde Posadas</td><td class="num">~4:30 <span class="tag warn">RP 41 de noche</span></td><td class="num">~13:30</td></tr>
-          <tr><td><b>14:25 desde Posadas</b></td><td class="num">~8:30, de día</td><td class="num best"><b>~17:30</b></td></tr>
-          <tr><td>16:40 desde Resistencia</td><td class="num">~9:00</td><td class="num">~19:30</td></tr>
-          <tr><td><b>Auto propio</b></td><td class="num"><b>7:30</b></td><td class="num"><b>~18:40-19:00</b></td></tr>
-          <tr><td>JetSMART 17:51 desde Resistencia</td><td class="num">~10:30</td><td class="num">~20:40</td></tr>
-          <tr><td>18:05 desde Corrientes</td><td class="num">~11:00</td><td class="num">~21:00</td></tr>
-          <tr><td>JetSMART 18:16 desde Posadas</td><td class="num">~12:30</td><td class="num">~21:10</td></tr>
-        </tbody>
-      </table></div>
-      <p class="muted" style="margin:8px 0 0">Solo el 14:25 desde Posadas gana: ~1 h 10 min a 1 h 30 min antes en casa, saliendo de día ($182.175 por persona).</p>
-    </article>
-  </div>
-  <div class="card" style="margin-top:14px">
-    <ul style="margin:0">
-      <li><b>Mejor combinación en avión:</b> ida 7:30 a Resistencia + vuelta 14:25 desde Posadas → casi el mismo tiempo puerta a puerta que el auto (gana ~1 h 30 min solo a la vuelta) y ~19 h menos de manejo, por ~US$800-850 más.</li>
-      <li><b>Ritmo del auto:</b> crucero de 110-140 km/h → ~11 h puerta a puerta. Como referencia, una vecina tarda 12 h de La Plata a Misiones (~1.100 km, todo asfalto).</li>
-    </ul>
-  </div>
-</section>
-
-<!-- COMPARATIVA AUTO -->
-<section id="comparativa">
-  <h2>El viaje en auto con cada posada</h2>
-  <p class="lead">Mismo esquema para todas: viernes 6 a las 16, noche en Concordia, 4 noches en Pellegrini y vuelta el miércoles 11. Totales para los dos, de más barata a más cara. Quedan afuera Rincón del Socorro (no tiene la noche del 7) y El Tránsito (otro acceso).</p>
-  <div class="grid">
-    <article class="card">
-      <h3 style="margin:0 0 6px">Itinerario base</h3>
-      <ul>
-        <li><b>Vie 6:</b> 16:00 La Plata → Colón ~19:40 (carga) → <b>Concordia ~21:00</b>, hotel y cena.</li>
-        <li><b>Sáb 7:</b> 7:30 → Mercedes ~10:10 (carga, efectivo) → <b>Pellegrini ~13:30</b>. Tarde: senderos o primera salida; atardecer desde el puente.</li>
-        <li><b>Dom, lun y mar:</b> las excursiones de cada posada + lo gratis: senderos del Parque Provincial (8-18 h), Parque Nacional Lobo Cuá (9-16 h) y atardecer en el camping.</li>
-        <li><b>Mié 11:</b> 7:30 → Mercedes (carga) → Concordia ~12:45 (almuerzo) → Colón (carga) → <b>La Plata ~18:40-19:00</b>.</li>
-      </ul>
-    </article>
-    <article class="card">
-      <h3 style="margin:0 0 6px">Gastos comunes</h3>
-      <div class="tbl"><table><tbody>
-        <tr><td>Nafta</td><td class="num">$309.000</td></tr>
-        <tr><td>Peajes (TelePase)</td><td class="num">$39.000</td></tr>
-        <tr><td>Hotel en Concordia (desde)</td><td class="num">$43.000</td></tr>
-        <tr><td>Comidas en ruta (cena vie, desayuno sáb, almuerzo y merienda mié)</td><td class="num">$160.000</td></tr>
-        <tr><td>Entrada al Parque Provincial ($23.000 × 2)</td><td class="num">$46.000</td></tr>
-        <tr><td><b>Total común</b></td><td class="num"><b>$597.000</b></td></tr>
-      </tbody></table></div>
-      <p class="muted" style="margin:8px 0 0">Posadas sin pensión completa: se suman ~$280.000 de almuerzos y cenas en el pueblo (~$15.000 por persona por comida).</p>
-    </article>
-  </div>
-  <div class="tbl" style="margin-top:14px"><table>
-    <thead><tr><th>Posada</th><th>Qué incluye</th><th>Estado</th><th>Posada</th><th>Extras</th><th>Total</th></tr></thead>
-    <tbody>
-      <tr><td><b>Cabaña Capivara</b><span class="dates">Solo alojamiento</span></td><td>Cabaña con cocina y aire acondicionado. Sin desayuno ni excursiones.</td><td><span class="tag warn">sin excursiones ni desayuno</span></td><td class="num">$320.000</td><td>1 lancha c/u (La Voz del Iberá, precio de junio): $90.000<br>Comidas en el pueblo: 8 almuerzos/cenas + meriendas + 4 desayunos: $340.000</td><td class="num"><b>≈ US$878</b><span class="dates">$1.347.000</span></td></tr>
-      <tr><td><b>Posada Rancho Iberá</b><span class="dates">Desayuno + 3 excursiones</span></td><td>Habitación de la posada con desayuno + lancha 2 h + caminata guiada + kayak guiado.</td><td><span class="tag ok">con lugar</span></td><td class="num">$640.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$988</b><span class="dates">$1.517.000</span></td></tr>
-      <tr><td><b>Irupé Lodge (Standard)</b><span class="dates">Desayuno, excursiones aparte</span></td><td>Habitación doble Standard con desayuno (promo primavera -10%).</td><td><span class="tag ok">disponible 7-11</span></td><td class="num">$540.000</td><td>1 lancha c/u ($58.000 con 10% off): $104.400<br>Comidas: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$991</b><span class="dates">$1.521.400</span></td></tr>
-      <tr><td><b>Casona Iberá</b><span class="dates">Desayuno + 4 excursiones</span></td><td>Desayuno + 2 lanchas (canal Corriente y río Miriñay) + caminata guiada + cabalgata.</td><td><span class="tag warn">disponibilidad a confirmar</span></td><td class="num">$800.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$1.093</b><span class="dates">$1.677.000</span></td></tr>
-      <tr><td><b>Posada Iberá Porá</b><span class="dates">Pensión completa + 5 excursiones</span></td><td>Pensión completa (desayuno, almuerzo, merienda y cena) + 2 lanchas + 2 caminatas guiadas + safari nocturno en vehículo.</td><td><span class="tag ok">con lugar</span></td><td class="num">$1.260.000</td><td>—</td><td class="num"><b>≈ US$1.210</b><span class="dates">$1.857.000</span></td></tr>
-      <tr><td><b>El Paso Iberá</b><span class="dates">Desayuno + 4 excursiones</span></td><td>Cabaña con desayuno + 2 lanchas + caminata diurna + safari nocturno.</td><td><span class="tag warn">monto a confirmar</span></td><td class="num">$1.000.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$1.223</b><span class="dates">$1.877.000</span></td></tr>
-      <tr><td><b>Ecoposada del Estero</b><span class="dates">Pensión completa + 6 excursiones</span></td><td>Pensión completa + lancha + trekking por la selva + visita guiada al Parque Nacional + kayak o canoa en Camba Trapo + cabalgata + safari nocturno.</td><td><span class="tag warn">disponibilidad a confirmar; + impuestos</span></td><td class="num">$1.560.000</td><td>—</td><td class="num"><b>≈ US$1.405</b><span class="dates">$2.157.000</span></td></tr>
-      <tr><td><b>Rancho de los Esteros</b><span class="dates">Pensión completa + 8 excursiones</span></td><td>Pensión completa + 1 excursión por persona por día, a elección (lancha, canoa, caminatas, cabalgata, bici).</td><td><span class="tag no">sáb 7 solo si se cae un grupo</span></td><td class="num">$1.840.000</td><td>—</td><td class="num"><b>≈ US$1.588</b><span class="dates">$2.437.000</span></td></tr>
-      <tr><td><b>Iberá Lodge</b><span class="dates">Pensión completa + 4 excursiones</span></td><td>Pensión completa + charla con guías + trekking por la selva + navegación con safari fotográfico + navegación al atardecer + cabalgata.</td><td><span class="tag warn">4ª noche estimada</span></td><td class="num">$2.060.000</td><td>—</td><td class="num"><b>≈ US$1.731</b><span class="dates">$2.657.000</span></td></tr>
-      <tr><td><b>Posada de la Laguna</b><span class="dates">Pensión completa + 4 excursiones + caminatas</span></td><td>Pensión completa con merienda + 3 lanchas (canal Corriente, río Miriñay, Paso Claro) + canoa por la laguna + caminatas en ambos parques.</td><td><span class="tag ok">con lugar</span></td><td class="num">$2.320.000</td><td>—</td><td class="num"><b>≈ US$1.900</b><span class="dates">$2.917.000</span></td></tr>
-      <tr><td><b>Ñandé Retá Lodge</b><span class="dates">Pensión completa + 5 excursiones</span></td><td>Pensión completa con merienda (entrada, principal y postre) + 5 excursiones a elección (lanchas Miriñay y Corriente, caminata nocturna, cabalgata, Sendero de los Monos, medicina natural).</td><td><span class="tag warn">última habitación</span></td><td class="num">$2.841.000</td><td>—</td><td class="num"><b>≈ US$2.240</b><span class="dates">$3.438.000</span></td></tr>
-    </tbody>
-  </table></div>
-  <div class="tbl" style="margin-top:14px"><table>
-    <thead><tr><th>Posada</th><th>Comodidades</th><th>Estacionamiento</th><th>Pago</th><th>Cómo quedan los días</th></tr></thead>
-    <tbody>
-      <tr><td><b>Cabaña Capivara</b></td><td>Se puede cocinar. Sin transfer.</td><td>a confirmar</td><td>Seña 30% por Mercado Pago</td><td>Lancha un día; el resto, senderos del Parque Provincial y Parque Nacional Lobo Cuá por cuenta propia.</td></tr>
-      <tr><td><b>Posada Rancho Iberá</b></td><td>Aire acondicionado, baño completo con bidet, pileta, galería y jardín. La que te gustó del video.</td><td>a confirmar (la cabaña de $660.000 tiene estacionamiento techado)</td><td>a confirmar (no respondió)</td><td>Dom lancha · lun caminata guiada + kayak · mar libre (Lobo Cuá, senderos, o cabalgata aparte).</td></tr>
-      <tr><td><b>Irupé Lodge (Standard)</b></td><td>Restaurante El Camalotal en el predio. Kayak ($40.000) y cabalgata ($40.000) por persona, aparte.</td><td>a confirmar</td><td>Seña 50% por transferencia; saldo con cualquier medio</td><td>Lancha un día; el resto, por cuenta propia o sumando kayak y cabalgata.</td></tr>
-      <tr><td><b>Casona Iberá</b></td><td>Casona antigua con galería, pileta con palmeras y muelle con mirador sobre la laguna.</td><td>a confirmar</td><td>Seña 50% por transferencia o Mercado Pago; saldo al ingresar en 3 a 6 cuotas sin interés</td><td>Dom lancha Corriente · lun cabalgata + caminata · mar lancha Miriñay.</td></tr>
-      <tr><td><b>Posada Iberá Porá</b></td><td>Menús sin TACC, vegetarianos, veganos y para diabéticos. Opcionales: kayak, cabalgata, astroturismo ($40.000 c/u).</td><td>a confirmar</td><td>Seña 50% + DNI; efectivo, transferencia o tarjeta</td><td>Dom lancha + caminata · lun caminata + lancha al atardecer + safari nocturno · mar libre o cabalgata.</td></tr>
-      <tr><td><b>El Paso Iberá</b></td><td>Cabaña de 2 habitaciones con minikitchen (se puede cocinar y bajar el gasto de comidas), aire y calefacción, limpieza diaria.</td><td>✅ descubierto</td><td>a confirmar (no respondió)</td><td>Dom lancha · lun caminata + safari nocturno · mar lancha.</td></tr>
-      <tr><td><b>Ecoposada del Estero</b></td><td>Habitaciones de barro con aire, deck y hamaca paraguaya, vista a los esteros; pileta; pasarela y observatorio; reserva privada Camba Trapo.</td><td>a confirmar</td><td>Seña 20%; saldo en efectivo mantiene el precio</td><td>Dom lancha + trekking · lun Parque Nacional + kayak/canoa · mar cabalgata + safari nocturno.</td></tr>
-      <tr><td><b>Rancho de los Esteros</b></td><td>4 habitaciones en 2 módulos; programa armado a medida con la dueña.</td><td>a confirmar</td><td>Seña 20% por transferencia; sin tarjeta</td><td>Cada día, una excursión a elección; se arma con ellos.</td></tr>
-      <tr><td><b>Iberá Lodge</b></td><td>Pileta, solárium y sala de juegos.</td><td>a confirmar</td><td>Seña 50%; tarjeta con recargo; saldo al llegar</td><td>Dom trekking + navegación · lun cabalgata · mar navegación al atardecer.</td></tr>
-      <tr><td><b>Posada de la Laguna</b></td><td>Jardín con muelle propio sobre la laguna, de donde salen las excursiones. Menús especiales.</td><td>a confirmar</td><td>40% + saldo 10 días antes, o 3 cuotas sin interés</td><td>Una lancha por día (dom, lun, mar) + canoa y caminatas.</td></tr>
-      <tr><td><b>Ñandé Retá Lodge</b></td><td>Precio con IVA incluido.</td><td>a confirmar</td><td>Seña 30%; tarjeta hasta 3 cuotas sin interés</td><td>Dos excursiones algunos días; se eligen con ellos.</td></tr>
-    </tbody>
-  </table></div>
-  <div class="card" style="margin-top:14px">
-    <ul style="margin:0">
-      <li><b>Las más baratas</b> (Capivara, Rancho Iberá, Irupé) traen 1 a 3 excursiones; los otros días se completan con senderos y el Parque Nacional, que son gratis.</li>
-      <li><b>Mejor relación precio / lo que incluye:</b> Iberá Porá (pensión completa + 5 excursiones, ≈ US$1.210) y Casona Iberá (4 excursiones, comiendo afuera, ≈ US$1.093).</li>
-      <li><b>Más completas:</b> Ecoposada (6 excursiones y reserva privada) y Rancho de los Esteros (8, a medida), pero una no confirmó lugar y la otra depende de un grupo.</li>
-      <li><b>Estacionamiento:</b> con auto propio conviene confirmarlo en todas; solo El Paso lo dijo.</li>
-      <li>Sin bebidas. Ecoposada suma impuestos que no informó.</li>
-    </ul>
-  </div>
   <h3 style="margin-top:22px">Cuánto se ahorra con el auto vs. el avión</h3>
   <p class="muted">Solo transporte, 4 noches, misma posada, para los dos. Auto durmiendo en Concordia: <b>$391.000 (≈ US$255)</b> = nafta + peajes + hotel.</p>
   <div class="tbl"><table>
@@ -536,145 +326,9 @@
     </tbody>
   </table></div>
   <p class="muted" style="margin:8px 0 0">Contra las opciones que llegan de día: <b>~US$820-890</b> (~US$410-445 por persona), y el auto llega antes (~13:30 contra ~16 h).</p>
-  <h3 style="margin-top:22px">Formas de pago y cuotas</h3>
-  <p class="muted">Montos sobre el precio de la posada para 4 noches. Los gastos comunes del viaje (nafta, peajes, hotel de Concordia) se pagan aparte.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Posada</th><th>Total viaje</th><th>Seña al reservar</th><th>Saldo</th><th>Tarjeta y cuotas</th><th>Preguntar</th></tr></thead>
-    <tbody>
-      <tr><td><b>Cabaña Capivara</b></td><td class="num">≈ US$878</td><td>30% por Mercado Pago<span class="dates">$96.000</span></td><td>$224.000 en efectivo o transferencia</td><td><b>no trabaja con tarjeta</b>: solo efectivo o transferencia</td><td>—</td></tr>
-      <tr><td><b>Posada Rancho Iberá</b></td><td class="num">≈ US$988</td><td><span class="tag info">no respondió</span></td><td>—</td><td>—</td><td>consultado 29/9 13:07-13:10</td></tr>
-      <tr><td><b>Irupé Lodge</b></td><td class="num">≈ US$991</td><td>50% por transferencia<span class="dates">$270.000</span></td><td>$270.000 en efectivo, transferencia o tarjeta de crédito o débito</td><td>acepta crédito; cuotas no informadas</td><td>consultado 29/9 13:07-13:10</td></tr>
-      <tr><td><b>Casona Iberá</b></td><td class="num">≈ US$1.093</td><td>50% por transferencia o link de Mercado Pago<span class="dates">$400.000</span></td><td>$400.000 al ingresar a la hostería</td><td><span class="tag ok">cuotas</span> <b>3 a 6 cuotas sin interés</b> según la tarjeta: ~$133.000 a ~$67.000 por mes</td><td>qué tarjetas dan 6 cuotas</td></tr>
-      <tr><td><b>Posada Iberá Porá</b></td><td class="num">≈ US$1.210</td><td>50% + DNI<span class="dates">$630.000</span></td><td>$630.000 hasta 1 día antes, o en efectivo en la posada; efectivo, transferencia o tarjeta</td><td>acepta tarjeta; cuotas no informadas</td><td>consultado 29/9 13:07-13:10</td></tr>
-      <tr><td><b>El Paso Iberá</b></td><td class="num">≈ US$1.223</td><td><span class="tag info">no respondió</span></td><td>—</td><td>—</td><td>consultado 29/9 13:07-13:10</td></tr>
-      <tr><td><b>Ecoposada del Estero</b></td><td class="num">≈ US$1.405</td><td>20%<span class="dates">$312.000</span></td><td>$1.248.000; <b>en efectivo se mantiene el precio</b> (con otro medio puede cambiar)</td><td>acepta tarjeta, <b>sin cuotas sin interés</b>: las cuotas van con el interés del banco</td><td>si con tarjeta en 1 pago cambia el precio</td></tr>
-      <tr><td><b>Rancho de los Esteros</b></td><td class="num">≈ US$1.588</td><td>20% por transferencia<span class="dates">$368.000</span></td><td>$1.472.000 al llegar, en efectivo o transferencia</td><td><b>no acepta tarjeta</b></td><td>—</td></tr>
-      <tr><td><b>Iberá Lodge</b></td><td class="num">≈ US$1.731</td><td>50% por transferencia o tarjeta (con recargo)<span class="dates">$1.030.000</span></td><td>$1.030.000 al llegar</td><td>tarjeta con recargo (monto no informado)</td><td>consultado 29/9 13:07-13:10</td></tr>
-      <tr><td><b>Posada de la Laguna</b></td><td class="num">≈ US$1.900</td><td>40% por transferencia, saldo 10 días antes · <b>o todo en 3 cuotas sin interés</b><span class="dates">$928.000</span></td><td>$1.392.000 diez días antes del ingreso</td><td><span class="tag ok">cuotas</span> <b>✅ 3 cuotas sin interés</b> con Visa o Mastercard: ~$773.000 por mes</td><td>—</td></tr>
-      <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">≈ US$2.240</td><td>30%<span class="dates">$852.300</span></td><td>$1.988.700 en el hotel; medios combinables</td><td><span class="tag ok">cuotas</span> <b>✅ tarjeta hasta 3 cuotas sin interés</b>: ~$947.000 por mes si va todo en cuotas</td><td>si la seña también puede ir en cuotas</td></tr>
-    </tbody>
-  </table></div>
-  <div class="card" style="margin-top:14px">
-    <ul style="margin:0">
-      <li><b>Tres confirmaron cuotas sin interés:</b> <b>Casona Iberá</b> (saldo de $400.000 en 3 a 6 cuotas según la tarjeta; la única barata con cuotas), Posada de la Laguna (todo en 3 cuotas, ~$773.000 por mes) y Ñandé Retá (hasta 3 cuotas, ~$947.000 por mes).</li>
-      <li><b>Cuando dos se acercan:</b> Posada de la Laguna sale ~US$169 más que Iberá Lodge, pero se paga entera en 3 cuotas sin interés y sin poner plata al reservar; Iberá Lodge pide 50% de seña y cobra recargo con tarjeta. Con cuotas fijas en pesos, cada cuota pesa menos con los meses.</li>
-      <li><b>Iberá Porá, Irupé e Iberá Lodge aceptan tarjeta</b> pero todavía no dijeron si en cuotas (consultado 29/9). <b>Ecoposada</b> acepta tarjeta pero sin cuotas sin interés (las cuotas llevan el interés del banco). Capivara y Rancho de los Esteros no aceptan tarjeta.</li>
-      <li><b>Efectivo:</b> en Pellegrini no hay cajeros. Si el saldo va en efectivo (Ecoposada $1.248.000 para mantener el precio; Rancho de los Esteros si no se transfiere), llevarlo desde La Plata o sacarlo en Mercedes.</li>
-    </ul>
-  </div>
-</section>
 
-<!-- HOSPEDAJES -->
-<section id="hospedajes">
-  <h2>Hospedajes: comparación</h2>
-  <p class="lead">Total para 2 personas, sin transfer. Pensión completa salvo aclaración; ninguna incluye bebidas ni la entrada al Parque Provincial. US$ al blue de referencia (~$1.535).</p>
-
-  <div class="tabs" role="group" aria-label="Cantidad de noches">
-    <button type="button" data-show="n4" aria-pressed="true">4 noches</button>
-    <button type="button" data-show="n3" aria-pressed="false">3 noches</button>
-  </div>
-
-  <div data-panel="n4">
-    <div class="tbl"><table>
-      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
-      <tbody>
-        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.016</span><span class="dates">$1.560.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa, cabalgata, safari nocturno</td><td>impuestos aparte</td></tr>
-        <tr><td><b>Rancho de los Esteros</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.199</span><span class="dates">$1.840.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>solo si se cae el grupo; sin tarjeta</td></tr>
-        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.342</span><span class="dates">~$2.060.000 (estimado)</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>4ª noche a confirmar</td></tr>
-        <tr><td><b>Posada de la Laguna</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.511</span><span class="dates">$2.320.000</span></td><td><span class="tag ok">sí</span></td><td>3 lanchas, canoa, caminatas en ambos parques</td><td>3 cuotas sin interés</td></tr>
-        <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.851</span><span class="dates">~$2.841.000 con IVA</span></td><td><span class="tag ok">sí, última habitación</span></td><td>5 a elección</td><td>transfer Mercedes $170.000/tramo</td></tr>
-        <tr><td><b>Rincón del Socorro</b></td><td class="muted">—</td><td class="muted">—</td><td><span class="tag no">no</span></td><td class="muted">—</td><td>solo tiene del 8 al 11</td></tr>
-        <tr><td><b>El Tránsito</b><span class="dates">Portal Carambola</span></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">US$2.203</span><span class="dates">Deluxe no reembolsable · flexible US$2.592 · Suite desde US$2.981</span></td><td><span class="tag ok">sí</span></td><td>todo incluido <b>con bebidas</b>: lancha, canoa a caballo, cabalgata, kayak, senderos</td><td>no está en Pellegrini; transfer aparte</td></tr>
-        <tr><td><b>Posada Rancho Iberá</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$417</span><span class="dates">$640.000 habitación · $660.000 cabaña · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha 2 h, caminata guiada, kayak guiado</td><td>sin almuerzo ni cena</td></tr>
-        <tr><td>El Paso Iberá</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$651</span><span class="dates">~$1.000.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>2 lanchas, caminata diurna, safari nocturno</td><td>monto a confirmar; cabaña con minikitchen</td></tr>
-        <tr><td>Casona Iberá</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$521</span><span class="dates">$800.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>2 lanchas, caminata guiada, cabalgata</td><td><b>sin almuerzo ni cena</b></td></tr>
-        <tr><td><b>Posada Iberá Porá</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd best">≈ US$821</span><span class="dates">$1.260.000</span></td><td><span class="tag ok">sí</span></td><td>2 lanchas, 2 caminatas guiadas, safari nocturno</td><td>cotizado con las fechas exactas</td></tr>
-        <tr><td><b>Cabaña Capivara</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$208</span><span class="dates">$320.000 · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>ninguna (bici aparte)</td><td>cabaña con cocina; sin comidas ni transfer</td></tr>
-        <tr><td>Irupé Lodge</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$352</span><span class="dates">$540.000 Standard · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>aparte, por persona: lancha $58.000, kayak o cabalgata $40.000</td><td><b>sin pensión completa</b>: comidas aparte</td></tr>
-      </tbody>
-    </table></div>
-    <div class="note blue"><b>Irupé, El Paso, Casona Iberá, Rancho Iberá y Capivara no se comparan directo:</b> son solo con desayuno; almuerzo y cena van aparte (sin precio relevado). En Irupé, además, las excursiones se pagan aparte. Ejemplo: 4 noches Standard + lancha, kayak y cabalgata para cada uno (con 10% de promo) ≈ $788.400 (≈ US$514), <b>sin almuerzos ni cenas</b>.</div>
-  </div>
-
-  <div data-panel="n3" hidden>
-    <div class="tbl"><table>
-      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
-      <tbody>
-        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$769</span><span class="dates">$1.180.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa</td><td>impuestos aparte</td></tr>
-        <tr><td><b>Rancho de los Esteros</b></td><td class="num">dom 8 → mié 11<span class="dates">o sáb 7 → mar 10 si se cae el grupo</span></td><td class="num"><span class="usd">≈ US$899</span><span class="dates">$1.380.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>del 8 en adelante, seguro</td></tr>
-        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$977</span><span class="dates">$1.500.000</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>paquete promocional</td></tr>
-        <tr><td><b>Rincón del Socorro</b></td><td class="num">dom 8 → mié 11</td><td class="num"><span class="usd">≈ US$2.228</span><span class="dates">$3.420.000</span></td><td><span class="tag no">no</span></td><td>2 por día</td><td>el más caro</td></tr>
-        <tr><td>Posada de la Laguna</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag ok">sí</span></td><td class="muted">—</td><td></td></tr>
-        <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$1.216</span><span class="dates">~$1.866.000 con IVA · Plan Full</span></td><td><span class="tag ok">sí</span></td><td>pensión completa + 4 excursiones</td><td>tarifa "no válida para findes largos": confirmar</td></tr>
-        <tr><td><b>Posada Rancho Iberá</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$371</span><span class="dates">$570.000 habitación · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha 2 h, caminata guiada, kayak guiado</td><td>sin almuerzo ni cena</td></tr>
-        <tr><td>El Paso Iberá</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag info">?</span></td><td class="muted">—</td><td></td></tr>
-        <tr><td>Casona Iberá</td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$384</span><span class="dates">$590.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha, caminata guiada, cabalgata</td><td><b>sin almuerzo ni cena</b></td></tr>
-        <tr><td><b>Posada Iberá Porá</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd best">≈ US$619</span><span class="dates">$950.000</span></td><td><span class="tag ok">sí</span></td><td>2 lanchas, 2 caminatas guiadas</td><td>cotizado con las fechas exactas</td></tr>
-        <tr><td><b>Cabaña Capivara</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$156</span><span class="dates">$240.000 · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>ninguna (bici aparte)</td><td>cabaña con cocina; sin comidas ni transfer</td></tr>
-        <tr><td>Irupé Lodge</td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$264</span><span class="dates">$405.000 Standard · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>aparte, por persona</td><td><b>sin pensión completa</b>: comidas aparte</td></tr>
-      </tbody>
-    </table></div>
-    <div class="note">Las opciones que arrancan el domingo 8 obligan a viajar el día de la misa del Papa y a pedir licencia el miércoles 11.</div>
-  </div>
-</section>
-
-<!-- 3 O 4 NOCHES -->
-<section id="noches">
-  <h2>¿3 o 4 noches?</h2>
-  <p class="lead">Qué dicen 25 fuentes: reseñas de TripAdvisor, foros, blogs de viajeros y operadores.</p>
-  <div class="grid">
-    <div class="card"><span class="tag info">5 fuentes</span><h3 style="margin:8px 0 4px">Alcanzan 1-2 noches</h3><p class="muted" style="margin:0">Foros de TripAdvisor y Lonely Planet: "dos días, tres a lo sumo". Uno se habría quedado una noche más para la cabalgata.</p></div>
-    <div class="card"><span class="tag ok">13 fuentes</span><h3 style="margin:8px 0 4px">3 noches, el mínimo o lo ideal</h3><p class="muted" style="margin:0">"Con 2 noches pasás la mayor parte en la ruta; con 3 o más el lugar se abre" (Iberá Experience). Reseñas de 3 noches con 2 excursiones por día.</p></div>
-    <div class="card"><span class="tag warn">7 fuentes</span><h3 style="margin:8px 0 4px">4 días o más</h3><p class="muted" style="margin:0">La Nación recomienda 4 días. "Mínimo 4 jornadas para entender esa tierra." Reseñas de 4 noches muy positivas.</p></div>
-  </div>
-  <div class="note blue"><b>Consenso:</b> el piso está en 3 noches y casi nadie dice que 4 sobren. El motivo principal para quedarse más es el clima, y noviembre es de los meses más lluviosos.</div>
-  <div class="grid" style="margin-top:12px">
-    <div class="card"><span class="tag ok">Recomendado</span><h3 style="margin:8px 0 4px">3 noches, llegando temprano el sábado</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Aerolíneas 7:30 → Resistencia 9:05: $278.168 por persona (≈ US$81 más la pareja que JetSMART).</li>
-        <li>El sábado a la tarde ya cuenta: 2 días y medio + martes a la mañana.</li>
-        <li>Sin licencia y ~US$250-365 menos de hospedaje.</li>
-      </ul></div>
-    <div class="card"><span class="tag warn">Si prefieren margen</span><h3 style="margin:8px 0 4px">4 noches</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Un día de reserva si llueve.</li>
-        <li>En Ecoposada suma cabalgata y safari nocturno.</li>
-        <li>Cuesta un día de licencia cada uno y ~US$250 más (≈ US$365 en Iberá Lodge).</li>
-      </ul></div>
-  </div>
-  <div class="note">Con vuelos de la tarde se llega de noche (Posadas está a ~4 h de camino) y con 3 noches quedan solo domingo y lunes completos. <b>En ninguna de las dos opciones hay día de margen:</b> con 3 noches se trabaja el miércoles; con 4, el jueves.</div>
-  <p class="muted" style="font-size:13px">Detalle de las 25 fuentes con links en <code>investigacion.md</code>.</p>
-</section>
-
-<!-- PAGO -->
-<section id="pago">
-  <h2>Formas de pago</h2>
-  <p class="lead">Consultado a todas el 28/9 a las 18:05, para 3 y para 4 noches.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Posada</th><th>Qué se sabe</th></tr></thead>
-    <tbody>
-      <tr><td><b>Ecoposada del Estero</b></td><td><b>Seña 20%.</b> Pagando el saldo <b>en efectivo se mantienen los precios del cuadro</b> (con otro medio, a confirmar). Con tarjeta, cuotas con el interés del banco (no sin interés). Seña no reembolsable, se mantiene para otra fecha.</td></tr>
-      <tr><td><b>Rancho de los Esteros</b></td><td><b>Seña 20% por transferencia</b>; saldo al llegar en efectivo o transferencia. <b>No acepta tarjetas.</b> Sin gastos de cancelación hasta 30 días antes. La seña no congela el precio.</td></tr>
-      <tr><td><b>Posada de la Laguna</b></td><td>40% de seña y saldo 10 días antes, <b>o 3 cuotas sin interés con Visa o Mastercard</b>.</td></tr>
-      <tr><td><b>Iberá Lodge</b></td><td><b>Seña 50%</b> para confirmar (3 noches $750.000 · 4 noches ~$1.030.000), por transferencia o tarjeta (<b>con tarjeta tiene recargo</b>); saldo al llegar.</td></tr>
-      <tr><td><b>Ñandé Retá Lodge</b></td><td><b>Seña 30%</b> y saldo en el hotel. Todas las formas de pago, combinables: <b>tarjeta hasta 3 cuotas sin interés</b>, transferencia o efectivo.</td></tr>
-      <tr><td><b>Rincón del Socorro</b></td><td><b>Seña 30%</b> para confirmar; saldo 10 días antes del ingreso, por transferencia o link de pago con débito o crédito <b>en un solo pago</b>.</td></tr>
-      <tr><td>Posada Rancho Iberá</td><td><span class="tag info">consultado 28/9</span></td></tr>
-      <tr><td>El Paso Iberá</td><td><span class="tag info">consultado 28/9</span> todavía no dijo formas de pago</td></tr>
-      <tr><td><b>Cabaña Capivara</b></td><td><b>Seña 30%</b> por transferencia (Mercado Pago); resto en efectivo o transferencia. No trabaja con tarjeta de crédito.</td></tr>
-      <tr><td><b>El Tránsito</b></td><td>En pesos al tipo de cambio oficial del Banco Nación; reserva por link. La tarifa no reembolsable es ~15% más barata.</td></tr>
-      <tr><td><b>Casona Iberá</b></td><td><b>Seña 50%</b> por transferencia o link de Mercado Pago; con el comprobante mandan el voucher. Saldo al ingresar, con tarjeta en <b>3 a 6 cuotas sin interés</b> según la tarjeta.</td></tr>
-      <tr><td><b>Posada Iberá Porá</b></td><td><b>Seña 50%</b> + DNI; saldo hasta 1 día antes o en efectivo en la posada. Efectivo, transferencia o tarjeta.</td></tr>
-      <tr><td><b>Irupé Lodge</b></td><td><b>Seña 50%</b> por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito.</td></tr>
-    </tbody>
-  </table></div>
-</section>
-
-<!-- VUELOS -->
-<section id="vuelos">
-  <h2>Vuelos directos con carry-on</h2>
-  <p class="lead">Google Flights, 28/9. Precio por persona, ida y vuelta, con 1 carry-on; entre paréntesis, la pareja. Posadas es el aeropuerto más cercano a Pellegrini; Resistencia está a ~20 km de Corrientes. Nada comprado.</p>
-
+  <h3 class="sub-h">✈️ En avión</h3>
+  <p class="muted">Google Flights, 28/9. Precio por persona, ida y vuelta, con 1 carry-on; entre paréntesis, la pareja. Posadas es el aeropuerto más cercano a Pellegrini; Resistencia está a ~20 km de Corrientes. Nada comprado.</p>
   <div class="tabs" role="group" aria-label="Cantidad de noches para vuelos">
     <button type="button" data-show="v4" aria-pressed="true">4 noches · vuelta mié 11</button>
     <button type="button" data-show="v3" aria-pressed="false">3 noches · vuelta mar 10</button>
@@ -717,12 +371,51 @@
     <div class="card"><span class="tag warn">Mejor horario</span><p style="margin:8px 0 0">Aerolíneas a <b>Corrientes</b> 8:45: transfer con luz de día. Solo sirve para 4 noches.</p></div>
   </div>
   <p class="muted" style="font-size:13px">Flybondi también vuela directo a Corrientes y Posadas, pero sin precio visible y con tarifa base sin carry-on.</p>
-</section>
 
-<!-- TRASLADOS -->
-<section id="traslados">
-  <h2>Traslados</h2>
-  <p class="lead">Ninguna posada incluye el transfer en el precio.</p>
+  <h3 style="margin-top:22px">A qué hora se llega con cada vuelo (4 noches)</h3>
+  <p class="muted">Uber La Plata ↔ Aeroparque ~1 h; 2 h de anticipación a la ida y ~1 h 30 min a la vuelta. Transfers: Resistencia/Corrientes 5-6 h, Posadas 3 h 15 min a 4 h 40 min (estimados). Auto: ~11 h puerta a puerta a 110-140 km/h.</p>
+  <div class="grid" style="grid-template-columns:1fr">
+    <article class="card">
+      <h3 style="margin:0 0 6px">Ida · sáb 7</h3>
+      <div class="tbl"><table>
+        <thead><tr><th>Opción</th><th>Sale de La Plata</th><th>Llega a Pellegrini</th></tr></thead>
+        <tbody>
+          <tr><td>7:30 a Resistencia + transfer</td><td class="num">~4:30</td><td class="num">~15:00-15:30</td></tr>
+          <tr><td>7:30 a Resistencia + auto + 4x4</td><td class="num">~4:30</td><td class="num">~15:30</td></tr>
+          <tr><td>9:35 a Posadas + transfer</td><td class="num">~6:30</td><td class="num">~15:00-16:30</td></tr>
+          <tr><td>8:45 a Corrientes + transfer o auto</td><td class="num">~5:30</td><td class="num">~16:00-16:30</td></tr>
+          <tr><td><b>Auto propio de un tirón</b></td><td class="num"><b>3:30</b></td><td class="num best"><b>~14:35-14:50</b></td></tr>
+          <tr><td><b>Auto, durmiendo en Concordia</b></td><td class="num"><b>vie 16:00</b></td><td class="num best"><b>~13:25-13:40</b></td></tr>
+        </tbody>
+      </table></div>
+      <p class="muted" style="margin:8px 0 0">El auto gana: llega antes que cualquier vuelo. El avión cuesta ~US$840 más; su ventaja es llegar sin haber manejado.</p>
+    </article>
+    <article class="card">
+      <h3 style="margin:0 0 6px">Vuelta · mié 11</h3>
+      <div class="tbl"><table>
+        <thead><tr><th>Opción</th><th>Sale de Pellegrini</th><th>En La Plata</th></tr></thead>
+        <tbody>
+          <tr><td>10:50 desde Corrientes</td><td class="num">~3:30 <span class="tag warn">ripio de noche</span></td><td class="num">~13:40</td></tr>
+          <tr><td>10:35 desde Posadas</td><td class="num">~4:30 <span class="tag warn">RP 41 de noche</span></td><td class="num">~13:30</td></tr>
+          <tr><td><b>14:25 desde Posadas</b></td><td class="num">~8:30, de día</td><td class="num best"><b>~17:30</b></td></tr>
+          <tr><td>16:40 desde Resistencia</td><td class="num">~9:00</td><td class="num">~19:30</td></tr>
+          <tr><td><b>Auto propio</b></td><td class="num"><b>7:30</b></td><td class="num"><b>~18:40-19:00</b></td></tr>
+          <tr><td>JetSMART 17:51 desde Resistencia</td><td class="num">~10:30</td><td class="num">~20:40</td></tr>
+          <tr><td>18:05 desde Corrientes</td><td class="num">~11:00</td><td class="num">~21:00</td></tr>
+          <tr><td>JetSMART 18:16 desde Posadas</td><td class="num">~12:30</td><td class="num">~21:10</td></tr>
+        </tbody>
+      </table></div>
+      <p class="muted" style="margin:8px 0 0">Solo el 14:25 desde Posadas gana: ~1 h 10 min a 1 h 30 min antes en casa, saliendo de día ($182.175 por persona).</p>
+    </article>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <ul style="margin:0">
+      <li><b>Mejor combinación en avión:</b> ida 7:30 a Resistencia + vuelta 14:25 desde Posadas → casi el mismo tiempo puerta a puerta que el auto (gana ~1 h 30 min solo a la vuelta) y ~19 h menos de manejo, por ~US$800-850 más.</li>
+      <li><b>Ritmo del auto:</b> crucero de 110-140 km/h → ~11 h puerta a puerta. Como referencia, una vecina tarda 12 h de La Plata a Misiones (~1.100 km, todo asfalto).</li>
+    </ul>
+  </div>
+
+  <h3 class="sub-h">🚐 Traslados desde el aeropuerto o desde Mercedes</h3>
   <div class="grid">
     <div class="card">
       <span class="tag ok">Con precio</span>
@@ -755,12 +448,11 @@
       <span class="tag info">Alternativas</span>
       <h3 style="margin:8px 0 4px">Colectivos</h3>
       <ul style="margin:0;padding-left:18px">
-        <li><b>Flechabus</b> Retiro ~21 h → Mercedes ~6 h.</li>
         <li><b>Iberá Bus</b> Mercedes → Pellegrini: lun, mié y vie a las 12 h. No sirve para llegar un sábado.</li>
       </ul>
     </div>
   </div>
-  <div class="note red"><b>Camino:</b> desde Mercedes, ~50 km de asfalto y ~70 de ripio; desde Posadas, tierra y arena en mal estado. <b>Con lluvia, solo 4x4.</b> Por eso conviene el transfer.</div>
+  <div class="note red"><b>Camino:</b> desde Mercedes, ~50 km de asfalto y ~70 de ripio; desde Posadas, tierra y arena en mal estado. <b>Con lluvia, solo 4x4.</b></div>
 
   <details class="card" style="margin-top:12px">
     <summary>Plan B: auto de alquiler automático (total 4 días, USD)</summary>
@@ -775,12 +467,193 @@
     </table></div>
     <p class="muted" style="font-size:13px">Ningún comparador ofrece SUV ni 4x4. Fuentes: Kayak y EconomyBookings, 28/9.</p>
   </details>
+
+  <h3>Tiempos y distancias de cada tramo</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Tramo</th><th>Distancia</th><th>Tiempo</th><th>Camino</th></tr></thead>
+    <tbody>
+      <tr><td>La Plata → Mercedes (auto)</td><td class="num">738 km</td><td>~7 h 40 min sin paradas; 8-9 h reales</td><td>asfalto; peajes solo con TelePase</td></tr>
+      <tr><td>Aeropuerto Corrientes → Mercedes</td><td class="num">238-246 km</td><td>~3-3,5 h</td><td>asfalto, algunos baches</td></tr>
+      <tr><td>Aeropuerto Resistencia → Mercedes</td><td class="num">~260 km</td><td>~3,5 h</td><td>asfalto</td></tr>
+      <tr><td>Mercedes → Pellegrini</td><td class="num">118-120 km</td><td>~2 h en 4x4; <b>hasta ~3 h 20 min en auto</b></td><td>50 asfalto + 35 ripio bueno + <b>35 de laja puntiaguda (a ~30 km/h)</b>; <b>sin nafta ni señal; con lluvia, solo 4x4</b></td></tr>
+      <tr><td><b>La Plata → Pellegrini (auto propio, total)</b></td><td class="num"><b>862 km</b></td><td><b>~11 h sin paradas</b> (ida y vuelta 1.724 km, ~22 h)</td><td>última nafta en Mercedes</td></tr>
+      <tr><td>Goya → Mercedes</td><td class="num">149 km</td><td>~1 h 50 min</td><td>Goya <b>no tiene vuelos comerciales</b> para esas fechas</td></tr>
+      <tr><td>Aeropuerto Corrientes → Pellegrini</td><td class="num">~356-370 km</td><td>~5-6 h</td><td>vía Mercedes</td></tr>
+      <tr><td>Aeropuerto Posadas → Pellegrini</td><td class="num">200-250 km</td><td>3 h 15 min a 4 h 40 min</td><td>tierra y arena; <b>RP 41 solo de día</b></td></tr>
+    </tbody>
+  </table></div>
+
+
+  <details class="card" style="margin-top:12px">
+    <summary>Supuestos de los cálculos con avión</summary>
+    <ul>
+      <li><b>Transfer Mercedes ↔ Pellegrini:</b> $170.000 por tramo (precio real de Ñandé Retá).</li>
+      <li><b>Transfers largos, precios reales de El Paso:</b> Posadas ↔ Pellegrini $700.000 y Corrientes ↔ Pellegrini $900.000, ida y vuelta (para Resistencia se usa el de Corrientes).</li>
+      <li><b>Auto automático:</b> Resistencia Avis Yaris US$299 (4 días), Corrientes Budget Yaris US$368 (5 días). Nafta según Ruta0. Queda estacionado en Mercedes: el último tramo, en 4x4.</li>
+      <li><b>Tiempos:</b> Corrientes → Mercedes ~3-3,5 h · Mercedes → Pellegrini ~2 h · Posadas → Pellegrini 3 h 15 min a 4 h 40 min (RP 41 solo de día).</li>
+      <li><b>Auto propio (Corolla), directo La Plata → Pellegrini:</b> 858 km por tramo; $90.000 por tanque ≈ 500 km (~$180/km). Peajes Ruta 14 con TelePase: 4 × $1.887 por tramo (enero 2026), más ~$12.000 estimados por tramo para Autopista La Plata y Panamericana.</li>
+      <li>Incluye Parque Provincial ($46.000 los dos). No incluye bebidas ni comidas en ruta.</li>
+    </ul>
+  </details>
+
 </section>
 
-<!-- FICHAS -->
-<section id="fichas">
-  <h2>Qué ofrece cada posada</h2>
-  <p class="lead">Detalle de cada respuesta. Todas en Colonia Carlos Pellegrini.</p>
+<!-- DÓNDE DORMIR -->
+<section id="dormir">
+  <h2>Dónde dormir</h2>
+  <p class="lead">11 posadas de Colonia Carlos Pellegrini con precio para esas fechas. La gran diferencia: algunas incluyen <b>todas las comidas y las excursiones</b>; otras son <b>solo con desayuno</b> y se come en el pueblo.</p>
+  <h3 style="margin-top:6px">Cuánto sale el viaje completo con cada una</h3>
+  <p class="muted">En auto, saliendo el viernes y durmiendo en Concordia, 4 noches, para los dos. Ordenadas de más barata a más cara.</p>
+  <div class="grid">
+    <article class="card">
+      <h3 style="margin:0 0 6px">Itinerario base</h3>
+      <ul>
+        <li><b>Vie 6:</b> 16:00 La Plata → Colón ~19:40 (carga) → <b>Concordia ~21:00</b>, hotel y cena.</li>
+        <li><b>Sáb 7:</b> 7:30 → Mercedes ~10:10 (carga, efectivo) → <b>Pellegrini ~13:30</b>. Tarde: senderos o primera salida; atardecer desde el puente.</li>
+        <li><b>Dom, lun y mar:</b> las excursiones de cada posada + lo gratis: senderos del Parque Provincial (8-18 h), Parque Nacional Lobo Cuá (9-16 h) y atardecer en el camping.</li>
+        <li><b>Mié 11:</b> 7:30 → Mercedes (carga) → Concordia ~12:45 (almuerzo) → Colón (carga) → <b>La Plata ~18:40-19:00</b>.</li>
+      </ul>
+    </article>
+    <article class="card">
+      <h3 style="margin:0 0 6px">Gastos comunes</h3>
+      <div class="tbl"><table><tbody>
+        <tr><td>Nafta</td><td class="num">$309.000</td></tr>
+        <tr><td>Peajes (TelePase)</td><td class="num">$39.000</td></tr>
+        <tr><td>Hotel en Concordia (desde)</td><td class="num">$43.000</td></tr>
+        <tr><td>Comidas en ruta (cena vie, desayuno sáb, almuerzo y merienda mié)</td><td class="num">$160.000</td></tr>
+        <tr><td>Entrada al Parque Provincial ($23.000 × 2)</td><td class="num">$46.000</td></tr>
+        <tr><td><b>Total común</b></td><td class="num"><b>$597.000</b></td></tr>
+      </tbody></table></div>
+      <p class="muted" style="margin:8px 0 0">Posadas sin pensión completa: se suman ~$280.000 de almuerzos y cenas en el pueblo (~$15.000 por persona por comida).</p>
+    </article>
+  </div>
+  <div class="tbl" style="margin-top:14px"><table>
+    <thead><tr><th>Posada</th><th>Qué incluye</th><th>Estado</th><th>Posada</th><th>Extras</th><th>Total</th></tr></thead>
+    <tbody>
+      <tr><td><b>Cabaña Capivara</b><span class="dates">Solo alojamiento</span></td><td>Cabaña con cocina y aire acondicionado. Sin desayuno ni excursiones.</td><td><span class="tag warn">sin excursiones ni desayuno</span></td><td class="num">$320.000</td><td>1 lancha c/u (La Voz del Iberá, precio de junio): $90.000<br>Comidas en el pueblo: 8 almuerzos/cenas + meriendas + 4 desayunos: $340.000</td><td class="num"><b>≈ US$878</b><span class="dates">$1.347.000</span></td></tr>
+      <tr><td><b>Posada Rancho Iberá</b><span class="dates">Desayuno + 3 excursiones</span></td><td>Habitación de la posada con desayuno + lancha 2 h + caminata guiada + kayak guiado.</td><td><span class="tag ok">con lugar</span></td><td class="num">$640.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$988</b><span class="dates">$1.517.000</span></td></tr>
+      <tr><td><b>Irupé Lodge (Standard)</b><span class="dates">Desayuno, excursiones aparte</span></td><td>Habitación doble Standard con desayuno (promo primavera -10%).</td><td><span class="tag ok">disponible 7-11</span></td><td class="num">$540.000</td><td>1 lancha c/u ($58.000 con 10% off): $104.400<br>Comidas: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$991</b><span class="dates">$1.521.400</span></td></tr>
+      <tr><td><b>Casona Iberá</b><span class="dates">Desayuno + 4 excursiones</span></td><td>Desayuno + 2 lanchas (canal Corriente y río Miriñay) + caminata guiada + cabalgata.</td><td><span class="tag warn">disponibilidad a confirmar</span></td><td class="num">$800.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$1.093</b><span class="dates">$1.677.000</span></td></tr>
+      <tr><td><b>Posada Iberá Porá</b><span class="dates">Pensión completa + 5 excursiones</span></td><td>Pensión completa (desayuno, almuerzo, merienda y cena) + 2 lanchas + 2 caminatas guiadas + safari nocturno en vehículo.</td><td><span class="tag ok">con lugar</span></td><td class="num">$1.260.000</td><td>—</td><td class="num"><b>≈ US$1.210</b><span class="dates">$1.857.000</span></td></tr>
+      <tr><td><b>El Paso Iberá</b><span class="dates">Desayuno + 4 excursiones</span></td><td>Cabaña con desayuno + 2 lanchas + caminata diurna + safari nocturno.</td><td><span class="tag warn">monto a confirmar</span></td><td class="num">$1.000.000</td><td>Comidas en el pueblo: 8 almuerzos/cenas + meriendas: $280.000</td><td class="num"><b>≈ US$1.223</b><span class="dates">$1.877.000</span></td></tr>
+      <tr><td><b>Ecoposada del Estero</b><span class="dates">Pensión completa + 6 excursiones</span></td><td>Pensión completa + lancha + trekking por la selva + visita guiada al Parque Nacional + kayak o canoa en Camba Trapo + cabalgata + safari nocturno.</td><td><span class="tag warn">disponibilidad a confirmar; + impuestos</span></td><td class="num">$1.560.000</td><td>—</td><td class="num"><b>≈ US$1.405</b><span class="dates">$2.157.000</span></td></tr>
+      <tr><td><b>Rancho de los Esteros</b><span class="dates">Pensión completa + 8 excursiones</span></td><td>Pensión completa + 1 excursión por persona por día, a elección (lancha, canoa, caminatas, cabalgata, bici).</td><td><span class="tag no">sáb 7 solo si se cae un grupo</span></td><td class="num">$1.840.000</td><td>—</td><td class="num"><b>≈ US$1.588</b><span class="dates">$2.437.000</span></td></tr>
+      <tr><td><b>Iberá Lodge</b><span class="dates">Pensión completa + 4 excursiones</span></td><td>Pensión completa + charla con guías + trekking por la selva + navegación con safari fotográfico + navegación al atardecer + cabalgata.</td><td><span class="tag warn">4ª noche estimada</span></td><td class="num">$2.060.000</td><td>—</td><td class="num"><b>≈ US$1.731</b><span class="dates">$2.657.000</span></td></tr>
+      <tr><td><b>Posada de la Laguna</b><span class="dates">Pensión completa + 4 excursiones + caminatas</span></td><td>Pensión completa con merienda + 3 lanchas (canal Corriente, río Miriñay, Paso Claro) + canoa por la laguna + caminatas en ambos parques.</td><td><span class="tag ok">con lugar</span></td><td class="num">$2.320.000</td><td>—</td><td class="num"><b>≈ US$1.900</b><span class="dates">$2.917.000</span></td></tr>
+      <tr><td><b>Ñandé Retá Lodge</b><span class="dates">Pensión completa + 5 excursiones</span></td><td>Pensión completa con merienda (entrada, principal y postre) + 5 excursiones a elección (lanchas Miriñay y Corriente, caminata nocturna, cabalgata, Sendero de los Monos, medicina natural).</td><td><span class="tag warn">última habitación</span></td><td class="num">$2.841.000</td><td>—</td><td class="num"><b>≈ US$2.240</b><span class="dates">$3.438.000</span></td></tr>
+    </tbody>
+  </table></div>
+  <div class="card" style="margin-top:14px">
+    <ul style="margin:0">
+      <li><b>Las más baratas</b> (Capivara, Rancho Iberá, Irupé) traen 1 a 3 excursiones; los otros días se completan con senderos y el Parque Nacional, que son gratis.</li>
+      <li><b>Mejor relación precio / lo que incluye:</b> Iberá Porá (pensión completa + 5 excursiones, ≈ US$1.210) y Casona Iberá (4 excursiones, comiendo afuera, ≈ US$1.093).</li>
+      <li><b>Más completas:</b> Ecoposada (6 excursiones y reserva privada) y Rancho de los Esteros (8, a medida), pero una no confirmó lugar y la otra depende de un grupo.</li>
+      <li><b>Estacionamiento:</b> si van en auto, confirmarlo en la que elijan; solo El Paso lo dijo.</li>
+      <li>Sin bebidas. Ecoposada suma impuestos que no informó.</li>
+    </ul>
+  </div>
+
+  <h3 class="sub-h">Cómo se paga y si hay cuotas</h3>
+
+  <p class="muted">Montos sobre el precio de la posada para 4 noches. Los gastos comunes del viaje (nafta, peajes, hotel de Concordia) se pagan aparte.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Posada</th><th>Total viaje</th><th>Seña al reservar</th><th>Saldo</th><th>Tarjeta y cuotas</th><th>Preguntar</th></tr></thead>
+    <tbody>
+      <tr><td><b>Cabaña Capivara</b></td><td class="num">≈ US$878</td><td>30% por Mercado Pago<span class="dates">$96.000</span></td><td>$224.000 en efectivo o transferencia</td><td><b>no trabaja con tarjeta</b>: solo efectivo o transferencia</td><td>—</td></tr>
+      <tr><td><b>Posada Rancho Iberá</b></td><td class="num">≈ US$988</td><td><span class="tag info">no respondió</span></td><td>—</td><td>—</td><td>consultado 29/9 13:07-13:10</td></tr>
+      <tr><td><b>Irupé Lodge</b></td><td class="num">≈ US$991</td><td>50% por transferencia<span class="dates">$270.000</span></td><td>$270.000 en efectivo, transferencia o tarjeta de crédito o débito</td><td>acepta crédito; cuotas no informadas</td><td>consultado 29/9 13:07-13:10</td></tr>
+      <tr><td><b>Casona Iberá</b></td><td class="num">≈ US$1.093</td><td>50% por transferencia o link de Mercado Pago<span class="dates">$400.000</span></td><td>$400.000 al ingresar a la hostería</td><td><span class="tag ok">cuotas</span> <b>3 a 6 cuotas sin interés</b> según la tarjeta: ~$133.000 a ~$67.000 por mes</td><td>qué tarjetas dan 6 cuotas</td></tr>
+      <tr><td><b>Posada Iberá Porá</b></td><td class="num">≈ US$1.210</td><td>50% + DNI<span class="dates">$630.000</span></td><td>$630.000 hasta 1 día antes, o en efectivo en la posada; efectivo, transferencia o tarjeta</td><td>acepta tarjeta; cuotas no informadas</td><td>consultado 29/9 13:07-13:10</td></tr>
+      <tr><td><b>El Paso Iberá</b></td><td class="num">≈ US$1.223</td><td><span class="tag info">no respondió</span></td><td>—</td><td>—</td><td>consultado 29/9 13:07-13:10</td></tr>
+      <tr><td><b>Ecoposada del Estero</b></td><td class="num">≈ US$1.405</td><td>20%<span class="dates">$312.000</span></td><td>$1.248.000; <b>en efectivo se mantiene el precio</b> (con otro medio puede cambiar)</td><td>acepta tarjeta, <b>sin cuotas sin interés</b>: las cuotas van con el interés del banco</td><td>si con tarjeta en 1 pago cambia el precio</td></tr>
+      <tr><td><b>Rancho de los Esteros</b></td><td class="num">≈ US$1.588</td><td>20% por transferencia<span class="dates">$368.000</span></td><td>$1.472.000 al llegar, en efectivo o transferencia</td><td><b>no acepta tarjeta</b></td><td>—</td></tr>
+      <tr><td><b>Iberá Lodge</b></td><td class="num">≈ US$1.731</td><td>50% por transferencia o tarjeta (con recargo)<span class="dates">$1.030.000</span></td><td>$1.030.000 al llegar</td><td>tarjeta con recargo (monto no informado)</td><td>consultado 29/9 13:07-13:10</td></tr>
+      <tr><td><b>Posada de la Laguna</b></td><td class="num">≈ US$1.900</td><td>40% por transferencia, saldo 10 días antes · <b>o todo en 3 cuotas sin interés</b><span class="dates">$928.000</span></td><td>$1.392.000 diez días antes del ingreso</td><td><span class="tag ok">cuotas</span> <b>✅ 3 cuotas sin interés</b> con Visa o Mastercard: ~$773.000 por mes</td><td>—</td></tr>
+      <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">≈ US$2.240</td><td>30%<span class="dates">$852.300</span></td><td>$1.988.700 en el hotel; medios combinables</td><td><span class="tag ok">cuotas</span> <b>✅ tarjeta hasta 3 cuotas sin interés</b>: ~$947.000 por mes si va todo en cuotas</td><td>si la seña también puede ir en cuotas</td></tr>
+    </tbody>
+  </table></div>
+  <div class="card" style="margin-top:14px">
+    <ul style="margin:0">
+      <li><b>Tres confirmaron cuotas sin interés:</b> <b>Casona Iberá</b> (saldo de $400.000 en 3 a 6 cuotas según la tarjeta; la única barata con cuotas), Posada de la Laguna (todo en 3 cuotas, ~$773.000 por mes) y Ñandé Retá (hasta 3 cuotas, ~$947.000 por mes).</li>
+      <li><b>Cuando dos se acercan:</b> Posada de la Laguna sale ~US$169 más que Iberá Lodge, pero se paga entera en 3 cuotas sin interés y sin poner plata al reservar; Iberá Lodge pide 50% de seña y cobra recargo con tarjeta. Con cuotas fijas en pesos, cada cuota pesa menos con los meses.</li>
+      <li><b>Iberá Porá, Irupé e Iberá Lodge aceptan tarjeta</b> pero todavía no dijeron si en cuotas (consultado 29/9). <b>Ecoposada</b> acepta tarjeta pero sin cuotas sin interés (las cuotas llevan el interés del banco). Capivara y Rancho de los Esteros no aceptan tarjeta.</li>
+      <li><b>Efectivo:</b> en Pellegrini no hay cajeros. Si el saldo va en efectivo (Ecoposada $1.248.000 para mantener el precio; Rancho de los Esteros si no se transfiere), llevarlo desde La Plata o sacarlo en Mercedes.</li>
+    </ul>
+  </div>
+
+  <h3 class="sub-h">Comodidades, estacionamiento y cómo quedan los días</h3>
+  <div class="tbl" style="margin-top:14px"><table>
+    <thead><tr><th>Posada</th><th>Comodidades</th><th>Estacionamiento</th><th>Pago</th><th>Cómo quedan los días</th></tr></thead>
+    <tbody>
+      <tr><td><b>Cabaña Capivara</b></td><td>Se puede cocinar. Sin transfer.</td><td>a confirmar</td><td>Seña 30% por Mercado Pago</td><td>Lancha un día; el resto, senderos del Parque Provincial y Parque Nacional Lobo Cuá por cuenta propia.</td></tr>
+      <tr><td><b>Posada Rancho Iberá</b></td><td>Aire acondicionado, baño completo con bidet, pileta, galería y jardín. La que te gustó del video.</td><td>a confirmar (la cabaña de $660.000 tiene estacionamiento techado)</td><td>a confirmar (no respondió)</td><td>Dom lancha · lun caminata guiada + kayak · mar libre (Lobo Cuá, senderos, o cabalgata aparte).</td></tr>
+      <tr><td><b>Irupé Lodge (Standard)</b></td><td>Restaurante El Camalotal en el predio. Kayak ($40.000) y cabalgata ($40.000) por persona, aparte.</td><td>a confirmar</td><td>Seña 50% por transferencia; saldo con cualquier medio</td><td>Lancha un día; el resto, por cuenta propia o sumando kayak y cabalgata.</td></tr>
+      <tr><td><b>Casona Iberá</b></td><td>Casona antigua con galería, pileta con palmeras y muelle con mirador sobre la laguna.</td><td>a confirmar</td><td>Seña 50% por transferencia o Mercado Pago; saldo al ingresar en 3 a 6 cuotas sin interés</td><td>Dom lancha Corriente · lun cabalgata + caminata · mar lancha Miriñay.</td></tr>
+      <tr><td><b>Posada Iberá Porá</b></td><td>Menús sin TACC, vegetarianos, veganos y para diabéticos. Opcionales: kayak, cabalgata, astroturismo ($40.000 c/u).</td><td>a confirmar</td><td>Seña 50% + DNI; efectivo, transferencia o tarjeta</td><td>Dom lancha + caminata · lun caminata + lancha al atardecer + safari nocturno · mar libre o cabalgata.</td></tr>
+      <tr><td><b>El Paso Iberá</b></td><td>Cabaña de 2 habitaciones con minikitchen (se puede cocinar y bajar el gasto de comidas), aire y calefacción, limpieza diaria.</td><td>✅ descubierto</td><td>a confirmar (no respondió)</td><td>Dom lancha · lun caminata + safari nocturno · mar lancha.</td></tr>
+      <tr><td><b>Ecoposada del Estero</b></td><td>Habitaciones de barro con aire, deck y hamaca paraguaya, vista a los esteros; pileta; pasarela y observatorio; reserva privada Camba Trapo.</td><td>a confirmar</td><td>Seña 20%; saldo en efectivo mantiene el precio</td><td>Dom lancha + trekking · lun Parque Nacional + kayak/canoa · mar cabalgata + safari nocturno.</td></tr>
+      <tr><td><b>Rancho de los Esteros</b></td><td>4 habitaciones en 2 módulos; programa armado a medida con la dueña.</td><td>a confirmar</td><td>Seña 20% por transferencia; sin tarjeta</td><td>Cada día, una excursión a elección; se arma con ellos.</td></tr>
+      <tr><td><b>Iberá Lodge</b></td><td>Pileta, solárium y sala de juegos.</td><td>a confirmar</td><td>Seña 50%; tarjeta con recargo; saldo al llegar</td><td>Dom trekking + navegación · lun cabalgata · mar navegación al atardecer.</td></tr>
+      <tr><td><b>Posada de la Laguna</b></td><td>Jardín con muelle propio sobre la laguna, de donde salen las excursiones. Menús especiales.</td><td>a confirmar</td><td>40% + saldo 10 días antes, o 3 cuotas sin interés</td><td>Una lancha por día (dom, lun, mar) + canoa y caminatas.</td></tr>
+      <tr><td><b>Ñandé Retá Lodge</b></td><td>Precio con IVA incluido.</td><td>a confirmar</td><td>Seña 30%; tarjeta hasta 3 cuotas sin interés</td><td>Dos excursiones algunos días; se eligen con ellos.</td></tr>
+    </tbody>
+  </table></div>
+
+  <details class="card" style="margin-top:14px">
+    <summary>Solo el precio de cada posada, para 4 o 3 noches</summary>
+    <div style="margin-top:12px">
+  <div class="tabs" role="group" aria-label="Cantidad de noches">
+    <button type="button" data-show="n4" aria-pressed="true">4 noches</button>
+    <button type="button" data-show="n3" aria-pressed="false">3 noches</button>
+  </div>
+
+  <div data-panel="n4">
+    <div class="tbl"><table>
+      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.016</span><span class="dates">$1.560.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa, cabalgata, safari nocturno</td><td>impuestos aparte</td></tr>
+        <tr><td><b>Rancho de los Esteros</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.199</span><span class="dates">$1.840.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>solo si se cae el grupo; sin tarjeta</td></tr>
+        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.342</span><span class="dates">~$2.060.000 (estimado)</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>4ª noche a confirmar</td></tr>
+        <tr><td><b>Posada de la Laguna</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.511</span><span class="dates">$2.320.000</span></td><td><span class="tag ok">sí</span></td><td>3 lanchas, canoa, caminatas en ambos parques</td><td>3 cuotas sin interés</td></tr>
+        <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$1.851</span><span class="dates">~$2.841.000 con IVA</span></td><td><span class="tag ok">sí, última habitación</span></td><td>5 a elección</td><td>transfer Mercedes $170.000/tramo</td></tr>
+        <tr><td><b>Rincón del Socorro</b></td><td class="muted">—</td><td class="muted">—</td><td><span class="tag no">no</span></td><td class="muted">—</td><td>solo tiene del 8 al 11</td></tr>
+        <tr><td><b>El Tránsito</b><span class="dates">Portal Carambola</span></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">US$2.203</span><span class="dates">Deluxe no reembolsable · flexible US$2.592 · Suite desde US$2.981</span></td><td><span class="tag ok">sí</span></td><td>todo incluido <b>con bebidas</b>: lancha, canoa a caballo, cabalgata, kayak, senderos</td><td>no está en Pellegrini; transfer aparte</td></tr>
+        <tr><td><b>Posada Rancho Iberá</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$417</span><span class="dates">$640.000 habitación · $660.000 cabaña · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha 2 h, caminata guiada, kayak guiado</td><td>sin almuerzo ni cena</td></tr>
+        <tr><td>El Paso Iberá</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$651</span><span class="dates">~$1.000.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>2 lanchas, caminata diurna, safari nocturno</td><td>monto a confirmar; cabaña con minikitchen</td></tr>
+        <tr><td>Casona Iberá</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$521</span><span class="dates">$800.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>2 lanchas, caminata guiada, cabalgata</td><td><b>sin almuerzo ni cena</b></td></tr>
+        <tr><td><b>Posada Iberá Porá</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd best">≈ US$821</span><span class="dates">$1.260.000</span></td><td><span class="tag ok">sí</span></td><td>2 lanchas, 2 caminatas guiadas, safari nocturno</td><td>cotizado con las fechas exactas</td></tr>
+        <tr><td><b>Cabaña Capivara</b></td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$208</span><span class="dates">$320.000 · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>ninguna (bici aparte)</td><td>cabaña con cocina; sin comidas ni transfer</td></tr>
+        <tr><td>Irupé Lodge</td><td class="num">sáb 7 → mié 11</td><td class="num"><span class="usd">≈ US$352</span><span class="dates">$540.000 Standard · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>aparte, por persona: lancha $58.000, kayak o cabalgata $40.000</td><td><b>sin pensión completa</b>: comidas aparte</td></tr>
+      </tbody>
+    </table></div>
+    <div class="note blue"><b>Ojo:</b> Rancho Iberá, El Paso, Casona, Irupé y Capivara son solo con desayuno (o solo alojamiento): almuerzos y cenas van aparte, ~$15.000 por persona por comida. En la tabla del viaje completo ya están sumados.</div>
+  </div>
+
+  <div data-panel="n3" hidden>
+    <div class="tbl"><table>
+      <thead><tr><th>Posada</th><th>Fechas</th><th>Total pareja</th><th>¿Los reciben el sáb 7?</th><th>Excursiones</th><th>Ojo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ecoposada del Estero</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$769</span><span class="dates">$1.180.000</span></td><td><span class="tag warn">a confirmar</span></td><td>lancha, trekking, Parque Nacional, kayak/canoa</td><td>impuestos aparte</td></tr>
+        <tr><td><b>Rancho de los Esteros</b></td><td class="num">dom 8 → mié 11<span class="dates">o sáb 7 → mar 10 si se cae el grupo</span></td><td class="num"><span class="usd">≈ US$899</span><span class="dates">$1.380.000</span></td><td><span class="tag warn">depende de un grupo</span></td><td>1 por persona por día, a elección</td><td>del 8 en adelante, seguro</td></tr>
+        <tr><td><b>Iberá Lodge</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$977</span><span class="dates">$1.500.000</span></td><td><span class="tag ok">sí</span></td><td>trekking, 2 navegaciones, cabalgata</td><td>paquete promocional</td></tr>
+        <tr><td><b>Rincón del Socorro</b></td><td class="num">dom 8 → mié 11</td><td class="num"><span class="usd">≈ US$2.228</span><span class="dates">$3.420.000</span></td><td><span class="tag no">no</span></td><td>2 por día</td><td>el más caro</td></tr>
+        <tr><td>Posada de la Laguna</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag ok">sí</span></td><td class="muted">—</td><td></td></tr>
+        <tr><td><b>Ñandé Retá Lodge</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$1.216</span><span class="dates">~$1.866.000 con IVA · Plan Full</span></td><td><span class="tag ok">sí</span></td><td>pensión completa + 4 excursiones</td><td>tarifa "no válida para findes largos": confirmar</td></tr>
+        <tr><td><b>Posada Rancho Iberá</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$371</span><span class="dates">$570.000 habitación · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha 2 h, caminata guiada, kayak guiado</td><td>sin almuerzo ni cena</td></tr>
+        <tr><td>El Paso Iberá</td><td class="muted">—</td><td class="muted">no cotizó 3 noches</td><td><span class="tag info">?</span></td><td class="muted">—</td><td></td></tr>
+        <tr><td>Casona Iberá</td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$384</span><span class="dates">$590.000 · solo desayuno</span></td><td><span class="tag info">?</span></td><td>lancha, caminata guiada, cabalgata</td><td><b>sin almuerzo ni cena</b></td></tr>
+        <tr><td><b>Posada Iberá Porá</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd best">≈ US$619</span><span class="dates">$950.000</span></td><td><span class="tag ok">sí</span></td><td>2 lanchas, 2 caminatas guiadas</td><td>cotizado con las fechas exactas</td></tr>
+        <tr><td><b>Cabaña Capivara</b></td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$156</span><span class="dates">$240.000 · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>ninguna (bici aparte)</td><td>cabaña con cocina; sin comidas ni transfer</td></tr>
+        <tr><td>Irupé Lodge</td><td class="num">sáb 7 → mar 10</td><td class="num"><span class="usd">≈ US$264</span><span class="dates">$405.000 Standard · solo alojamiento</span></td><td><span class="tag ok">sí</span></td><td>aparte, por persona</td><td><b>sin pensión completa</b>: comidas aparte</td></tr>
+      </tbody>
+    </table></div>
+    <div class="note">Las opciones que arrancan el domingo 8 obligan a viajar el día de la misa del Papa y a pedir licencia el miércoles 11.</div>
+  </div>
+    </div>
+  </details>
+  <details class="card" style="margin-top:12px">
+    <summary>Ficha completa de cada posada (contacto, qué incluye, detalles)</summary>
+    <div style="margin-top:12px">
   <div class="grid">
 
     <article class="card lodge">
@@ -943,47 +816,45 @@
     </article>
 
   </div>
+    </div>
+  </details>
 </section>
 
-<!-- TEMPORADA -->
-<section id="temporada">
-  <h2>Iberá en noviembre</h2>
-  <div class="grid">
-    <div class="card"><h3 style="margin-top:0">🌡️ Clima</h3><p style="margin:0">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</p></div>
-    <div class="card"><h3 style="margin-top:0">🐊 Fauna</h3><p style="margin:0">Primavera: reproducción y aves migratorias. Yacarés, carpinchos, ciervos, monos carayá y ~350 especies de aves. Mejor al amanecer y al atardecer.</p></div>
-    <div class="card"><h3 style="margin-top:0">🦟 Calor y mosquitos</h3><p style="margin:0">Lo fuerte llega de diciembre a febrero. Noviembre queda en el borde: repelente y manga larga liviana.</p></div>
+<!-- QUÉ HACER -->
+<section id="hacer">
+  <h2>Qué hacer allá</h2>
+  <p class="lead">Dos ejemplos de cómo quedan los días, uno con todo incluido y otro armado por nosotros. En cualquier posada se pueden sumar los senderos y el Parque Nacional, que son gratis.</p>
+  <div class="grid" style="margin-top:18px">
+    <article class="card lodge">
+      <span class="tag ok">Todo incluido</span>
+      <h3 style="margin:8px 0 4px">Ejemplo todo incluido · Posada Iberá Porá</h3>
+      <div class="sub">Pensión completa + 2 lanchas + 2 caminatas guiadas + safari nocturno</div>
+      <ul>
+        <li><b>Sáb 7:</b> llegada ~13:30 (durmiendo en Concordia), merienda, atardecer desde el puente (~19:20), cena.</li>
+        <li><b>Dom 8:</b> lancha a la mañana · siesta o pileta · caminata guiada a la tarde.</li>
+        <li><b>Lun 9:</b> Parque Nacional Lobo Cuá en el auto (gratis, 9 a 16 h, torre mirador) o 2ª caminata · 2ª lancha al atardecer · safari nocturno.</li>
+        <li><b>Mar 10:</b> cabalgata opcional ($40.000 c/u) o senderos del Parque Provincial (Carayá, Cerrito, Montes). Día de reserva si llovió.</li>
+        <li><b>Mié 11:</b> desayuno y vuelta.</li>
+      </ul>
+      <p class="muted" style="margin:8px 0 0">El total de cada una está en la tabla de <a href="#dormir">Dónde dormir</a>.</p>
+    </article>
+    <article class="card lodge">
+      <span class="tag info">Armado por nosotros</span>
+      <h3 style="margin:8px 0 4px">Ejemplo armado por nosotros · Posada Rancho Iberá</h3>
+      <div class="sub">Habitación con desayuno + lancha 2 h + caminata guiada + kayak; comidas en el pueblo</div>
+      <ul>
+        <li><b>Sáb 7:</b> llegada ~13:30 (durmiendo en Concordia), senderos del Parque Provincial o descanso · atardecer desde el puente · cena en Yacarú Porá.</li>
+        <li><b>Dom 8:</b> lancha a la mañana · almuerzo en Café de los Pájaros · senderos del Parque Provincial · safari nocturno (El Iberacero, $30.000 c/u).</li>
+        <li><b>Lun 9:</b> Parque Nacional Lobo Cuá o caminata guiada · almuerzo en Dalmacio Bar · kayak a la tarde · cena en Bar Destino Iberá.</li>
+        <li><b>Mar 10:</b> cabalgata (Paiubre, $30.000 c/u) · almuerzo en Don Marcos · atardecer en el camping municipal · cena en Reiyel.</li>
+        <li><b>Mié 11:</b> desayuno y vuelta.</li>
+      </ul>
+      <p class="muted" style="margin:8px 0 0">El total de cada una está en la tabla de <a href="#dormir">Dónde dormir</a>.</p>
+    </article>
   </div>
-  <div class="note red"><b>Reservar ya:</b> en findes largos se recomienda reservar con 1 a 2 meses de anticipación, y el lunes 9 es feriado nacional.</div>
-</section>
 
-<!-- COMER -->
-<section id="comer">
-  <h2>Dónde comer y tomar café</h2>
-  <p class="lead">Para el caso de elegir una cabaña o posada con solo desayuno. Puntaje de Google Maps; precio por persona según Google.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Lugar</th><th>Google</th><th>Precio p/p</th><th>Qué es</th><th>Qué destacan</th></tr></thead>
-    <tbody>
-      <tr><td><b>Café de los Pájaros</b></td><td class="num best">4,7 (909)</td><td class="num">$10-20 mil</td><td>cocina guaraní, café</td><td>"tenés que ir"; desayunos y meriendas; peatonal</td></tr>
-      <tr><td><b>Yacarú Porá</b></td><td class="num">4,4 (799)</td><td class="num">$10-20 mil</td><td>bodegón de pastas</td><td>pastas caseras abundantes</td></tr>
-      <tr><td><b>Don Marcos</b></td><td class="num">4,4 (577)</td><td class="muted">—</td><td>restaurante</td><td>"riquísima comida"</td></tr>
-      <tr><td><b>Bar Destino Iberá</b></td><td class="num">4,5 (356)</td><td class="num">$20-30 mil</td><td>restaurante</td><td>pastas y estofado; parque; abre hasta la 1</td></tr>
-      <tr><td><b>Dalmacio Bar</b></td><td class="num best">4,8 (184)</td><td class="num">$10-20 mil</td><td>bar</td><td>pizzas y sándwiches</td></tr>
-      <tr><td><b>Reiyel Resto-Bar</b></td><td class="num best">4,9 (43)</td><td class="num">$10-20 mil</td><td>pub</td><td>tostados abundantes; para llevar</td></tr>
-      <tr><td>Hospedaje Los Amigos</td><td class="num">4,7 (67)</td><td class="muted">—</td><td>restaurante</td><td>carne y vegetariano</td></tr>
-      <tr><td>Jajetopa</td><td class="num">4,8 (17)</td><td class="muted">—</td><td>comida típica</td><td>tortillas, sopa de arroz</td></tr>
-      <tr><td>Comedor Santa Rita</td><td class="num">4,8 (16)</td><td class="muted">—</td><td>comedor</td><td>empanadas para llevar</td></tr>
-      <tr><td>Camalotal Cocina</td><td class="num">4,5 (11)</td><td class="num">$10-40 mil</td><td>restaurante (Irupé Lodge)</td><td>ambiente cálido</td></tr>
-      <tr><td><b>Cafetería Costa Iberá</b></td><td class="num">4,5 (177)</td><td class="num">hasta $10 mil</td><td>cafetería</td><td>junto al camping; muy amables</td></tr>
-      <tr><td>Despensa La Familia</td><td class="num">4,5 (24)</td><td class="muted">—</td><td>almacén y helados</td><td>acepta Mercado Pago</td></tr>
-      <tr><td>Despensas Iberá</td><td class="num">4,9 (10)</td><td class="muted">—</td><td>almacén</td><td>pan, fiambres, empanadas, milanesas</td></tr>
-    </tbody>
-  </table></div>
-  <div class="note blue"><b>Cuánto sumar por comer:</b> ~$15.000 por persona por comida → <b>~$180.000 (≈ US$117) para los dos en 3 días</b>. Con eso, 3 noches: Capivara ≈ US$274 (sin excursiones) · <b>Rancho Iberá ≈ US$489</b> · Casona Iberá ≈ US$502, contra <b>Iberá Porá con pensión completa ≈ US$619</b>. Sin cajeros en el pueblo: llevar efectivo.</div>
-</section>
 
-<!-- VIDEOS -->
-<section id="videos">
-  <h2>Lo que muestran los videos</h2>
+  <h3 class="sub-h">Senderos, excursiones y precios</h3>
   <p class="lead">Dos videos analizados completos: audio transcripto y fotogramas revisados.</p>
   <article class="card lodge">
     <h3>Guía de Colonia Carlos Pellegrini · PRENDELAMECHAOK</h3>
@@ -1035,11 +906,41 @@
     </div>
     <p class="muted" style="margin:10px 0 0">Si se eligiera El Tránsito, cambia toda la logística (se entra por Concepción) y los packs actuales no aplican.</p>
   </article>
+
+  <h3 class="sub-h">Dónde comer y tomar café</h3>
+  <p class="lead">Para el caso de elegir una cabaña o posada con solo desayuno. Puntaje de Google Maps; precio por persona según Google.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Lugar</th><th>Google</th><th>Precio p/p</th><th>Qué es</th><th>Qué destacan</th></tr></thead>
+    <tbody>
+      <tr><td><b>Café de los Pájaros</b></td><td class="num best">4,7 (909)</td><td class="num">$10-20 mil</td><td>cocina guaraní, café</td><td>"tenés que ir"; desayunos y meriendas; peatonal</td></tr>
+      <tr><td><b>Yacarú Porá</b></td><td class="num">4,4 (799)</td><td class="num">$10-20 mil</td><td>bodegón de pastas</td><td>pastas caseras abundantes</td></tr>
+      <tr><td><b>Don Marcos</b></td><td class="num">4,4 (577)</td><td class="muted">—</td><td>restaurante</td><td>"riquísima comida"</td></tr>
+      <tr><td><b>Bar Destino Iberá</b></td><td class="num">4,5 (356)</td><td class="num">$20-30 mil</td><td>restaurante</td><td>pastas y estofado; parque; abre hasta la 1</td></tr>
+      <tr><td><b>Dalmacio Bar</b></td><td class="num best">4,8 (184)</td><td class="num">$10-20 mil</td><td>bar</td><td>pizzas y sándwiches</td></tr>
+      <tr><td><b>Reiyel Resto-Bar</b></td><td class="num best">4,9 (43)</td><td class="num">$10-20 mil</td><td>pub</td><td>tostados abundantes; para llevar</td></tr>
+      <tr><td>Hospedaje Los Amigos</td><td class="num">4,7 (67)</td><td class="muted">—</td><td>restaurante</td><td>carne y vegetariano</td></tr>
+      <tr><td>Jajetopa</td><td class="num">4,8 (17)</td><td class="muted">—</td><td>comida típica</td><td>tortillas, sopa de arroz</td></tr>
+      <tr><td>Comedor Santa Rita</td><td class="num">4,8 (16)</td><td class="muted">—</td><td>comedor</td><td>empanadas para llevar</td></tr>
+      <tr><td>Camalotal Cocina</td><td class="num">4,5 (11)</td><td class="num">$10-40 mil</td><td>restaurante (Irupé Lodge)</td><td>ambiente cálido</td></tr>
+      <tr><td><b>Cafetería Costa Iberá</b></td><td class="num">4,5 (177)</td><td class="num">hasta $10 mil</td><td>cafetería</td><td>junto al camping; muy amables</td></tr>
+      <tr><td>Despensa La Familia</td><td class="num">4,5 (24)</td><td class="muted">—</td><td>almacén y helados</td><td>acepta Mercado Pago</td></tr>
+      <tr><td>Despensas Iberá</td><td class="num">4,9 (10)</td><td class="muted">—</td><td>almacén</td><td>pan, fiambres, empanadas, milanesas</td></tr>
+    </tbody>
+  </table></div>
+  <div class="note blue"><b>Cuánto sumar por comer:</b> ~$15.000 por persona por comida → <b>~$180.000 (≈ US$117) para los dos en 3 días</b>. Con eso, 3 noches: Capivara ≈ US$274 (sin excursiones) · <b>Rancho Iberá ≈ US$489</b> · Casona Iberá ≈ US$502, contra <b>Iberá Porá con pensión completa ≈ US$619</b>. Sin cajeros en el pueblo: llevar efectivo.</div>
 </section>
 
-<!-- EXTRAS -->
-<section id="extras">
-  <h2>Costos extra y valija</h2>
+<!-- ANTES DE IR -->
+<section id="antes">
+  <h2>Antes de ir</h2>
+  <p class="lead">Clima, fauna, plata y valija.</p>
+  <div class="grid">
+    <div class="card"><h3 style="margin-top:0">🌡️ Clima</h3><p style="margin:0">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</p></div>
+    <div class="card"><h3 style="margin-top:0">🐊 Fauna</h3><p style="margin:0">Primavera: reproducción y aves migratorias. Yacarés, carpinchos, ciervos, monos carayá y ~350 especies de aves. Mejor al amanecer y al atardecer.</p></div>
+    <div class="card"><h3 style="margin-top:0">🦟 Calor y mosquitos</h3><p style="margin:0">Lo fuerte llega de diciembre a febrero. Noviembre queda en el borde: repelente y manga larga liviana.</p></div>
+  </div>
+  <div class="note red"><b>Reservar ya:</b> en findes largos se recomienda reservar con 1 a 2 meses de anticipación, y el lunes 9 es feriado nacional.</div>
+
   <div class="grid">
     <div class="card">
       <h3 style="margin-top:0">💵 En destino</h3>
@@ -1061,40 +962,56 @@
         <li>Traje de baño y toalla de pileta.</li>
       </ul>
     </div>
-    <div class="card">
-      <h3 style="margin-top:0">🗺️ Un finde tipo</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>Día 1:</b> lancha por la laguna y atardecer desde el puente.</li>
-        <li><b>Día 2:</b> Parque Nacional con guía; kayak o canoa a botador.</li>
-        <li><b>Día 3:</b> cabalgata por palmares; pasarelas del Parque Provincial.</li>
-      </ul>
-    </div>
   </div>
 </section>
 
 <!-- PENDIENTES -->
 <section id="pendientes">
   <h2>Pendientes</h2>
-  <ol class="todo card" style="padding-left:34px">
-    <li><b>Formas de pago:</b> faltan Rancho Iberá y El Paso.</li>
-    <li><b>Iberá Porá:</b> pedir contactos de transfer, si hace falta.</li>
-    <li><b>Ecoposada:</b> preguntar si el precio cambia pagando el saldo con tarjeta o transferencia.</li>
-    <li><b>Ecoposada:</b> confirmar disponibilidad.</li>
-    <li><b>Rancho de los Esteros:</b> esperar que el grupo del 5-8/11 defina; no señar antes.</li>
-    <li><b>Iberá Lodge:</b> precio de la 4ª noche, transfer y recargo con tarjeta.</li>
-    <li><b>Posada de la Laguna:</b> cotización de 3 noches, si interesa. <b>Ñandé Retá:</b> confirmar 3 noches para el finde largo y el monto del Full de 4 noches.</li>
-    <li><b>Posada Rancho Iberá:</b> ✅ 3 noches cotizadas. <b>El Paso:</b> confirmar monto y 3 noches. <b>Casona Iberá:</b> confirmar disponibilidad.</li>
-    <li><b>Posadas con solo desayuno:</b> averiguar dónde y cuánto cuestan almuerzo y cena.</li>
-    <li><b>Transfer desde Posadas:</b> pedir precio y comparar con Mercedes ($170.000 por tramo).</li>
-    <li><b>Vuelos:</b> elegir aeropuerto y comprar cuando estén definidos posada y transfer.</li>
-    <li><b>Licencia del miércoles 11:</b> solo si se eligen 4 noches.</li>
-  </ol>
+  <div class="grid">
+    <div class="card">
+      <h3 style="margin:0 0 6px">Para decidir</h3>
+      <ol style="margin:0;padding-left:20px">
+        <li>3 o 4 noches.</li>
+        <li>Auto propio o avión.</li>
+        <li>Posada.</li>
+      </ol>
+    </div>
+    <div class="card">
+      <h3 style="margin:0 0 6px">Esperando respuesta</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li><b>Cuotas sin interés</b> (consultado 29/9): El Paso, Iberá Lodge, Iberá Porá, Irupé y Rancho Iberá (esta, además, cuánto es la seña).</li>
+        <li><b>El Paso:</b> si con baño privado en cada habitación sale lo mismo, y confirmar el monto ("$1.00.000").</li>
+        <li><b>Iberá Lodge:</b> precio de la 4ª noche, recargo con tarjeta y transfer.</li>
+        <li><b>Ecoposada:</b> disponibilidad, y si con tarjeta en un pago cambia el precio.</li>
+        <li><b>Casona Iberá:</b> disponibilidad, y qué tarjetas dan 6 cuotas.</li>
+        <li><b>Rancho de los Esteros:</b> que se defina el grupo del 5 al 8/11 (no señar antes).</li>
+        <li><b>Casa Santa Ana:</b> sin respuesta por Instagram.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3 style="margin:0 0 6px">Una vez decidido</h3>
+      <ul style="margin:0;padding-left:18px">
+        <li>Señar la posada y confirmar que tenga <b>estacionamiento</b> (si vamos en auto).</li>
+        <li>Si vamos en auto y dormimos en el camino: reservar <b>una noche en Concordia</b> (en finde largo, confirmar que tomen una sola).</li>
+        <li>Si vamos en avión: comprar pasajes y reservar transfer o auto.</li>
+        <li>Si son 4 noches: pedir la <b>licencia del miércoles 11</b>.</li>
+        <li>Llevar efectivo: en Pellegrini no hay cajeros.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- MÁS DETALLE -->
+<section id="mas">
+  <h2>Más detalle</h2>
+  <p class="lead">Todo lo relevado, con fuentes, está en <a href="investigacion.md">investigacion.md</a>: las 25 fuentes sobre cuántas noches, los chats con cada posada, las opciones descartadas (micro, Rincón del Socorro, El Tránsito) y el historial de cada consulta.</p>
 </section>
 
 </main>
 
 <footer>
-  <div class="wrap">Precios cotizados el 28/9/2026 por WhatsApp, PDFs de las posadas y Google Flights. US$ al dólar blue de referencia (~$1.535). Detalle completo y fuentes en <code>investigacion.md</code>.</div>
+  <div class="wrap">Precios cotizados entre el 28 y el 29/9/2026 por WhatsApp, PDFs de las posadas y Google Flights. US$ al dólar blue de referencia (~$1.535). Detalle completo y fuentes en <code>investigacion.md</code>.</div>
 </footer>
 
 <script>
