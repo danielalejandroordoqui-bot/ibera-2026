@@ -864,6 +864,48 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - Conclusión: con precios de restaurante del pueblo, **las opciones con solo desayuno salen ~US$120-130 menos** que Iberá Porá, a cambio de organizar cada comida.
 - Recordar: **en Pellegrini no hay cajeros**; algunos lugares aceptan Mercado Pago, pero conviene llevar efectivo.
 
+## 11. Sitios oficiales revisados: Parque Iberá y Cámara de Turismo (29/9/2026)
+
+Fuentes: [parqueibera.gob.ar](https://parqueibera.gob.ar/) (Gobierno de Corrientes) y [camaraturismoibera.com.ar](https://www.camaraturismoibera.com.ar/) (Cámara de Turismo de los Esteros del Iberá).
+
+⚠️ **Seguridad:** los dos sitios muestran señales de estar comprometidos. **parqueibera.gob.ar** tiene texto inyectado de casinos online en varios idiomas en todas las páginas (spam SEO); el contenido del Parque sigue ahí, pero no conviene hacer clic en links raros. En **camaraturismoibera.com.ar**, la sección **Alojamientos (/Hosterias-Posadas) redirige a un dominio ajeno (ephemeriden.com)**: no se abrió. Los datos de contacto de abajo se tomaron del contenido legítimo; cruzarlos con WhatsApp antes de pagar nada.
+
+**Consejos oficiales (Cámara):** sin bancos, cajeros, farmacia ni surtidor en Pellegrini; **el combustible "se vende suelto"**; máximo 60 km/h en la RP 40; sin señal en la ruta; el acceso sur (Mercedes) es transitable, el norte (Posadas) y desde La Cruz hay que verificarlo con locales; en seco no hacen falta botas de goma. **Estado de caminos (Parque, 29/9):** todos los portales transitables — [parqueibera.gob.ar/acceso-portales](https://parqueibera.gob.ar/acceso-portales).
+
+**Guías y excursiones (Cámara):** Esteros Ñe'e / La Voz del Iberá (Diana Frete, +54 9 3773 40-6034, contacto.ibera@gmail.com, @lavozdelyvera) · El Aninga (Domingo René González, +54 9 3773 44-8830, @aningaexcursiones22) · Iberá Guyrá (Roque Boccalandro, +54 9 3773 62-8797) · Travesía Iberá (Marcelo Cabral, +54 9 3794 32-3125, marcelo80c@gmail.com, @travesia_ibera) · Agreste Iberá (Ingrid Wehner, +54 11 6625-6678, agresteibera@hotmail.com) · Iberá Spirit (Silvina Martínez, solo mail info@iberaspirit.com.ar) · Estancia San Antonio (Tiziana Prada, +54 9 11 4538-6332). Sin precios publicados.
+
+**Traslados (Cámara) — cruce con los choferes ya consultados:** Transporte 2 de Abril = **Norma Pelozo** (5493773437847; Mercedes → Pellegrini o Corrientes, camioneta o traffic) · **Capybara = Daniel Aguirre** (5493773627687; Mercedes → Pellegrini, **Hilux 4x4**) · **Guayrá Turismo Alternativo = Roberto Zimmerly** (5493764690457; Posadas, Iguazú) · **Mbarete Viajes = Oscar Díaz** (5493754405533; Posadas → portales) · **Traslados Don Prion = Gustavo Prion** (5493764530631). Además, el teléfono de **Rafael Muzio (3773 413081) es el de Aguapé Lodge** en el listado del Parque.
+
+**Gastronomía (Cámara):** Yacarú Porá (Silvia Galmarello y Jorge Martín, 5493773474838; mismos dueños que Rancho Jabirú) · Vinoteca Don Miguel (Juan Pablo Caran, 5493773459539, @donmiguelvinoteca) · Complejo Ymbyaty (Andrea Niveyro, 5493794920100, @ymbyaty) · Arasá, dulces regionales (Viviana Pavón, 5493773401149, @Arasadulces) · Café de los Pájaros (Fernando Huarte, 5493773441266, cafedelospajaros@gmail.com). **Artesanías:** Mercado del Yvera (Florencia Henríquez, 11 6337-8799, @mercadodelyvera).
+
+**Alojamientos del Portal Laguna Iberá (Parque).** Ya consultados: Rancho Iberá, El Paso (otro número: +54 3773 45-2017, info@elpasibera.com.ar), Ecoposada (contacto@ecoposadadelestero.com.ar, ecoposadadelestero.com.ar), Posada Iberá Porá (+54 3777 41-0315), Posada de la Laguna (+54 3773 40-8166, reservas@posadadelalaguna.com), Rancho de los Esteros (+54 3773 49-3041), Irupé Lodge (+54 3764 81-7478), **Casa Santa Ana del Iberá (+54 3764 50-4618 — se le puede escribir por WhatsApp en vez de Instagram)**, Casona Iberá (03777 42-2188 / 15629666), Ñandé Retá, Rincón del Socorro / Casa Iberá, Iberá Lodge (el Parque lo lista en "Mercedes"), **Rancho Inambú** (03773 15-435910 / 15-464805, reservas@ranchoinambu.com.ar, Yerutí entre Aguapé y Pehuajó — parece ser la misma Inambú casa de huéspedes).
+
+**No consultados todavía:**
+| Alojamiento | Tipo | Teléfono | Mail / web | Dirección |
+|---|---|---|---|---|
+| Posada de los Pájaros | posada | +54 3773 43-0539 / +54 11 5768-3786 | — | Curupí y Aguará |
+| Yaguareté Porá | posada | +54 11 5642-9142 | — | Guazuvirá y Aguapé |
+| Casa de Esteros | casa | +54 3773 47-5113 | — | Ruta 40 y Curupí |
+| Huella Iberá | posada | +54 3773 47-5154 | — | Pehuajó y Yacaré |
+| Posada Che Teindy | posada | +54 3773 43-8793 | — | Mburucuyá y Aguará |
+| Hospedaje Arandú | hospedaje | +54 3718 51-4361 | — | Aguará y Aguapé |
+| Rancho Jabirú | rancho | +54 3773 47-4838 | posadaranchojabiru.com.ar | Yaguareté y Caraguatá |
+| Corazón del Iberá | posada | +54 3773 43-1526 | — | Ñangapirí y Yaguareté |
+| Don Rubito | cabañas | +54 3773 41-0586 | — | Ñangapirí y Ruta 40 |
+| Aires del Iberá | cabañas | +54 3773 40-3173 | — | Caraguatá y Tuyuyú |
+| Camba Cuá | cabañas / camping | +54 3773 40-8474 · camping 45-8930 | cambacuaibera@gmail.com | Aguapé e/ Yacaré y Capivara |
+| Hospedaje Casa de la Luna | hospedaje | 03774 15-520259 | — | Yacaré y Guazuvirá |
+| Hospedaje Los Amigos | hospedaje | 03773 15-493753 | — | Guazuvirá y Aguapé |
+| Hospedaje Jabirú | hospedaje | 03773 49-0013 | — | Yaguareté y Caraguatá |
+| Hospedaje Guaraní | hospedaje | 03773 15-629762 | guarani@ibera.net | Caraguatá y Yacaré |
+| Hospedaje San Cayetano | hospedaje | +54 3773 62-8763 | hospedajesancayetano@hotmail.com | Aguapé e/ Yacaré y Guazuvirá |
+| Posada El Yacaré | posada | +54 3773 41-5329 | iberatours@hotmail.com | Curupí y Aguará |
+| Iberá Full Posada | posada | +54 3773 52-9979 | — | Aguará y Pehuajó |
+| Posada Ypa Sapukay | posada | +54 11 3704-2288 | iberaturismo@gmail.com | Mburucuyá y Yacaré |
+| Hostería Tupasy | hostería | +54 3773 44-9579 | info@posadatupasy.com.ar | Isipó y Yacaré |
+| Aguapé Lodge | lodge | +54 3773 41-3081 (el de Muzio) | reservas@esterosdeliberasa.com.ar, iberaesteros.com.ar | Yacaré y Ñangapirí |
+| Camping Municipal | camping | +54 3773 45-8926 | — | Mbigua y Laguna Iberá |
+
 ## 9. Pendientes
 
 1. **Formas de pago:** faltan Rancho Iberá y El Paso.
