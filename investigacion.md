@@ -11,7 +11,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Destino elegido:** Iberá, base en Colonia Carlos Pellegrini (Portal Laguna Iberá).
 - **Fechas en evaluación:** 4 noches (sáb 7 → mié 11/11) o 3 noches (sáb 7 → mar 10/11). Abiertos a 3 noches si acomoda precio, disponibilidad o licencias.
 - **Logística elegida:** avión + transfer de la posada, sin manejar. Auto de alquiler solo como plan B, y **solo automático** (Daniel no maneja manual).
-- **Hospedaje:** 12 alojamientos consultados por WhatsApp; 11 con cotización (Irupé Lodge, Posada Iberá Porá, Casona Iberá y El Tránsito sumados por Daniel). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
+- **Hospedaje:** 13 alojamientos consultados por WhatsApp; 12 con cotización (Irupé Lodge, Posada Iberá Porá, Casona Iberá, El Tránsito y Cabaña Capivara sumados). El 28/9 a las 18:05-18:06 se les preguntó a todas por las **formas de pago** para 3 y 4 noches: respondieron Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé.
 - **Nada reservado ni comprado todavía** (ni vuelos, ni posada, ni transfer).
 
 ---
@@ -99,6 +99,7 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 - **P4 es barato en papel**, pero llega de noche por ripio y pierde el sábado: queda último.
 - **Con Posada Iberá Porá** (la más barata con pensión completa, si la tarifa de finde largo no cambia) cada pack baja ~$230.000 (≈ US$150) respecto de Ecoposada con 3 noches, y ~$300.000 (≈ US$195) con 4 noches. Ejemplo: **P6 auto propio + Iberá Porá, 3 noches ≈ $1.344.000 (≈ US$876)**.
 - **Si se acepta comer aparte:** con Casona Iberá (solo desayuno) el P6 de 3 noches queda en ~$984.000 (≈ US$641) **más almuerzos y cenas**, que no están relevados.
+- **Armado por cuenta propia (P6 auto propio + Cabaña Capivara, 3 noches):** transporte $348.000 + cabaña $240.000 + Parque $46.000 = **$634.000 (≈ US$413)**, **más comidas**. Sumando lancha, cabalgata y safari nocturno para cada uno a precios del video de junio ($45.000 + $30.000 + $30.000 = $210.000 los dos) → **≈ $844.000 (≈ US$550) + comidas**. Queda por debajo de P6 + Iberá Porá (≈ US$876 con todo incluido) mientras las comidas de 3 días para dos no superen ~$500.000.
 - **Lo que más puede mover los números:** el precio real de los transfers largos (P3 y P4) y la tarifa de feriado de Ecoposada.
 
 Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
@@ -229,6 +230,7 @@ Precios **para 2 personas, sin transfer**. Todas incluyen pensión completa salv
 | **Posada Iberá Porá** | sáb 7 → mié 11 · $1.260.000 ≈ **US$821** | sáb 7 → mar 10 · $950.000 ≈ **US$619** | ✅ | 3n: 2 lanchas + 2 caminatas guiadas · 4n suma safari nocturno en vehículo |
 | El Paso Iberá (cabaña) | sáb 7 → mié 11 · $1.000.000 ≈ **US$651** (monto a confirmar: escribieron "$1.00.000") · solo desayuno | — (no cotizó) | ? | 2 lanchas, caminata diurna, safari nocturno |
 | Casona Iberá | sáb 7 → mié 11 · $800.000 ≈ **US$521** · solo desayuno | sáb 7 → mar 10 · $590.000 ≈ **US$384** · solo desayuno | ? | 3n: lancha, caminata guiada, cabalgata · 4n suma 2ª lancha |
+| Cabaña Capivara | sáb 7 → mié 11 · $320.000 ≈ **US$208** · solo alojamiento (cabaña con cocina) | sáb 7 → mar 10 · $240.000 ≈ **US$156** · solo alojamiento | ✅ (respondió con precios) | ninguna; no hace transfer |
 | Irupé Lodge | Standard 4n $540.000 · Superior 4n $745.200 (solo alojamiento con desayuno) | Standard 3n $405.000 · Superior 3n $558.900 | ✅ | se pagan aparte por persona: lancha $58.000, kayak o cabalgata $40.000 |
 
 **Irupé, El Paso y Casona Iberá no son comparables directo:** son solo con desayuno (almuerzo y cena aparte, sin precio relevado). En Irupé, además, las excursiones van aparte (comidas en el restaurante "El Camalotal" del predio). Ejemplo de cálculo: 4 noches Standard + 1 lancha, 1 kayak y 1 cabalgata cada uno (con el 10% de promo) = $540.000 + $248.400 = **$788.400 (≈ US$514) sin almuerzos ni cenas**.
@@ -249,6 +251,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | El Paso Iberá | pendiente (consultado 28/9) |
 | Irupé Lodge | ✅ **seña 50%** por transferencia; saldo en efectivo, transferencia o tarjeta de crédito o débito |
 | El Tránsito | se paga en pesos al tipo de cambio oficial del Banco Nación; reserva por link ([wspk.link/qtslz84w](https://wspk.link/qtslz84w)); tarifa no reembolsable ~15% más barata que la flexible |
+| Cabaña Capivara | ✅ **seña 30%** por transferencia a Mercado Pago; saldo en efectivo o transferencia |
 | Casona Iberá | ✅ **seña 50%** por transferencia bancaria o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher |
 | Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online) |
 
@@ -479,7 +482,12 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - **Precios de excursiones sueltas** para comparar con los paquetes: lancha $45.000, cabalgata $30.000, safari nocturno $30.000 por persona (junio 2026).
 - **Senderos gratis o con la entrada** para los ratos libres: Carayá, Cerrito y de los Montes (Parque Provincial, 8 a 18 h) y Lobo Cuá y Los Lapachos (Parque Nacional, 9 a 16 h, gratis, en bici).
 - **Dos alojamientos nuevos** para consultar: Cabaña Capivara y Casa Santa Ana del Iberá.
-  - **Cabaña Capivara:** teléfono oficial de su Instagram **3773 40-7587** (coincide con el cartel del video); también hace **paseos en bici**. ✅ **Consultada por WhatsApp el 28/9 a las 23:04** con el mensaje nuevo (3 y 4 noches, qué incluye, precio, formas de pago, transfer).
+  - **Cabaña Capivara:** teléfono oficial de su Instagram **3773 40-7587** (coincide con el cartel del video); también hace **paseos en bici**. ✅ **Consultada por WhatsApp el 28/9 a las 23:04; respondió a las 23:05-23:08:**
+    - **$40.000 por persona por noche, solo alojamiento** → 3 noches $240.000 (≈ US$156) · 4 noches $320.000 (≈ US$208) para los dos.
+    - Cabaña con cocina y 2 dormitorios; ropa de cama, toallas, vajilla, agua fría y caliente; calefactores, ventiladores y **aire acondicionado** en ambos dormitorios; heladera, anafe y elementos para preparar desayuno; parrilla móvil; wifi y smart TV. Ubicación: calle Yaguareté entre Pindó y Yataí.
+    - **No incluye comidas ni excursiones; no hace transfer.**
+    - **Pago:** seña del 30% por transferencia (Mercado Pago); se paga en efectivo o transferencia. (Los datos bancarios están en el chat; no se copian acá.)
+    - Mandó fotos: cabaña de ladrillo en medio del verde, cocina-comedor, dormitorios.
   - **Casa Santa Ana del Iberá:** ecolodge boutique de 5 habitaciones a orillas de la laguna, en el extremo sur del pueblo (calle Capivara entre Pehuajó y Caraguatá). Instagram oficial: mail **santaanadelybera@gmail.com**. ⚠️ El teléfono que dan las fichas turísticas, (03773) 15-475114, **hoy corresponde a "Casa de Esteros by Iberá Explorer"**, no a Casa Santa Ana: no se le escribió. Su web (casasdelibera.com) no responde. Falta un contacto válido (o escribirle al mail).
 - **Yacarú Porá:** "bodegón libre de pastas caseras" (ravioles, malfattis, sorrentinos de cordero, osobuco, calabaza), n.° 1 del pueblo en Restaurant Guru; tel. +54 3773 41-9653. Ni Yacarú Porá ni Café de los Pájaros publican precios.
 
