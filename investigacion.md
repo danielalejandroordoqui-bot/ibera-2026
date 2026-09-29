@@ -104,6 +104,96 @@ Siete combinaciones armadas con todo lo relevado: transporte (avión, micro, aut
 
 Fuentes de tiempos y distancias: [Ruta0 — Corrientes → Mercedes](https://www.ruta0.com/ruta/argentina/corrientes-a-mercedes/mas-corta/), [Ruta0 — Corrientes → Pellegrini](https://www.ruta0.com/rutas_argentinas.aspx?d1=corrientes&desde=272&hasta=308&tipo=1&tipoq=1&nocache=y), [Rome2Rio — Posadas → Pellegrini](https://www.rome2rio.com/es/s/Posadas/Colonia-Carlos-Pellegrini), [Foro TripAdvisor — RP 40/41](https://www.tripadvisor.com.ar/ShowTopic-g1022403-i14862-k7588301-Ruta_40_entre_Carlos_Pellegrini_e_interseccion_con_14-Colonia_Carlos_Pellegrini_Province_.html), [Unibus — Flecha Bus](https://www.unibus.com.ar/es/flecha-bus), [Andean Trails](https://www.andeantrails.co.uk/blog/wildlife-spotting-ibera-wetlands-argentina/).
 
+## 0b. Itinerario con auto propio, 4 noches (29/9/2026)
+
+Dos versiones del mismo viaje en el Corolla, **sáb 7 → mié 11/11** (licencia el miércoles 11): una con todo incluido y otra armada por ustedes. Con 4 noches el auto propio rinde: el miércoles es solo para volver y quedan **domingo, lunes y martes enteros en Iberá**. Totales para los dos, dólar blue ~$1.535.
+
+**Por qué auto propio:** los vuelos rondan $200.000 por persona, pero después hay que llegar a Pellegrini. Solo el transfer Corrientes ↔ Pellegrini cuesta $900.000 ida y vuelta (El Paso) o ~$980.000 (Ñandé Retá), casi lo mismo que 4 noches con pensión completa en Iberá Porá ($1.260.000). La nafta de todo el viaje en el auto propio sale ~$309.000.
+
+### El camino (servicios en ruta)
+
+Ruta: Autopista La Plata → Panamericana → RN 9 / RN 12 (puente Zárate-Brazo Largo) → **RN 14, autovía** por Entre Ríos → en **Cuatro Bocas** se sale a la **RN 119** (Curuzú Cuatiá) → Mercedes → **RP 40** hasta Pellegrini. **~860-900 km por tramo, ~11-11,5 h de manejo sin paradas** (Cámara de Turismo del Iberá: 860 km; Ruta0: 897 km y 11 h 27 min).
+
+| Punto | km desde La Plata (aprox.) | Hora de ida | Qué hacer |
+|---|---|---|---|
+| La Plata | 0 | **3:30** | salir con el tanque lleno y saldo en TelePase (la RN 14 cobra solo electrónico) |
+| Puente Zárate-Brazo Largo | ~170 | ~5:15 | amanece ~5:45 |
+| Gualeguaychú | ~280 | ~6:30 | **desayuno** y baño en una estación sobre la RN 14 |
+| San José / Colón | ~370 | ~7:45 | **1ª carga de nafta** (con ~500 km de autonomía no conviene estirar hasta Concordia) |
+| Concordia | ~480 | ~9:00 | café y baño |
+| Chajarí | ~560 | ~10:00 | parada corta si hace falta |
+| Cuatro Bocas (RN 14 → RN 119) | ~630 | ~10:45 | dejar la RN 14 |
+| Curuzú Cuatiá | ~665 | ~11:15 | nafta de respaldo |
+| **Mercedes** | ~740 | **~12:15** | **2ª carga, tanque lleno** (en Pellegrini no hay nafta), **sacar efectivo** (en Pellegrini no hay cajeros) y almuerzo. Salir ~13:15 |
+| RP 40: asfalto | +50 | ~13:55 | asfalto en muy buen estado |
+| RP 40: ripio bueno | +35 | ~14:40 | hasta Uguay; sin señal ni nafta |
+| RP 40: laja puntiaguda | +35 | ~15:50 | a ~30 km/h, cuidar cubiertas y el bajo del auto; ya se ven carpinchos, ciervos y aves |
+| **Colonia Carlos Pellegrini** | ~860-900 | **~16:00** | pagar la entrada al Parque Provincial antes del puente (pulsera) |
+
+- **RN 119:** Ruta0 avisa que se está deteriorando, con zanjas por los camiones. Ir atentos.
+- **Con lluvia**, la RP 40 queda solo para 4x4: el plan B es dejar el auto en Mercedes y hacer el tramo con un 4x4 (Ñandé Retá cotizó $170.000 por tramo). Mirar el pronóstico el viernes y el martes a la noche.
+- **Antes de salir:** auxilio inflado y en condiciones, presión de cubiertas, criquet, TelePase con saldo y efectivo. ~22 h de manejo en total: conviene turnarse.
+
+**Vuelta, mié 11:** desayuno 7 → **salida 7:30** (el ripio con luz de día) → Mercedes ~10:15 (**carga**) → Curuzú Cuatiá ~11:30 → Concordia ~13:30 (**almuerzo**) → Colón ~15:30 (**carga**) → Gualeguaychú ~16:30 (merienda) → **La Plata ~20 h**.
+
+**Nafta:** ~1.750 km en total (ida, vuelta y algo de movimiento en el pueblo) → **~$309.000**, con 4 cargas: Colón y Mercedes a la ida, Mercedes y Colón a la vuelta. **Peajes:** ~$39.000 ida y vuelta con TelePase.
+
+### Versión A · Todo incluido: Posada Iberá Porá
+
+Pensión completa (desayuno, almuerzo, merienda y cena) + 2 lanchas + 2 caminatas guiadas + 1 safari nocturno. La posada arma los horarios de las salidas; esto es un orden posible.
+
+- **Sáb 7:** llegada ~16 h, merienda en la posada, **atardecer desde el puente** (~19:20), cena.
+- **Dom 8:** **lancha** a la mañana (más fauna, menos calor) · almuerzo · siesta o pileta · **caminata guiada** a la tarde · cena.
+- **Lun 9:** **Parque Nacional, área Lobo Cuá** (gratis, 9 a 16 h, torre mirador) por cuenta propia en el auto, o la **2ª caminata guiada** · almuerzo · **2ª lancha** al atardecer · **safari nocturno**.
+- **Mar 10:** **cabalgata** opcional ($40.000 por persona) o **senderos del Parque Provincial** por cuenta propia (Carayá, Cerrito, Montes; 8 a 18 h). Si llovió algún día, queda como día de reserva.
+- **Mié 11:** desayuno y vuelta.
+
+| Concepto | Monto |
+|---|---|
+| Posada Iberá Porá, 4 noches, pensión completa + excursiones | $1.260.000 |
+| Nafta | $309.000 |
+| Peajes | $39.000 |
+| Entrada al Parque Provincial ($23.000 × 2) | $46.000 |
+| Comidas en ruta (desayuno y almuerzo a la ida, almuerzo y merienda a la vuelta) | ~$120.000 |
+| **Total** | **~$1.774.000 ≈ US$1.156** |
+| Con cabalgata para los dos (+$80.000) | ~$1.854.000 ≈ US$1.208 |
+
+Bebidas aparte. Pago: seña 50% + DNI.
+
+### Versión B · Armada por ustedes: Posada Rancho Iberá
+
+Habitación de la posada (la del video, con aire y baño completo) con desayuno + lancha de 2 h + caminata guiada + kayak. Almuerzos, cenas y el resto de las excursiones se contratan en el pueblo.
+
+- **Sáb 7:** llegada ~16 h, **atardecer desde el puente** · cena en **Yacarú Porá** (pastas caseras).
+- **Dom 8:** **lancha** de la posada a la mañana · almuerzo en **Café de los Pájaros** (cocina guaraní) · siesta o pileta · **senderos del Parque Provincial** a la tarde · **safari nocturno** con El Iberacero ($30.000 por persona, precio de junio).
+- **Lun 9:** **Parque Nacional Lobo Cuá** a la mañana (en el auto) o la **caminata guiada** de la posada · almuerzo en **Dalmacio Bar** · **kayak** de la posada a la tarde · cena en **Bar Destino Iberá**.
+- **Mar 10:** **cabalgata** con Paiubre ($30.000 por persona, precio de junio) · almuerzo en **Don Marcos** · tarde libre o día de reserva por lluvia · atardecer en el camping municipal · cena en **Reiyel**.
+- **Mié 11:** desayuno y vuelta.
+
+| Concepto | Monto |
+|---|---|
+| Rancho Iberá, 4 noches, habitación con desayuno + lancha + caminata + kayak | $640.000 |
+| Safari nocturno y cabalgata para los dos (precios de junio) | ~$120.000 |
+| Almuerzos y cenas en el pueblo (7 comidas, ~$15.000 por persona) | ~$210.000 |
+| Meriendas, helados y agua | ~$40.000 |
+| Nafta | $309.000 |
+| Peajes | $39.000 |
+| Entrada al Parque Provincial | $46.000 |
+| Comidas en ruta | ~$120.000 |
+| **Total** | **~$1.524.000 ≈ US$993** |
+| Con una 2ª lancha al atardecer (La Voz del Iberá, $45.000 por persona) | ~$1.614.000 ≈ US$1.051 |
+
+Pago: Rancho Iberá todavía no respondió las formas de pago.
+
+### Comparación
+
+- **B sale ~$250.000 (≈ US$163) menos que A**, con casi las mismas excursiones (A tiene 2 lanchas y 2 caminatas; B tiene 1 lancha, 1 caminata y suma kayak, safari y cabalgata). A cambio, en B hay que elegir dónde comer cada día y reservar las excursiones sueltas.
+- **Más barato todavía:** Cabaña Capivara (cabaña con cocina, sin desayuno, $320.000 las 4 noches) en lugar de Rancho Iberá: ~$1.334.000 (≈ US$869) con lancha, safari y cabalgata y comiendo afuera.
+- **Contra los vuelos:** 4 noches por avión a Corrientes + auto de alquiler + 4x4 con Iberá Porá (P5) da ~$2.885.000; la versión A en auto propio sale ~$1.110.000 menos (≈ US$720).
+- **Imprevisto a tener en cuenta:** si llueve y hay que dejar el auto en Mercedes, el 4x4 suma $170.000 por tramo.
+
+Fuentes: [Cámara de Turismo de los Esteros del Iberá — Cómo llegar](https://www.camaraturismoibera.com.ar/Como-Llegar), [Ruta0 — La Plata → Colonia Carlos Pellegrini](https://www.ruta0.com/ruta/argentina/la-plata-a-colonia-carlos-pellegrini/mas-corta/), [Ruta0 — Mercedes (BA) → Corrientes](https://www.ruta0.com/ruta/argentina/mercedes-buenos-aires-a-corrientes/), [Wikipedia — Ruta Nacional 119](https://es.wikipedia.org/wiki/Ruta_Nacional_119_(Argentina)).
+
 ---
 
 ## 1. Fechas, feriados y licencias
@@ -589,7 +679,7 @@ Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Pun
 - **12/9/2026:** Iberá descartado para marzo 2027 por duración (4-5 días alcanzan); queda para un finde largo.
 - **22-28/9/2026:** se anuncia y oficializa el feriado por la visita del Papa (Decreto 1103/2026). Daniel y Melisa trabajan en CABA → 5 días con licencia el miércoles 11.
 - **28/9/2026:** se elige Iberá para ese finde. Research de temporada; vuelos directos con carry-on (7→11 y 7→10); autos de alquiler automáticos como plan B; consultas por WhatsApp a 8 posadas (14:30-15:10), respuestas de 6 (14:32-17:18); consulta de formas de pago a todas (18:05-18:06). Más tarde: respuestas de pago de Ecoposada, Ñandé Retá, Posada de la Laguna e Irupé; Irupé Lodge se suma con precio (solo alojamiento con desayuno). Rancho de los Esteros confirma pago y manda cotización formal de 3 noches (8 → 11). Posada Iberá Porá responde con disponibilidad y la tarifa más baja con pensión completa (3n $950.000, 4n $1.260.000 la pareja). A la noche: El Paso (4n solo desayuno ~$1.000.000 + transfers reales Corrientes $900.000 y Posadas $700.000 ida y vuelta) y Casona Iberá (nueva; solo desayuno, 3n $590.000 y 4n $800.000 la pareja). Ñandé Retá manda sus planes de 3 y 4 noches (Base, Medio y Full) y el transfer desde Corrientes ($490.000 por tramo). El Tránsito (Portal Carambola) responde con tarifas todo incluido en USD. Se analizan completos el video de PRENDELAMECHAOK (guía de Pellegrini) y el de Intriper (El Tránsito, Portal Carambola). Casona Iberá: su guía de acceso menciona Goya como aeropuerto: se verificó que no tiene vuelos comerciales para esas fechas. Ruta0 aporta el detalle del camino Mercedes → Pellegrini (últimos 35 km de laja puntiaguda, a ~30 km/h; hasta ~3 h 20 min en auto). Sitio publicado en GitHub Pages.
-- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar.
+- **29/9/2026:** Iberá Lodge responde formas de pago: seña 50% por transferencia o tarjeta (con recargo), saldo al llegar. Se arma el itinerario con auto propio, 4 noches, en dos versiones: todo incluido (Iberá Porá) y armado (Rancho Iberá), con paradas, cargas de nafta y costos (sección 0b).
 
 ## Fuentes generales
 [La Nación — 10 alojamientos todo incluido en Pellegrini](https://www.lanacion.com.ar/revista-lugares/colonia-carlos-pellegrini-estancias-posadas-y-campings-10-sitios-all-inclusive-para-conocer-los-nid15022022/) · [Google Flights](https://www.google.com/travel/flights) · PDFs de Ecoposada y Rancho de los Esteros · chats de WhatsApp con cada posada.
