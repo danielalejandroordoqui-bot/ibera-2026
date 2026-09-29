@@ -439,6 +439,13 @@ Ninguna posada incluye el transfer en el precio. Opciones relevadas:
 - **Desde Mercedes** (2 h hasta Pellegrini): **Ñandé Retá cotizó 4x4 privada a $170.000 por tramo por camioneta (hasta 4 personas)** → ida y vuelta $340.000 (≈ US$221).
 - Choferes desde Mercedes (recomendados por las posadas): Norma Pelozo 3773-43 7847 (recomendada por Rancho de los Esteros; es el mismo número que "Bus privado 2 de Abril" del PDF de Ecoposada), Víctor Flores +54 9 3773 46-3857, Daniel Aguirre +54 9 3773 62-7687, Martín Sandoval +54 9 3773 52-8283, Rafael Muzio 3773 413081, combi de Daniel Ortiz 03773 15431469.
 - **Desde el aeropuerto de Posadas** (210-250 km, camioneta para 4): **El Paso Iberá cotizó $700.000 ida y vuelta.** Otros choferes: Oscar Díaz 3764 549 520 (Rancho de los Esteros) / 3754-405533 (Ecoposada), Roberto Zimmerly 3764-690457, Gustavo Prion 3764-530631.
+- **Ronda de consultas a choferes (29/9, 16:08-16:13, por WhatsApp, pedido de Daniel):** Mercedes ↔ Pellegrini ida y vuelta 7-11/11 y, si hacen, aeropuerto de Corrientes/Resistencia; a los de Posadas, aeropuerto de Posadas ↔ Pellegrini.
+  - **Víctor Flores:** Mercedes ↔ Pellegrini **$170.000 por tramo ($340.000 ida y vuelta)**; **Corrientes ↔ Pellegrini $500.000 por tramo ($1.000.000 ida y vuelta)**.
+  - **Martín Sandoval:** Mercedes ↔ Pellegrini **$340.000 ida y vuelta**; **Resistencia ↔ Pellegrini $950.000 ida y vuelta**.
+  - **Daniel Aguirre:** hace traslados a los Esteros y también desde los aeropuertos de Corrientes y Resistencia; precio pendiente.
+  - Norma Pelozo y Rafael Muzio: enviados, sin respuesta. Combi de Daniel Ortiz (03773 15431469): no tiene WhatsApp.
+  - Posadas: Oscar Díaz (el 3764 549 520 no tiene WhatsApp; se le escribió al 3754-405533), Roberto Zimmerly y Gustavo Prion: enviados, sin respuesta.
+  - Lectura: Mercedes ↔ Pellegrini es tarifa de plaza, **$170.000 por tramo**; desde aeropuertos no aparece nada más barato que El Paso (Corrientes $900.000, Posadas $700.000).
 - **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta**; **Ñandé Retá, $490.000 por tramo (≈ $980.000 ida y vuelta)**. Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
 
 ### Colectivo
