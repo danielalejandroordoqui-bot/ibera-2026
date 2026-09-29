@@ -299,7 +299,7 @@ Montos sobre el precio de la posada para 4 noches (sin los gastos comunes del vi
 | **Posada Rancho Iberá** | ≈ US$988 | no respondió | — | — | consultado 29/9 13:07-13:10 |
 | **Irupé Lodge** | ≈ US$991 | 50% por transferencia → $270.000 | $270.000 en efectivo, transferencia o tarjeta de crédito o débito | acepta crédito, **sin cuotas sin interés**: el recargo depende de la tarjeta (29/9) | — |
 | **Casona Iberá** | ≈ US$1.093 | 50% por transferencia o link de Mercado Pago → $400.000 | $400.000 **al ingresar a la hostería** | **✅ de 3 a 6 cuotas sin interés según la tarjeta** (29/9): ~$133.000 a ~$67.000 por mes | qué tarjetas dan 6 cuotas |
-| **Posada Iberá Porá** | ≈ US$1.210 | 50% + DNI → $630.000 | $630.000 hasta 1 día antes, o en efectivo en la posada; efectivo, transferencia o tarjeta | acepta tarjeta; cuotas no informadas | consultado 29/9 13:07-13:10 |
+| **Posada Iberá Porá** | ≈ US$1.210 | 50% + DNI → $630.000 | $630.000 hasta 1 día antes, o en efectivo en la posada; efectivo, transferencia o tarjeta | acepta tarjeta, **sin cuotas sin interés**: las cuotas tienen interés (29/9) | — |
 | **El Paso Iberá** | ≈ US$1.223 | no respondió | — | — | consultado 29/9 13:07-13:10 |
 | **Ecoposada del Estero** | ≈ US$1.405 | 20% → $312.000 | $1.248.000; **en efectivo se mantiene el precio** (con otro medio puede cambiar) | acepta tarjeta, **pero sin cuotas sin interés**: las cuotas van con el interés que ponga el banco (29/9) | si con tarjeta en 1 pago cambia el precio (no lo aclaró) |
 | **Rancho de los Esteros** | ≈ US$1.588 | 20% por transferencia → $368.000 | $1.472.000 al llegar, en efectivo o transferencia | **no acepta tarjeta** | — |
@@ -309,7 +309,7 @@ Montos sobre el precio de la posada para 4 noches (sin los gastos comunes del vi
 
 - **Tres posadas confirmaron cuotas sin interés:** **Casona Iberá** (saldo de $400.000 en **3 a 6 cuotas** según la tarjeta, ~$133.000 a ~$67.000 por mes; la única barata con cuotas), Posada de la Laguna (todo en 3 cuotas con Visa o Mastercard, ~$773.000 por mes) y Ñandé Retá (hasta 3 cuotas; ~$947.000 por mes si va todo en cuotas).
 - **Cuando dos se acercan en precio:** la Posada de la Laguna (≈ US$1.900) sale ~US$169 más que Iberá Lodge (≈ US$1.731), pero se puede pagar entera en 3 cuotas sin interés sin poner plata al reservar. Iberá Lodge pide el 50% al reservar y cobra recargo con tarjeta. Con cuotas fijas en pesos, además, cada cuota pesa menos a medida que pasan los meses.
-- **Iberá Porá** acepta tarjeta pero todavía no dijo si en cuotas (consultado 29/9). **Ecoposada**, **Irupé** e **Iberá Lodge** aceptan tarjeta pero **sin cuotas sin interés** (con recargo). Cabaña Capivara y Rancho de los Esteros no aceptan tarjeta.
+- **Iberá Porá**, **Ecoposada**, **Irupé** e **Iberá Lodge** aceptan tarjeta pero **sin cuotas sin interés** (con interés o recargo). Cabaña Capivara y Rancho de los Esteros no aceptan tarjeta.
 - **Efectivo:** en Pellegrini no hay cajeros. Donde el saldo va en efectivo (Ecoposada, para mantener el precio: $1.248.000; Rancho de los Esteros, salvo que se transfiera), hay que llevarlo desde La Plata o sacarlo en Mercedes.
 
 ### Auto propio vs. avión: a qué hora se llega (29/9/2026)
@@ -442,10 +442,10 @@ Ninguna posada incluye el transfer en el precio. Opciones relevadas:
 - **Ronda de consultas a choferes (29/9, 16:08-16:13, por WhatsApp, pedido de Daniel):** Mercedes ↔ Pellegrini ida y vuelta 7-11/11 y, si hacen, aeropuerto de Corrientes/Resistencia; a los de Posadas, aeropuerto de Posadas ↔ Pellegrini.
   - **Víctor Flores:** Mercedes ↔ Pellegrini **$170.000 por tramo ($340.000 ida y vuelta)**; **Corrientes ↔ Pellegrini $500.000 por tramo ($1.000.000 ida y vuelta)**.
   - **Martín Sandoval:** Mercedes ↔ Pellegrini **$340.000 ida y vuelta**; **Resistencia ↔ Pellegrini $950.000 ida y vuelta**.
-  - **Daniel Aguirre:** hace traslados a los Esteros y también desde los aeropuertos de Corrientes y Resistencia; precio pendiente.
+  - **Daniel Aguirre:** por tramo: **Mercedes ↔ Pellegrini $160.000** (el más barato), **aeropuerto de Corrientes ↔ Pellegrini $500.000**, **aeropuerto de Resistencia ↔ Pellegrini $570.000**; punto de encuentro y hora a elección (16:16).
   - Norma Pelozo y Rafael Muzio: enviados, sin respuesta. Combi de Daniel Ortiz (03773 15431469): no tiene WhatsApp.
-  - Posadas: Oscar Díaz (el 3764 549 520 no tiene WhatsApp; se le escribió al 3754-405533), Roberto Zimmerly y Gustavo Prion: enviados, sin respuesta.
-  - Lectura: Mercedes ↔ Pellegrini es tarifa de plaza, **$170.000 por tramo**; desde aeropuertos no aparece nada más barato que El Paso (Corrientes $900.000, Posadas $700.000).
+  - Posadas: **Oscar Díaz** (3754-405533; el 3764 549 520 no tiene WhatsApp): **$700.000 total ida y vuelta, pagando en destino**. **Gustavo Prion: $800.000 total**. Roberto Zimmerly: sin respuesta.
+  - Lectura: Mercedes ↔ Pellegrini es tarifa de plaza, **$160.000-170.000 por tramo**; desde aeropuertos no aparece nada más barato que El Paso (Corrientes $900.000, Posadas $700.000, igualado por Oscar Díaz).
 - **Desde Corrientes:** **El Paso Iberá cotizó $900.000 ida y vuelta**; **Ñandé Retá, $490.000 por tramo (≈ $980.000 ida y vuelta)**. Posada Iberá Porá ofreció pasar contactos de transfer desde Corrientes y desde Mercedes.
 
 ### Colectivo
@@ -503,7 +503,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 | El Tránsito | se paga en pesos al tipo de cambio oficial del Banco Nación; reserva por link ([wspk.link/qtslz84w](https://wspk.link/qtslz84w)); tarifa no reembolsable ~15% más barata que la flexible |
 | Cabaña Capivara | ✅ **seña 30%** por transferencia a Mercado Pago; saldo en efectivo o transferencia; **no trabaja con tarjeta de crédito** (29/9) |
 | Casona Iberá | ✅ **seña 50%** por transferencia bancaria o link de Mercado Pago; nombre, apellido y DNI; con el comprobante mandan el voucher. **Saldo al ingresar, con tarjeta en 3 a 6 cuotas sin interés** según la tarjeta (29/9) |
-| Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online) |
+| Posada Iberá Porá | ✅ **seña 50%** + DNI; saldo hasta 1 día antes o en efectivo en la posada; acepta **efectivo, transferencia o tarjeta** (no es solo efectivo, como figuraba online); **cuotas con interés, sin promos sin interés** (29/9) |
 
 ### Ficha de cada posada
 
