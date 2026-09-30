@@ -971,6 +971,7 @@ Texto aprobado por Daniel: "¡Hola! Dos consultas: 1) El almuerzo y la cena, ¿s
   - **Rancho Iberá (Taty, 11:49-11:50):** "precio final"; agrega que en la colonia hay lugares que solo ofrecen alojamiento u otras posadas que aceptan tarjeta (Ñandé Retá, Posada de la Laguna, Aguapé). Sin descuento; no pide seña; sin tarjeta.
   - **Rancho Iberá — disponibilidad CONFIRMADA:** en el chat, Taty respondió "Sí me queda" (29/9 23:11) a la pregunta por la habitación de la posada del 7 al 10 o al 11. Habitación 3 noches $570.000 · 4 noches $640.000, sin seña, sin tarjeta, precio final.
   - **Ypa Sapukai (11:58):** "menú fijo, es comida casera muy rica"; "la promoción [20%] es solo en efectivo, previa seña por transferencia".
+  - **Tupasy (12:03):** "Es el mismo valor" → sin descuento por contado o transferencia (medios: efectivo y transferencia).
   - **Lectura:** en las de pensión completa el menú es fijo, pero **avisando antes lo que no nos gusta, lo cambian** (Aguapé, Laguna, Iberá Lodge).
 - Lo que ya se sabía de la comida: Aguapé "menú fijo" (tarifario); Corazón "plato distinto cada día" (reseñas, lo eligen ellos); Iberá Porá adapta el menú (vegetariano, vegano, celíaco).
 
