@@ -9,6 +9,8 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 ## 📌 Estado al 30/9/2026
 
 - **Transporte: DECIDIDO, en nuestro auto** (Daniel, 30/9). Lo ideal: salir el **viernes 6 a la tarde** y dormir en **Concordia** o en **algún punto intermedio** del camino (antes: Colón / San José; después: Chajarí), para llegar a Pellegrini el sábado ~13:30. Todo lo relevado de vuelos, aeropuertos, transfers desde aeropuertos, autos de alquiler y micro queda en este archivo como referencia (secciones 0, 1 y traslados); **ya no va en el sitio**.
+- **Ida (30/9, Daniel):** "sí o sí" parar una noche en Concordia o por ahí, para llegar descansados y hacer alguna actividad el sábado en Iberá. **La ida de un tirón (sáb 3:30 → Pellegrini ~14:35-14:50, US$223) queda descartada**: su detalle sigue en la sección 0b de este archivo, pero sale del sitio.
+- **Después del viaje:** con 3 noches se trabaja mié-jue-vie; con 4, jue-vie. Finde común 14-15/11 y el siguiente finde largo es **Soberanía Nacional, sáb 21 → lun 23/11/2026** (el feriado del viernes 20 se traslada al lunes 23). No confundir con el 12/10 (Diversidad Cultural, sáb 10 → lun 12/10, antes del viaje).
 - **Siguen abiertos:** 3 o 4 noches y la posada (hay muchas opciones abiertas; nada elegido).
 - **Nada reservado.**
 
