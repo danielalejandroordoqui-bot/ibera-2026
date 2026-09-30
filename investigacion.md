@@ -920,6 +920,8 @@ Fuentes: [parqueibera.gob.ar](https://parqueibera.gob.ar/) (Gobierno de Corrient
   - **Aguapé Lodge:** escribió desde reservas (+54 9 3794 33-1083); se le respondió con la consulta; su respuesta automática pide un **mail** para mandar tarifas (atención L-V 8-13 y 16-20; emergencias +54 9 3773 40-0268).
   - **Rafael Muzio:** pasó el contacto "Reservas Guazu" y mandó 3 audios (sin transcribir). **Maita (Rancho de los Esteros):** respondió con un audio de 0:45 (sin transcribir).
   - Rancho Jabirú: sin respuesta.
+  - **Más detalle (29/9, 21 h):** **Tupasy** mandó "Posada Tupasy tarifario 2026 alojamiento con desayuno" (PDF, 5 páginas) e Instagram [@tupasy_](https://www.instagram.com/tupasy_/); cobra en efectivo o transferencia. **Huella Iberá**: reservas solo por mail (huellaibera@gmail.com), avisa que en findes largos hay tarifas diferenciadas; mandó un audio de 0:14, fotos y el PDF "Julio a Dic 2026". **Ypa Sapukai**: "te paso información de programas, de ahí 20% de descuento" + PDF "Tarifario septiembre a diciembre 2026" (5 páginas); mail iberaturismo@gmail.com. **Aires del Iberá**: además del texto, un video y un audio de 0:17.
+  - **WhatsApp Web no deja guardar los archivos** (ni con "Descargar" ni abriendo el PDF). Quedan para que Daniel los baje: audio de Maita (0:45), 3 audios de Muzio, audio y video de Aires del Iberá, audio y PDF de Huella, PDF de Tupasy, PDF de Ypa Sapukai.
 
 ## 9. Pendientes
 
