@@ -979,6 +979,7 @@ Texto aprobado por Daniel: "¡Hola! Dos consultas: 1) El almuerzo y la cena, ¿s
   - **Huella (13:31):** "el valor es correcto, te tomo ese valor, no hay problema" → **las tarifas de $599.000 / $680.000 por persona valen para el finde largo**; con 10% en efectivo, 3 noches $1.078.200 · 4 noches $1.224.000 los dos.
   - **Irupé (Leticia, 14:04):** "ya ofrecemos la promo primavera, por eso no ofrecemos más descuentos". (Recordatorio: no ofrecen cuotas sin interés; seña 50%.)
   - **El Paso (14:20):** sin descuento; "lo que se puede hacer es sacar una o dos actividades para que el costo sea menos". Disponibilidad y precio de 4 noches, sin respuesta.
+  - **El Paso — cotización CERRADA (criterio de Daniel, 30/9):** 4 noches $1.000.000 (el "$1.00.000" del 28/9 se toma como $1.000.000) y 3 noches $850.000, los dos, con desayuno y 4 actividades; cabaña de 2 habitaciones con baño privado cada una, minikitchen, aire/calefacción, limpieza diaria, estacionamiento; seña 30%, solo efectivo o transferencia; sin descuento, baja si se sacan 1 o 2 actividades. No se le vuelve a escribir.
   - **Lectura:** en las de pensión completa el menú es fijo, pero **avisando antes lo que no nos gusta, lo cambian** (Aguapé, Laguna, Iberá Lodge).
 - Lo que ya se sabía de la comida: Aguapé "menú fijo" (tarifario); Corazón "plato distinto cada día" (reseñas, lo eligen ellos); Iberá Porá adapta el menú (vegetariano, vegano, celíaco).
 
