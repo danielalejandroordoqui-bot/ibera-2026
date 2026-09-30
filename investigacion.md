@@ -988,6 +988,7 @@ Texto aprobado por Daniel: "¡Hola! Dos consultas: 1) El almuerzo y la cena, ¿s
   - **Cabaña Capivara (observación de Daniel, 30/9):** son 2 cabañas chicas tipo casita; una se ve más nueva y con aire acondicionado instalado; en fotos, los baños no tendrían bidet (detalle menor). No se le pregunta nada más: si se elige, **pedir la cabaña que tiene aire**, por las dudas (siesta, calor).
   - **Rancho de los Esteros (Maita, 2 audios 16:49, Whisper):** almuerzo y cena "son menús fijos que tienen entrada, principal y postre", caseros, se adaptan si hay restricciones o gustos ("cuanto antes lo sepamos mejor"); invita a ver TripAdvisor: "uno de los mayores atributos del rancho son las comidas". **Sin descuento**: transferencia o efectivo no cambian la tarifa. El tema del grupo del sábado 7 sigue para el viernes 2/10.
   - **Chofer Valentín (+54 9 3773 40-8132, 16:47-16:50):** Mercedes ↔ Pellegrini **$320.000 ida y vuelta**, camioneta para los dos; reserva con 50% o **pagando el total, 10% de descuento ($288.000)** → el más barato hasta ahora.
+  - **Capivara entra como candidata (Daniel, 30/9):** la más barata ($225.000 · $280.000); si se elige, pedir la cabaña con aire.
   - **Lectura:** en las de pensión completa el menú es fijo, pero **avisando antes lo que no nos gusta, lo cambian** (Aguapé, Laguna, Iberá Lodge).
 - Lo que ya se sabía de la comida: Aguapé "menú fijo" (tarifario); Corazón "plato distinto cada día" (reseñas, lo eligen ellos); Iberá Porá adapta el menú (vegetariano, vegano, celíaco).
 
