@@ -574,7 +574,7 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Programa 4 noches:** lo mismo + día 4 cabalgata por palmares y esteros de Camba Trapo y safari nocturno (canoa, camioneta o caminata).
 - **La posada:** 8 habitaciones de barro bioclimático con aire acondicionado, deck y hamaca paraguaya, vista a los esteros; pileta; pasarela y observatorio sobre el estero; wifi Starlink en áreas comunes; lancha, kayaks, canoas y caballos propios; camioneta y 2 minivans para mover a los huéspedes ("se puede venir sin vehículo propio"). Reserva privada Estero Camba Trapo a ~10-12 km, sitio Ramsar.
 - Almuerzo del día 1 solo si se llega antes de las 13 h. Menús especiales a consultar.
-- **Disponibilidad:** no la confirmó todavía.
+- **Disponibilidad:** ✅ "Sí, nos queda 1 habitación" (Estrella, 29/9 17:13). Precio final 3 noches $590.000 por persona con impuestos, seña 20% y saldo al llegar en efectivo; sin descuento por feriado (30/9). Menú fijo, reemplazan el plato principal si no gusta.
 
 #### Rancho de los Esteros
 - **Contacto:** Maita González Sampaio (dueña) · WhatsApp +54 9 3773 56-1944 · rdelosesteros@gmail.com · [ranchodelosesteros.com.ar](https://ranchodelosesteros.com.ar/).
