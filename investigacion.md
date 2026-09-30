@@ -1067,7 +1067,8 @@ Revisadas en Google Maps (Chrome) el 30/9: puntaje, distribución de estrellas, 
 ### Iberá Lodge — 4,4 (259): 183×5, 42×4, 13×3, 6×2, 15×1 (en Maps figura fuera del pueblo, del lado de Mercedes)
 + Recientes (1 día - 1 semana) 5★: recepción cálida (Griselda, Geraldine), guías muy buenos, comida rica, personal coordinado.
 − 1★ (6 días): mandaron 4 mensajes para reservar y nunca respondieron. 15 de 1★ en total.
-### Posada de los Pájaros — sin reseñas encontradas
+### Posada de los Pájaros = Posada Don Justino en Google Maps — 4,7 (14) (actualizado 30/9; ver arriba)
+**Origen del nombre:** la lista oficial de alojamientos del Parque (parqueibera.gob.ar, relevada el 29/9) la registra como "Posada de los Pájaros", Curupí y Aguará (la esquina del Café de los Pájaros), tel. 3773 43-0539 / 11 5768-3786. Consultada el 29/9 18:24-18:30 dentro de la tanda "lugares con buena pinta"; respondió Fernando Huarte a las 18:31. En Google figura como "Posada Don Justino" (mismos dueños). Lo de abajo quedó de la búsqueda anterior, que no la encontraba por el nombre.
 No aparece en Google Maps en Pellegrini (los resultados con ese nombre son de Córdoba y de otras ciudades de Corrientes), ni en TripAdvisor/Kayak. Sin referencias públicas.
 
 ## 9. Pendientes
