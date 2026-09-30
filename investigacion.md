@@ -974,6 +974,7 @@ Texto aprobado por Daniel: "¡Hola! Dos consultas: 1) El almuerzo y la cena, ¿s
   - **Tupasy (12:03):** "Es el mismo valor" → sin descuento por contado o transferencia (medios: efectivo y transferencia).
   - **Inambú (12:19):** el paquete de $850.000 (3 noches) "ya tiene aplicada la bonificación con pago por transferencia/efectivo"; es promoción para los findes largos de noviembre (temporada alta). Sin descuento extra.
   - **Ecoposada (Estrella, 13:12):** "menú fijo… si hay algo que no le guste del plato principal se le puede reemplazar por otra cosa"; "la fecha es un feriado, no se contemplan descuentos especiales". Recordatorio de su chat: 3 noches $590.000 por persona ($1.180.000 los dos) total, seña 20% y saldo al llegar en efectivo; con tarjeta, intereses del banco; queda 1 habitación.
+  - **Iberá Porá (13:21):** "son un menú fijo pero van a saber de antemano qué es y les pueden pedir el cambio a las chicas". **Descuento 5% abonando el 50% por transferencia y el resto en efectivo** → 3 noches $902.500 (dos pagos de $451.250) · 4 noches $1.197.000 (dos de $598.500).
   - **Lectura:** en las de pensión completa el menú es fijo, pero **avisando antes lo que no nos gusta, lo cambian** (Aguapé, Laguna, Iberá Lodge).
 - Lo que ya se sabía de la comida: Aguapé "menú fijo" (tarifario); Corazón "plato distinto cada día" (reseñas, lo eligen ellos); Iberá Porá adapta el menú (vegetariano, vegano, celíaco).
 
