@@ -909,6 +909,17 @@ Fuentes: [parqueibera.gob.ar](https://parqueibera.gob.ar/) (Gobierno de Corrient
 **Consultas enviadas (29/9, 18:24-18:30, pedido de Daniel: lugares con buena pinta, habitación matrimonial con baño privado, aire acondicionado y calefacción):** Hostería Tupasy (+54 9 3773 44-9579), Posada de los Pájaros (el 3773 43-0539 no tiene WhatsApp; se escribió al +54 9 11 5768-3786), Huella Iberá, Posada Che Teindy, Corazón del Iberá, Posada Ypa Sapukai (+54 9 11 3704-2288), cabañas Don Rubito, cabañas Aires del Iberá, Posada Rancho Jabirú y Aguapé Lodge (en el chat de Rafael Muzio, mismo número). Posada El Yacaré (3773 41-5329) no tiene WhatsApp: queda por mail, iberatours@hotmail.com.
 - Primeras respuestas: **Tupasy** tiene disponibilidad, ofrece alojamiento con desayuno, **calefacción eléctrica, aire acondicionado y ventilador de techo**; manda su Instagram (tarifa pendiente). **Ypa Sapukai** mandó su "Tarifario septiembre a diciembre 2026" en PDF (5 páginas; sin abrir). **Aires del Iberá**: respuesta automática ("las tarifas varían según cantidad de personas y fechas"). Huella Iberá: respuesta automática.
 - **Norma Pelozo (Transporte 2 de Abril):** Mercedes ↔ Pellegrini **$350.000 ida y vuelta**; Corrientes ↔ Pellegrini **$1.300.000 ida y vuelta**.
+- **Respuestas de la noche (18:30-19:35):**
+  - **Corazón del Iberá:** disponible; paquete con alojamiento, desayuno, almuerzo, cena y **una excursión por día**: **$280.000 por noche el pack para 2** (3 noches $840.000 · 4 noches $1.120.000). Viaje completo en auto ≈ **US$936 · US$1.119**: la pensión completa más barata relevada. Aire/calefacción: sin respuesta.
+  - **Aires del Iberá (Patricia):** habitación doble con **aire frío/calor y baño privado**; quincho con parrilla, cocina y heladera compartidos; WiFi Starlink; parque con pileta; garaje; ropa de cama y amenities; desayuno para prepararse con panadería casera diaria. **$125.000 por noche; promo 3 noches $330.000; 4 noches $360.000.** Viaje completo (con 1 lancha y comidas afuera) ≈ **US$799 · US$864**. Mandó video y audio.
+  - **Posada de los Pájaros:** "$120 la noche con desayuno" (se toma $120.000 los dos); las excursiones se arman con guías independientes que ellos recomiendan. ≈ US$819 · US$943.
+  - **Cabañas Don Rubito:** $50.000 por persona por noche; cabaña rústica con cocina y aire (flyer); fotos con cuchetas. ≈ US$780 · US$891.
+  - **Hostería Tupasy:** disponible, con desayuno, aire, calefacción eléctrica y ventilador de techo; pago efectivo o transferencia; precio a leer.
+  - **Che Teindy:** solo 7 y 8 (salida el 9) → descartada.
+  - **Huella Iberá:** mandó tarifario "Julio a Dic 2026" en PDF. **Ypa Sapukai:** tarifario septiembre-diciembre en PDF. Sin abrir.
+  - **Aguapé Lodge:** escribió desde reservas (+54 9 3794 33-1083); se le respondió con la consulta; su respuesta automática pide un **mail** para mandar tarifas (atención L-V 8-13 y 16-20; emergencias +54 9 3773 40-0268).
+  - **Rafael Muzio:** pasó el contacto "Reservas Guazu" y mandó 3 audios (sin transcribir). **Maita (Rancho de los Esteros):** respondió con un audio de 0:45 (sin transcribir).
+  - Rancho Jabirú: sin respuesta.
 
 ## 9. Pendientes
 
