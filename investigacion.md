@@ -1029,7 +1029,7 @@ Revisadas en Google Maps (Chrome) el 30/9: puntaje, distribución de estrellas, 
 − Ducha con poca provisión de agua (1 semana).
 ### Ñandé Retá — 4,8 (689): 588×5, 77×4, 14×3, 3×2, 7×1
 + La que más reseñas tiene; recientes (horas - 2 semanas) 5★: "un sueño", calidez, habitaciones súper cómodas, comida muy rica y variada (entrada, principal y postre), desayuno abundante.
-### Huella Iberá — 4,8 (317): 259×5, 45×4, 8×3, 3×2, 2×1
+### Huella Iberá — 4,8 (317) · web oficial [huellaibera.com.ar](https://www.huellaibera.com.ar/) (verificada 30/9: mismo mail huellaibera@gmail.com). Ecoposada: ecoposadadelestero.com.ar redirige a ecoposada.com (mismo sitio).: 259×5, 45×4, 8×3, 3×2, 2×1
 + Recientes (3 semanas - 1 mes) 5★: atención cálida (Gustavo, Andrea, Roberto, Tito), comida exquisita con opción celíaca, ubicación perfecta, "experiencia extraordinaria".
 ### Aguapé Lodge — 4,7 (374): 290×5, 65×4, 13×3, 3×2, 3×1
 + Recientes (días - 5 meses) 4-5★: sobre la laguna y a cuadras del centro, habitaciones amplias y decoradas con buen gusto, jardín impecable, excelente atención (Raúl resolvió un problema), excursiones organizadas.
