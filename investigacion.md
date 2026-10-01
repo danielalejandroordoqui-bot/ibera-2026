@@ -12,7 +12,8 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Ida (30/9, Daniel):** "sí o sí" parar una noche en Concordia o por ahí, para llegar descansados y hacer alguna actividad el sábado en Iberá. **La ida de un tirón (sáb 3:30 → Pellegrini ~14:35-14:50, US$223) queda descartada**: su detalle sigue en la sección 0b de este archivo, pero sale del sitio.
 - **⛽ Nafta: cargar sí o sí en Mercedes, tanque lleno** (en Pellegrini no hay estación de servicio; 120 km sin nafta ni señal). En el sitio va como alerta destacada.
 - **Moneda (30/9, Daniel):** el sitio habla solo en **pesos** (cuotas, señas y totales se entienden mejor así); la comparación en USD se hace recién cuando haya cosas decididas. Este archivo conserva los US$ históricos (a $1.535).
-- **Siguen abiertos:** 3 o 4 noches y la posada (hay muchas opciones abiertas; nada elegido).
+- **Noches: DECIDIDO, 3 noches, sáb 7 → mar 10/11** (Daniel, 30/9 noche): sin licencia; "dos días y medio completos son suficientes" si la excursión más larga dura 2-4 h. Vuelta el martes 10 (feriado en CABA) saliendo ~5:30; el miércoles 11 se trabaja. Las cotizaciones de 4 noches quedan como referencia.
+- **Sigue abierta:** la posada (hay muchas opciones; nada elegido). Daniel quiere señarla el jueves 1/10. No se escriben más consultas.
 - **Nada reservado.**
 
 ## Estado al 28/9/2026 (histórico)
@@ -1010,6 +1011,8 @@ Mensaje: "¡Hola! Vamos a Colonia Carlos Pellegrini del sábado 7 al martes 10 d
 
 - **Iberá Guyrá (Roque Boccalandro, …8797, 30/9 19:44-21:18):** estaba viajando; pasa lo que hace él: **excursión a la reserva privada Camba Trapo, caminata y canoa**, ~3 h: salida desde Pellegrini, 7 km con avistaje en el camino, caminata por sendero, paseo en **canoa tradicional** desde el muelle y regreso por la otra parte del sendero ("una experiencia diferente en ambiente distinto"). **Sin precio todavía.** Referencia: la misma reserva cuesta $50.000 (Estero Ñe'e, 4 h con kayak nocturno) y $75.000 (Agreste, 3 h) por persona.
 
+- **Camba Trapo — excursión posible (30/9 noche, Daniel: "está buena, dejémosla como posible de tomarse"):** no está decidida ni reservada; entra con 3 noches (lunes 9). Opciones: Estero Ñe'e $50.000, Agreste $75.000, Iberá Guyrá sin precio (por persona).
+
 ### Cotización de agencia: Mupu Viajes (30/9/2026, referencia, DESCARTADA por Daniel)
 La agencia confirmó (12:31) que son **$5.180.582 en total los dos**. Daniel: "ni en pedo pago esto, descartadísimo".
 Paquete 7→10/11 (3 noches): Aerolíneas AEP 9:35 → PSS 11:15 / regreso PSS 21:45 → **EZE** 23:25 (bolso de mano), traslados in/out, **Posada Iberá Porá con pensión completa**, 2 lanchas + caminata pasarela y senderos de los Monos y del Cerrito + sendero de los Montes, asistencia al viajero. **$2.590.291 por persona en base doble ($5.180.582 los dos)**, impuestos incluidos. Audio (1:01, Whisper): hasta **6 cuotas sin interés** (~$863.000 por mes los dos) o 18 con recargo; "en noviembre las tarifas están más disparadas" por el finde largo. Comparación: la misma posada y las mismas excursiones directo cuestan $950.000; en auto el viaje completo sale ~$1.547.000 (≈ 3,3 veces menos); en avión por cuenta propia ~$3.160.000. Horarios malos: llega a Pellegrini ~15-16 h y el martes hay que salir a media tarde; aterriza en Ezeiza 23:25 (casa ~1 h del miércoles, día hábil). No aclara entrada al Parque ni bebidas.
@@ -1097,7 +1100,7 @@ No aparece en Google Maps en Pellegrini (los resultados con ese nombre son de C�
 7b. **Casa Santa Ana del Iberá:** Daniel le escribió por Instagram; esperando respuesta.
 7c. **Inambú casa de huéspedes** (nueva, llegó por un anuncio de Instagram; WhatsApp "Inambu casa de huéspedes"): el 29/9 a las 16:21 se le consultó disponibilidad y tarifa para 2 adultos 7→11 (4 noches) y 7→10 (3 noches), qué incluye, formas de pago, cuotas sin interés y estacionamiento; esperando respuesta.
 8. ~~Elegir aeropuerto y comprar vuelos~~ → **se va en auto propio (30/9)**. Reservar una noche en el camino para el viernes 6 (Concordia o punto intermedio).
-9. **Licencia del miércoles 11:** solo si se eligen 4 noches.
+9. ~~Licencia del miércoles 11~~ → no hace falta: se eligieron 3 noches (30/9).
 10. **Rancho Jabirú (cabaña):** falta saber qué incluye, tipo de cama y seña. **Iberá Guyrá:** falta el precio de Camba Trapo.
 11. **Para el auto:** llevar un almohadón o apoyo lumbar para el asiento (muchas horas de manejo por tramo).
 
