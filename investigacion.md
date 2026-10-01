@@ -19,7 +19,8 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **Criterio de excursiones (1/10, Daniel):** no quedar atado a un pack cerrado. Una caminata guiada por senderos que se hacen gratis no suma; el kayak le gusta pero depende de la espalda y las ganas; la cabalgata, también según las ganas; quizá prefiera dos lanchas por lugares distintos. El cuadro del sitio suma la columna "Excursiones: qué nos sirve" con ese criterio (libre / se puede ajustar / pack fijo / la elige el hotel).
 - **Aguapé Lodge descartado (1/10, Daniel):** se va de presupuesto; sale del sitio (quedan 8).
 - **Lo que piensa Daniel de los que quedan (1/10):** **Irupé** le gusta mucho: sale ~$75.000 más que Aires del Iberá con un servicio parecido, pero esa diferencia la vale por la calidad del lugar y el trato tipo hotel. **Ecoposada**: muy valorada, pero no lo convence pagar más de $1.000.000 con una caminata al parque y un trekking adentro; sí le interesan la canoa y la lancha. **Posada de los Pájaros** compite con Irupé en precio y servicio; las dos se ven lindas; la diferencia que ve es la ubicación (Pájaros en el pueblo). Nota: Irupé también está en el pueblo (calle Yacaré s/n), con predio propio sobre la laguna. **Huella:** el "sin aire" sale de su tarifario (ventilador de techo y calefacción, sin mención de aire) y de reseñas; no se les preguntó directamente.
-- **Sigue abierto:** el alojamiento, entre los 8 que quedan.
+- **Huella e Iberá Porá descartados (1/10, Daniel):** Huella, por el aire. Iberá Porá, porque estéticamente es bastante rústica y suma ~$500.000 solo por comidas y excursiones, de las cuales dos (las caminatas) no les sirven. Salen del sitio. Sobre Irupé: el 4,4 es el puntaje más bajo, pero con 331 reseñas, y eso pesa. **Quedan 6:** Aires del Iberá, El Paso · Posada de los Pájaros, Rancho Iberá, Ecoposada · Irupé.
+- **Sigue abierto:** el alojamiento, entre los 6 que quedan.
 
 ## Estado al 30/9/2026 (histórico)
 
