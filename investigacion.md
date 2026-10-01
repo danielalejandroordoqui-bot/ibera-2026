@@ -600,7 +600,8 @@ Consultado a todas el **28/9/2026 a las 18:05-18:06** ("ya sea por 3 o por 4 noc
 - **Tiene disponibilidad.** **4 noches: $2.320.000 en total para 2.**
 - **Incluye:** habitación matrimonial, pensión completa con merienda (comida casera), **3 paseos en lancha** (canal Corriente, río Miriñay, Paso Claro) + **1 paseo en canoa** por la laguna + caminatas por los Parques Provincial y Nacional. Gran jardín con muelle propio sobre la laguna, de donde salen las excursiones. Menús especiales.
 - **Pago:** 40% de seña y saldo 10 días antes, o 3 cuotas sin interés con Visa/Mastercard.
-- No aclaró impuestos ni transfer. No cotizó 3 noches.
+- No aclaró impuestos ni transfer. No cotizó 3 noches (después sí: $1.740.000, ver respuestas del 29-30/9).
+- **Habitaciones con aire acondicionado y ventilador** (confirmado por Milagros el 1/10).
 
 #### Ñandé Retá Lodge
 - **Contacto:** Lucía · WhatsApp +54 9 11 6852-7885 (cuenta verificada) · reservas@nandereta.com · [nandereta.com](https://www.nandereta.com/).
@@ -1004,6 +1005,7 @@ Texto aprobado por Daniel: "¡Hola! Dos consultas: 1) El almuerzo y la cena, ¿s
   - **Rancho Jabirú — cabaña (30/9 18:56-18:57):** mandó 7 fotos (casa blanca con sendero de piedra, mesa con mantel, cocina con barra de troncos, pava eléctrica y matafuegos, dormitorio con camas) → **tiene aire acondicionado frío/calor; $40.000 por persona por día** = $80.000 la noche los dos → **3 noches $240.000 · 4 noches $320.000**. No aclaró qué incluye, tipo de cama ni seña. Daniel: "se ve muy discretito, pero es tremendamente económico". Mismo precio de lista que Capivara (que bajó a $225.000 · $280.000). Sumada al sitio (tabla "Más posadas con precio" y resumen).
   - **Posada de los Pájaros (Fernando, 30/9 19:23):** "la habitación es con cama matrimonial y dos camitas simples, tiene baño privado, aire acondicionado y desayuno en el café de los pájaros; la seña es del 50%". Llamó a las 19:17 (Daniel no pudo atender). Aire confirmado; sigue en $120.000 la noche ($360.000 · $480.000).
   - **Rancho de los Esteros (Maita, 30/9 noche):** "Sí, todas tienen aire y también tenemos una piscina grande en el jardín" → aire confirmado (la reseña que decía que no era vieja o equivocada).
+  - **Posada de la Laguna (Milagros, 1/10 9:54):** "sí, tienen aire acondicionado y ventilador" → **aire confirmado** (era la duda que quedaba; 3 noches $1.740.000, o $1.635.600 con el saldo en efectivo, o 3 cuotas sin interés).
   - **Lectura:** en las de pensión completa el menú es fijo, pero **avisando antes lo que no nos gusta, lo cambian** (Aguapé, Laguna, Iberá Lodge).
 - Lo que ya se sabía de la comida: Aguapé "menú fijo" (tarifario); Corazón "plato distinto cada día" (reseñas, lo eligen ellos); Iberá Porá adapta el menú (vegetariano, vegano, celíaco).
 
