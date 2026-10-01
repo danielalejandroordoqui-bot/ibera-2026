@@ -13,6 +13,7 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 - **⛽ Nafta: cargar sí o sí en Mercedes, tanque lleno** (en Pellegrini no hay estación de servicio; 120 km sin nafta ni señal). En el sitio va como alerta destacada.
 - **Moneda (30/9, Daniel):** el sitio habla solo en **pesos** (cuotas, señas y totales se entienden mejor así); la comparación en USD se hace recién cuando haya cosas decididas. Este archivo conserva los US$ históricos (a $1.535).
 - **Noches: DECIDIDO, 3 noches, sáb 7 → mar 10/11** (Daniel, 30/9 noche): sin licencia; "dos días y medio completos son suficientes" si la excursión más larga dura 2-4 h. Vuelta el martes 10 (feriado en CABA) saliendo ~5:30; el miércoles 11 se trabaja. Las cotizaciones de 4 noches quedan como referencia.
+- **Sitio limpiado (30/9 noche, pedido de Daniel):** el `index.html` muestra solo lo decidido (3 noches, auto con noche en Concordia) y lo que falta (posada, excursiones, hotel del viernes). Salieron del sitio: la comparativa "¿3 o 4 noches?", la tabla de opciones de ida y vuelta, todas las columnas y precios de 4 noches y la columna "Preguntar". Las dos tablas de posadas se unieron en una sola de 14, ordenada por precio de 3 noches. Todo lo de 4 noches sigue en este archivo (secciones 0b, 5 y 5b).
 - **Sigue abierta:** la posada (hay muchas opciones; nada elegido). Daniel quiere señarla el jueves 1/10. No se escriben más consultas.
 - **Nada reservado.**
 
