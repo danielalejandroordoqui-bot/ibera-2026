@@ -67,8 +67,9 @@
 
   .note{border-left:4px solid var(--amber);background:var(--amber-soft);padding:10px 14px;border-radius:6px;margin:12px 0;font-size:14px}
   .note.red{border-color:var(--red);background:var(--red-soft)}
-  .alerta{border:2px solid var(--red);border-left-width:8px;background:var(--red-soft);padding:14px 18px;border-radius:8px;margin:14px 0;font-size:16px;line-height:1.45}
-  .alerta b.t{display:block;color:var(--red);font-size:19px;margin-bottom:4px;letter-spacing:.2px}
+  .alerta{display:flex;gap:14px;align-items:flex-start;background:var(--amber-soft);border:1px solid color-mix(in srgb,var(--amber) 35%,transparent);padding:14px 18px;border-radius:14px;margin:14px 0;font-size:15px;line-height:1.5}
+  .alerta .ico{flex:none;width:44px;height:44px;border-radius:50%;background:var(--panel);display:flex;align-items:center;justify-content:center;font-size:22px}
+  .alerta b.t{display:block;color:var(--amber);font-family:Fraunces,Georgia,serif;font-size:19px;margin-bottom:2px}
   .note.green{border-color:var(--green);background:var(--green-soft)}
   .note.blue{border-color:var(--blue);background:var(--blue-soft)}
 
@@ -165,10 +166,10 @@
       <h3 style="margin:0 0 6px">Ya decidido <span class="tag ok">✓</span></h3>
       <ul style="margin:0;padding-left:18px">
         <li><b>3 noches</b>, sáb 7 → mar 10, sin pedir licencia. El miércoles 11 se trabaja.</li>
-        <li><b>En nuestro auto:</b> salimos el viernes 6 a la tarde, dormimos en Concordia o por ahí y llegamos el sábado ~13:30, con la tarde para una primera actividad.</li>
+        <li><b>En nuestro auto:</b> salimos el viernes 6 a las 16 h, dormimos en Concordia o por ahí y llegamos el sábado ~13:30, con la tarde para una primera actividad.</li>
         <li><b>Vuelta:</b> martes 10 (feriado en CABA), saliendo ~5:30; en casa ~17 h.</li>
         <li>Nafta, peajes y hotel del viernes: <b>~$391.000</b> los dos.</li>
-        <li style="color:var(--red)"><b>⛽ Tanque lleno sí o sí en Mercedes:</b> en Pellegrini no hay estación de servicio.</li>
+        <li style="color:var(--amber)"><b>⛽ Tanque lleno en Mercedes:</b> en Pellegrini no hay estación de servicio.</li>
       </ul>
       <p class="muted" style="margin:8px 0 0"><a href="#llegar">Ver el camino</a></p>
     </div>
@@ -211,7 +212,6 @@
       <p class="muted" style="margin:8px 0 0"><a href="#hacer">Ver excursiones y precios</a></p>
     </div>
   </div>
-  <div class="note green"><b>Aparte de la posada</b>, y lo mismo para todas: <b>~$597.000</b> de viaje (nafta, peajes, hotel del viernes, comidas en la ruta y entrada al Parque). Si la posada no incluye almuerzo y cena, sumar <b>~$210.000</b> de comidas en el pueblo. El total del viaje con cada posada está en <a href="#dormir">Dónde dormir</a>.</div>
 </section>
 
 <!-- FECHAS -->
@@ -233,8 +233,8 @@
 <section id="llegar">
   <h2>Cómo llegar</h2>
   <p class="lead">En nuestro auto. Colonia Carlos Pellegrini queda a ~860-900 km de La Plata; los últimos 120 km, desde Mercedes, son la parte difícil: 50 de asfalto y 70 de ripio y piedra.</p>
-  <div class="note green"><b>El plan:</b> salimos el <b>viernes 6 a la tarde</b> y paramos una noche en <b>Concordia</b>, a mitad de camino, o por ahí según cómo venga el viaje (antes, Colón o San José; después, Chajarí). Así el manejo queda partido (~5 h + ~6 h), llegamos a Pellegrini el sábado ~13:30 <b>descansados</b> y con la tarde libre para hacer alguna actividad.</div>
-  <div class="alerta" role="alert"><b class="t">⛽ Cargar nafta SÍ O SÍ en Mercedes, con el tanque lleno</b>En Colonia Carlos Pellegrini <b>no hay estación de servicio</b> (a lo sumo, nafta suelta sin garantía) y entre Mercedes y Pellegrini son <b>120 km sin nafta ni señal</b>. Con el tanque lleno desde Mercedes alcanza para llegar, movernos allá y volver a Mercedes. A la vuelta, primera parada: Mercedes.</div>
+  <div class="note green"><b>El plan:</b> salimos el <b>viernes 6 a las 16 h</b> y paramos una noche en <b>Concordia</b>, a mitad de camino, o por ahí según cómo venga el viaje (antes, Colón o San José; después, Chajarí). Así el manejo queda partido (~5 h + ~6 h), llegamos a Pellegrini el sábado ~13:30 <b>descansados</b> y con la tarde libre para hacer alguna actividad.</div>
+  <div class="alerta" role="note"><span class="ico" aria-hidden="true">⛽</span><div><b class="t">No olvidarse: tanque lleno en Mercedes</b>En Colonia Carlos Pellegrini <b>no hay estación de servicio</b> y desde Mercedes son <b>120 km sin nafta ni señal</b>. Con el tanque lleno alcanza para llegar, movernos allá y volver a Mercedes, que es también la primera parada a la vuelta.</div></div>
   <h3 class="sub-h">🚗 El camino</h3>
   <p class="muted">RN 14, autovía completa desde Ceibas hasta Paso de los Libres → en Cuatro Bocas, RN 119 (doble mano, 109 km) → Mercedes → RP 40. Calculado a 110-140 km/h de crucero: ~11 h puerta a puerta. En la RN 14 hay controles; el máximo en autovía es 130 km/h.</p>
   <div class="note"><b>Del camino, según los que viven allá:</b> los últimos kilómetros de la RP 40 son la "ruta panorámica": ya es reserva natural y hay mucha fauna, así que conviene hacerlo tranquilos, como parte del paseo. El otro acceso, por el norte (Santo Tomé o Virasoro, 140 km), es de tierra y arena y solo sirve sin lluvia o en 4x4: <b>entramos y salimos por Mercedes</b>. Si llueve los días previos, avisarle a la posada: saben qué tramos se embarran.</div>
