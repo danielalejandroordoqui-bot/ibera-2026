@@ -885,6 +885,31 @@ Contenido con canje de Ecoposada, útil como ejemplo de un finde en Pellegrini (
 - Confirma que **El Tránsito es otra logística**: acceso por Concepción (asfalto) desde Corrientes o Resistencia (~220 km), no por Mercedes ni Posadas. Si se eligiera, habría que rearmar vuelos y transfer, y los packs actuales no aplican.
 - Su programa es **más exclusivo y armado a medida** (canoa tirada a caballo con baqueanos, safari náutico, cocina de autor), pero es la opción más cara de la lista.
 
+## 8c-bis. Video: "Camba Trapo, maravilla del Iberá" (Los Taguatoces, 2/10/2026)
+
+[Ver video](https://youtu.be/V6Neu7WcfME) · canal Los Taguatoces (Proyecto Taguató, pareja de observadores de aves) · subido el 26/2/2023 · 6:34 min. Analizado completo: audio transcripto con Whisper y 99 fotogramas (uno cada 4 s) revisados para leer los rótulos de cada especie. **A Daniel le gustó mucho (2/10): por todo lo que se ve y porque se hace por cuenta propia.**
+
+**Qué es y cómo se hace**
+- Es un **camino vecinal que bordea tres grandes esteros: Camba Trapo, Yukycuá (nombre dudoso, así lo entendió Whisper) y Ovecha Raty**, a **9-10 km de Colonia Carlos Pellegrini**. "Uno de los caminos recomendados para la observación de aves y fauna en general."
+- **~30 km**, termina en uno de esos esteros. **Ripio con un tramo de arena.** Hay **dos tranqueras que hay que abrir y volver a cerrar** (están por el ganado de los campos vecinos); se pasa sin problema.
+- Ellos lo hicieron **por su cuenta, en vehículo**, parando a cada rato y bajando a caminar; no contrataron guía ni pagaron entrada. No dicen cuánto tardaron. Filmado en verano, con sol fuerte y agua en los esteros.
+- **Flora que nombran:** pirizales, ceibos, curupí, juncos y totora.
+
+**Qué vieron (rótulos en pantalla, 24 especies)**
+- **Mamíferos:** ciervo de los pantanos (macho y hembra, muy cerca) · corzuela parda · **venado de las pampas**.
+- **Reptiles:** yacaré negro · **boa curiyú** cruzando el camino.
+- **Aves de agua:** bandada grande de **tuyuyú** · biguá · pato cutirí · sirirí vientre negro · jacana (con juveniles) · chajá · becasina de bañado · bandurria mora · martín pescador grande.
+- **Rapaces:** aguilucho pampa · chimachima.
+- **Pastizal (las joyas para observadores):** **yetapá de collar** · capuchino corona gris · capuchino pecho blanco · capuchino castaño · corbatita dominó · churrinche · golondrina tijerita.
+- **El final:** un **urutaú (kakuy) con su pichón**, camuflado en la punta de una rama seca, visto desde el auto volviendo a Pellegrini. Dato del video: **se reproduce en noviembre y diciembre**, un solo huevo que incuban los dos padres durante un mes → en nuestra fecha (7-10/11) puede estar en el nido.
+
+**Qué suma a nuestra planificación**
+- **Dos formas de hacer Camba Trapo, las dos para tener en cuenta (Daniel, 2/10):**
+  1. **Por cuenta propia** con el auto por el camino vecinal (gratis; también se podría en bici o caminando un tramo). Sin apuro y parando donde uno quiera, pero **sin guía que encuentre los bichos** y sin la canoa.
+  2. **Con Iberá Guyrá (Roque, …8797):** ~3 h, 7 km desde el pueblo con avistaje en el camino, caminata por el sendero de la reserva privada y **canoa tradicional**. Suma el ojo del guía y el agua; falta el precio.
+- **No son excluyentes:** el camino es público y la canoa y el sendero están dentro de la reserva privada.
+- **A averiguar antes de ir solos:** estado del camino en noviembre (el tramo de arena con auto bajo, y si llovió), por dónde se entra y hasta dónde conviene llegar. Preguntarlo en la posada o a Roque.
+
 ## 8d. Dónde comer y tomar café en Colonia Carlos Pellegrini (Google Maps, 28/9/2026)
 
 Relevado para el caso de alojarse en una cabaña o posada con solo desayuno. Puntaje y cantidad de reseñas de Google Maps; el rango de precio es el que muestra Google **por persona**.
@@ -1057,7 +1082,7 @@ Mensaje: "¡Hola! Vamos a Colonia Carlos Pellegrini del sábado 7 al martes 10 d
 
 - **Iberá Guyrá (Roque Boccalandro, …8797, 30/9 19:44-21:18):** estaba viajando; pasa lo que hace él: **excursión a la reserva privada Camba Trapo, caminata y canoa**, ~3 h: salida desde Pellegrini, 7 km con avistaje en el camino, caminata por sendero, paseo en **canoa tradicional** desde el muelle y regreso por la otra parte del sendero ("una experiencia diferente en ambiente distinto"). **Sin precio todavía.** Referencia: la misma reserva cuesta $50.000 (Estero Ñe'e, 4 h con kayak nocturno) y $75.000 (Agreste, 3 h) por persona.
 
-- **Camba Trapo — excursión posible (30/9 noche, Daniel: "está buena, dejémosla como posible de tomarse"):** no está decidida ni reservada; entra con 3 noches (lunes 9). Opciones: Estero Ñe'e $50.000, Agreste $75.000, Iberá Guyrá sin precio (por persona).
+- **Camba Trapo — excursión posible (30/9 noche, Daniel: "está buena, dejémosla como posible de tomarse"):** no está decidida ni reservada; entra con 3 noches (lunes 9). Opciones: Estero Ñe'e $50.000, Agreste $75.000, Iberá Guyrá sin precio (por persona). **2/10:** se suma la opción **por cuenta propia** por el camino vecinal (ver 8c-bis, video de Los Taguatoces); Daniel quiere tener en cuenta las dos: sola o con Roque (avistaje + canoa, ~3 h).
 
 ### Cotización de agencia: Mupu Viajes (30/9/2026, referencia, DESCARTADA por Daniel)
 La agencia confirmó (12:31) que son **$5.180.582 en total los dos**. Daniel: "ni en pedo pago esto, descartadísimo".
