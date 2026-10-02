@@ -1,595 +1,806 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Iberá Noviembre 2026</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐊</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --bg:#f4f1e8; --panel:#fffdf7; --panel-2:#ece7d8; --line:#d9d2bf;
-    --ink:#1f2a22; --ink-dim:#56645a; --ink-faint:#8a948c;
-    --green:#2f6b4a; --green-soft:#dcebe0; --amber:#b86e12; --amber-soft:#f6e6cc;
-    --red:#b23a2e; --red-soft:#f5dcd8; --blue:#2d6179; --blue-soft:#d9e8ef;
-    --radius:10px;
-  }
-  @media (prefers-color-scheme:dark){
-    :root:not([data-theme="light"]){
-      --bg:#141a16; --panel:#1b231e; --panel-2:#232d27; --line:#34413a;
-      --ink:#e9efe9; --ink-dim:#a6b3aa; --ink-faint:#6f7c73;
-      --green:#7cc79a; --green-soft:#223a2c; --amber:#e8a854; --amber-soft:#3b2d18;
-      --red:#ef8a7e; --red-soft:#3d2320; --blue:#7fb6cf; --blue-soft:#1d3440;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Iberá 2026</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐊</text></svg>" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+    :root {
+      --cream: #f5f0e8;
+      --cream2: #ede6d6;
+      --navy: #1a2f4a;
+      --navy2: #0e1f33;
+      --terracotta: #c8481f;
+      --amber: #d4700a;
+      --green: #2a6645;
+      --green-light: #e8f4ed;
+      --red-light: #fdf0ef;
+      --amber-light: #fef5e7;
+      --text: #1c1812;
+      --muted: #6b5e4a;
+      --border: #d8cfc0;
+      --card: #ffffff;
+      --shadow: 0 2px 16px rgba(26,18,8,0.08);
     }
-  }
-  :root[data-theme="dark"]{
-    --bg:#141a16; --panel:#1b231e; --panel-2:#232d27; --line:#34413a;
-    --ink:#e9efe9; --ink-dim:#a6b3aa; --ink-faint:#6f7c73;
-    --green:#7cc79a; --green-soft:#223a2c; --amber:#e8a854; --amber-soft:#3b2d18;
-    --red:#ef8a7e; --red-soft:#3d2320; --blue:#7fb6cf; --blue-soft:#1d3440;
-  }
-  *,*::before,*::after{box-sizing:border-box}
-  html{background:var(--bg)}
-  @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
-  :where([id]){scroll-margin-top:70px}
-  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-  a{color:var(--green)}
-  h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.2;margin:0}
-  .wrap{max-width:1400px;margin:0 auto;padding:0 24px}
-  @media (max-width:600px){.wrap{padding:0 16px}}
-  th{white-space:normal}
-  td.num .dates{white-space:normal;min-width:110px}
-  td.num{min-width:90px}
-  .tbl td:first-child{min-width:170px}
 
-  header.hero{padding:40px 0 28px;border-bottom:1px solid var(--line)}
-  .kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;color:var(--amber);font-weight:600}
-  .hero h1{font-size:clamp(30px,6vw,46px);margin:6px 0 10px}
-  .hero p{color:var(--ink-dim);max-width:680px;margin:0}
-  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
-  .chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:13px}
-  .chip b{color:var(--green)}
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', system-ui, sans-serif; background: var(--cream); color: var(--text); overflow-x: hidden; }
 
-  nav.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
-  nav.top .wrap{display:flex;flex-wrap:wrap;gap:4px 14px;padding-top:10px;padding-bottom:10px}
-  nav.top a{color:var(--ink-dim);text-decoration:none;font-size:14px;font-weight:500}
-  nav.top a:hover{color:var(--green)}
+    /* ─── TOP NAV ─── */
+    .topnav { position: sticky; top: 0; z-index: 100; background: rgba(245,240,232,0.96); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); padding: 0 20px; display: flex; align-items: center; gap: 0; overflow-x: auto; white-space: nowrap; }
+    .topnav::-webkit-scrollbar { display: none; }
+    .topnav-brand { font-family: 'Playfair Display', serif; font-size: 0.9rem; font-weight: 700; color: var(--navy); padding: 14px 16px 14px 0; border-right: 1px solid var(--border); margin-right: 12px; flex-shrink: 0; }
+    .nav-link { padding: 14px 14px; font-size: 0.72rem; font-weight: 500; color: var(--muted); cursor: pointer; transition: color 0.15s; flex-shrink: 0; text-decoration: none; display: inline-flex; align-items: center; gap: 5px; }
+    .nav-link:hover { color: var(--navy); }
+    .nav-link.active { color: var(--terracotta); font-weight: 600; }
 
-  section{padding:36px 0 8px}
-  section > h2{font-size:26px;margin-bottom:6px}
-  .lead{color:var(--ink-dim);margin:0 0 18px}
-  h3{font-size:18px;margin:22px 0 10px}
+    /* ─── HERO ─── */
+    .hero { background: var(--navy2); padding: 64px 40px 56px; text-align: center; position: relative; overflow: hidden; }
+    .hero::before { content: ''; position: absolute; inset: 0; background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg/1280px-Flying_Over_Esteros_del_Iber%C3%A1_The_kingdom_of_water%2C_North-eastern_Argentina.jpg') center/cover no-repeat; opacity: 0.22; }
+    .hero-inner { position: relative; z-index: 1; max-width: 700px; margin: 0 auto; }
+    .hero-flag { font-size: 2.8rem; margin-bottom: 16px; }
+    .hero-title { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 900; color: #f5f0e8; line-height: 1.1; margin-bottom: 8px; }
+    .hero-title span { color: #f4a261; }
+    .hero-sub { font-size: 0.9rem; color: rgba(245,240,232,0.6); margin-bottom: 32px; }
+    .hero-stats { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+    .hero-stat { background: rgba(245,240,232,0.1); border: 1px solid rgba(245,240,232,0.15); border-radius: 12px; padding: 14px 20px; text-align: center; min-width: 100px; }
+    .hero-stat-num { font-family: 'Playfair Display', serif; font-size: 1.8rem; font-weight: 700; color: #f4a261; line-height: 1; }
+    .hero-stat-label { font-size: 0.62rem; color: rgba(245,240,232,0.5); text-transform: uppercase; letter-spacing: 0.7px; margin-top: 4px; }
 
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
-  .grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr))}
+    /* ─── ROUTE RIBBON ─── */
+    .route-ribbon { background: var(--navy); overflow-x: auto; display: flex; align-items: stretch; white-space: nowrap; }
+    .route-ribbon::-webkit-scrollbar { height: 3px; background: rgba(255,255,255,0.05); }
+    .route-ribbon::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); }
+    .route-step { display: inline-flex; align-items: center; flex-shrink: 0; }
+    .route-city { padding: 16px 20px; text-align: center; display: flex; flex-direction: column; gap: 2px; }
+    .route-city-name { font-size: 0.72rem; font-weight: 600; color: rgba(245,240,232,0.9); }
+    .route-city-date { font-size: 0.6rem; color: rgba(245,240,232,0.4); }
+    .route-arrow { color: rgba(245,240,232,0.2); font-size: 0.75rem; padding: 0 2px; align-self: center; }
+    .route-arrow.flight { color: #6baed6; }
+    .route-arrow.drive { color: #fd8d3c; }
 
-  .note{border-left:4px solid var(--amber);background:var(--amber-soft);padding:10px 14px;border-radius:6px;margin:12px 0;font-size:14px}
-  .note.red{border-color:var(--red);background:var(--red-soft)}
-  .alerta{display:flex;gap:14px;align-items:flex-start;background:var(--amber-soft);border:1px solid color-mix(in srgb,var(--amber) 35%,transparent);padding:14px 18px;border-radius:14px;margin:14px 0;font-size:15px;line-height:1.5}
-  .alerta .ico{flex:none;width:44px;height:44px;border-radius:50%;background:var(--panel);display:flex;align-items:center;justify-content:center;font-size:22px}
-  .alerta b.t{display:block;color:var(--amber);font-family:Fraunces,Georgia,serif;font-size:19px;margin-bottom:2px}
-  .note.green{border-color:var(--green);background:var(--green-soft)}
-  .note.blue{border-color:var(--blue);background:var(--blue-soft)}
+    /* ─── CONTENT ─── */
+    .content { max-width: 880px; margin: 0 auto; padding: 0 24px 80px; }
 
-  .tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel)}
-  table{border-collapse:collapse;width:100%;min-width:640px;font-size:14px}
-  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
-  th{background:var(--panel-2);font-weight:600;font-size:13px;color:var(--ink-dim);white-space:nowrap}
-  tr:last-child td{border-bottom:0}
-  td.num{white-space:nowrap}
-  .best{color:var(--green);font-weight:600}
-  .muted{color:var(--ink-faint)}
-  .dates{display:block;font-size:12px;color:var(--ink-dim)}
-  .usd{font-weight:600}
+    /* ─── CHAPTER ─── */
+    .chapter { margin: 40px 0 0; }
+    .chapter-header { border-radius: 16px; overflow: hidden; position: relative; height: 280px; background: var(--navy2); background-size: cover; background-position: center; }
+    .chapter-header-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(14,31,51,0.92) 0%, rgba(14,31,51,0.35) 55%, transparent 100%); display: flex; flex-direction: column; justify-content: flex-end; padding: 28px 32px; }
+    .chapter-city { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: #f5f0e8; line-height: 1; }
+    .chapter-dates { font-size: 0.75rem; color: rgba(245,240,232,0.65); margin-top: 5px; }
+    .chapter-tags { display: flex; gap: 6px; margin-top: 10px; flex-wrap: wrap; }
+    .ctag { font-size: 0.6rem; font-weight: 600; padding: 3px 10px; border-radius: 20px; letter-spacing: 0.3px; text-transform: uppercase; }
+    .ctag-hotel { background: rgba(42,102,69,0.7); color: #a8e6bf; }
+    .ctag-car { background: rgba(212,112,10,0.6); color: #ffd599; }
+    .ctag-fly { background: rgba(107,174,214,0.5); color: #c6e8f7; }
+    .ctag-star { background: rgba(244,162,97,0.5); color: #ffecd1; }
+    .ctag-pending { background: rgba(255,255,255,0.12); color: rgba(245,240,232,0.7); border: 1px solid rgba(255,255,255,0.2); }
 
-  .tag{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;white-space:nowrap}
-  .ok{background:var(--green-soft);color:var(--green)}
-  .warn{background:var(--amber-soft);color:var(--amber)}
-  .no{background:var(--red-soft);color:var(--red)}
-  .info{background:var(--blue-soft);color:var(--blue)}
+    /* ─── DAY CARDS ─── */
+    .days-list { display: flex; flex-direction: column; border: 1px solid var(--border); border-top: none; border-radius: 0 0 16px 16px; background: var(--card); overflow: hidden; }
+    .day-card { padding: 20px 24px; border-bottom: 1px solid #f0ebe1; display: grid; grid-template-columns: 72px 1fr; gap: 16px; transition: background 0.12s; }
+    .day-card:last-child { border-bottom: none; }
+    .day-card:hover { background: #fdfaf5; }
+    .day-badge { text-align: center; padding-top: 2px; }
+    .day-badge-num { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: var(--navy); line-height: 1; }
+    .day-badge-month { font-size: 0.58rem; text-transform: uppercase; letter-spacing: 0.6px; color: var(--muted); margin-top: 1px; }
+    .day-badge-dow { font-size: 0.6rem; font-weight: 600; color: var(--terracotta); text-transform: uppercase; letter-spacing: 0.4px; }
+    .day-title { font-weight: 700; font-size: 0.92rem; color: var(--navy); margin-bottom: 7px; }
+    .day-items { list-style: none; display: flex; flex-direction: column; gap: 4px; margin-bottom: 6px; }
+    .day-items li { font-size: 0.8rem; color: #4a3f30; line-height: 1.5; padding-left: 14px; position: relative; }
+    .day-items li::before { content: '→'; position: absolute; left: 0; color: var(--terracotta); font-size: 0.7rem; top: 2px; }
+    .day-items li strong { color: var(--navy); font-weight: 600; }
+    .day-spots { font-size: 0.72rem; color: var(--muted); margin-top: 6px; line-height: 1.7; }
+    .day-spots b { color: #7a6a50; }
 
-  /* calendario */
-  .cal{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}
-  .day{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 8px;text-align:center;font-size:13px}
-  .day .d{font-family:Fraunces,serif;font-size:22px;display:block}
-  .day.free{background:var(--green-soft);border-color:transparent}
-  .day.lic{background:var(--amber-soft);border-color:transparent}
-  .day.work{background:var(--panel-2)}
-  .day small{display:block;color:var(--ink-dim);font-size:11px;line-height:1.3;margin-top:4px}
-  @media (max-width:560px){.cal{grid-template-columns:repeat(3,1fr)}}
+    /* ─── ALERTS ─── */
+    .alert-inline { display: flex; gap: 8px; align-items: flex-start; padding: 9px 12px; border-radius: 8px; margin-top: 8px; font-size: 0.75rem; line-height: 1.5; }
+    .alert-inline .icon { flex-shrink: 0; font-size: 0.85rem; }
+    .alert-red { background: var(--red-light); border-left: 3px solid var(--terracotta); color: #8b2a10; }
+    .alert-amber { background: var(--amber-light); border-left: 3px solid var(--amber); color: #7a4800; }
+    .alert-green { background: var(--green-light); border-left: 3px solid var(--green); color: #1a4d30; }
 
-  /* tabs 4 vs 3 noches */
-  .tabs{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;margin-bottom:12px}
-  .tabs button{font:inherit;font-size:14px;border:0;background:var(--panel);color:var(--ink-dim);padding:7px 16px;cursor:pointer}
-  .tabs button[aria-pressed="true"]{background:var(--green);color:var(--bg);font-weight:600}
-  [data-panel][hidden]{display:none}
+    /* ─── CTA PILLS ─── */
+    .cta-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+    .cta-pill { font-size: 0.65rem; font-weight: 600; padding: 5px 12px; border-radius: 20px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; transition: opacity 0.15s; }
+    .cta-pill:hover { opacity: 0.72; }
+    .cta-hotel { background: var(--green-light); color: var(--green); border: 1px solid #b2d8c0; }
+    .cta-flight { background: #e8f2fb; color: #1d5c8a; border: 1px solid #b3d1ed; }
+    .cta-car { background: #fef3e2; color: #8a5200; border: 1px solid #f0d090; }
+    .cta-ticket { background: #fef8e7; color: #7a6000; border: 1px solid #e8d870; }
+    .cta-pass { background: #eef4f0; color: var(--green); border: 1px solid #b2d8c0; }
+    .cta-map { background: #f0edfb; color: #4a3a8a; border: 1px solid #c9bff0; }
 
-  /* posadas */
-  .lodge h3{margin:0 0 4px}
-  .lodge .sub{font-size:13px;color:var(--ink-dim);margin-bottom:10px}
-  .lodge ul{margin:8px 0 0;padding-left:18px}
-  .lodge li{margin:3px 0}
-  .prices{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
-  .price{background:var(--panel-2);border-radius:8px;padding:6px 10px;font-size:13px}
-  .price b{display:block;font-size:16px}
-  details{margin-top:10px}
-  summary{cursor:pointer;color:var(--green);font-weight:600;font-size:14px}
+    /* ─── WILDLIFE BLOCK ─── */
+    .wildlife-block { background: linear-gradient(135deg, #0a1a0a 0%, #0f1f0f 100%); border: 1px solid rgba(42,102,69,0.4); border-radius: 12px; padding: 14px 16px; margin-top: 10px; }
+    .wildlife-title { font-size: 0.75rem; font-weight: 700; color: #86efac; margin-bottom: 8px; letter-spacing: 0.3px; }
+    .wildlife-body { font-size: 0.76rem; color: rgba(245,240,232,0.7); line-height: 1.7; }
+    .wildlife-body strong { color: rgba(245,240,232,0.9); }
 
-  .todo li{margin:6px 0}
-  footer{padding:40px 0;color:var(--ink-faint);font-size:13px;border-top:1px solid var(--line);margin-top:40px}
-  .step{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:var(--green);color:var(--bg);font-weight:700;font-size:14px;margin-right:8px;vertical-align:2px}
-  .big{font-family:Fraunces,Georgia,serif;font-size:22px;display:block;margin:4px 0}
-  details.card > summary{font-size:15px}
-  .card table{min-width:0}
-  .sub-h{font-size:20px;margin:30px 0 10px;padding-top:6px;border-top:1px dashed var(--line)}
-  .cmp table{min-width:1100px}
-  .cmp td{font-size:13.5px;padding:9px 10px}
-  .cmp th{white-space:normal;padding:9px 10px}
-  .cmp tr.grp td{background:var(--green-soft);color:var(--green);font-family:Fraunces,Georgia,serif;font-size:16px;font-weight:600;padding:8px 12px}
-  .cmp td:nth-child(2),.cmp td:nth-child(3),.cmp td:nth-child(4){min-width:160px}
-  .cmp td:nth-child(7),.cmp td:nth-child(8){min-width:150px}
-  .cmp td:nth-child(6){min-width:95px}
-  .cmp.tbl td:first-child{min-width:140px}
-  .cmp td.num{white-space:normal;min-width:100px}
-  .cmp td.num b{white-space:nowrap}
-  .cmp .tag{white-space:normal}
-  .cmp td:nth-child(3){min-width:200px}
-</style>
+    /* ─── TIMES TABLE ─── */
+    .times-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-top: 16px; }
+    .times-header { background: var(--navy); color: #f5f0e8; padding: 14px 20px; font-size: 0.75rem; font-weight: 600; }
+    .times-row { display: flex; padding: 10px 20px; border-top: 1px solid #f0ebe1; align-items: center; }
+    .times-segment { flex: 1; font-size: 0.78rem; }
+    .times-google { font-size: 0.72rem; color: var(--muted); width: 70px; text-align: right; }
+    .times-real { font-size: 0.78rem; font-weight: 700; width: 100px; text-align: right; color: var(--terracotta); }
+    .times-real.ok { color: var(--green); }
+
+    /* ─── SECTION DIVIDER ─── */
+    .section-divider { text-align: center; padding: 48px 0 20px; font-size: 0.65rem; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); display: flex; align-items: center; gap: 16px; }
+    .section-divider::before, .section-divider::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+
+    /* ─── CHECKLIST PENDIENTES ─── */
+    .checklist-grid { max-width: 680px; margin: 0 auto 48px; padding: 0 20px; display: flex; flex-direction: column; gap: 14px; }
+    .check-item { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 6px; box-shadow: var(--shadow); }
+    .check-item.done { border-left: 4px solid var(--green); }
+    .check-item.pending { border-left: 4px solid var(--amber); }
+    .check-header { display: flex; align-items: center; gap: 10px; }
+    .check-badge { font-size: 1.1rem; flex-shrink: 0; }
+    .check-title { font-weight: 600; font-size: 0.85rem; color: var(--navy); flex: 1; }
+    .check-status { font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; padding: 2px 8px; border-radius: 20px; flex-shrink: 0; }
+    .check-item.done .check-status { background: var(--green-light); color: var(--green); }
+    .check-item.pending .check-status { background: var(--amber-light); color: var(--amber); }
+    .check-body { font-size: 0.78rem; color: var(--muted); line-height: 1.55; }
+    .check-body strong.check-group { display: block; color: var(--navy); margin: 10px 0 4px; }
+    .check-body strong.check-group:first-child { margin-top: 0; }
+    .check-list { list-style: none; margin: 0 0 4px; padding: 0; }
+    .check-list li { padding-left: 14px; position: relative; }
+    .check-list li::before { content: '•'; position: absolute; left: 0; color: var(--terracotta); }
+    .check-list li.packed { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--green); opacity: 0.75; }
+    .check-list li.packed::before { content: '✓'; color: var(--green); }
+
+    /* ─── ZONES ─── */
+    .zones-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 16px; }
+    .zone-card { background: var(--card); border-radius: 12px; padding: 16px; border: 1px solid var(--border); }
+    .zone-card h4 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; }
+    .zone-card.danger h4 { color: var(--terracotta); }
+    .zone-card.ok h4 { color: var(--green); }
+    .zone-item { font-size: 0.76rem; color: var(--muted); padding: 5px 0; border-bottom: 1px solid #f0ebe1; display: flex; align-items: flex-start; gap: 7px; }
+    .zone-item:last-child { border-bottom: none; }
+    .zone-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; margin-top: 5px; }
+    .zone-dot.red { background: var(--terracotta); }
+    .zone-dot.green { background: var(--green); }
+
+    /* ─── RULES GRID ─── */
+    .rules-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+    .rule-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 18px; }
+    .rule-icon { font-size: 1.6rem; margin-bottom: 8px; display: block; }
+    .rule-heading { font-size: 0.8rem; font-weight: 700; color: var(--navy); margin-bottom: 5px; }
+    .rule-text { font-size: 0.75rem; color: var(--muted); line-height: 1.6; }
+
+    /* ─── FOOTER ─── */
+    .footer { background: var(--navy2); padding: 40px; text-align: center; color: rgba(245,240,232,0.4); font-size: 0.72rem; line-height: 2; }
+    .footer strong { color: rgba(245,240,232,0.7); }
+
+    /* ─── SCROLL TO TOP ─── */
+    .scroll-top-btn { display: flex; position: fixed; bottom: 24px; right: 16px; width: 44px; height: 44px; border-radius: 50%; background: var(--navy); color: #f5f0e8; border: 1px solid rgba(245,240,232,0.2); font-size: 1.1rem; cursor: pointer; z-index: 90; box-shadow: 0 4px 20px rgba(0,0,0,0.35); align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.22s, transform 0.22s; transform: translateY(8px); }
+    .scroll-top-btn.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
+
+    /* ─── HAMBURGER + MOBILE SIDEBAR ─── */
+    .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 11px 6px 11px 12px; font-size: 1.25rem; color: var(--navy); margin-left: auto; flex-shrink: 0; line-height: 1; }
+    .mobile-overlay { display: none; position: fixed; inset: 0; background: rgba(14,31,51,0.55); z-index: 998; backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px); }
+    .mobile-overlay.open { display: block; }
+    .mobile-menu { position: fixed; top: 0; right: -295px; width: 295px; height: 100dvh; background: var(--navy2); z-index: 999; transition: right 0.26s cubic-bezier(0.4,0,0.2,1); display: flex; flex-direction: column; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+    .mobile-menu.open { right: 0; }
+    .mobile-menu-header { display: flex; align-items: center; justify-content: space-between; padding: 18px 20px 16px; border-bottom: 1px solid rgba(245,240,232,0.1); flex-shrink: 0; }
+    .mobile-menu-brand { font-family: 'Playfair Display', serif; color: #f5f0e8; font-size: 0.92rem; font-weight: 700; }
+    .mobile-menu-close { background: none; border: none; color: rgba(245,240,232,0.5); font-size: 1.5rem; cursor: pointer; padding: 2px 8px; line-height: 1; }
+    .mobile-nav-link { display: flex; align-items: center; padding: 14px 20px; font-size: 0.9rem; font-weight: 500; color: rgba(245,240,232,0.82); text-decoration: none; border-bottom: 1px solid rgba(245,240,232,0.06); transition: background 0.12s; gap: 10px; }
+    .mobile-nav-link:active { background: rgba(245,240,232,0.08); }
+    .mobile-nav-link.map-link { color: var(--amber); font-weight: 700; }
+    .mobile-nav-section { padding: 10px 20px 4px; font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: rgba(245,240,232,0.3); }
+
+    /* ─── RESPONSIVE ─── */
+    @media (max-width: 600px) {
+      /* layout */
+      .hero { padding: 48px 20px 40px; }
+      .content { padding: 0 16px 60px; }
+      .chapter-header { height: 220px; }
+      .chapter-header-overlay { padding: 20px; }
+      .chapter-city { font-size: 1.6rem; }
+      .day-card { grid-template-columns: 52px 1fr; gap: 12px; padding: 16px; }
+      .zones-grid { grid-template-columns: 1fr; }
+
+      /* nav: hamburger en mobile */
+      .topnav { padding: 0 10px; overflow-x: hidden; }
+      .topnav-brand { font-size: 0.82rem; padding: 12px 10px 12px 0; border-right: none; margin-right: 0; }
+      .topnav .nav-link { display: none; }
+      .hamburger { display: flex; }
+
+      /* hero stats: fila única de 5, sin el AC/DC solo abajo */
+      .hero-stats { gap: 6px; flex-wrap: nowrap; }
+      .hero-stat { flex: 1 1 0; min-width: 0; padding: 8px 4px; }
+      .hero-stat-num { font-size: 1.25rem; }
+      .hero-stat-label { font-size: 0.5rem; letter-spacing: 0.3px; }
+
+      /* day card: fuentes legibles */
+      .day-title { font-size: 0.95rem; }
+      .day-items li { font-size: 0.84rem; }
+      .day-spots { font-size: 0.77rem; }
+
+      /* alertas: legibles */
+      .alert-inline { font-size: 0.8rem; padding: 9px 11px; }
+
+      /* chapter tags */
+      .ctag { font-size: 0.62rem; }
+
+      /* cta pills: tap target más grande */
+      .cta-pill { font-size: 0.73rem; padding: 8px 13px; }
+
+      /* concert / wildlife */
+      
+      .wildlife-body { font-size: 0.81rem; }
+
+      /* tabla de tiempos: ocultar columna Google (mayoría "—") */
+      .times-google { display: none; }
+      .times-header { font-size: 0.75rem; padding: 11px 14px; }
+      .times-row { padding: 9px 14px; }
+      .times-segment { font-size: 0.77rem; }
+      .times-real { width: 82px; font-size: 0.8rem; }
+
+      /* reglas de oro */
+      .rule-text { font-size: 0.79rem; }
+      .rule-heading { font-size: 0.83rem; }
+
+      /* zone items */
+      .zone-item { font-size: 0.8rem; }
+
+      /* checklist */
+      .check-title { font-size: 0.88rem; }
+      .check-body { font-size: 0.83rem; }
+
+      /* section divider: menos espacio arriba */
+      .section-divider { padding: 32px 0 14px; }
+
+      /* footer */
+      .footer { padding: 32px 20px; font-size: 0.75rem; }
+    }
+  
+    /* ─── IBERÁ: extras ─── */
+    a { color: var(--terracotta); }
+    .sec-lead { font-size: 0.82rem; color: var(--muted); line-height: 1.6; max-width: 680px; margin: 0 auto 18px; text-align: center; }
+    .info-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 20px 22px; box-shadow: var(--shadow); margin-top: 14px; }
+    .info-card h3 { font-family: 'Playfair Display', serif; font-size: 1.15rem; color: var(--navy); margin-bottom: 4px; }
+    .info-sub { font-size: 0.72rem; color: var(--muted); margin-bottom: 10px; }
+    .info-card .day-items { margin-top: 8px; }
+    .zone-card.info h4 { color: var(--navy); }
+    .zone-item b, .zone-item strong { color: var(--navy); }
+    .times-row .times-real { width: 130px; }
+    .times-segment small { display: block; color: var(--muted); font-size: 0.7rem; line-height: 1.5; margin-top: 2px; }
+    .times-row.total { background: #fdfaf5; }
+    .times-row.total .times-segment { font-weight: 700; color: var(--navy); }
+    .map-frame { border: 1px solid var(--border); border-radius: 16px; overflow: hidden; background: var(--card); }
+    .map-frame iframe { display: block; border: 0; width: 100%; height: 480px; }
+    .checklist-grid { padding: 0; }
+    .tag-ok { font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 8px; border-radius: 20px; background: var(--green-light); color: var(--green); }
+    @media (max-width: 600px) {
+      .hero-stats { flex-wrap: wrap; }
+      .hero-stat { flex: 1 1 40%; }
+      .times-row .times-real { width: 96px; }
+      .map-frame iframe { height: 380px; }
+      .info-card { padding: 16px; }
+    }
+  </style>
 </head>
 <body>
 
-<header class="hero">
-  <div class="wrap">
-    <div class="kicker">Esteros del Iberá · Colonia Carlos Pellegrini</div>
-    <h1>Iberá, finde largo de noviembre</h1>
-    <p>Todo lo averiguado para ir a los Esteros del Iberá en el fin de semana largo de la visita del Papa. Arriba, el resumen con lo decidido y lo que falta; más abajo, el detalle de cada cosa. Actualizado al 1/10/2026.</p>
-    <div class="chips">
-      <span class="chip">📅 <b>sáb 7 → mar 10</b> · 3 noches</span>
-      <span class="chip">🚗 En nuestro auto</span>
-      <span class="chip">🏡 Irupé Lodge: reservado y señado</span>
-      <span class="chip">🛏️ Reservado: hotel del viernes en Concordia</span>
-    </div>
-  </div>
-</header>
-
-<nav class="top" aria-label="Secciones">
-  <div class="wrap">
-    <a href="#resumen">Resumen</a>
-    <a href="#fechas">Fechas</a>
-    <a href="#llegar">Cómo llegar</a>
-    <a href="#dormir">Dónde dormimos</a>
-    <a href="#hacer">Qué hacer</a>
-    <a href="#antes">Antes de ir</a>
-    <a href="#pendientes">Pendientes</a>
-    <a href="#mas">Más detalle</a>
-  </div>
+<!-- ── TOP NAV ── -->
+<nav class="topnav">
+  <div class="topnav-brand">🐊 Iberá 2026</div>
+  <a class="nav-link" href="#ida">🚗 La ida</a>
+  <a class="nav-link" href="#pellegrini">🐊 Pellegrini</a>
+  <a class="nav-link" href="#vuelta">🏠 La vuelta</a>
+  <a class="nav-link" href="#hospedajes">🏨 Hospedajes</a>
+  <a class="nav-link" href="#excursiones">🛶 Excursiones</a>
+  <a class="nav-link" href="#comer">🍽️ Comer</a>
+  <a class="nav-link" href="#ruta">⛽ Ruta y mapa</a>
+  <a class="nav-link" href="#datos">💡 Datos útiles</a>
+  <a class="nav-link" href="#pendientes">📋 Pendientes</a>
+  <button class="hamburger" onclick="openMobileMenu()" aria-label="Abrir menú">☰</button>
 </nav>
 
-<main class="wrap">
+<!-- ── MOBILE SIDEBAR ── -->
+<div id="mobile-overlay" class="mobile-overlay" onclick="closeMobileMenu()"></div>
+<nav id="mobile-menu" class="mobile-menu" aria-label="Menú de navegación">
+  <div class="mobile-menu-header">
+    <span class="mobile-menu-brand">🐊 Iberá 2026</span>
+    <button class="mobile-menu-close" onclick="closeMobileMenu()" aria-label="Cerrar menú">✕</button>
+  </div>
+  <span class="mobile-nav-section">El viaje</span>
+  <a class="mobile-nav-link" href="#ida" onclick="closeMobileMenu()">🚗 La ida</a>
+  <a class="mobile-nav-link" href="#pellegrini" onclick="closeMobileMenu()">🐊 Pellegrini</a>
+  <a class="mobile-nav-link" href="#vuelta" onclick="closeMobileMenu()">🏠 La vuelta</a>
+  <span class="mobile-nav-section">Para tener a mano</span>
+  <a class="mobile-nav-link" href="#hospedajes" onclick="closeMobileMenu()">🏨 Hospedajes</a>
+  <a class="mobile-nav-link" href="#excursiones" onclick="closeMobileMenu()">🛶 Excursiones</a>
+  <a class="mobile-nav-link" href="#comer" onclick="closeMobileMenu()">🍽️ Comer</a>
+  <a class="mobile-nav-link" href="#ruta" onclick="closeMobileMenu()">⛽ Ruta y mapa</a>
+  <a class="mobile-nav-link" href="#datos" onclick="closeMobileMenu()">💡 Datos útiles</a>
+  <a class="mobile-nav-link" href="#pendientes" onclick="closeMobileMenu()">📋 Pendientes</a>
+</nav>
 
-<!-- RESUMEN -->
-<section id="resumen">
-  <h2>En resumen</h2>
-  <p class="lead">Vamos en nuestro auto, 3 noches: del sábado 7 al martes 10 de noviembre. Dormimos en Irupé Lodge. Queda elegir las excursiones.</p>
-  <div class="grid">
-    <div class="card">
-      <h3 style="margin:0 0 6px">Ya decidido <span class="tag ok">✓</span></h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>3 noches</b>, sáb 7 → mar 10, sin pedir licencia. El miércoles 11 se trabaja.</li>
-        <li><b>En nuestro auto:</b> salimos el viernes 6 a las 16 h, dormimos en Concordia (<b>Hotel de Campo, ya reservado</b>) y llegamos el sábado ~13:30, con la tarde para una primera actividad.</li>
-        <li><b>Vuelta:</b> martes 10 (feriado en CABA), saliendo ~5:30; en casa ~17 h.</li>
-        <li>Nafta, peajes y hotel del viernes: <b>~$414.000</b> los dos.</li>
-        <li style="color:var(--amber)"><b>⛽ Tanque lleno en Mercedes:</b> en Pellegrini no hay estación de servicio.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0"><a href="#llegar">Ver el camino</a></p>
-    </div>
-    <div class="card">
-      <h3 style="margin:0 0 6px">Dónde dormimos <span class="tag ok">✓</span></h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>Irupé Lodge</b>, habitación Doble Standard, con desayuno.</li>
-        <li>3 noches, sáb 7 → mar 10: <b>$405.000</b> los dos.</li>
-        <li>Reserva registrada; llegamos el sábado cerca de las 13 h.</li>
-        <li style="color:var(--amber)"><b>Falta pagar la seña</b> ($202.500) cuando llegue la confirmación por mail.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0"><a href="#dormir">Ver el detalle</a></p>
-    </div>
-    <div class="card">
-      <h3 style="margin:0 0 6px">Falta decidir: excursiones</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Dependen de la posada: las de pensión completa ya las traen; en las demás se contratan sueltas.</li>
-        <li>Precios sueltos, por persona: lancha $40.000-45.000 · kayak $25.000-35.000 · cabalgata $35.000 · safari nocturno $35.000.</li>
-        <li><b>Posible:</b> reserva Camba Trapo (caminata y canoa, 3 a 4 h), $50.000-75.000 por persona.</li>
-        <li>Gratis: senderos del Parque Provincial (con la entrada) y Parque Nacional.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0"><a href="#hacer">Ver excursiones y precios</a></p>
+<!-- ── HERO ── -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-flag">🐊</div>
+    <h1 class="hero-title">Esteros del <span>Iberá</span></h1>
+    <p class="hero-sub">Colonia Carlos Pellegrini · viernes 6 al martes 10 de noviembre de 2026 · en nuestro auto</p>
+    <div class="hero-stats">
+      <div class="hero-stat"><div class="hero-stat-num">3</div><div class="hero-stat-label">Noches allá</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">2</div><div class="hero-stat-label">Hospedajes</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">1.750</div><div class="hero-stat-label">Km en total</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">350</div><div class="hero-stat-label">Especies de aves</div></div>
     </div>
   </div>
 </section>
 
-<!-- FECHAS -->
-<section id="fechas">
-  <h2>Fechas</h2>
-  <p class="lead">Sábado 7 a martes 10 de noviembre, 3 noches. Feriados por la visita del papa León XIV (Decreto 1103/2026); los dos trabajamos en CABA.</p>
-  <div class="cal">
-    <div class="day work"><span class="d">6</span>vie<small>salimos a las 16 h → Concordia</small></div>
-    <div class="day free"><span class="d">7</span>sáb<small>llegamos ~13:30</small></div>
-    <div class="day free"><span class="d">8</span>dom<small>día entero allá</small></div>
-    <div class="day free"><span class="d">9</span>lun<small>feriado nacional · día entero allá</small></div>
-    <div class="day free"><span class="d">10</span>mar<small>feriado en CABA · vuelta</small></div>
-    <div class="day work"><span class="d">11</span>mié<small>vuelta al trabajo</small></div>
-  </div>
-  <div class="note">Sábado a la tarde, domingo y lunes enteros: alcanza para lancha, senderos, Parque Nacional, cabalgata o kayak y safari nocturno. No hay día de reserva si llueve.</div>
-</section>
+<!-- ── ROUTE RIBBON ── -->
+<div class="route-ribbon">
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">vie 6 · 16 h</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🛏️ Concordia</div><div class="route-city-date">noche del vie 6</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">⛽ Mercedes</div><div class="route-city-date">sáb 7 · tanque lleno</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🐊 Pellegrini</div><div class="route-city-date">sáb 7 – mar 10</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">mar 10 · ~17 h</div></div></div>
+</div>
 
-<!-- CÓMO LLEGAR -->
-<section id="llegar">
-  <h2>Cómo llegar</h2>
-  <p class="lead">En nuestro auto. Colonia Carlos Pellegrini queda a ~860-900 km de La Plata; los últimos 120 km, desde Mercedes, son la parte difícil: 50 de asfalto y 70 de ripio y piedra.</p>
-  <div class="note green"><b>El plan:</b> viernes 6 a las 16 h hasta <b>Concordia</b> (Hotel de Campo, reservado) y sábado a la mañana hasta Pellegrini: llegamos ~13:30, con la tarde libre.</div>
-  <div class="alerta" role="note"><span class="ico" aria-hidden="true">⛽</span><div><b class="t">No olvidarse: tanque lleno en Mercedes</b>En Colonia Carlos Pellegrini <b>no hay estación de servicio</b> y desde Mercedes son <b>120 km sin nafta ni señal</b>. Con el tanque lleno alcanza para llegar, movernos allá y volver a Mercedes, que es también la primera parada a la vuelta.</div></div>
-  <h3 class="sub-h">🚗 El camino</h3>
-  <p class="muted">RN 14, autovía completa desde Ceibas hasta Paso de los Libres → en Cuatro Bocas, RN 119 (doble mano, 109 km) → Mercedes → RP 40. En la RN 14 hay controles; el máximo en autovía es 130 km/h.</p>
-  <div class="note"><b>Del camino, según los que viven allá:</b> los últimos kilómetros de la RP 40 son la "ruta panorámica": ya es reserva natural y hay mucha fauna, así que conviene hacerlo tranquilos, como parte del paseo. El otro acceso, por el norte (Santo Tomé o Virasoro, 140 km), es de tierra y arena y solo sirve sin lluvia o en 4x4: <b>entramos y salimos por Mercedes</b>. Si llueve los días previos, avisarle a la posada: saben qué tramos se embarran.</div>
+<main class="content">
 
-  <div class="grid" style="grid-template-columns:1fr">
-    <article class="card">
-      <span class="tag ok">El plan</span>
-      <h3 style="margin:8px 0 6px">Viernes 6 a las 16 + una noche en Concordia</h3>
-      <div class="tbl"><table>
-        <thead><tr><th>Hora</th><th>Punto</th><th>Qué hacer</th></tr></thead>
-        <tbody>
-          <tr><td class="num"><b>vie 16:00</b></td><td><b>La Plata</b></td><td>Tanque lleno y saldo en TelePase (la RN 14 cobra solo electrónico). Viernes antes del finde largo: puede haber más tránsito de salida.</td></tr>
-          <tr><td class="num">~19:40</td><td>San José / Colón</td><td><b>1ª carga de nafta</b> y café.</td></tr>
-          <tr><td class="num"><b>~21:30-22:30</b></td><td><b>Concordia</b></td><td><span class="tag ok">reservado</span> <b>Hotel de Campo</b>, Ruta A015 km 6,5: se deja la RN 14 y son 6,5 km hacia Salto Grande, sin entrar a la ciudad. Habitación doble con cama grande, aire acondicionado, baño privado y estacionamiento en el predio. Recepción hasta las 0:00; avisamos que llegamos entre las 22 y las 23. <b>$68.000, ya pagado</b> por transferencia el 1/10 (la noche completa: al llegar no queda nada por abonar). Llevar el comprobante. <b>Cena:</b> restaurante Ybi Porá, en la entrada del hotel, abierto los viernes de 20 a 0 h (~$20.000-30.000 por persona). <a href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">Google Maps</a></td></tr>
-          <tr><td class="num"><b>sáb 7:30</b></td><td>Concordia</td><td>Salida. El hotel no da desayuno: se desayuna en la ruta.</td></tr>
-          <tr><td class="num">~9:00</td><td>Cuatro Bocas</td><td>Se deja la RN 14 por la RN 119. Tramos con zanjas por los camiones.</td></tr>
-          <tr><td class="num">~10:10</td><td><b>Mercedes</b></td><td><span class="tag no">⛽ OBLIGATORIO</span> <b>2ª carga, tanque lleno</b> (en Pellegrini no hay estación de servicio), <b>sacar efectivo</b> (no hay cajeros) y algo para comer. Salir ~10:55.</td></tr>
-          <tr><td class="num">~11:00-13:30</td><td>RP 40</td><td>50 km de asfalto en muy buen estado, 35 de ripio bueno y 35 de laja a ~30 km/h, cuidando cubiertas y el bajo del auto. Sin señal ni nafta. Ya se ven carpinchos y ciervos.</td></tr>
-          <tr><td class="num"><b>~13:25-13:40</b></td><td><b>Colonia Carlos Pellegrini</b></td><td>Entrada al Parque Provincial antes del puente (pulsera). La tarde entera para una primera actividad: senderos, una lancha o el atardecer desde el puente.</td></tr>
-        </tbody>
-      </table></div>
-    </article>
-  </div>
-  <div class="grid" style="margin-top:14px">
-    <article class="card">
-      <h3 style="margin:0 0 6px">Vuelta · mar 10</h3>
-      <ul>
-        <li><b>~5:30</b> salida, con la primera luz (amanece ~5:50): el ripio ya con claridad.</li>
-        <li><b>~8:00-8:15</b> Mercedes: carga y desayuno.</li>
-        <li><b>~10:45</b> Concordia: café.</li>
-        <li><b>~12:30</b> Colón: carga y almuerzo.</li>
-        <li><b>~13:35</b> Gualeguaychú.</li>
-        <li><b>~16:40-17:00</b> La Plata.</li>
-      </ul>
-    </article>
-    <article class="card">
-      <h3 style="margin:0 0 6px">Nafta y peajes</h3>
-      <ul>
-        <li>~1.750 km en total → <b>~$309.000</b>, 4 cargas: Colón y Mercedes a la ida, Mercedes y Colón a la vuelta.</li>
-        <li>Peajes ~$39.000 ida y vuelta con TelePase.</li>
-        <li>~19 h de manejo en total: conviene turnarse.</li>
-      </ul>
-    </article>
-    <article class="card">
-      <h3 style="margin:0 0 6px">Paradas en la ruta</h3>
-      <p style="margin:0 0 4px"><b>⛽ Shell (V-Power)</b>, en orden de ida:</p>
-      <ul style="margin:0 0 8px">
-        <li>Escobar, Panamericana (RN 9) km 54.</li>
-        <li>Ceibas, RN 14 km 5.</li>
-        <li>Gualeguaychú, RN 14 km 48,5 y km 52,5.</li>
-        <li>Colón, RN 14 y ruta 135.</li>
-        <li>Concordia, RN 14 km 256 (cruce con la ruta 22).</li>
-        <li>Chajarí y Curuzú Cuatiá: dentro de cada ciudad.</li>
-        <li><b>Mercedes</b>, España y Bartolomé Mitre: la última antes del ripio.</li>
-      </ul>
-      <p style="margin:0 0 4px"><b>☕ YPF</b>, para un café (con tienda Full confirmada: km 246, 248 y 296):</p>
-      <ul style="margin:0 0 8px">
-        <li>Campana, Panamericana km 72.</li>
-        <li>Zárate, RN 12, antes del cruce a Entre Ríos.</li>
-        <li>RN 14 km 105 (Colonia Elía) y km 142,9.</li>
-        <li>Colón, RN 14 km 150 (ACA).</li>
-        <li>RN 14 km 246 y km 248, antes de Concordia.</li>
-        <li>RN 14 km 296, acceso a Federación: el desayuno del sábado, a ~40 km del hotel.</li>
-        <li>Cuatro Bocas, RN 14 km 406: donde se deja la RN 14.</li>
-        <li>Curuzú Cuatiá (ACA) y Mercedes, J. M. Gómez 701.</li>
-      </ul>
-      <p style="margin:0 0 4px"><b>🥐 En Mercedes</b>, café y panadería (parada de ida y de vuelta):</p>
-      <ul style="margin:0 0 8px">
-        <li>Casa España, España 620: cafetería, ★ 4,8.</li>
-        <li>El Pastelero, Juan Pujol y Belgrano: panadería y confitería, ★ 4,5; abre 7:30.</li>
-        <li>Abuela Lala, San Martín 602: panadería y cafetería, ★ 4,2.</li>
-      </ul>
-      <p class="muted" style="margin:0">Todo marcado, junto con los hoteles, el restaurante de Concordia, el estacionamiento de Mercedes y los lugares del pueblo, en <a href="https://www.google.com/maps/d/edit?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg" target="_blank" rel="noopener">nuestro mapa</a>.</p>
-    </article>
-    <article class="card">
-      <span class="tag warn">Con lluvia</span>
-      <ul style="margin-top:8px">
-        <li>Mirar el pronóstico el viernes y el lunes a la noche.</li>
-        <li>Antes de salir: auxilio en condiciones, presión de cubiertas, criquet y efectivo.</li>
-      </ul>
-    </article>
-  </div>
-
-
-
-  <div class="grid" style="margin-top:14px">
-    <div class="card">
-      <span class="tag warn">Si llueve</span>
-      <h3 style="margin:8px 0 4px">4x4 desde Mercedes · 2 h</h3>
-      <p style="margin:0 0 8px">Con el ripio mojado, dejamos el auto en Mercedes y hacemos el último tramo en camioneta. <b>Dónde dejar el auto:</b> Estacionamiento Mohalem, Sarmiento 489, a 2 cuadras de la plaza de Mercedes · 03773-420096 (recomendado por Huella).</p>
-      <p style="margin:0">Casi todos cobran lo mismo: <b>$160.000-170.000 por tramo, ~$320.000-340.000 ida y vuelta</b>, camioneta para hasta 4.</p>
-      <p style="margin:10px 0 0"><b>Precios consultados (29/9):</b></p>
-        <ul>
-          <li>Ñandé Retá (4x4 de la posada): $170.000 por tramo.</li>
-          <li>Víctor Flores · +54 9 3773 46-3857: $170.000 por tramo ($340.000 ida y vuelta).</li>
-          <li>Martín Sandoval · +54 9 3773 52-8283: $340.000 ida y vuelta.</li>
-          <li><b>Daniel Aguirre</b> · +54 9 3773 62-7687: <b>$160.000 por tramo</b> (el más barato); punto de encuentro y hora a elección.</li>
-          <li>Rafael Muzio · 3773 413081: $360.000 ida y vuelta, por camioneta; él pone fecha, lugar y hora.</li>
-          <li>Norma Pelozo (Transporte 2 de Abril) · 3773-43 7847: $350.000 ida y vuelta.</li>
-          <li>Miguel · +54 9 3773 40-2274 (contacto de Irupé): $360.000 ida y vuelta.</li>
-          <li>Combi de Daniel Ortiz · 03773 15431469: no tiene WhatsApp.</li>
-          <li>Máximo Ojeda (con Karina) · +54 9 3773 45-0486: $195.000 por tramo ($390.000 ida y vuelta), "neto sin IVA"; camioneta doble cabina, hasta 4 pasajeros.</li>
-          <li><b>Valentín</b> · +54 9 3773 40-8132: <b>$320.000 ida y vuelta</b> para los dos; se reserva con el 50%, o <b>pagando el total, 10% menos: $288.000</b> (el más barato).</li>
-          <li>Recomendados por Huella, sin precio todavía: Sr. Beto 03773-15627774 · El Yetapa Viajes 03773-15413081 (mismo número que Rafael Muzio).</li>
-        </ul>
+  <!-- ═══ LA IDA ═══ -->
+  <section class="chapter" id="ida">
+    <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_bridge_at_Colonia_de_Carlos_Pellegrini%2C_Corrientes%2C_Argentina%2C_2nd._Jan._2011_-_Flickr_-_PhillipC.jpg/1280px-The_bridge_at_Colonia_de_Carlos_Pellegrini%2C_Corrientes%2C_Argentina%2C_2nd._Jan._2011_-_Flickr_-_PhillipC.jpg');">
+      <div class="chapter-header-overlay">
+        <div class="chapter-city">🚗 La ida</div>
+        <div class="chapter-dates">Viernes 6 y sábado 7 · La Plata → Concordia → Mercedes → Pellegrini · ~870 km</div>
+        <div class="chapter-tags">
+          <span class="ctag ctag-hotel">🏨 Hotel de Campo · pagado</span>
+          <span class="ctag ctag-car">⛽ Tanque lleno en Mercedes</span>
+          <a class="ctag" href="#ruta" style="background:rgba(212,112,10,0.7);color:#ffd599;text-decoration:none;">🗺️ Paradas y mapa</a>
+        </div>
+      </div>
     </div>
-  </div>
-  <h3 class="sub-h" id="mapa">🗺️ El mapa del viaje</h3>
-  <p class="muted">Las estaciones Shell, los cafés de la ruta, los dos hoteles, el estacionamiento de Mercedes y los lugares del pueblo. Tocando un punto se ve qué es; con el ícono de arriba a la izquierda se prenden y apagan las capas.</p>
-  <div class="tbl" style="overflow:hidden"><iframe src="https://www.google.com/maps/d/embed?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg&ehbc=2E312F" title="Mapa del viaje a Iberá" width="100%" height="520" style="border:0;display:block" loading="lazy" allowfullscreen></iframe></div>
-  <p class="muted" style="margin:6px 0 0"><a href="https://www.google.com/maps/d/viewer?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg" target="_blank" rel="noopener">Abrir el mapa en pantalla completa</a></p>
-</section>
+    <div class="days-list">
 
-<!-- DÓNDE DORMIR -->
-<section id="dormir">
-  <h2>Dónde dormimos</h2>
-  <p class="lead">Dos hospedajes: el viernes 6, una noche en el Hotel de Campo, en Concordia, para partir el viaje; y del sábado 7 al martes 10, tres noches en Irupé Lodge, un hotel en Colonia Carlos Pellegrini con predio propio sobre la laguna.</p>
-  <div class="grid">
-    <article class="card lodge">
-      <span class="tag ok">reservado</span> <span class="tag ok">pagado</span>
-      <h3 style="margin:8px 0 4px">Hotel de Campo · Concordia · viernes 6</h3>
-      <div class="sub">Una noche, de paso · <a href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">Google Maps</a></div>
-      <ul>
-        <li><b>Dónde queda:</b> Ruta A015 km 6,5: se deja la RN 14 y son 6,5 km hacia Salto Grande, sin entrar a la ciudad.</li>
-        <li><b>Habitación:</b> doble con cama grande, aire acondicionado, baño privado y estacionamiento en el predio. Sin desayuno.</li>
-        <li><b>Precio y pago:</b> $68.000 la noche, <b>ya pagado</b> por transferencia el 1/10, con factura del hotel. Al llegar no queda nada por abonar. <a href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 comprobante de la transferencia</a> · <a href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 factura</a></li>
-        <li><b>Llegada:</b> viernes 6 entre las 22 y las 23 h, ya avisado y confirmado por el hotel (la recepción atiende hasta las 0:00).</li>
-        <li><b>Cena:</b> restaurante Ybi Porá, en la entrada del hotel, abierto los viernes de 20 a 0 h (~$20.000-30.000 por persona).</li>
-        <li><b>Contacto:</b> Roberto, por WhatsApp.</li>
-      </ul>
-    </article>
-    <article class="card lodge">
-      <span class="tag ok">reservado</span> <span class="tag ok">seña pagada</span>
-      <h3 style="margin:8px 0 4px">Irupé Lodge · habitación Doble Standard</h3>
-      <div class="sub">★ 4,4 en Google · 331 reseñas · 📷 <a href="https://irupelodge.com/" target="_blank" rel="noopener">Web</a> · <a href="https://www.facebook.com/hotelirupelodge/" target="_blank" rel="noopener">Facebook</a> · <a href="https://www.google.com/maps/search/?api=1&query=Irup%C3%A9+Lodge+Colonia+Carlos+Pellegrini" target="_blank" rel="noopener">Google Maps</a></div>
-      <ul>
-        <li><b>Dónde queda:</b> Laguna Iberá 1, Colonia Carlos Pellegrini · <a href="https://www.google.com/maps/search/?api=1&query=Irupe+Lodge+Colonia+Carlos+Pellegrini+Corrientes" target="_blank" rel="noopener">📍 abrir en Google Maps</a>.</li>
-        <li><b>Fotos:</b> <a href="https://drive.google.com/drive/folders/1WyQ0zHg0DsIfQE2s35YVIlmXW-DMUFW5" target="_blank" rel="noopener">📷 carpeta de Google Drive del hotel</a>.</li>
-        <li><b>Habitación:</b> 22 m², construcción elevada con ventanas panorámicas al parque y piso de madera; sommier, aire acondicionado frío/calor y ventilador de techo; baño privado con ducha, secador y amenities. En el ala más cercana a la casa principal, con salida al living y la biblioteca.</li>
-        <li><b>Incluye:</b> desayuno. Pileta y muelle sobre la laguna; restaurante El Camalotal en el predio (aparte).</li>
-        <li><b>Precio:</b> $405.000 las 3 noches, los dos ($150.000 la noche con 10% de promo primavera).</li>
-        <li><b>Reserva:</b> confirmada por mail el 1/10 (tarifa Promo Primavera).</li>
-        <li><b>Pago:</b> seña del 50% ($202.500) <b>ya pagada</b> por transferencia el 1/10; el resto ($202.500) al llegar, en efectivo, transferencia o tarjeta (crédito con recargo). <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">📄 comprobante de la seña</a></li>
-        <li><b>Horarios:</b> el ingreso es de 14 a 22:30 h (la recepción cierra a las 22:30) y la salida, hasta las 10 h. Llegamos el sábado 7 cerca de las 13:30; ya les avisamos la hora por mail.</li>
-        <li><b>Si hay que cancelar:</b> hasta el 7/10 retienen el 30%; del 8 al 23/10, el 70%; desde el 24/10, el 100%. Permiten un cambio de fecha, sujeto a disponibilidad y a la tarifa del momento.</li>
-        <li><b>Restaurante El Camalotal</b> (en el predio): menús rápidos y platos más elaborados, se reserva allá. Consultas de precios: +54 9 3773 50-0717.</li>
-        <li><b>Excursiones:</b> no incluye; se eligen allá, de a una. Con ellos: lancha $58.000, kayak o cabalgata $40.000 por persona. Con los guías del pueblo, lancha $40.000-45.000 (<a href="#hacer">ver precios</a>).</li>
-        <li><b>Para tener en cuenta:</b> las reseñas recientes son buenas, pero hay quejas viejas por cobros y reservas: guardar la confirmación y el comprobante de la seña.</li>
-      </ul>
-    </article>
-    <article class="card">
-      <h3 style="margin:0 0 6px">Aparte del alojamiento: gastos del viaje</h3>
-      <div class="tbl"><table><tbody>
-        <tr><td>Nafta</td><td class="num">$309.000</td></tr>
-        <tr><td>Peajes (TelePase)</td><td class="num">$39.000</td></tr>
-        <tr><td>Hotel en Concordia (ya pagado)</td><td class="num">$68.000</td></tr>
-        <tr><td>Comidas en ruta (cena vie, desayuno sáb, almuerzo y merienda mar)</td><td class="num">$160.000</td></tr>
-        <tr><td>Entrada al Parque Provincial ($23.000 × 2)</td><td class="num">$46.000</td></tr>
-        <tr><td><b>Total común</b></td><td class="num"><b>$622.000</b></td></tr>
-      </tbody></table></div>
-      <p class="muted" style="margin:8px 0 0">Allá se suman ~$210.000 de almuerzos y cenas en el pueblo (~$15.000 por persona por comida).</p>
-    </article>
-  </div>
-</section>
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">6</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">VIE</div></div>
+        <div class="day-body">
+          <div class="day-title">La Plata → Concordia · salimos a las 16 h</div>
+          <ul class="day-items">
+            <li><strong>16:00, La Plata:</strong> tanque lleno y saldo en TelePase (la RN 14 cobra solo electrónico). Víspera de finde largo: puede haber más tránsito de salida.</li>
+            <li><strong>~19:40, San José / Colón:</strong> primera carga de nafta y café.</li>
+            <li><strong>~21:30-22:30, Concordia:</strong> <strong>Hotel de Campo</strong>, Ruta A015 km 6,5. Se deja la RN 14 y son 6,5 km hacia Salto Grande, sin entrar a la ciudad. Avisamos que llegamos entre las 22 y las 23.</li>
+            <li><strong>Cena:</strong> restaurante Ybi Porá, en la entrada del hotel, abierto los viernes de 20 a 0 h (~$20.000-30.000 por persona).</li>
+          </ul>
+          <div class="alert-inline alert-green"><span class="icon">✅</span><span>La noche ya está paga ($68.000): al llegar no queda nada por abonar.</span></div>
+          <div class="cta-row">
+            <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">📍 Hotel de Campo</a>
+            <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 Comprobante</a>
+            <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 Factura</a>
+          </div>
+        </div>
+      </div>
 
-<!-- QUÉ HACER -->
-<section id="hacer">
-  <h2>Qué hacer allá</h2>
-  <p class="lead">Un ejemplo de cómo quedan los días. Siempre se pueden sumar los senderos y el Parque Nacional, que son gratis.</p>
-  <div class="grid" style="margin-top:18px;grid-template-columns:1fr">
-    <article class="card lodge">
-      <span class="tag info">Armado por nosotros</span>
-      <h3 style="margin:8px 0 4px">Ejemplo de cómo quedan los días</h3>
-      <div class="sub">Desayuno en el hotel, comidas en el pueblo y excursiones a elección</div>
-      <ul>
-        <li><b>Sáb 7:</b> llegada ~13:30, senderos del Parque Provincial o descanso · atardecer desde el puente · cena en Yacarú Porá.</li>
-        <li><b>Dom 8:</b> lancha a la mañana · almuerzo en Café de los Pájaros · senderos del Parque Provincial o cabalgata · safari nocturno (El Iberacero, $35.000 c/u).</li>
-        <li><b>Lun 9:</b> Parque Nacional Lobo Cuá o caminata guiada · almuerzo en Dalmacio Bar · kayak a la tarde, o la reserva Camba Trapo (3 a 4 h) · cena en Bar Destino Iberá.</li>
-        <li><b>Mar 10:</b> salida ~5:30, con la primera luz, y desayuno en Mercedes.</li>
-      </ul>
-      <p class="muted" style="margin:8px 0 0"></p>
-    </article>
-  </div>
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">7</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">SÁB</div></div>
+        <div class="day-body">
+          <div class="day-title">Concordia → Mercedes → Colonia Carlos Pellegrini</div>
+          <ul class="day-items">
+            <li><strong>7:30, Concordia:</strong> salida. El hotel no da desayuno: se desayuna en la ruta (YPF del km 296, acceso a Federación, a ~40 km).</li>
+            <li><strong>~9:00, Cuatro Bocas:</strong> se deja la RN 14 por la RN 119 (doble mano, 109 km). Tramos con zanjas por los camiones.</li>
+            <li><strong>~10:10, Mercedes:</strong> tanque lleno, algo para comer y salir ~10:55.</li>
+          </ul>
+          <div class="alert-inline alert-amber"><span class="icon">⛽</span><span><strong>Tanque lleno en Mercedes.</strong> En Pellegrini no hay estación de servicio ni cajeros, y desde Mercedes son 120 km sin nafta ni señal. Con el tanque lleno alcanza para llegar, movernos allá y volver a Mercedes.</span></div>
+          <ul class="day-items">
+            <li><strong>~11:00-13:30, RP 40:</strong> 50 km de asfalto en muy buen estado, 35 de ripio bueno y 35 de laja a ~30 km/h, cuidando cubiertas y el bajo del auto. Máximo 60 km/h.</li>
+            <li>Los últimos kilómetros ya son reserva natural y hay mucha fauna (carpinchos, ciervos): conviene hacerlos tranquilos, como parte del paseo.</li>
+            <li><strong>~13:30, Pellegrini:</strong> entrada al Parque Provincial antes del puente (pulsera, con DNI) y a Irupé Lodge.</li>
+          </ul>
+          <div class="alert-inline alert-red"><span class="icon">🌧️</span><span><strong>Si llovió los días previos:</strong> avisarle al hotel, que sabe qué tramos se embarran, y ver el plan de <a href="#lluvia">4x4 desde Mercedes</a>.</span></div>
+          <div class="cta-row">
+            <a class="cta-pill cta-map" href="https://www.google.com/maps/d/viewer?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg" target="_blank" rel="noopener">🗺️ Mapa del viaje</a>
+            <a class="cta-pill cta-pass" href="https://parqueibera.gob.ar/acceso-portales" target="_blank" rel="noopener">🛣️ Estado de los caminos</a>
+          </div>
+        </div>
+      </div>
 
+    </div>
+  </section>
 
-  <h3 class="sub-h">Excursiones sueltas: precios de hoy</h3>
-  <p class="muted">Cotizadas por WhatsApp el 30/9/2026, por persona. Irupé no incluye excursiones: se contratan con ellos o con estos guías. Todas con guías autorizados; la mayoría necesita la entrada al Parque Provincial ($23.000, 5 días). No incluyen traslados internos: vamos con el auto.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Excursión</th><th>Estero Ñe'e<span class="dates">La Voz del Iberá · Diana y Nico · 3773 40-6034</span></th><th>El Iberacero<span class="dates">camping municipal · 3773 41-2242</span></th><th>Agreste Iberá<span class="dates">Ingrid · 11 6625-6678</span></th><th>Travesía Iberá<span class="dates">Marcelo · 3794 32-3125</span></th><th>El Aninga<span class="dates">Mingo González · 3773 44-8830</span></th><th>Más barato, los dos</th></tr></thead>
-    <tbody>
-      <tr><td><b>Lancha por la laguna</b></td><td class="num">$45.000<span class="dates">1 h 30</span></td><td class="num">$40.000<span class="dates">mínimo 3 personas</span></td><td class="num">$40.000<span class="dates">2 h</span></td><td>—</td><td class="num">$45.000<span class="dates">2 h por canales: yacarés y ciervo de los pantanos</span></td><td class="num"><b>$80.000</b></td></tr>
-      <tr><td><b>Kayak</b></td><td class="num">$30.000<span class="dates">1 h 45</span></td><td class="num">$35.000</td><td class="num">$35.000</td><td class="num best"><b>$25.000</b><span class="dates">1 h 30, con equipo y guía</span></td><td class="num">$35.000<span class="dates">1 h 30, yacarés y aves acuáticas</span></td><td class="num"><b>$50.000</b></td></tr>
-      <tr><td><b>Safari nocturno</b> en vehículo</td><td>—</td><td class="num best">$35.000</td><td class="num">$42.000</td><td>—</td><td>—</td><td class="num"><b>$70.000</b></td></tr>
-      <tr><td><b>Cabalgata</b></td><td>—</td><td class="num">$35.000</td><td>—</td><td>—</td><td>—</td><td class="num"><b>$70.000</b></td></tr>
-      <tr><td>Trekking por senderos del Parque Provincial (2 h)</td><td class="num best">$25.000</td><td>—</td><td class="num">$27.000</td><td>—</td><td>—</td><td class="num">$50.000<span class="dates">o por cuenta propia, gratis</span></td></tr>
-      <tr><td>Caminata nocturna (1 h)</td><td class="num best">$25.000<span class="dates">Parque Provincial: lun, mié, vie y sáb · Parque Nacional: vie, sáb y dom</span></td><td>—</td><td class="num">$27.000</td><td>—</td><td>—</td><td class="num">$50.000</td></tr>
-      <tr><td><b>Reserva Camba Trapo</b></td><td class="num best">$50.000<span class="dates">caminata por pastizales, monte y palmares + kayak nocturno bajo las estrellas, 4 h (sujeto a disponibilidad)</span></td><td>—</td><td class="num">$75.000<span class="dates">aves, trekking, selva en galería y canoa, 3 h</span></td><td>—</td><td>—</td><td class="num">$100.000</td></tr>
-      <tr><td>Guiado cultural por el pueblo (2 h)</td><td class="muted">sin precio</td><td>—</td><td class="num">$30.000</td><td>—</td><td>—</td><td class="num">$60.000</td></tr>
-    </tbody>
-  </table></div>
-  <p class="muted" style="margin:6px 0 14px">Estero Ñe'e no pide seña: se agenda con un <a href="https://forms.gle/VjwuD7EcvpgB6ZBZ9" target="_blank" rel="noopener">formulario</a> y después arman el itinerario por WhatsApp. Agreste pide una seña chica y el resto por transferencia o Mercado Pago (<a href="https://www.agresteibera.com.ar" target="_blank" rel="noopener">agresteibera.com.ar</a>). <b>Iberá Guyrá</b> (Roque, 3773 62-8797) hace la reserva privada Camba Trapo con caminata y canoa tradicional: ~3 h, 7 km desde Pellegrini con avistaje en el camino, sendero, paseo en canoa desde el muelle y vuelta por la otra parte del sendero; todavía sin precio. Los senderos del Parque Provincial y el Parque Nacional se pueden hacer gratis por cuenta propia.</p>
+  <!-- ═══ PELLEGRINI ═══ -->
+  <section class="chapter" id="pellegrini">
+    <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Muelle_en_la_laguna_Iber%C3%A1_%28Colonia_Carlos_Pellegrini%29.jpg/1280px-Muelle_en_la_laguna_Iber%C3%A1_%28Colonia_Carlos_Pellegrini%29.jpg');">
+      <div class="chapter-header-overlay">
+        <div class="chapter-city">🐊 Colonia Carlos Pellegrini</div>
+        <div class="chapter-dates">Sábado 7 al martes 10 · Irupé Lodge · 3 noches con desayuno</div>
+        <div class="chapter-tags">
+          <span class="ctag ctag-hotel">🏨 Irupé Lodge · señado</span>
+          <span class="ctag ctag-star">Excursiones: se eligen allá</span>
+          <a class="ctag" href="#excursiones" style="background:rgba(212,112,10,0.7);color:#ffd599;text-decoration:none;">🛶 Precios</a>
+        </div>
+      </div>
+    </div>
+    <div class="days-list">
 
-  <h3 class="sub-h">Senderos</h3>
-  <article class="card lodge">
-    <ul style="margin:0;padding-left:18px">
-        <li><b>Parque Provincial</b> (con la entrada, 8 a 18 h): Carayá ~600 m · <b>Cerrito ~850 m</b>, pasarela sobre la laguna (el favorito) · de los Montes ~1.500 m, termina en mirador.</li>
-        <li><b>Parque Nacional</b> (gratis, 9 a 16 h): Lobo Cuá y Los Lapachos, <b>en bici</b>; torre mirador.</li>
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">7</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">SÁB</div></div>
+        <div class="day-body">
+          <div class="day-title">Llegada y primera tarde</div>
+          <ul class="day-items">
+            <li>Llegamos entre las 13 y las 14 h; el ingreso a la habitación es desde las 14.</li>
+            <li>Algo rápido para comer: <strong>Despensas Iberá</strong>, la única que abre de corrido a la siesta.</li>
+            <li>Senderos del Parque Provincial o descanso en la pileta y el muelle.</li>
+            <li>Atardecer desde el puente · cena en Yacarú Porá.</li>
+          </ul>
+          <div class="cta-row">
+            <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Irupe+Lodge+Colonia+Carlos+Pellegrini+Corrientes" target="_blank" rel="noopener">📍 Irupé Lodge</a>
+            <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">📄 Comprobante de la seña</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">8</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">DOM</div></div>
+        <div class="day-body">
+          <div class="day-title">Día entero · la laguna</div>
+          <ul class="day-items">
+            <li>Lancha a la mañana.</li>
+            <li>Almuerzo en Café de los Pájaros.</li>
+            <li>Senderos del Parque Provincial o cabalgata.</li>
+            <li>Safari nocturno.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">9</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">LUN</div></div>
+        <div class="day-body">
+          <div class="day-title">Día entero · feriado nacional</div>
+          <ul class="day-items">
+            <li>Parque Nacional (Lobo Cuá) o caminata guiada.</li>
+            <li>Almuerzo en Dalmacio Bar.</li>
+            <li>Kayak a la tarde, o la reserva <strong>Camba Trapo</strong> (3 a 4 h).</li>
+            <li>Cena en Bar Destino Iberá.</li>
+          </ul>
+          <div class="alert-inline alert-amber"><span class="icon">🧭</span><span>Los tres días son una idea de cómo pueden quedar: las excursiones se eligen allá, de a una. No hay día de reserva si llueve.</span></div>
+        </div>
+      </div>
+
+    </div>
+    <div class="wildlife-block">
+      <div class="wildlife-title">🦌 FAUNA Y SENDEROS</div>
+      <div class="wildlife-body">
+        Primavera: época de reproducción y de aves migratorias. <strong>Yacarés, carpinchos, ciervos de los pantanos, monos carayá</strong> y ~350 especies de aves; mejor al amanecer y al atardecer. Hay un yaguareté joven, "Ombú", suelto en la zona.<br>
+        <strong>Parque Provincial</strong> (con la entrada, 8 a 18 h): Carayá ~600 m · <strong>Cerrito ~850 m</strong>, pasarela sobre la laguna (el favorito) · de los Montes ~1.500 m, termina en mirador.<br>
+        <strong>Parque Nacional</strong> (gratis, 9 a 16 h): Lobo Cuá y Los Lapachos, en bici; torre mirador.
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ LA VUELTA ═══ -->
+  <section class="chapter" id="vuelta">
+    <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P%C3%B4r_do_sol_nos_Esteros_del_Iber%C3%A1_-_panoramio.jpg/1280px-P%C3%B4r_do_sol_nos_Esteros_del_Iber%C3%A1_-_panoramio.jpg');">
+      <div class="chapter-header-overlay">
+        <div class="chapter-city">🏠 La vuelta</div>
+        <div class="chapter-dates">Martes 10 · feriado en CABA · Pellegrini → La Plata de un tirón</div>
+        <div class="chapter-tags">
+          <span class="ctag ctag-car">🚗 ~11 h con paradas</span>
+          <span class="ctag ctag-pending">El miércoles 11 se trabaja</span>
+        </div>
+      </div>
+    </div>
+    <div class="days-list">
+      <div class="day-card">
+        <div class="day-badge"><div class="day-badge-num">10</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">MAR</div></div>
+        <div class="day-body">
+          <div class="day-title">Salida con la primera luz</div>
+          <ul class="day-items">
+            <li><strong>~5:30:</strong> salida (amanece ~5:50), para hacer el ripio ya con claridad.</li>
+            <li><strong>~8:00-8:15, Mercedes:</strong> carga de nafta y desayuno.</li>
+            <li><strong>~10:45, Concordia:</strong> café.</li>
+            <li><strong>~12:30, Colón:</strong> carga de nafta y almuerzo.</li>
+            <li><strong>~13:35:</strong> Gualeguaychú.</li>
+            <li><strong>~16:40-17:00:</strong> La Plata.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ HOSPEDAJES ═══ -->
+  <div class="section-divider" id="hospedajes">Hospedajes</div>
+
+  <div class="info-card">
+    <h3>Hotel de Campo · Concordia <span class="tag-ok">pagado</span></h3>
+    <div class="info-sub">Viernes 6 · una noche, de paso</div>
+    <ul class="day-items">
+      <li><strong>Dónde queda:</strong> Ruta A015 km 6,5, a 6,5 km de la RN 14 hacia Salto Grande, sin entrar a la ciudad.</li>
+      <li><strong>Habitación:</strong> doble con cama grande, aire acondicionado, baño privado y estacionamiento en el predio. Sin desayuno.</li>
+      <li><strong>Pago:</strong> $68.000, ya pagado por transferencia, con factura del hotel.</li>
+      <li><strong>Llegada:</strong> entre las 22 y las 23 h, avisado y confirmado (la recepción atiende hasta las 0:00). Contacto: Roberto, por WhatsApp.</li>
     </ul>
-    <p class="muted" style="margin:10px 0 0">Además: el pueblo fue nominado a Best Tourism Villages 2025 de ONU Turismo; hay un yaguareté joven, "Ombú", suelto en la zona; en el camino desde Mercedes ya se ve fauna, conviene ir despacio. <a href="https://youtu.be/ePa6NduDq28">Video del pueblo</a> (junio 2026, 26 min).</p>
-  </article>
-  
-
-  <details style="margin-top:22px"><summary style="font-size:16px">Guías y excursiones registradas en la Cámara de Turismo</summary>
-  <p class="muted">Para contratar excursiones sueltas . Listado oficial de la Cámara de Turismo del Iberá, sin precios publicados.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Prestador</th><th>Contacto</th><th>WhatsApp</th><th>Web / redes</th></tr></thead>
-    <tbody>
-      <tr><td><b>Esteros Ñe'e</b> (La Voz del Iberá, lanchas)</td><td>Diana Frete</td><td class="num">+54 9 3773 40-6034</td><td><a href="https://www.instagram.com/lavozdelyvera/" target="_blank" rel="noopener">@lavozdelyvera</a></td></tr>
-      <tr><td><b>El Aninga</b></td><td>Domingo René González</td><td class="num">+54 9 3773 44-8830</td><td><a href="https://www.instagram.com/aningaexcursiones22/" target="_blank" rel="noopener">@aningaexcursiones22</a></td></tr>
-      <tr><td><b>Iberá Guyrá</b></td><td>Roque Boccalandro</td><td class="num">+54 9 3773 62-8797</td><td><a href="https://www.instagram.com/roquehernanboccalandro/" target="_blank" rel="noopener">Instagram</a></td></tr>
-      <tr><td><b>Travesía Iberá</b></td><td>Marcelo Cabral</td><td class="num">+54 9 3794 32-3125</td><td><a href="https://www.instagram.com/travesia_ibera/" target="_blank" rel="noopener">@travesia_ibera</a></td></tr>
-      <tr><td><b>Agreste Iberá</b></td><td>Ingrid Wehner</td><td class="num">+54 11 6625-6678</td><td>agresteibera.com.ar</td></tr>
-      <tr><td><b>Iberá Spirit</b></td><td>Silvina Martínez</td><td class="muted">solo mail: info@iberaspirit.com.ar</td><td>iberaspirit.com.ar</td></tr>
-      <tr><td><b>Estancia San Antonio</b></td><td>Tiziana Prada</td><td class="num">+54 9 11 4538-6332</td><td><a href="https://www.instagram.com/brafordelchanar/" target="_blank" rel="noopener">Instagram</a></td></tr>
-    </tbody>
-  </table></div>
-  </details>
-
-  <h3 class="sub-h">Dónde comer y tomar café</h3>
-  <p class="lead">El hotel solo incluye el desayuno: almuerzos y cenas, en el pueblo. Puntaje de Google Maps; precio por persona según Google.</p>
-  <div class="tbl"><table>
-    <thead><tr><th>Lugar</th><th>Google</th><th>Precio p/p</th><th>Qué es</th><th>Qué destacan</th></tr></thead>
-    <tbody>
-      <tr><td><b>Café de los Pájaros</b></td><td class="num best">4,7 (909)</td><td class="num">$10-20 mil</td><td>cocina guaraní, café</td><td>"tenés que ir"; desayunos y meriendas; peatonal</td></tr>
-      <tr><td><b>Yacarú Porá</b></td><td class="num">4,4 (799)</td><td class="num">$10-20 mil</td><td>bodegón de pastas</td><td>pastas caseras abundantes</td></tr>
-      <tr><td><b>Don Marcos</b></td><td class="num">4,4 (577)</td><td class="muted">—</td><td>restaurante</td><td>"riquísima comida"</td></tr>
-      <tr><td><b>Bar Destino Iberá</b></td><td class="num">4,5 (356)</td><td class="num">$20-30 mil</td><td>restaurante</td><td>pastas y estofado; parque; abre hasta la 1</td></tr>
-      <tr><td><b>Dalmacio Bar</b></td><td class="num best">4,8 (184)</td><td class="num">$10-20 mil</td><td>bar</td><td>pizzas y sándwiches</td></tr>
-      <tr><td><b>Reiyel Resto-Bar</b></td><td class="num best">4,9 (43)</td><td class="num">$10-20 mil</td><td>pub</td><td>tostados abundantes; para llevar</td></tr>
-      <tr><td>Hospedaje Los Amigos</td><td class="num">4,7 (67)</td><td class="muted">—</td><td>restaurante</td><td>carne y vegetariano</td></tr>
-      <tr><td>Jajetopa</td><td class="num">4,8 (17)</td><td class="muted">—</td><td>comida típica</td><td>tortillas, sopa de arroz</td></tr>
-      <tr><td>Comedor Santa Rita</td><td class="num">4,8 (16)</td><td class="muted">—</td><td>comedor</td><td>empanadas para llevar</td></tr>
-      <tr><td>Camalotal Cocina</td><td class="num">4,5 (11)</td><td class="num">$10-40 mil</td><td>restaurante (Irupé Lodge)</td><td>ambiente cálido</td></tr>
-      <tr><td><b>Cafetería Costa Iberá</b></td><td class="num">4,5 (177)</td><td class="num">hasta $10 mil</td><td>cafetería</td><td>junto al camping; muy amables</td></tr>
-      <tr><td>Despensa La Familia</td><td class="num">4,5 (24)</td><td class="muted">—</td><td>almacén y helados</td><td>acepta Mercado Pago</td></tr>
-      <tr><td><b>Despensas Iberá</b><span class="dates"><a href="https://www.google.com/maps/search/?api=1&query=Despensas+ibera+Colonia+Carlos+Pellegrini" target="_blank" rel="noopener">Google Maps</a> · 03773 15-62-7261</span></td><td class="num best">4,9 (10)</td><td class="num">barato</td><td>almacén con comida al paso</td><td><b>La única que abre de corrido</b>: lo que hay abierto a la siesta (15 h) y el domingo al mediodía. Empanadas fritas, sándwich de milanesa, hamburguesa completa, fiambres, pan y bebidas. Poca variedad pero rico; una mesita afuera. Atiende Carlos. <b>Sirve para el sábado, que llegamos ~13:30, y para los mediodías después de una excursión.</b></td></tr>
-    </tbody>
-  </table></div>
-  <p class="muted" style="margin:10px 0 0"><b>WhatsApp de la Cámara de Turismo:</b> Café de los Pájaros +54 9 3773 44-1266 (@cafe.delospajaros) · Yacarú Porá +54 9 3773 47-4838 · Vinoteca Don Miguel +54 9 3773 45-9539 (@donmiguelvinoteca) · Complejo Ymbyaty +54 9 3794 92-0100 (@ymbyaty) · Arasá, dulces regionales +54 9 3773 40-1149 (@arasadulces) · Artesanías: Mercado del Yvera, 11 6337-8799 (@mercadodelyvera).</p>
-
-</section>
-
-<!-- ANTES DE IR -->
-<section id="antes">
-  <h2>Antes de ir</h2>
-  <p class="lead">Clima, fauna, plata y valija.</p>
-  <div class="grid">
-    <div class="card"><h3 style="margin-top:0">🌡️ Clima</h3><p style="margin:0">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</p></div>
-    <div class="card"><h3 style="margin-top:0">🐊 Fauna</h3><p style="margin:0">Primavera: reproducción y aves migratorias. Yacarés, carpinchos, ciervos, monos carayá y ~350 especies de aves. Mejor al amanecer y al atardecer.</p></div>
-    <div class="card"><h3 style="margin-top:0">🦟 Calor y mosquitos</h3><p style="margin:0">Lo fuerte llega de diciembre a febrero. Noviembre queda en el borde: repelente y manga larga liviana.</p></div>
-  </div>
-
-  <div class="grid">
-    <div class="card">
-      <h3 style="margin-top:0">💵 En destino</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Parque Provincial: <b>$23.000 por persona</b> (argentinos), válida 5 días, tarifa oficial desde el 1/7/2026. Se paga antes del puente, en efectivo o con débito, y te dan una pulsera. Es un trámite personal: <b>llevar el DNI</b>.</li>
-        <li>Parque Nacional: gratis.</li>
-        <li>Bebidas: aparte en todas.</li>
-        <li><b>Sin cajeros, bancos ni farmacia</b> en Pellegrini: llevar los remedios y <b>el efectivo desde La Plata</b> (en Mercedes hay bancos, como respaldo).</li>
-        <li><b>Cómo se paga allá:</b> las posadas cobran por transferencia y varias con tarjeta. En el pueblo, algunos comercios aceptan Mercado Pago (la Despensa La Familia, por ejemplo), pero muchos restaurantes, guías y almacenes cobran en efectivo, y con poca señal la transferencia o el QR pueden no andar.</li>
-        <li><b>Cuánto efectivo llevar (los dos):</b> con pensión completa, ~$250.000 (Parque $46.000, bebidas, propinas, café y helado, alguna excursión suelta y un margen para imprevistos). Comiendo en el pueblo, ~$500.000. Si el saldo de la posada se paga en efectivo, sumarlo aparte.</li>
-        <li><b>Sin surtidor de nafta</b>; según la Cámara de Turismo se vende suelta, pero conviene entrar con el tanque lleno desde Mercedes.</li>
-        <li><b>Señal:</b> ninguna en la ruta desde Mercedes (en el camino suele pasar gente dispuesta a ayudar). En el pueblo, poca: Movistar no anda y no encontramos datos confiables de Claro ni Personal. Las posadas tienen wifi (casi todas Starlink, a veces lento). <b>Preguntarle a la posada qué compañía funciona</b> y bajar los mapas offline antes de salir.</li>
-        <li>En la RP 40, máximo 60 km/h. Estado de los caminos, actualizado por el Parque: <a href="https://parqueibera.gob.ar/acceso-portales" target="_blank" rel="noopener">parqueibera.gob.ar/acceso-portales</a> (al 29/9, todos transitables).</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h3 style="margin-top:0">🎒 Qué llevar</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Protector solar, gorro y repelente.</li>
-        <li>Linterna (el pueblo tiene poca luz de noche), prismáticos y cámara.</li>
-        <li>Ropa liviana y algo de abrigo.</li>
-        <li>Calzado cerrado siempre; botas de goma si llueve; un par de medias extra por si se mojan.</li>
-        <li>Ropa cómoda, amplia y cerrada (por los mosquitos).</li>
-        <li>Traje de baño y toalla de pileta.</li>
-      </ul>
-    </div>
-  </div>
-</section>
-
-<!-- PENDIENTES -->
-<section id="pendientes">
-  <h2>Pendientes</h2>
-  <div class="grid">
-    <div class="card">
-      <h3 style="margin:0 0 6px">Para decidir</h3>
-      <ol style="margin:0;padding-left:20px">
-        <li>Excursiones: cuáles y con quién; Camba Trapo, posible.</li>
-      </ol>
-    </div>
-    <div class="card">
-      <h3 style="margin:0 0 6px">Esperando respuesta</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>Iberá Guyrá:</b> precio de la excursión a Camba Trapo.</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h3 style="margin:0 0 6px">Para pagar y avisar</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li>Saldo de Irupé ($202.500): se paga al llegar.</li>
-        <li>Llevar los comprobantes de las dos transferencias (Irupé y Hotel de Campo): Irupé: <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">📄 comprobante de la seña</a>. Hotel de Campo: <a href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 comprobante de la transferencia</a> y <a href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 factura</a>.</li>
-      </ul>
+    <div class="cta-row">
+      <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">📍 Google Maps</a>
+      <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 Comprobante</a>
+      <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 Factura</a>
     </div>
   </div>
 
-  <h3>Para no olvidarnos</h3>
-  <p class="lead">Dos listas: lo que hay que resolver con unos días de margen y lo que va en la valija, que se arma el día anterior. Vamos en auto, así que el espacio no es problema.</p>
-  <div class="grid">
-    <div class="card">
-      <h3 style="margin:0 0 6px">🗓️ Los días previos</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>Efectivo:</b> sacar la cuenta de cuánto salen las excursiones y cuánto podemos gastar en comidas, algún regalo y demás, y <b>llevarlo desde La Plata</b>. No confiar en Mercado Pago ni en transferencias; si sobra, vuelve con nosotros. La referencia de montos está en <a href="#antes">En destino</a>.</li>
-        <li><b>Auto:</b> lavarlo unos días antes o el día anterior.</li>
-        <li><b>Auto:</b> arreglar la alfombra del conductor, que está zafada.</li>
-        <li><b>Auto:</b> inflar las cubiertas antes de salir a la ruta.</li>
-        <li><b>Auto:</b> revisar la rueda de auxilio, el aceite y el agua.</li>
-        <li><b>Papeles:</b> tener a mano los DNI, la cédula del auto, el seguro y la VTV.</li>
-        <li><b>Mapas:</b> bajar los mapas offline de Google Maps (en la ruta desde Mercedes no hay señal).</li>
-        <li><b>Cámara:</b> cargar las baterías y revisar el estado de las memorias SD.</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h3 style="margin:0 0 6px">🧳 La valija (el día anterior)</h3>
-      <ul style="margin:0;padding-left:18px">
-        <li><b>Botiquín:</b> ibuprofeno 600 y Flexicamin, por los dolores de espalda y cintura de tantas horas de auto; gotas para los ojos.</li>
-        <li><b>Sol y mosquitos:</b> protector solar de cuerpo y de cara, gorras, anteojos de sol y <b>repelente</b> (muy importante).</li>
-        <li><b>Ropa:</b> de verano, uno o dos pantalones largos, campera de viento y un buzo por las dudas.</li>
-        <li><b>Chancletas</b> para estar cómodos en los hospedajes.</li>
-        <li><b>Cámara:</b> baterías cargadas, memorias SD, el cargador de las baterías, y la bombita de aire y el pincel para limpiar los lentes.</li>
-        <li>Cargadores de los teléfonos.</li>
-        <li><b>Papeles:</b> los DNI (se piden en la entrada al Parque), la cédula del auto, el seguro y la VTV.</li>
-        <li>Mate y termo.</li>
-        <li>Para el auto: el <b>almohadón lumbar</b> para el asiento (son muchas horas de manejo por tramo).</li>
-        <li>Y lo que recomiendan las posadas, en <a href="#antes">Qué llevar</a>: linterna, prismáticos, calzado cerrado, medias extra, traje de baño y toalla.</li>
-      </ul>
+  <div class="info-card">
+    <h3>Irupé Lodge · Pellegrini <span class="tag-ok">señado</span></h3>
+    <div class="info-sub">Sábado 7 al martes 10 · 3 noches · habitación Doble Standard · ★ 4,4 en Google (331 reseñas)</div>
+    <ul class="day-items">
+      <li><strong>Habitación:</strong> 22 m², elevada, con ventanas al parque y piso de madera; sommier, aire frío/calor y ventilador de techo; baño privado. En el ala más cercana a la casa principal.</li>
+      <li><strong>Incluye:</strong> desayuno, pileta y muelle sobre la laguna.</li>
+      <li><strong>Precio:</strong> $405.000 las 3 noches, los dos. Seña de $202.500 ya pagada; <strong>el resto ($202.500) se paga allá</strong>, en efectivo, transferencia o tarjeta (crédito con recargo).</li>
+      <li><strong>Horarios:</strong> ingreso de 14 a 22:30 h (la recepción cierra a las 22:30); salida hasta las 10 h. Ya avisamos que llegamos entre las 13 y las 14.</li>
+      <li><strong>Restaurante El Camalotal</strong>, en el predio: menús rápidos y platos más elaborados, se reserva allá. Consultas: +54 9 3773 50-0717.</li>
+      <li><strong>Excursiones con ellos:</strong> lancha $58.000, kayak o cabalgata $40.000 por persona. Con los guías del pueblo salen menos (<a href="#excursiones">ver precios</a>).</li>
+      <li><strong>Si hay que cancelar:</strong> hasta el 7/10 retienen el 30%; del 8 al 23/10, el 70%; desde el 24/10, el 100%. Permiten un cambio de fecha.</li>
+    </ul>
+    <div class="cta-row">
+      <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Irupe+Lodge+Colonia+Carlos+Pellegrini+Corrientes" target="_blank" rel="noopener">📍 Google Maps</a>
+      <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">📄 Comprobante de la seña</a>
+      <a class="cta-pill cta-pass" href="https://drive.google.com/drive/folders/1WyQ0zHg0DsIfQE2s35YVIlmXW-DMUFW5" target="_blank" rel="noopener">📷 Fotos del hotel</a>
+      <a class="cta-pill cta-pass" href="https://irupelodge.com/" target="_blank" rel="noopener">🌐 Web</a>
     </div>
   </div>
-</section>
 
-<!-- MÁS DETALLE -->
-<section id="mas">
-  <h2>Más detalle</h2>
-  <p class="lead">Todo lo relevado, con fuentes, está en <a href="investigacion.md">investigacion.md</a>: las 25 fuentes sobre cuántas noches, las cotizaciones de 4 noches, los chats con cada posada, los vuelos y traslados desde los aeropuertos, las opciones descartadas (micro, Rincón del Socorro, El Tránsito en Portal Carambola) y el historial de cada consulta.</p>
-</section>
+  <!-- ═══ EXCURSIONES ═══ -->
+  <div class="section-divider" id="excursiones">Excursiones</div>
+  <p class="sec-lead">Precios por persona, cotizados el 30/9 con los guías del pueblo. Se contratan allá, de a una. Casi todas necesitan la entrada al Parque Provincial. Vamos con nuestro auto hasta el punto de salida.</p>
+
+  <div class="times-card" style="margin-top:0">
+    <div class="times-header">🛶 Qué se puede hacer y cuánto sale</div>
+    <div class="times-row"><div class="times-segment"><strong>Lancha por la laguna</strong><small>1 h 30 a 2 h, por canales: yacarés y ciervo de los pantanos. Agreste y El Iberacero (mínimo 3 personas) $40.000 · Estero Ñe'e y El Aninga $45.000.</small></div><div class="times-real">$40.000-45.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Kayak</strong><small>1 h 30, con equipo y guía. Travesía Iberá $25.000 · Estero Ñe'e $30.000 · los demás $35.000.</small></div><div class="times-real">$25.000-35.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Safari nocturno</strong> en vehículo<small>El Iberacero $35.000 · Agreste $42.000.</small></div><div class="times-real">$35.000-42.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Cabalgata</strong><small>El Iberacero.</small></div><div class="times-real">$35.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Reserva Camba Trapo</strong><small>Estero Ñe'e $50.000: caminata por pastizales, monte y palmares + kayak nocturno, 4 h. Agreste $75.000: aves, trekking, selva en galería y canoa, 3 h. Iberá Guyrá: caminata y canoa tradicional, ~3 h, todavía sin precio.</small></div><div class="times-real">$50.000-75.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Trekking guiado</strong> por los senderos (2 h)<small>Estero Ñe'e $25.000 · Agreste $27.000. Por cuenta propia es gratis.</small></div><div class="times-real">$25.000-27.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Caminata nocturna</strong> (1 h)<small>Estero Ñe'e $25.000 · Agreste $27.000. Parque Provincial: lun, mié, vie y sáb. Parque Nacional: vie, sáb y dom.</small></div><div class="times-real">$25.000-27.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Guiado cultural por el pueblo</strong> (2 h)<small>Agreste.</small></div><div class="times-real">$30.000</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Senderos del Parque Provincial y Parque Nacional</strong><small>Por cuenta propia.</small></div><div class="times-real ok">gratis</div></div>
+  </div>
+
+  <div class="zones-grid">
+    <div class="zone-card info">
+      <h4>📱 Guías</h4>
+      <div class="zone-item"><span><b>Estero Ñe'e</b> (La Voz del Iberá, Diana y Nico) · 3773 40-6034. Sin seña: se agenda con un <a href="https://forms.gle/VjwuD7EcvpgB6ZBZ9" target="_blank" rel="noopener">formulario</a>.</span></div>
+      <div class="zone-item"><span><b>El Iberacero</b> (camping municipal) · 3773 41-2242.</span></div>
+      <div class="zone-item"><span><b>Agreste Iberá</b> (Ingrid) · 11 6625-6678. Seña chica y el resto por transferencia.</span></div>
+    </div>
+    <div class="zone-card info">
+      <h4>📱 Más guías</h4>
+      <div class="zone-item"><span><b>Travesía Iberá</b> (Marcelo) · 3794 32-3125.</span></div>
+      <div class="zone-item"><span><b>El Aninga</b> (Mingo González) · 3773 44-8830.</span></div>
+      <div class="zone-item"><span><b>Iberá Guyrá</b> (Roque) · 3773 62-8797.</span></div>
+    </div>
+  </div>
+
+  <!-- ═══ COMER ═══ -->
+  <div class="section-divider" id="comer">Dónde comer</div>
+  <p class="sec-lead">El hotel incluye solo el desayuno: almuerzos y cenas, en el pueblo. La mayoría sale $10.000-20.000 por persona.</p>
+
+  <div class="rules-grid">
+    <div class="rule-card"><div class="rule-heading">Café de los Pájaros · ★ 4,7</div><div class="rule-text">Cocina guaraní y café. Desayunos y meriendas; en la peatonal. +54 9 3773 44-1266.</div></div>
+    <div class="rule-card"><div class="rule-heading">Yacarú Porá · ★ 4,4</div><div class="rule-text">Bodegón de pastas caseras, abundantes. +54 9 3773 47-4838.</div></div>
+    <div class="rule-card"><div class="rule-heading">Bar Destino Iberá · ★ 4,5</div><div class="rule-text">Pastas y estofado, con parque. Abre hasta la 1. $20.000-30.000.</div></div>
+    <div class="rule-card"><div class="rule-heading">Dalmacio Bar · ★ 4,8</div><div class="rule-text">Pizzas y sándwiches.</div></div>
+    <div class="rule-card"><div class="rule-heading">Don Marcos · ★ 4,4</div><div class="rule-text">Restaurante; "riquísima comida".</div></div>
+    <div class="rule-card"><div class="rule-heading">Reiyel Resto-Bar · ★ 4,9</div><div class="rule-text">Tostados abundantes; también para llevar.</div></div>
+    <div class="rule-card"><div class="rule-heading">Despensas Iberá · ★ 4,9</div><div class="rule-text"><strong>La única que abre de corrido</strong>: a la siesta y el domingo al mediodía. Empanadas fritas, sándwich de milanesa, hamburguesa completa, fiambres, pan y bebidas. Atiende Carlos · 03773 15-62-7261.</div></div>
+    <div class="rule-card"><div class="rule-heading">Cafetería Costa Iberá · ★ 4,5</div><div class="rule-text">Junto al camping; hasta $10.000.</div></div>
+    <div class="rule-card"><div class="rule-heading">También</div><div class="rule-text">El Camalotal (en Irupé) · Hospedaje Los Amigos (carne y vegetariano) · Jajetopa (comida típica) · Comedor Santa Rita (empanadas para llevar) · Despensa La Familia (almacén y helados, acepta Mercado Pago).</div></div>
+  </div>
+
+  <!-- ═══ RUTA Y MAPA ═══ -->
+  <div class="section-divider" id="ruta">Ruta y mapa</div>
+  <p class="sec-lead">RN 14, autovía completa desde Ceibas → en Cuatro Bocas, RN 119 → Mercedes → RP 40. En la RN 14 hay controles; el máximo en autovía es 130 km/h. Entramos y salimos por Mercedes.</p>
+
+  <div class="zones-grid" style="margin-top:0">
+    <div class="zone-card info">
+      <h4>⛽ Shell (V-Power), en orden de ida</h4>
+      <div class="zone-item"><span>Escobar, Panamericana km 54.</span></div>
+      <div class="zone-item"><span>Ceibas, RN 14 km 5.</span></div>
+      <div class="zone-item"><span>Gualeguaychú, RN 14 km 48,5 y km 52,5.</span></div>
+      <div class="zone-item"><span>Colón, RN 14 y ruta 135.</span></div>
+      <div class="zone-item"><span>Concordia, RN 14 km 256 (cruce con la ruta 22).</span></div>
+      <div class="zone-item"><span>Chajarí y Curuzú Cuatiá: dentro de cada ciudad.</span></div>
+      <div class="zone-item"><span><b>Mercedes</b>, España y Bartolomé Mitre: la última antes del ripio.</span></div>
+    </div>
+    <div class="zone-card info">
+      <h4>☕ YPF, para un café</h4>
+      <div class="zone-item"><span>Campana, Panamericana km 72.</span></div>
+      <div class="zone-item"><span>Zárate, RN 12, antes del cruce a Entre Ríos.</span></div>
+      <div class="zone-item"><span>RN 14 km 105 (Colonia Elía) y km 142,9.</span></div>
+      <div class="zone-item"><span>Colón, RN 14 km 150 (ACA).</span></div>
+      <div class="zone-item"><span>RN 14 km 246 y km 248, antes de Concordia (tienda Full).</span></div>
+      <div class="zone-item"><span><b>RN 14 km 296</b>, acceso a Federación (tienda Full): el desayuno del sábado.</span></div>
+      <div class="zone-item"><span>Cuatro Bocas, RN 14 km 406 · Curuzú Cuatiá (ACA) · Mercedes, J. M. Gómez 701.</span></div>
+    </div>
+    <div class="zone-card info">
+      <h4>🥐 En Mercedes, café y panadería</h4>
+      <div class="zone-item"><span><b>Casa España</b>, España 620: cafetería, ★ 4,8.</span></div>
+      <div class="zone-item"><span><b>El Pastelero</b>, Juan Pujol y Belgrano: panadería y confitería, ★ 4,5; abre 7:30.</span></div>
+      <div class="zone-item"><span><b>Abuela Lala</b>, San Martín 602: panadería y cafetería, ★ 4,2.</span></div>
+    </div>
+    <div class="zone-card info">
+      <h4>💰 Nafta y peajes</h4>
+      <div class="zone-item"><span>~1.750 km en total → <b>~$309.000</b> de nafta.</span></div>
+      <div class="zone-item"><span>4 cargas: Colón y Mercedes a la ida, Mercedes y Colón a la vuelta.</span></div>
+      <div class="zone-item"><span>Peajes ~$39.000 ida y vuelta, con TelePase.</span></div>
+      <div class="zone-item"><span>~19 h de manejo en total: conviene turnarse.</span></div>
+    </div>
+  </div>
+
+  <div class="info-card" id="lluvia">
+    <h3>🌧️ Si llueve · 4x4 desde Mercedes · 2 h</h3>
+    <div class="info-sub">Mirar el pronóstico el viernes y el lunes a la noche.</div>
+    <ul class="day-items">
+      <li>Con el ripio mojado, dejamos el auto en Mercedes y hacemos el último tramo en camioneta.</li>
+      <li><strong>Dónde dejar el auto:</strong> Estacionamiento Mohalem, Sarmiento 489, a 2 cuadras de la plaza de Mercedes · 03773-420096.</li>
+      <li>Casi todos cobran lo mismo: <strong>$160.000-170.000 por tramo, ~$320.000-340.000 ida y vuelta</strong>, camioneta para hasta 4.</li>
+    </ul>
+    <ul class="day-items" style="margin-top:10px">
+      <li><strong>Valentín</strong> · +54 9 3773 40-8132: $320.000 ida y vuelta; se reserva con el 50%, o pagando el total, 10% menos: <strong>$288.000</strong> (el más barato).</li>
+      <li><strong>Daniel Aguirre</strong> · +54 9 3773 62-7687: <strong>$160.000 por tramo</strong>; punto de encuentro y hora a elección.</li>
+      <li>Víctor Flores · +54 9 3773 46-3857: $170.000 por tramo.</li>
+      <li>Martín Sandoval · +54 9 3773 52-8283: $340.000 ida y vuelta.</li>
+      <li>Norma Pelozo (Transporte 2 de Abril) · 3773-43 7847: $350.000 ida y vuelta.</li>
+      <li>Rafael Muzio (El Yetapa Viajes) · 3773 413081: $360.000 ida y vuelta; él pone fecha, lugar y hora.</li>
+      <li>Miguel · +54 9 3773 40-2274 (contacto de Irupé): $360.000 ida y vuelta.</li>
+      <li>Máximo Ojeda (con Karina) · +54 9 3773 45-0486: $390.000 ida y vuelta, sin IVA; doble cabina.</li>
+      <li>Ñandé Retá (4x4 de la posada): $170.000 por tramo.</li>
+      <li>Sin precio: Sr. Beto 03773-15627774 · Combi de Daniel Ortiz 03773 15431469 (sin WhatsApp).</li>
+    </ul>
+  </div>
+
+  <div class="map-frame" id="mapa" style="margin-top:16px"><iframe src="https://www.google.com/maps/d/embed?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg&ehbc=2E312F" title="Mapa del viaje a Iberá" loading="lazy" allowfullscreen></iframe></div>
+  <div class="cta-row" style="justify-content:center"><a class="cta-pill cta-map" href="https://www.google.com/maps/d/viewer?mid=1ULdUl6SfbcXrjdwRVrvNGit2RxSWYPg" target="_blank" rel="noopener">🗺️ Abrir el mapa en pantalla completa</a></div>
+
+  <!-- ═══ DATOS ÚTILES ═══ -->
+  <div class="section-divider" id="datos">Datos útiles</div>
+
+  <div class="rules-grid">
+    <div class="rule-card"><span class="rule-icon">💵</span><div class="rule-heading">Efectivo desde La Plata</div><div class="rule-text">En Pellegrini no hay cajeros, bancos ni farmacia. Muchos restaurantes, guías y almacenes cobran en efectivo, y con poca señal el QR o la transferencia pueden no andar. Referencia para los dos, comiendo en el pueblo: ~$500.000, más el saldo de Irupé si se paga en efectivo. En Mercedes hay bancos, como respaldo.</div></div>
+    <div class="rule-card"><span class="rule-icon">🎟️</span><div class="rule-heading">Entrada al Parque Provincial</div><div class="rule-text">$23.000 por persona, vale 5 días. Se paga antes del puente, en efectivo o con débito, y te dan una pulsera. Trámite personal: llevar el DNI. El Parque Nacional es gratis.</div></div>
+    <div class="rule-card"><span class="rule-icon">📶</span><div class="rule-heading">Señal</div><div class="rule-text">Ninguna en la ruta desde Mercedes. En el pueblo, poca: Movistar no anda. Los hospedajes tienen wifi. Bajar los mapas offline antes de salir.</div></div>
+    <div class="rule-card"><span class="rule-icon">⛽</span><div class="rule-heading">Nafta</div><div class="rule-text">Sin surtidor en Pellegrini. Entrar con el tanque lleno desde Mercedes, que es también la primera parada a la vuelta.</div></div>
+    <div class="rule-card"><span class="rule-icon">🌡️</span><div class="rule-heading">Clima</div><div class="rule-text">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</div></div>
+    <div class="rule-card"><span class="rule-icon">🦟</span><div class="rule-heading">Mosquitos</div><div class="rule-text">Lo fuerte llega de diciembre a febrero; noviembre queda en el borde. Repelente y manga larga liviana.</div></div>
+  </div>
+
+  <div class="times-card">
+    <div class="times-header">💰 Gastos del viaje, los dos</div>
+    <div class="times-row"><div class="times-segment">Irupé Lodge, 3 noches<small>$202.500 ya pagados; $202.500 al llegar</small></div><div class="times-real">$405.000</div></div>
+    <div class="times-row"><div class="times-segment">Hotel de Campo, Concordia<small>ya pagado</small></div><div class="times-real ok">$68.000</div></div>
+    <div class="times-row"><div class="times-segment">Nafta</div><div class="times-real">$309.000</div></div>
+    <div class="times-row"><div class="times-segment">Peajes (TelePase)</div><div class="times-real">$39.000</div></div>
+    <div class="times-row"><div class="times-segment">Comidas en ruta<small>cena del viernes, desayuno del sábado, almuerzo y merienda del martes</small></div><div class="times-real">$160.000</div></div>
+    <div class="times-row"><div class="times-segment">Almuerzos y cenas en el pueblo<small>~$15.000 por persona por comida</small></div><div class="times-real">$210.000</div></div>
+    <div class="times-row"><div class="times-segment">Entrada al Parque Provincial<small>$23.000 × 2</small></div><div class="times-real">$46.000</div></div>
+    <div class="times-row total"><div class="times-segment">Total sin excursiones</div><div class="times-real">$1.237.000</div></div>
+  </div>
+
+  <!-- ═══ PENDIENTES ═══ -->
+  <div class="section-divider" id="pendientes">Pendientes</div>
+
+  <div class="checklist-grid">
+
+    <div class="check-item pending">
+      <div class="check-header"><span class="check-badge">🛶</span><span class="check-title">Elegir las excursiones</span><span class="check-status">Falta</span></div>
+      <div class="check-body">Cuáles y con quién; Camba Trapo, posible. Falta el precio de Iberá Guyrá.</div>
+    </div>
+
+    <div class="check-item pending">
+      <div class="check-header"><span class="check-badge">🗓️</span><span class="check-title">Los días previos</span><span class="check-status">Falta</span></div>
+      <div class="check-body">
+        <ul class="check-list">
+          <li><b>Efectivo:</b> sacar la cuenta de excursiones, comidas y algún regalo, y llevarlo desde La Plata. Si sobra, vuelve con nosotros.</li>
+          <li><b>Auto:</b> lavarlo unos días antes o el día anterior.</li>
+          <li><b>Auto:</b> arreglar la alfombra del conductor, que está zafada.</li>
+          <li><b>Auto:</b> inflar las cubiertas antes de salir a la ruta.</li>
+          <li><b>Auto:</b> revisar la rueda de auxilio, el criquet, el aceite y el agua.</li>
+          <li><b>Papeles:</b> tener a mano los DNI, la cédula del auto, el seguro y la VTV.</li>
+          <li><b>Mapas:</b> bajar los mapas offline de Google Maps.</li>
+          <li><b>Cámara:</b> cargar las baterías y revisar las memorias SD.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="check-item pending">
+      <div class="check-header"><span class="check-badge">🧳</span><span class="check-title">La valija, el día anterior</span><span class="check-status">Falta</span></div>
+      <div class="check-body">
+        <strong class="check-group">Botiquín</strong>
+        <ul class="check-list">
+          <li>Ibuprofeno 600 y Flexicamin, por la espalda y la cintura.</li>
+          <li>Gotas para los ojos.</li>
+        </ul>
+        <strong class="check-group">Sol y mosquitos</strong>
+        <ul class="check-list">
+          <li>Protector solar de cuerpo y de cara.</li>
+          <li>Gorras y anteojos de sol.</li>
+          <li><b>Repelente</b> (muy importante).</li>
+        </ul>
+        <strong class="check-group">Ropa</strong>
+        <ul class="check-list">
+          <li>De verano, cómoda y amplia; uno o dos pantalones largos.</li>
+          <li>Campera de viento y un buzo por las dudas.</li>
+          <li>Calzado cerrado, un par de medias extra y chancletas para los hospedajes.</li>
+          <li>Botas de goma si llueve.</li>
+          <li>Traje de baño y toalla de pileta.</li>
+        </ul>
+        <strong class="check-group">Cámara y electrónica</strong>
+        <ul class="check-list">
+          <li>Baterías cargadas, cargador de las baterías y memorias SD.</li>
+          <li>Bombita de aire y pincel para limpiar los lentes.</li>
+          <li>Prismáticos y linterna (el pueblo tiene poca luz de noche).</li>
+          <li>Cargadores de los teléfonos.</li>
+        </ul>
+        <strong class="check-group">Para el auto</strong>
+        <ul class="check-list">
+          <li>DNI, cédula del auto, seguro y VTV.</li>
+          <li>Almohadón lumbar para el asiento.</li>
+          <li>Mate y termo.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="check-item pending">
+      <div class="check-header"><span class="check-badge">💵</span><span class="check-title">Saldo de Irupé</span><span class="check-status">Allá</span></div>
+      <div class="check-body">$202.500, se paga en el hotel. Llevar el <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">comprobante de la seña</a>.</div>
+    </div>
+
+    <div class="check-item done">
+      <div class="check-header"><span class="check-badge">🏨</span><span class="check-title">Irupé Lodge: reserva y seña</span><span class="check-status">Listo ✓</span></div>
+      <div class="check-body">Confirmado por mail, seña de $202.500 pagada y hora de llegada avisada. <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">Comprobante</a>.</div>
+    </div>
+
+    <div class="check-item done">
+      <div class="check-header"><span class="check-badge">🛏️</span><span class="check-title">Hotel de Campo, Concordia</span><span class="check-status">Listo ✓</span></div>
+      <div class="check-body">$68.000 pagados, llegada de 22 a 23 h confirmada. <a href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">Comprobante</a> · <a href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">factura</a>.</div>
+    </div>
+
+  </div>
 
 </main>
 
-<footer>
-  <div class="wrap">Precios cotizados entre el 28/9 y el 1/10/2026 por WhatsApp, mail y PDFs de las posadas. Todos los montos en pesos argentinos. Detalle completo y fuentes en <code>investigacion.md</code>.</div>
+<footer class="footer">
+  <strong>Iberá 2026</strong><br>
+  Viernes 6 al martes 10 de noviembre · 3 noches en Colonia Carlos Pellegrini<br>
+  Precios cotizados entre el 28/9 y el 1/10/2026, en pesos argentinos 🐊
 </footer>
+
+<button id="scroll-top" class="scroll-top-btn" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Volver arriba">↑</button>
+
+<script>
+const sections = document.querySelectorAll('section[id], .section-divider[id]');
+const navLinks = document.querySelectorAll('.nav-link');
+window.addEventListener('scroll', () => {
+  let current = '';
+  sections.forEach(s => { if (window.scrollY >= s.offsetTop - 80) current = s.id; });
+  navLinks.forEach(a => { a.classList.toggle('active', a.getAttribute('href') === '#' + current); });
+});
+function openMobileMenu() {
+  document.getElementById('mobile-menu').classList.add('open');
+  document.getElementById('mobile-overlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeMobileMenu() {
+  document.getElementById('mobile-menu').classList.remove('open');
+  document.getElementById('mobile-overlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeMobileMenu(); });
+const scrollTopBtn = document.getElementById('scroll-top');
+window.addEventListener('scroll', () => {
+  scrollTopBtn.classList.toggle('visible', window.scrollY > 500);
+}, { passive: true });
+</script>
 
 </body>
 </html>
