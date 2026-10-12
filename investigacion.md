@@ -1023,6 +1023,36 @@ Daniel bajó el 12/10 las apps gratuitas **Merlin Bird ID**, **eBird** e **iNatu
 
 Las tres son gratis y sin suscripción. La guía de campo sin señal es el paquete de Merlin más el libro. Fuentes: [Merlin, Cornell Lab](https://merlin.allaboutbirds.org/) · [paquetes de Merlin](https://support.ebird.org/en/support/solutions/articles/48000966223) · [Sound ID](https://merlin.allaboutbirds.org/sound-id/) · [eBird, balance 2025](https://ebird.org/news/2025-year-in-review) · [iNaturalist sin conexión](https://forum.inaturalist.org/t/how-to-use-the-inaturalist-mobile-app-without-an-internet-connection/11620) · [eBird, punto de Pellegrini](https://ebird.org/hotspot/L12940433).
 
+## 8h. Video con la Nikon D7500 para reels (12/10/2026, pedido de Daniel)
+
+Daniel quiere ejercitar el video para tener clips cortos de fauna y armar reels (ver 8f). Trabaja la foto en manual con ISO automático y velocidades altas; no usa trípode y filma con el 150-600. Pidió una sección de consejos con distintos seteos para probar. Confirmado en el manual en línea de la D7500: el menú de video tiene "Control auto. sensibilidad ISO (modo M)", así que su forma de trabajar (manual + ISO automático) sirve igual en video; cuadros disponibles: 4K a 30/25/24p y 1080 a 60/50/30/25/24p; VR electrónico como opción del menú de video (Nikon lo anuncia solo para 1080); en 4K el recorte total pasa de 1,5x a 2,2x.
+
+**El cambio de cabeza respecto de la foto:** en video la velocidad NO va alta. Regla: el doble de los cuadros por segundo (60p → 1/125; 30p → 1/60). Con 1/1000 cada cuadro queda nítido pero el movimiento se ve entrecortado. La velocidad queda fija y la exposición la manejan el diafragma y el ISO automático.
+
+**Seteos para probar (todos en M, ISO automático con máximo 6400, VR del lente encendido):**
+| Seteo | Tamaño y cuadros | Velocidad | Diafragma | Para qué |
+|---|---|---|---|---|
+| 1. Base, cámara lenta | 1080 a 60p | 1/125 | f/8 | El de todos los días. Al editar se pasa a mitad de velocidad y disimula el temblor. VR electrónico encendido. |
+| 2. Velocidad real | 1080 a 30p | 1/60 | f/8 a f/11 | Animal quieto, escenas con sonido ambiente. VR electrónico encendido. |
+| 3. Máxima calidad | 4K a 30p | 1/60 | f/8 a f/11 | Solo con el lente apoyado: sin VR electrónico y con recorte extra (150 mm rinde como unos 340 mm). Deja margen para recortar a vertical. |
+| 4. Acción | 1080 a 60p | 1/250 a 1/500 | f/6.3 | Aves en vuelo, corridas. Más nítido cuadro por cuadro, menos fluido. |
+
+**Ajustes comunes:**
+- Balance de blancos fijo (Luz día o Nublado), no automático: en automático el color cambia en medio de la toma.
+- Picture Control Estándar o Neutro; el Neutro deja más margen para editar.
+- Foco: enfocar antes de grabar y pasar a manual. El autofoco en video de esta cámara es lento y va y viene.
+- Mucha luz: a 1/125 y f/6.3 al mediodía la imagen se quema aunque el ISO esté en 100. Cerrar a f/11 o f/16, o filmar temprano y al atardecer.
+- Tomas de 5 a 8 segundos, arrancando a grabar un par de segundos antes de lo que interesa.
+- Probar si los modos U1 y U2 del dial guardan el seteo de video, para pasar de foto a video con un giro (no confirmado).
+
+**Sostener el lente sin trípode:** bolsita de arroz o porotos sobre la ventanilla del auto o la baranda de la lancha; monopié; filmar en 150-250 mm; girar la cámara a vertical con el collar del lente para grabar directo en formato de reel; estabilizar además en la app al editar.
+
+**Ejercicios antes del viaje (plaza o laguna con pájaros):** la misma escena con los seteos 1 y 4 para ver la diferencia de fluidez; diez tomas de 6 segundos a 150, 300 y 600 mm para saber hasta dónde aguanta el pulso; la misma toma a pulso y apoyada; una toma vertical con el collar; armar un reel de prueba de 15 segundos con 3 tomas y 2 fotos.
+
+**En Iberá:** lancha y canoa con el seteo 1 y el lente en la punta corta (los animales están cerca); carpinchos, yacarés y ciervos quietos son ideales para empezar; tomas abiertas de contexto con el teléfono, que estabiliza mejor.
+
+Fuentes: [manual D7500, tamaño y cuadros](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_04.html) · [manual D7500, ISO en video](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_07.html) · [manual D7500, VR electrónico](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_17.html) · [Videomaker, recorte en 4K](https://www.videomaker.com/videonews/2017/04/new-nikon-d7500-surprisingly-appealing-for-video-shooters/) · [The Camera Store, regla de la velocidad](https://thecamerastore.com/blogs/blog/tips-for-capturing-wildlife-photo-video-with-sony).
+
 ## 11. Sitios oficiales revisados: Parque Iberá y Cámara de Turismo (29/9/2026)
 
 Fuentes: [parqueibera.gob.ar](https://parqueibera.gob.ar/) (Gobierno de Corrientes) y [camaraturismoibera.com.ar](https://www.camaraturismoibera.com.ar/) (Cámara de Turismo de los Esteros del Iberá).
