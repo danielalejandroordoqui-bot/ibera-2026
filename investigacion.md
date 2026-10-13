@@ -6,6 +6,17 @@ Dólar de referencia para las conversiones: **blue ~$1.535 por US$ (sept. 2026)*
 
 ---
 
+## ⚠️ Riesgos en seguimiento (13/10/2026)
+
+Dos cosas pueden complicar el viaje y se siguen de cerca. El detalle y las fuentes están en la sección 1 (visita del Papa y feriados) y en la sección 2 (lluvias y El Niño).
+
+- **Lluvias:** octubre viene muy lluvioso y hay un El Niño fuerte. El SMN da a Corrientes más del 55% de probabilidad de lluvias superiores a lo normal en octubre-diciembre. El riesgo concreto es la RP 40 entre Mercedes y Pellegrini; el plan B sigue siendo el 4x4 desde Mercedes ($160.000-170.000 por tramo). El viaje solo se cae si cortan la ruta del todo.
+- **Visita del Papa:** León XIV se opera de un nódulo pulmonar a principios de la semana del 19/10. Al 13/10 la visita (8 al 11/11) y los feriados del Decreto 1103/2026 siguen sin cambios, pero dependen del posoperatorio. Si la visita se corre, lo esperable es que el lunes 9 y el martes 10 pasen a ser hábiles (deducción propia: no hay nada oficial).
+- **Plata en juego si no se puede ir:** seña de Irupé $202.500 (cancelando hoy retienen el 70%; desde el 24/10, el 100%; el mail no aclara si el porcentaje es sobre la seña o sobre el total de $405.000) · Hotel de Campo $68.000 pagos, sin respuesta de Roberto sobre devolución · la lancha se paga allá, no hay nada adelantado.
+- **Herramienta:** Irupé permite **un cambio de fecha**, sujeto a disponibilidad y actualización de tarifa. El mail no dice hasta cuándo se puede pedir ni si tiene costo.
+- **Decisión de Daniel (13/10):** por ahora NO se le escribe a Leticia ni se mueve nada; se espera a ver qué pasa. Cree que Leticia va a ser comprensiva si se cae el feriado o no para de llover: aunque no devuelva la seña, espera que deje pasar la reserva a otra fecha más adelante.
+- **Cuándo mirar:** ~21/10, cómo salió la cirugía · fin de octubre, si el Vaticano o el Gobierno confirman o mueven fechas · desde el 31/10, pronóstico real del finde y estado de la RP 40 · 4 o 5/11, mensaje a Roque y, de paso, cómo está el camino.
+
 ## 📌 Estado al 1/10/2026
 
 - **✅ Hotel del viernes 6 RESERVADO: Hotel de Campo (Concordia)**, por Booking, el 1/10. Habitación Doble con 1 cama doble extragrande, 15 m², aire acondicionado, baño en la habitación, estacionamiento gratis en el predio. **$66.424 final** (precio Genius, impuestos incluidos), **se paga en el hotel** (no pidió tarjeta), cancelación gratis. Check-in 13:00-0:00 (hora de llegada informada: 22-23 h), check-out 5:00-10:00. Sin desayuno. Detalle y alternativas en la sección 0b ("Hotel del viernes en Concordia").
@@ -486,6 +497,16 @@ La visita del papa León XIV (dom 8 al mié 11/11/2026) generó feriados extraor
 
 Fuente: [Boletín Oficial — Decreto 1103/2026](https://www.boletinoficial.gob.ar/detalleAviso/primera/348022/20260928).
 
+### La visita, en duda por una cirugía del Papa (13/10/2026)
+
+- **Qué pasó:** León XIV anunció que lo operan para sacarle un nódulo pulmonar "detectado en una etapa temprana y bien localizado". La cirugía es en el Policlínico Gemelli (Roma), a principios de la semana del 19/10, con cerca de una semana de internación. El Vaticano no informó la fecha exacta ni si el nódulo es benigno o maligno.
+- **La visita:** al 13/10 sigue en el calendario oficial del Vaticano (8 al 11/11: Buenos Aires, Córdoba y Luján), sin suspensión ni cambio de fechas. El Papa dijo "nos vemos en Argentina". Todo depende de la recuperación y de lo que indiquen los médicos.
+- **Los feriados:** el Decreto 1103/2026 sigue vigente y sin cambios. Milei dijo que el Gobierno está dispuesto a modificar las fechas si la recuperación lleva más tiempo.
+- **Qué cambiaría para el viaje:** si la visita se posterga, lo esperable es que los feriados se corran con ella (deducción propia; nadie lo dijo oficialmente). En ese caso el lunes 9 y el martes 10 serían días hábiles y el viaje de sáb 7 → mar 10 necesitaría dos días de licencia de cada uno, o pasar la reserva a otra fecha.
+- **Qué mirar:** el parte posterior a la cirugía (~21/10) y cualquier comunicado del Vaticano o decreto nuevo hacia fin de octubre.
+
+Fuentes: [El Día](https://www.eldia.com/el-mundo/la-operacion-del-papa-leon-xiv-abre-interrogantes-sobre-su-visita-a-la-argentina-el-mundo_1791749040), [La Brújula 24](https://www.labrujula24.com/notas/2026/10/12/nos-vemos-en-argentina-el-papa-leon-xiv-confirmo-su-intencion-de-visitar-el-pais-tras-la-operacion-n525093/), [Minutouno — qué pasa con los feriados](https://www.minutouno.com/mundo/operan-al-papa-leon-xiv-que-pasa-los-feriados-n6332536), [LM Neuquén](https://www.lmneuquen.com/mundo/que-pasara-con-la-visita-del-papa-leon-xiv-la-argentina-su-operacion-la-confirmacion-del-vaticano-n1257093), [Chequeado — agenda y feriados](https://chequeado.com/el-explicador/el-papa-leon-xiv-viene-a-argentina-todo-lo-que-se-sabe-hasta-ahora-sobre-la-agenda-oficial-del-pontifice/).
+
 ---
 
 ## 2. Iberá en noviembre: temporada, clima y camino
@@ -501,6 +522,17 @@ Fuente: [Boletín Oficial — Decreto 1103/2026](https://www.boletinoficial.gob.
 - **Señal, pagos y efectivo (30/9/2026, pregunta de Daniel):** fuentes: [Viajar Viviendo (dic. 2023)](https://viajarviviendo.com/guia-para-viajar-esteros-del-ibera/): "en el camino no hay señal", "no hay bancos ni cajeros"; [RecomiendoViajar (2020)](https://recomiendoviajar.home.blog/2020/04/14/colonia-carlos-pellegrini-esteros-del-ibera/): "hay muy poca señal para el uso de telefonía celular", "se opera totalmente con efectivo" (dato viejo: hoy las posadas cobran por transferencia y varias con tarjeta; la Despensa La Familia acepta Mercado Pago). No se encontró qué compañía funciona (Claro/Personal): preguntarle a la posada. Wifi: Starlink en la mayoría de las posadas (Tupasy, Aires, Ecoposada), a veces lento. **Efectivo estimado para los dos:** pensión completa ~$250.000 (Parque $46.000 + bebidas, propinas, café/helado, alguna excursión suelta ~$30-45.000 por persona, margen para imprevistos); comiendo en el pueblo ~$500.000 (3 noches) / ~$600.000 (4 noches); saldo de la posada en efectivo, aparte. Sacarlo en La Plata; Mercedes (bancos) como respaldo.
 
 Fuentes: [Wanderlog — clima en noviembre](https://wanderlog.com/es/weather/133203/11/clima-de-colonia-carlos-pellegrini-en-noviembre), [Iberá Experience — ¿vale la pena?](https://iberaexperience.com/blog/en/is-ibera-wetlands-worth-visiting/), [Iberá Experience — dónde dormir y temporadas](https://iberaexperience.com/blog/en/where-to-stay-ibera-wetlands/), [Viajar Viviendo](https://viajarviviendo.com/guia-para-viajar-esteros-del-ibera/), [Vialidad Corrientes — RP 40](https://vialidad.corrientes.gob.ar/noticia/intransitabilidad-rp-40-mercedes-carlos-pellegrini?region=true), [Chetoba — camino a Pellegrini](https://www.chetoba.com.ar/camino-a-colonia-carlos-pellegrini-corrientes).
+
+### Pronóstico para noviembre de 2026: El Niño y lluvias por encima de lo normal (13/10/2026, pregunta de Daniel)
+
+- **Contexto:** octubre viene muy lluvioso en todo el país. Hay un El Niño de intensidad fuerte o muy fuerte, con el pico previsto hacia diciembre: noviembre cae en plena subida.
+- **SMN, pronóstico trimestral octubre-diciembre (elaborado el 30/9):** el Litoral es la zona del país con mayor probabilidad de lluvias superiores a lo normal; **más del 55% para Corrientes y Misiones enteras**. Anticipa además eventos de lluvia localmente más intensos que lo habitual. Temperatura normal en el norte del Litoral.
+- **Noviembre en particular:** Meteored proyecta para Corrientes más de 50 mm por encima de lo normal. Es una lectura de modelos hecha por un medio, no un dato del SMN.
+- **Límite del dato:** es una tendencia del trimestre; no dice nada del finde del 6 al 10. El pronóstico útil para esas fechas recién existe 5 a 7 días antes. En la zona la lluvia de esta época suele venir en tormentas fuertes con días buenos en el medio.
+- **Qué significa para el viaje:** (1) el riesgo real es la RP 40: con varios días seguidos de lluvia se complica o se corta; el plan B es el 4x4 desde Mercedes ya cotizado ($160.000-170.000 por tramo); (2) con los esteros altos la lancha sale igual, pero la fauna suele estar más dispersa, y los senderos y el camino a Camba Trapo pueden estar anegados; (3) si el domingo 8 hay tormenta, la lancha se corre: quedan el lunes 9 y la mañana del martes 10.
+- **Qué mirar:** pronóstico extendido desde el 31/10; estado de la RP 40 (Vialidad de Corrientes y el hotel) en la semana previa.
+
+Fuentes: [Perfil — SMN, trimestre octubre-diciembre](https://www.perfil.com/noticias/nea/el-nino-el-smn-anticipo-lluvias-superiores-a-lo-normal-para-octubre-noviembre-y-diciembre-de-2026.phtml), [Confirmado (Corrientes)](https://www.confirmado.com.ar/vernota.asp?id_noticia=34927), [Meteored — lluvias mes a mes](https://www.meteored.com.ar/noticias/prediccion/confirmado-el-nino-llega-a-su-maximo-en-diciembre-y-te-contamos-como-y-donde-llovera-mes-a-mes-hasta-febrero.html), [La Nación — Súper Niño 2026](https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/), [MDZ — pronóstico trimestral](https://www.mdzol.com/sociedad/2026/10/10/pronostico-trimestral-del-smn-donde-llovera-mas-y-que-pasara-con-las-temperaturas-1987193.html), [BAE Negocios](https://www.baenegocios.com/economia/el-nino-en-argentina-que-provincias-tendran-mas-lluvias-segun-el-smn/).
 
 ---
 
