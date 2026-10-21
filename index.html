@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Iberá 2026</title>
+  <title>Iberá</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐊</text></svg>" />
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600;700&display=swap');
@@ -277,6 +277,7 @@
     .map-frame { border: 1px solid var(--border); border-radius: 16px; overflow: hidden; background: var(--card); }
     .map-frame iframe { display: block; border: 0; width: 100%; height: 480px; }
     .checklist-grid { padding: 0; }
+    .tag-wait { font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 8px; border-radius: 20px; background: var(--amber-light); color: #7a4800; }
     .tag-ok { font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 8px; border-radius: 20px; background: var(--green-light); color: var(--green); }
     @media (max-width: 600px) {
       .hero-stats { flex-wrap: wrap; }
@@ -291,7 +292,7 @@
 
 <!-- ── TOP NAV ── -->
 <nav class="topnav">
-  <div class="topnav-brand">🐊 Iberá 2026</div>
+  <div class="topnav-brand">🐊 Iberá</div>
   <a class="nav-link" href="#ida">🚗 La ida</a>
   <a class="nav-link" href="#pellegrini">🐊 Pellegrini</a>
   <a class="nav-link" href="#vuelta">🏠 La vuelta</a>
@@ -308,7 +309,7 @@
 <div id="mobile-overlay" class="mobile-overlay" onclick="closeMobileMenu()"></div>
 <nav id="mobile-menu" class="mobile-menu" aria-label="Menú de navegación">
   <div class="mobile-menu-header">
-    <span class="mobile-menu-brand">🐊 Iberá 2026</span>
+    <span class="mobile-menu-brand">🐊 Iberá</span>
     <button class="mobile-menu-close" onclick="closeMobileMenu()" aria-label="Cerrar menú">✕</button>
   </div>
   <span class="mobile-nav-section">El viaje</span>
@@ -329,7 +330,7 @@
   <div class="hero-inner">
     <div class="hero-flag">🐊</div>
     <h1 class="hero-title">Esteros del <span>Iberá</span></h1>
-    <p class="hero-sub">Colonia Carlos Pellegrini · viernes 6 al martes 10 de noviembre de 2026 · en nuestro auto</p>
+    <p class="hero-sub">Colonia Carlos Pellegrini · un fin de semana largo, fecha a definir · en nuestro auto</p>
     <div class="hero-stats">
       <div class="hero-stat"><div class="hero-stat-num">3</div><div class="hero-stat-label">Noches allá</div></div>
       <div class="hero-stat"><div class="hero-stat-num">2</div><div class="hero-stat-label">Hospedajes</div></div>
@@ -341,23 +342,25 @@
 
 <!-- ── ROUTE RIBBON ── -->
 <div class="route-ribbon">
-  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">vie 6 · 16 h</div></div><div class="route-arrow drive">🚗 ──</div></div>
-  <div class="route-step"><div class="route-city"><div class="route-city-name">🛏️ Concordia</div><div class="route-city-date">noche del vie 6</div></div><div class="route-arrow drive">🚗 ──</div></div>
-  <div class="route-step"><div class="route-city"><div class="route-city-name">⛽ Mercedes</div><div class="route-city-date">sáb 7 · tanque lleno</div></div><div class="route-arrow drive">🚗 ──</div></div>
-  <div class="route-step"><div class="route-city"><div class="route-city-name">🐊 Pellegrini</div><div class="route-city-date">sáb 7 – mar 10</div></div><div class="route-arrow drive">🚗 ──</div></div>
-  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">mar 10 · ~17 h</div></div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">día 1 · 16 h</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🛏️ Concordia</div><div class="route-city-date">noche del día 1</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">⛽ Mercedes</div><div class="route-city-date">día 2 · tanque lleno</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🐊 Pellegrini</div><div class="route-city-date">días 2 a 5</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🏠 La Plata</div><div class="route-city-date">día 5 · ~17 h</div></div></div>
 </div>
 
 <main class="content">
+
+  <div class="alert-inline alert-amber" style="margin-top:24px"><span class="icon">📅</span><span><strong>Fecha a definir.</strong> El viaje está armado; falta elegir el fin de semana largo. La reserva de Irupé Lodge queda abierta, con la seña de $202.500 pagada y a cuenta, y el cambio de fecha es sin cargo. Con la tarifa actual, para fechas hasta el 26 de diciembre de 2026; desde enero sube alrededor de un 10%. La noche en Concordia hay que reservarla de nuevo.</span></div>
 
   <!-- ═══ LA IDA ═══ -->
   <section class="chapter" id="ida">
     <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_bridge_at_Colonia_de_Carlos_Pellegrini%2C_Corrientes%2C_Argentina%2C_2nd._Jan._2011_-_Flickr_-_PhillipC.jpg/1280px-The_bridge_at_Colonia_de_Carlos_Pellegrini%2C_Corrientes%2C_Argentina%2C_2nd._Jan._2011_-_Flickr_-_PhillipC.jpg');">
       <div class="chapter-header-overlay">
         <div class="chapter-city">🚗 La ida</div>
-        <div class="chapter-dates">Viernes 6 y sábado 7 · La Plata → Concordia → Mercedes → Pellegrini · ~870 km</div>
+        <div class="chapter-dates">Días 1 y 2 · La Plata → Concordia → Mercedes → Pellegrini · ~870 km</div>
         <div class="chapter-tags">
-          <span class="ctag ctag-hotel">🏨 Hotel de Campo · pagado</span>
+          <span class="ctag ctag-hotel">🏨 Hotel de Campo · a reservar</span>
           <span class="ctag ctag-car">⛽ Tanque lleno en Mercedes</span>
           <a class="ctag" href="#ruta" style="background:rgba(212,112,10,0.7);color:#ffd599;text-decoration:none;">🗺️ Paradas y mapa</a>
         </div>
@@ -366,27 +369,25 @@
     <div class="days-list">
 
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">6</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">VIE</div></div>
+        <div class="day-badge"><div class="day-badge-num">1</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
           <div class="day-title">La Plata → Concordia · salimos a las 16 h</div>
           <ul class="day-items">
             <li><strong>16:00, La Plata:</strong> tanque lleno y saldo en TelePase (la RN 14 cobra solo electrónico). Víspera de finde largo: puede haber más tránsito de salida.</li>
             <li><strong>~19:40, San José / Colón:</strong> primera carga de nafta y café.</li>
-            <li><strong>~21:30-22:30, Concordia:</strong> <strong>Hotel de Campo</strong>, Ruta A015 km 6,5. Se deja la RN 14 y son 6,5 km hacia Salto Grande, sin entrar a la ciudad. Avisamos que llegamos entre las 22 y las 23.</li>
+            <li><strong>~21:30-22:30, Concordia:</strong> <strong>Hotel de Campo</strong>, Ruta A015 km 6,5. Se deja la RN 14 y son 6,5 km hacia Salto Grande, sin entrar a la ciudad. Avisar que llegamos entre las 22 y las 23.</li>
             <li><strong>Cena:</strong> restaurante Ybi Porá, en la entrada del hotel, abierto los viernes de 20 a 0 h (~$20.000-30.000 por persona).</li>
             <li><strong>Si preferimos otra cosa</strong> (centro de Concordia, a ~12 km del hotel; abiertos el viernes hasta la medianoche o más): Donato Restó (4,6, hasta las 2) · El Rastro (4,8, cervecería, hasta 0:30) · Parrilla El Gordo (4,5, hasta 0:30) · Ocamiño tapería (4,8, hasta las 0) · il Forno di Pietro (4,7, pizzas, hasta las 0). Están en el mapa.</li>
           </ul>
-          <div class="alert-inline alert-green"><span class="icon">✅</span><span>La noche ya está paga ($68.000): al llegar no queda nada por abonar.</span></div>
+          <div class="alert-inline alert-amber"><span class="icon">🛏️</span><span>Hay que reservar la noche de nuevo, con Roberto por WhatsApp (la última vez, $68.000 por transferencia).</span></div>
           <div class="cta-row">
             <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">📍 Hotel de Campo</a>
-            <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 Comprobante</a>
-            <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 Factura</a>
           </div>
         </div>
       </div>
 
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">7</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">SÁB</div></div>
+        <div class="day-badge"><div class="day-badge-num">2</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
           <div class="day-title">Concordia → Mercedes → Colonia Carlos Pellegrini</div>
           <ul class="day-items">
@@ -418,10 +419,10 @@
     <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Muelle_en_la_laguna_Iber%C3%A1_%28Colonia_Carlos_Pellegrini%29.jpg/1280px-Muelle_en_la_laguna_Iber%C3%A1_%28Colonia_Carlos_Pellegrini%29.jpg');">
       <div class="chapter-header-overlay">
         <div class="chapter-city">🐊 Colonia Carlos Pellegrini</div>
-        <div class="chapter-dates">Sábado 7 al martes 10 · Irupé Lodge · 3 noches con desayuno</div>
+        <div class="chapter-dates">Días 2 a 5 · Irupé Lodge · 3 noches con desayuno</div>
         <div class="chapter-tags">
-          <span class="ctag ctag-hotel">🏨 Irupé Lodge · señado</span>
-          <span class="ctag ctag-star">Lancha el domingo · Camba Trapo en canoa</span>
+          <span class="ctag ctag-hotel">🏨 Irupé Lodge · seña a cuenta</span>
+          <span class="ctag ctag-star">Lancha el día 3 · Camba Trapo en canoa</span>
           <a class="ctag" href="#excursiones" style="background:rgba(212,112,10,0.7);color:#ffd599;text-decoration:none;">🛶 Precios</a>
         </div>
       </div>
@@ -429,7 +430,7 @@
     <div class="days-list">
 
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">7</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">SÁB</div></div>
+        <div class="day-badge"><div class="day-badge-num">2</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
           <div class="day-title">Llegada y primera tarde</div>
           <ul class="day-items">
@@ -437,7 +438,7 @@
             <li>Algo rápido para comer: <strong>Despensas Iberá</strong>, la única que abre de corrido a la siesta.</li>
             <li>Pagar la entrada al Parque Provincial y pasar por la oficina de informes: mapa de senderos y libritos de aves.</li>
             <li>Senderos del Parque Provincial por nuestra cuenta, o descanso en la pileta y el muelle.</li>
-            <li>En recepción, confirmar el horario de la lancha del domingo: lo asignan el día anterior.</li>
+            <li>En recepción, confirmar el horario de la lancha del día siguiente: lo asignan el día anterior.</li>
             <li>Atardecer desde el puente · cena en Yacarú Porá.</li>
           </ul>
           <div class="cta-row">
@@ -448,13 +449,13 @@
       </div>
 
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">8</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">DOM</div></div>
+        <div class="day-badge"><div class="day-badge-num">3</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
           <div class="day-title">La laguna y Camba Trapo</div>
           <ul class="day-items">
             <li><strong>Lancha por la laguna</strong> en la primera salida, 7:30. Con Irupé: se embarca en el muelle del lodge. Dura alrededor de una hora y media, van hasta 10 personas y hay lugar para una mochila.</li>
             <li>Almuerzo en Café de los Pájaros · siesta o pileta.</li>
-            <li>A la tarde, <strong>reserva Camba Trapo</strong>: avistaje en el camino, caminata y canoa tradicional (~3 h). El día y la hora dependen del turno que le den al guía: si toca el lunes, se cruza con la caminata por el pueblo.</li>
+            <li>A la tarde, <strong>reserva Camba Trapo</strong>: avistaje en el camino, caminata y canoa tradicional (~3 h). El día y la hora dependen del turno que le den al guía: si toca el día 4, se cruza con la caminata por el pueblo.</li>
             <li>Cena en el pueblo.</li>
           </ul>
           <div class="cta-row">
@@ -464,17 +465,17 @@
       </div>
 
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">9</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">LUN</div></div>
+        <div class="day-badge"><div class="day-badge-num">4</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
-          <div class="day-title">Parque Nacional y el pueblo · feriado nacional</div>
+          <div class="day-title">Parque Nacional y el pueblo</div>
           <ul class="day-items">
             <li><strong>Parque Nacional, área Lobo Cuá</strong>, por nuestra cuenta con el auto: abre de 9 a 16 h, tiene torre mirador.</li>
             <li>Almuerzo en Dalmacio Bar.</li>
             <li>Siesta o pileta. Si quedan ganas de auto, el camino de Camba Trapo.</li>
             <li>Con la luz de la tarde, <strong>caminata por el pueblo con la cámara</strong>: la pasarela que bordea la laguna desde el lodge, el Paseo Peatonal Capivara y los miradores, la plaza, la capilla y la peatonal con los puestos de artesanías. Calles de arena con nombres en guaraní y carpinchos sueltos.</li>
-            <li>Cena temprano en Bar Destino Iberá. Auto cargado y a dormir: el martes salimos a las 5:30.</li>
+            <li>Cena temprano en Bar Destino Iberá. Auto cargado y a dormir: al otro día salimos a las 5:30.</li>
           </ul>
-          <div class="alert-inline alert-amber"><span class="icon">🧭</span><span>El lunes queda liviano a propósito: si el domingo llueve, la lancha pasa al lunes a la mañana. Las salidas nocturnas no están en el plan; si hay ganas, se arreglan allá.</span></div>
+          <div class="alert-inline alert-amber"><span class="icon">🧭</span><span>Este día queda liviano a propósito: si el día 3 llueve, la lancha pasa a esta mañana. Las salidas nocturnas no están en el plan; si hay ganas, se arreglan allá.</span></div>
         </div>
       </div>
 
@@ -494,16 +495,15 @@
     <div class="chapter-header" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P%C3%B4r_do_sol_nos_Esteros_del_Iber%C3%A1_-_panoramio.jpg/1280px-P%C3%B4r_do_sol_nos_Esteros_del_Iber%C3%A1_-_panoramio.jpg');">
       <div class="chapter-header-overlay">
         <div class="chapter-city">🏠 La vuelta</div>
-        <div class="chapter-dates">Martes 10 · feriado en CABA · Pellegrini → La Plata de un tirón</div>
+        <div class="chapter-dates">Día 5 · Pellegrini → La Plata de un tirón</div>
         <div class="chapter-tags">
           <span class="ctag ctag-car">🚗 ~11 h con paradas</span>
-          <span class="ctag ctag-pending">El miércoles 11 se trabaja</span>
         </div>
       </div>
     </div>
     <div class="days-list">
       <div class="day-card">
-        <div class="day-badge"><div class="day-badge-num">10</div><div class="day-badge-month">NOV</div><div class="day-badge-dow">MAR</div></div>
+        <div class="day-badge"><div class="day-badge-num">5</div><div class="day-badge-month">DÍA</div></div>
         <div class="day-body">
           <div class="day-title">Salida con la primera luz</div>
           <ul class="day-items">
@@ -523,32 +523,30 @@
   <div class="section-divider" id="hospedajes">Hospedajes</div>
 
   <div class="info-card">
-    <h3>Hotel de Campo · Concordia <span class="tag-ok">pagado</span></h3>
-    <div class="info-sub">Viernes 6 · una noche, de paso</div>
+    <h3>Hotel de Campo · Concordia <span class="tag-wait">a reservar</span></h3>
+    <div class="info-sub">Día 1 · una noche, de paso</div>
     <ul class="day-items">
       <li><strong>Dónde queda:</strong> Ruta A015 km 6,5, a 6,5 km de la RN 14 hacia Salto Grande, sin entrar a la ciudad.</li>
       <li><strong>Habitación:</strong> doble con cama grande, aire acondicionado, baño privado y estacionamiento en el predio. Sin desayuno.</li>
-      <li><strong>Pago:</strong> $68.000, ya pagado por transferencia, con factura del hotel.</li>
-      <li><strong>Llegada:</strong> entre las 22 y las 23 h, avisado y confirmado (la recepción atiende hasta las 0:00). Contacto: Roberto, por WhatsApp.</li>
+      <li><strong>Pago:</strong> la última vez, $68.000 por transferencia, con factura del hotel. Se reserva con Roberto, por WhatsApp.</li>
+      <li><strong>Llegada:</strong> entre las 22 y las 23 h, avisándole antes (la recepción atiende hasta las 0:00).</li>
     </ul>
     <div class="cta-row">
       <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Hotel+de+Campo+Ruta+A015+km+6.5+Concordia" target="_blank" rel="noopener">📍 Google Maps</a>
-      <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">📄 Comprobante</a>
-      <a class="cta-pill cta-hotel" href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">📄 Factura</a>
     </div>
   </div>
 
   <div class="info-card">
-    <h3>Irupé Lodge · Pellegrini <span class="tag-ok">señado</span></h3>
-    <div class="info-sub">Sábado 7 al martes 10 · 3 noches · habitación Doble Standard · ★ 4,4 en Google (331 reseñas)</div>
+    <h3>Irupé Lodge · Pellegrini <span class="tag-ok">seña a cuenta</span></h3>
+    <div class="info-sub">Días 2 a 5 · 3 noches · habitación Doble Standard · ★ 4,4 en Google (331 reseñas)</div>
     <ul class="day-items">
       <li><strong>Habitación:</strong> 22 m², elevada, con ventanas al parque y piso de madera; sommier, aire frío/calor y ventilador de techo; baño privado. En el ala más cercana a la casa principal.</li>
       <li><strong>Incluye:</strong> desayuno, pileta y muelle sobre la laguna.</li>
-      <li><strong>Precio:</strong> $405.000 las 3 noches, los dos. Seña de $202.500 ya pagada; <strong>el resto ($202.500) se paga allá</strong>, en efectivo, transferencia o tarjeta (crédito con recargo). Con la lancha sumada a la reserva, el saldo a pagar allá es de <strong>$306.900</strong>.</li>
-      <li><strong>Horarios:</strong> ingreso de 14 a 22:30 h (la recepción cierra a las 22:30); salida hasta las 10 h. Ya avisamos que llegamos entre las 13 y las 14.</li>
+      <li><strong>Precio:</strong> $405.000 las 3 noches, los dos, para fechas hasta el 26 de diciembre de 2026; desde enero, alrededor de un 10% más. Seña de $202.500 ya pagada; <strong>el resto se paga allá</strong>, en efectivo, transferencia o tarjeta (crédito con recargo). Si se vuelve a sumar la lancha a la reserva, el saldo a pagar allá es de <strong>$306.900</strong>.</li>
+      <li><strong>Horarios:</strong> ingreso de 14 a 22:30 h (la recepción cierra a las 22:30); salida hasta las 10 h. Avisar que llegamos entre las 13 y las 14.</li>
       <li><strong>Restaurante El Camalotal</strong>, en el predio: menús rápidos y platos más elaborados, se reserva allá. Consultas: +54 9 3773 50-0717.</li>
       <li><strong>Excursiones con ellos:</strong> lancha $58.000, kayak o cabalgata $40.000 por persona. Sumándolas a la reserva hay 10% de descuento: lancha $52.200, kayak o cabalgata $36.000. Salen de 7:30 a 17 h, cada dos horas aprox.; se les avisa qué día y horario preferimos y lo confirman allá, el día anterior, según el clima y los permisos del parque. Con los guías del pueblo la lancha y el kayak salen menos (<a href="#excursiones">ver precios</a>).</li>
-      <li><strong>Si hay que cancelar:</strong> hasta el 7/10 retienen el 30%; del 8 al 23/10, el 70%; desde el 24/10, el 100%. Permiten un cambio de fecha.</li>
+      <li><strong>Fecha abierta:</strong> la reserva se pasa sin cargo a la fecha que elijamos, según disponibilidad. Se le avisa a Leticia por WhatsApp o por mail. Permiten un solo cambio de fecha.</li>
     </ul>
     <div class="cta-row">
       <a class="cta-pill cta-map" href="https://www.google.com/maps/search/?api=1&query=Irupe+Lodge+Colonia+Carlos+Pellegrini+Corrientes" target="_blank" rel="noopener">📍 Google Maps</a>
@@ -564,10 +562,10 @@
 
   <div class="times-card" style="margin-top:0">
     <div class="times-header">⭐ Lo que vamos a hacer</div>
-    <div class="times-row"><div class="times-segment"><strong>Lancha por la laguna, con Irupé</strong> · domingo 8, 7:30<small>Yacarés, carpinchos, ciervo de los pantanos, lobitos de río y aves. $58.000 por persona, con 10% de descuento por sumarla a la reserva. Ya está agregada a la reserva: se paga allá, junto con el saldo del alojamiento ($104.400 los dos). Alrededor de una hora y media, hasta 10 personas, con lugar para una mochila. El horario lo confirman allá, el día anterior.</small></div><div class="times-real">$52.200</div></div>
-    <div class="times-row"><div class="times-segment"><strong>Reserva Camba Trapo, en canoa</strong> · domingo 8 o lunes 9, según el turno<small>Avistaje en el camino, caminata por el sendero y paseo en canoa tradicional, ~3 h. La canoa da lugar para la cámara y los lentes. Con Iberá Guyrá (Roque): es una reserva privada que da turnos, así que arma el grupo y confirma día y horario un par de días antes. Hay que escribirle el miércoles 4 o el jueves 5 de noviembre; ahí pasa el precio. Agreste hace una parecida a $75.000.</small></div><div class="times-real">a confirmar</div></div>
-    <div class="times-row"><div class="times-segment"><strong>Senderos del Parque Provincial</strong> · sábado 7<small>Por nuestra cuenta, de 8 a 18 h. Monos carayá y corzuelas en las pasarelas.</small></div><div class="times-real ok">gratis</div></div>
-    <div class="times-row"><div class="times-segment"><strong>Parque Nacional, área Lobo Cuá</strong> · lunes 9<small>Por nuestra cuenta, de 9 a 16 h. Torre mirador.</small></div><div class="times-real ok">gratis</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Lancha por la laguna, con Irupé</strong> · día 3, 7:30<small>Yacarés, carpinchos, ciervo de los pantanos, lobitos de río y aves. $58.000 por persona, con 10% de descuento por sumarla a la reserva. Se suma a la reserva al elegir la fecha y se paga allá, junto con el saldo del alojamiento ($104.400 los dos). Alrededor de una hora y media, hasta 10 personas, con lugar para una mochila. El horario lo confirman allá, el día anterior.</small></div><div class="times-real">$52.200</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Reserva Camba Trapo, en canoa</strong> · día 3 o 4, según el turno<small>Avistaje en el camino, caminata por el sendero y paseo en canoa tradicional, ~3 h. La canoa da lugar para la cámara y los lentes. Con Iberá Guyrá (Roque): es una reserva privada que da turnos, así que arma el grupo y confirma día y horario un par de días antes. Hay que escribirle tres o cuatro días antes del viaje; ahí pasa el precio. Agreste hace una parecida a $75.000.</small></div><div class="times-real">a confirmar</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Senderos del Parque Provincial</strong> · día 2<small>Por nuestra cuenta, de 8 a 18 h. Monos carayá y corzuelas en las pasarelas.</small></div><div class="times-real ok">gratis</div></div>
+    <div class="times-row"><div class="times-segment"><strong>Parque Nacional, área Lobo Cuá</strong> · día 4<small>Por nuestra cuenta, de 9 a 16 h. Torre mirador.</small></div><div class="times-real ok">gratis</div></div>
   </div>
 
   <div class="times-card">
@@ -636,7 +634,7 @@
       <div class="zone-item"><span>RN 14 km 105 (Colonia Elía) y km 142,9.</span></div>
       <div class="zone-item"><span>Colón, RN 14 km 150 (ACA).</span></div>
       <div class="zone-item"><span>RN 14 km 246 y km 248, antes de Concordia (tienda Full).</span></div>
-      <div class="zone-item"><span><b>RN 14 km 296</b>, acceso a Federación (tienda Full): el desayuno del sábado.</span></div>
+      <div class="zone-item"><span><b>RN 14 km 296</b>, acceso a Federación (tienda Full): el desayuno del día 2.</span></div>
       <div class="zone-item"><span>Cuatro Bocas, RN 14 km 406 · Curuzú Cuatiá (ACA) · Mercedes, J. M. Gómez 701.</span></div>
     </div>
     <div class="zone-card info">
@@ -656,7 +654,7 @@
 
   <div class="info-card" id="lluvia">
     <h3>🌧️ Si llueve · 4x4 desde Mercedes · 2 h</h3>
-    <div class="info-sub">Mirar el pronóstico el viernes y el lunes a la noche.</div>
+    <div class="info-sub">Mirar el pronóstico la noche antes de salir y la noche antes de volver.</div>
     <ul class="day-items">
       <li>Con el ripio mojado, dejamos el auto en Mercedes y hacemos el último tramo en camioneta.</li>
       <li><strong>Dónde dejar el auto:</strong> Estacionamiento Mohalem, Sarmiento 489, a 2 cuadras de la plaza de Mercedes · 03773-420096. En Google Maps esa dirección se ve como una casa y no tiene ficha: llamar antes para confirmar que sigue funcionando.</li>
@@ -688,17 +686,17 @@
     <div class="rule-card"><span class="rule-icon">🎟️</span><div class="rule-heading">Entrada al Parque Provincial</div><div class="rule-text">$23.000 por persona, vale 5 días. Se paga antes del puente, en efectivo o con débito, y te dan una pulsera. Trámite personal: llevar el DNI. El Parque Nacional es gratis.</div></div>
     <div class="rule-card"><span class="rule-icon">📶</span><div class="rule-heading">Señal</div><div class="rule-text">Ninguna en la ruta desde Mercedes. En el pueblo, poca: Movistar no anda. Los hospedajes tienen wifi. Bajar los mapas offline antes de salir.</div></div>
     <div class="rule-card"><span class="rule-icon">⛽</span><div class="rule-heading">Nafta</div><div class="rule-text">Sin surtidor en Pellegrini. Entrar con el tanque lleno desde Mercedes, que es también la primera parada a la vuelta.</div></div>
-    <div class="rule-card"><span class="rule-icon">🌡️</span><div class="rule-heading">Clima</div><div class="rule-text">Máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</div></div>
+    <div class="rule-card"><span class="rule-icon">🌡️</span><div class="rule-heading">Clima</div><div class="rule-text">En noviembre, máximas ~31°C, mínimas ~17°C, húmedo y ventoso. Días soleados con chaparrones cortos: arranca la temporada de lluvias.</div></div>
     <div class="rule-card"><span class="rule-icon">🦟</span><div class="rule-heading">Mosquitos</div><div class="rule-text">Lo fuerte llega de diciembre a febrero; noviembre queda en el borde. Repelente y manga larga liviana.</div></div>
   </div>
 
   <div class="times-card">
     <div class="times-header">💰 Gastos del viaje, los dos</div>
     <div class="times-row"><div class="times-segment">Irupé Lodge, 3 noches<small>$202.500 ya pagados; $202.500 al llegar</small></div><div class="times-real">$405.000</div></div>
-    <div class="times-row"><div class="times-segment">Hotel de Campo, Concordia<small>ya pagado</small></div><div class="times-real ok">$68.000</div></div>
+    <div class="times-row"><div class="times-segment">Hotel de Campo, Concordia<small>a reservar de nuevo</small></div><div class="times-real">$68.000</div></div>
     <div class="times-row"><div class="times-segment">Nafta</div><div class="times-real">$309.000</div></div>
     <div class="times-row"><div class="times-segment">Peajes (TelePase)</div><div class="times-real">$39.000</div></div>
-    <div class="times-row"><div class="times-segment">Comidas en ruta<small>cena del viernes, desayuno del sábado, almuerzo y merienda del martes</small></div><div class="times-real">$160.000</div></div>
+    <div class="times-row"><div class="times-segment">Comidas en ruta<small>cena del día 1, desayuno del día 2, almuerzo y merienda del día 5</small></div><div class="times-real">$160.000</div></div>
     <div class="times-row"><div class="times-segment">Almuerzos y cenas en el pueblo<small>~$15.000 por persona por comida</small></div><div class="times-real">$210.000</div></div>
     <div class="times-row"><div class="times-segment">Entrada al Parque Provincial<small>$23.000 × 2</small></div><div class="times-real">$46.000</div></div>
     <div class="times-row total"><div class="times-segment">Total sin excursiones</div><div class="times-real">$1.237.000</div></div>
@@ -710,39 +708,21 @@
   <div class="checklist-grid">
 
     <div class="check-item pending">
-      <div class="check-header"><span class="check-badge">👀</span><span class="check-title">Para seguir de cerca: la lluvia y la visita del Papa</span><span class="check-status">Seguir</span></div>
+      <div class="check-header"><span class="check-badge">📅</span><span class="check-title">Elegir la fecha</span><span class="check-status">Falta</span></div>
       <div class="check-body">
-        <strong class="check-group">La lluvia</strong>
+        Un fin de semana largo con 3 noches en Pellegrini, saliendo la tarde anterior.
         <ul class="check-list">
-          <li>Hay un fenómeno de El Niño fuerte y el Servicio Meteorológico da a Corrientes más del 55% de probabilidad de lluvias por encima de lo normal entre octubre y diciembre.</li>
-          <li>Es una tendencia del trimestre, no el pronóstico del finde: ese recién sirve 5 a 7 días antes.</li>
-          <li>Lo que puede complicarse es el ripio entre Mercedes y Pellegrini. Si está mojado, vamos con el <a href="#lluvia">4x4 desde Mercedes</a>. El viaje solo se cae si cortan la ruta.</li>
-          <li>Con los esteros altos la lancha sale igual. Si el domingo 8 hay tormenta, se corre al lunes o al martes a la mañana.</li>
-        </ul>
-        <strong class="check-group">La visita del Papa</strong>
-        <ul class="check-list">
-          <li>Al Papa lo operan de un nódulo en el pulmón a principios de la semana del 19 de octubre, con cerca de una semana de internación.</li>
-          <li>Al 13 de octubre la visita (8 al 11 de noviembre) y los feriados siguen en pie. El Gobierno dijo que puede mover las fechas si la recuperación lo pide.</li>
-          <li>Si la visita se corre, lo esperable es que el lunes 9 y el martes 10 dejen de ser feriado: habría que pedir dos días o pasar la reserva a otra fecha.</li>
-        </ul>
-        <strong class="check-group">Si no se puede ir</strong>
-        <ul class="check-list">
-          <li>Irupé permite un cambio de fecha, según disponibilidad y con la tarifa actualizada. Cancelando, desde el 24 de octubre se pierde la seña entera.</li>
-          <li>Por ahora no movemos nada ni le escribimos al hotel: esperamos a ver cómo sigue.</li>
-        </ul>
-        <strong class="check-group">Cuándo mirar</strong>
-        <ul class="check-list">
-          <li><b>Hacia el 21 de octubre:</b> cómo salió la cirugía.</li>
-          <li><b>Fin de octubre:</b> si confirman o mueven la visita y los feriados.</li>
-          <li><b>Desde el 31 de octubre:</b> el pronóstico del finde y el estado del camino.</li>
-          <li><b>Miércoles 4 o jueves 5 de noviembre:</b> junto con el mensaje a Roque, preguntar cómo está la ruta.</li>
+          <li><b>Tarifa:</b> la de ahora vale para fechas hasta el 26 de diciembre de 2026; desde enero, alrededor de un 10% más.</li>
+          <li><b>Irupé:</b> avisarle a Leticia la fecha nueva y volver a sumar la lancha a la reserva.</li>
+          <li><b>Concordia:</b> reservar la noche del día 1 con Roberto (Hotel de Campo), por WhatsApp.</li>
+          <li><b>La semana anterior:</b> mirar el pronóstico y el estado del camino entre Mercedes y Pellegrini. Si está mojado, vamos con el <a href="#lluvia">4x4 desde Mercedes</a>.</li>
         </ul>
       </div>
     </div>
 
     <div class="check-item pending">
       <div class="check-header"><span class="check-badge">🛶</span><span class="check-title">Reservar las excursiones</span><span class="check-status">Falta</span></div>
-      <div class="check-body"><b>Lancha:</b> ya está sumada a la reserva de Irupé, anotada para el domingo 8 a primera hora (el horario lo confirman allá, el día anterior). <b>Falta Camba Trapo en canoa:</b> escribirle a Roque (Iberá Guyrá, 3773 62-8797) el miércoles 4 o el jueves 5 de noviembre: no reserva antes porque depende de los turnos de la reserva privada. Ahí confirma día, horario y precio. Si no hay turno, Agreste. Al reservar, preguntar si en la canoa hay lugar para la mochila con la cámara y los lentes.</div>
+      <div class="check-body"><b>Lancha:</b> al elegir la fecha, volver a sumarla a la reserva de Irupé, en la primera salida del día 3 (el horario lo confirman allá, el día anterior). <b>Camba Trapo en canoa:</b> escribirle a Roque (Iberá Guyrá, 3773 62-8797) tres o cuatro días antes del viaje: no reserva antes porque depende de los turnos de la reserva privada. Ahí confirma día, horario y precio. Si no hay turno, Agreste. Al reservar, preguntar si en la canoa hay lugar para la mochila con la cámara y los lentes.</div>
     </div>
 
     <div class="check-item pending">
@@ -863,17 +843,12 @@
 
     <div class="check-item pending">
       <div class="check-header"><span class="check-badge">💵</span><span class="check-title">Saldo de Irupé</span><span class="check-status">Allá</span></div>
-      <div class="check-body">$306.900, se paga en el hotel: $202.500 del alojamiento + $104.400 de la lancha. Llevar el <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">comprobante de la seña</a>.</div>
+      <div class="check-body">$306.900, se paga en el hotel: $202.500 del alojamiento + $104.400 de la lancha, con la tarifa vigente hasta el 26 de diciembre de 2026. Llevar el <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">comprobante de la seña</a>.</div>
     </div>
 
     <div class="check-item done">
       <div class="check-header"><span class="check-badge">🏨</span><span class="check-title">Irupé Lodge: reserva y seña</span><span class="check-status">Listo ✓</span></div>
-      <div class="check-body">Confirmado por mail, seña de $202.500 pagada y hora de llegada avisada. <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">Comprobante</a>.</div>
-    </div>
-
-    <div class="check-item done">
-      <div class="check-header"><span class="check-badge">🛏️</span><span class="check-title">Hotel de Campo, Concordia</span><span class="check-status">Listo ✓</span></div>
-      <div class="check-body">$68.000 pagados, llegada de 22 a 23 h confirmada. <a href="https://drive.google.com/file/d/1Qk4fKyGOTRoxKuMZY0sTSFp2BLSb2HM6/view" target="_blank" rel="noopener">Comprobante</a> · <a href="https://drive.google.com/file/d/1N141dsfazPwmrzL5jhWWWo8ChwVaNwb_/view" target="_blank" rel="noopener">factura</a>.</div>
+      <div class="check-body">Seña de $202.500 pagada y a cuenta de la fecha que elijamos. <a href="https://drive.google.com/file/d/1pJ_zalKQ-YI_yle2W2_8EnahtFmSTXGd/view" target="_blank" rel="noopener">Comprobante</a>.</div>
     </div>
 
   </div>
@@ -881,8 +856,8 @@
 </main>
 
 <footer class="footer">
-  <strong>Iberá 2026</strong><br>
-  Viernes 6 al martes 10 de noviembre · 3 noches en Colonia Carlos Pellegrini<br>
+  <strong>Iberá</strong><br>
+  Fecha a definir · 3 noches en Colonia Carlos Pellegrini, en un fin de semana largo<br>
   Precios cotizados entre el 28/9 y el 1/10/2026, en pesos argentinos 🐊
 </footer>
 
