@@ -1352,7 +1352,7 @@ No aparece en Google Maps en Pellegrini (los resultados con ese nombre son de C�
 
 1. ~~**Irupé:** esperar el mail de Leticia con la confirmación final de la fecha nueva~~ → ✅ llegó el 12/11 15:09, todo coincide.
 2. **Camba Trapo:** escribirle a Roque (Iberá Guyrá, 3773 62-8797) el mié 2 o el jue 3/12 (recordatorio en Calendar mié 2/12 10:00): turno dom 6 a la tarde o lun 7, precio, lugar para la mochila con la cámara, estado de la ruta. Si no hay turno, Agreste.
-3. **La semana anterior:** pronóstico del finde y estado de la RP 40 Mercedes-Pellegrini; con ripio mojado, 4x4 desde Mercedes (choferes en el sitio).
+3. **La semana anterior:** pronóstico del finde y estado de la RP 40 Mercedes-Pellegrini. **Escribirle a Leticia (WhatsApp de Irupé) unos días antes** para ver cómo está todo, sobre todo el camino desde Mercedes con el agua y las lluvias: Daniel ya le avisó por WhatsApp (registrado 13/11) que lo iba a hacer porque vamos en auto particular, y ella dijo que no hay problema. También preguntarle a Roque; con ripio mojado, 4x4 desde Mercedes (choferes en el sitio).
 4. **Los días previos:** efectivo desde La Plata (el saldo de Irupé, $306.900, también se puede pagar por transferencia), auto (lavarlo, alfombra del conductor, cubiertas, auxilio, aceite y agua), papeles, mapas offline, baterías y SD.
 5. **Apps de aves** (sección 8g) y **práctica de video con la Nikon** (sección 8h), antes de salir.
 6. **La valija, el día anterior:** lista en el sitio (botiquín, sol y mosquitos, ropa, cámara, auto).
